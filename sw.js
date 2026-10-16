@@ -1,7 +1,7 @@
 /* NOVA v62 PWA shell: scope-relative paths support GitHub Pages project sites. */
-const CACHE_NAME = 'nova-shell-v62-3';
+const CACHE_NAME = 'nova-shell-v62-4';
 const BASE_URL = new URL('./', self.registration.scope);
-const SHELL = ['', 'manifest.webmanifest', 'icons/nova-192.png', 'icons/nova-512.png', 'icons/nova-maskable-512.png'].map(path => new URL(path, BASE_URL).toString());
+const SHELL = ['', 'manifest.webmanifest', 'nova-192.png', 'nova-512.png', 'nova-maskable-512.png'].map(path => new URL(path, BASE_URL).toString());
 const APP_URL = new URL('./', BASE_URL).toString();
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(SHELL)).then(() => self.skipWaiting()));

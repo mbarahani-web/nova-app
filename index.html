@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="fa" dir="rtl">
 <head>
-<meta charset="utf-8"><link rel="manifest" href="./manifest.webmanifest"><link rel="icon" type="image/png" sizes="192x192" href="./icons/nova-192.png"><link rel="apple-touch-icon" href="./icons/nova-maskable-512.png"><meta name="theme-color" content="#0B0F1A"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8"><link rel="manifest" href="./manifest.webmanifest"><link rel="icon" type="image/png" sizes="192x192" href="./nova-192.png"><link rel="apple-touch-icon" href="./nova-maskable-512.png"><meta name="theme-color" content="#0B0F1A"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>NOVA v60 — Planning Upgrade</title>
 <style>
 :root{--bg:#0b0f1a;--panel:#111827;--panel2:#151e30;--line:#253148;--text:#eef2ff;--muted:#94a3b8;--violet:#8B7CFF;--mint:#54D8D0;--danger:#fb7185;--radius:20px}
@@ -1253,7 +1253,7 @@ html[data-nova-hidden="1"] #page-dashboard .nova-space-card:after { animation-pl
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<link rel="icon" href="./icons/nova-192.png" type="image/png" sizes="192x192">
+<link rel="icon" href="./nova-192.png" type="image/png" sizes="192x192">
 </head>
 <body>
 <script id="nova-entry-recovery">
@@ -4481,7 +4481,7 @@ const clip=(s,n)=>{s=String(s||'');return s.length>n?s.slice(0,n-1)+'…':s};
 
 async function notify(title,body,tag){
   if(perm()!=='granted')return false;
-  const opts={body:body,tag:tag,icon:'./icons/nova-192.png',lang:lang(),dir:lang()==='fa'?'rtl':'ltr',vibrate:[120,60,120],data:{url:'./'}};
+  const opts={body:body,tag:tag,icon:'./nova-192.png',lang:lang(),dir:lang()==='fa'?'rtl':'ltr',vibrate:[120,60,120],data:{url:'./'}};
   try{const reg=await navigator.serviceWorker.ready;await reg.showNotification(title,opts);return true}
   catch(e){try{new Notification(title,opts);return true}catch(e2){return false}}
 }
