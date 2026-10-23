@@ -5134,8 +5134,8 @@ build();
 /*RENDER_START*/
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
 function safeUrl(u){u=String(u||'');return /^https?:\/\//i.test(u)?u:''}
-var T={fa:{economy:'اقتصاد جهان',tech:'فناوری',brief:'خلاصهٔ امروز',read:'ادامه در منبع ↗',empty:'هنوز شماره‌ای منتشر نشده است. بعد از اولین اجرای کار روزانه در GitHub، خبرها اینجا نمایش داده می‌شوند.',offline:'نسخهٔ ذخیره‌شده (آفلاین)',noFa:'ترجمهٔ فارسی این شماره در دسترس نیست؛ متن انگلیسی نمایش داده می‌شود.',updated:'آخرین به‌روزرسانی'},
- en:{economy:'World Economy',tech:'Technology',brief:'Today in brief',read:'Read at source ↗',empty:'No edition yet. The news appears here after the first daily run on GitHub.',offline:'Saved copy (offline)',noFa:'',updated:'Last updated'}};
+var T={fa:{economy:'اقتصاد جهان',tech:'فناوری',management:'مدیریت و رهبری',trade:'تجارت و بازرگانی',brief:'خلاصهٔ امروز',read:'ادامه در منبع ↗',empty:'هنوز شماره‌ای منتشر نشده است. بعد از اولین اجرای کار روزانه در GitHub، خبرها اینجا نمایش داده می‌شوند.',offline:'نسخهٔ ذخیره‌شده (آفلاین)',noFa:'ترجمهٔ فارسی این شماره در دسترس نیست؛ متن انگلیسی نمایش داده می‌شود.',updated:'آخرین به‌روزرسانی'},
+ en:{economy:'World Economy',tech:'Technology',management:'Management & Leadership',trade:'Trade & Business',brief:'Today in brief',read:'Read at source ↗',empty:'No edition yet. The news appears here after the first daily run on GitHub.',offline:'Saved copy (offline)',noFa:'',updated:'Last updated'}};
 function pick(o,lang){if(!o)return {t:'',ltr:false};if(o[lang])return {t:o[lang],ltr:false};return {t:o.en||'',ltr:lang==='fa'}}
 function ago(iso,lang,now){var t=Date.parse(iso);if(!t)return '';var m=Math.round((t-now)/60000);var f;try{f=new Intl.RelativeTimeFormat(lang==='fa'?'fa':'en',{numeric:'auto'})}catch(e){return ''}var a=Math.abs(m);if(a<60)return f.format(m,'minute');if(a<1440)return f.format(Math.round(m/60),'hour');return f.format(Math.round(m/1440),'day')}
 function itemHtml(it,lang,now,lead){var ti=pick(it.title,lang),su=pick(it.summary,lang);var u=safeUrl(it.link);
@@ -5150,7 +5150,7 @@ function renderNews(data,lang,now,offline){lang=lang==='en'?'en':'fa';var L=T[la
  if(brief)out+='<div class="np-brief"><b>'+esc(L.brief)+'</b>'+esc(brief)+'</div>';
  if(lead)out+=itemHtml(lead,lang,now,true);
  var rest=items.filter(function(x){return x!==lead});
- var cols=['economy','tech'].map(function(s){var xs=rest.filter(function(x){return x.section===s});if(!xs.length)return '';return '<div><div class="np-sec">'+esc(L[s])+'</div>'+xs.map(function(x){return itemHtml(x,lang,now,false)}).join('')+'</div>'}).join('');
+ var cols=['economy','tech','management','trade'].map(function(s){var xs=rest.filter(function(x){return x.section===s});if(!xs.length)return '';return '<div><div class="np-sec">'+esc(L[s])+'</div>'+xs.map(function(x){return itemHtml(x,lang,now,false)}).join('')+'</div>'}).join('');
  out+='<div class="np-cols">'+cols+'</div>';
  var note=[];if(offline)note.push(L.offline);if(lang==='fa'&&data.translated===false)note.push(L.noFa);
  if(note.length)out='<div class="np-note" style="text-align:center;margin-bottom:8px">'+esc(note.join(' · '))+'</div>'+out;

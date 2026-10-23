@@ -12,17 +12,29 @@ from email.utils import parsedate_to_datetime
 
 FEEDS = [
     # (section, source name, url)
+    # --- economy ---
     ("economy", "BBC News", "https://feeds.bbci.co.uk/news/business/rss.xml"),
     ("economy", "The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
     ("economy", "The Guardian", "https://www.theguardian.com/uk/business/rss"),
+    ("economy", "Bloomberg", "https://www.bloomberg.com/feeds/markets/news.rss"),
+    ("economy", "Bloomberg", "https://www.bloomberg.com/feeds/economics/news.rss"),
+    ("economy", "The Economist", "https://www.economist.com/finance-and-economics/rss.xml"),
+    ("economy", "The Economist", "https://www.economist.com/business/rss.xml"),
+    ("economy", "The Wall Street Journal", "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"),
+    ("economy", "The Wall Street Journal", "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"),
+    ("economy", "Deutsche Welle", "https://rss.dw.com/rdf/rss-en-bus"),
+    # --- technology ---
     ("tech", "BBC News", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
+    ("tech", "The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"),
     ("tech", "Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
     ("tech", "The Verge", "https://www.theverge.com/rss/index.xml"),
-    ("tech", "The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"),
+    ("tech", "Bloomberg", "https://www.bloomberg.com/feeds/technology/news.rss"),
+    ("tech", "The Wall Street Journal", "https://feeds.content.dowjones.io/public/rss/RSSWSJD"),
+    ("tech", "MIT Technology Review", "https://www.technologyreview.com/feed/"),
 ]
-PER_FEED = 4
-PER_SECTION = 6
-MAX_AGE_HOURS = 60
+PER_FEED = 3
+PER_SECTION = 8
+MAX_AGE_HOURS = 96
 OUT = "news.json"
 MODEL = os.environ.get("NEWS_MODEL", "claude-haiku-5-5")
 UA = "Mozilla/5.0 (compatible; NOVA-news-bot/1.0)"
@@ -133,10 +145,10 @@ def collect():
     items = []
     for section in ("economy", "tech"):
         lst = sorted(buckets[section], key=lambda e: e["published"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
-        # keep source variety: at most 3 per source inside the section
+        # keep source variety: at most 2 per source inside the section
         per_src, picked = {}, []
         for e in lst:
-            if per_src.get(e["source"], 0) >= 3:
+            if per_src.get(e["source"], 0) >= 2:
                 continue
             per_src[e["source"]] = per_src.get(e["source"], 0) + 1
             picked.append(e)
