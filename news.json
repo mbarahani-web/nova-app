@@ -1,1 +1,251 @@
-{"generated_at":"","translated":false,"brief":{"en":"","fa":""},"items":[]}
+{
+ "generated_at": "2026-10-23T10:40:53+00:00",
+ "date": "2026-10-23",
+ "translated": false,
+ "brief": {
+  "en": "",
+  "fa": ""
+ },
+ "items": [
+  {
+   "id": "e1",
+   "section": "economy",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-on-likely-technical-correction-after-earlier-gains-8de529db?mod=rss_markets_main",
+   "published": "2026-10-23T10:38:00+00:00",
+   "title": {
+    "en": "WTI Climbs Above $101 a Barrel on U.S.-Iran Escalation Fears",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Oil prices rose, driven by Houthi attacks on Saudi Arabia and fears of further escalation between the U.S. and Iran.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e2",
+   "section": "economy",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/investing/elite-colleges-can-give-you-an-investing-lesson-699dc432?mod=rss_markets_main",
+   "published": "2026-10-23T10:35:00+00:00",
+   "title": {
+    "en": "Elite Colleges Can Give You an Investing Lesson",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Plus, bonds got their mojo back",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e3",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+   "published": "2026-10-23T10:21:41+00:00",
+   "title": {
+    "en": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
+    "fa": ""
+   },
+   "summary": {
+    "en": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e4",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+   "published": "2026-10-23T10:20:34+00:00",
+   "title": {
+    "en": "Oil hits five-month high as global stocks wobble on AI fears; retail sales in Great Britain fall as shoppers cut back - business live",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Rolling coverage of the latest economic and financial news Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second largest brewer sent a presentation to…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e5",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/bitcoin-billionaires-are-racing-to-ride-a-3-000-crypto-boom",
+   "published": "2026-10-23T10:15:00+00:00",
+   "title": {
+    "en": "Bitcoin Billionaires Are Racing to Ride a 3,000% Crypto Boom",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Some of the most prominent early investors in Bitcoin are squaring off again. This time they are seeking to capitalize on a massive rally in the year’s standout major cryptocurrency.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e6",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/de-olho-nas-eleicoes-video",
+   "published": "2026-10-23T10:08:56+00:00",
+   "title": {
+    "en": "De olho nas eleições",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Daniel Carvalho conta sobre os últimos atos dos candidatos antes do segundo turno e da cobertura da eleição pela Bloomberg. Produção de Gisele Fernandes e edição de Mariana Lumy. (Source: Bloomberg)",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e7",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/23/dining/canada-cheese-trump-tariffs.html",
+   "published": "2026-10-23T09:03:24+00:00",
+   "title": {
+    "en": "Trump’s Tariffs Slow America’s Access to Canada’s Cheese",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The Trump administration’s tariffs are slowing Americans’ access to the cheese just as producers were finding a foothold stateside.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e8",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+   "published": "2026-10-23T09:03:00+00:00",
+   "title": {
+    "en": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+    "fa": ""
+   },
+   "summary": {
+    "en": "A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t9",
+   "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
+   "published": "2026-10-23T10:28:01+00:00",
+   "title": {
+    "en": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
+    "fa": ""
+   },
+   "summary": {
+    "en": "AI leaders want their models everywhere and under their control. They may not get both.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t10",
+   "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/spacex-aims-to-secure-80-000-cell-sites-for-new-network-video",
+   "published": "2026-10-23T10:06:36+00:00",
+   "title": {
+    "en": "SpaceX Aims to Secure 80,000 Cell Sites for New Network",
+    "fa": ""
+   },
+   "summary": {
+    "en": "SpaceX is reportedly in talks to secure a minimum of 80,000 cell sites across the US, a move that would solidify the rocket and satellite giant’s path toward building a fourth nationwide wireless carrier. Ruhell Amin reports on Bloomberg Television. (Source…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t11",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/the-leak-suspicions-that-got-three-openai-staffers-fired-d3671d0e?mod=rss_Technology",
+   "published": "2026-10-23T10:03:00+00:00",
+   "title": {
+    "en": "The Leak Suspicions That Got Three OpenAI Staffers Fired",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Plus, China transforms its most controversial region into a commercial hub, and how flights are dodging global conflicts.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t12",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d?mod=rss_Technology",
+   "published": "2026-10-23T09:30:00+00:00",
+   "title": {
+    "en": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The Muse artificial-intelligence agent has reached 10 million downloads in a little over a month since it was launched.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t13",
+   "section": "tech",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+   "published": "2026-10-23T09:00:00+00:00",
+   "title": {
+    "en": "In the biotech world, you can’t see everything",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t14",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+   "published": "2026-10-23T00:09:58+00:00",
+   "title": {
+    "en": "Etsy is cracking down on AI slop listings",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t15",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+   "published": "2026-10-22T23:48:51+00:00",
+   "title": {
+    "en": "No, the iPhone Duo isn’t a small phone",
+    "fa": ""
+   },
+   "summary": {
+    "en": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be the bearer…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t16",
+   "section": "tech",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+   "published": "2026-10-22T22:25:33+00:00",
+   "title": {
+    "en": "Switch 2 security takes a hit as hackers unlock homebrew access",
+    "fa": ""
+   },
+   "summary": {
+    "en": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+    "fa": ""
+   }
+  }
+ ]
+}
