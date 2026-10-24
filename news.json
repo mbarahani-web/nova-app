@@ -1,1 +1,251 @@
-{"generated_at":"","translated":false,"brief":{"en":"","fa":""},"items":[]}
+{
+ "generated_at": "2026-10-24T02:38:38+00:00",
+ "date": "2026-10-24",
+ "translated": false,
+ "brief": {
+  "en": "",
+  "fa": ""
+ },
+ "items": [
+  {
+   "id": "e1",
+   "section": "economy",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/pro/bankruptcy/jetblue-creditors-huddle-with-restructuring-adviser-as-bonds-shares-sink-43866c42?mod=rss_markets_main",
+   "published": "2026-10-24T02:35:00+00:00",
+   "title": {
+    "en": "JetBlue Creditors Hire Advisers as Airline’s Shares, Bonds Sink",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Senior creditors to the airline are working with financial adviser PJT Partners and law firm Akin.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e2",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/23/business/ai-jobs-layoffs-congress.html",
+   "published": "2026-10-24T01:51:00+00:00",
+   "title": {
+    "en": "Fearing Mass A.I. Layoffs, Some in Congress Eye Ways to Aid Workers",
+    "fa": ""
+   },
+   "summary": {
+    "en": "A bill to bolster the nation’s unemployment insurance program reflects the concern — and the risks — in Washington.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e3",
+   "section": "economy",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991?mod=pls_whats_news_us_business_f",
+   "published": "2026-10-24T01:00:00+00:00",
+   "title": {
+    "en": "Billionaires Stave off the Pitchforks With Payouts to One Kid at a Time",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Since John D. Rockefeller handed out dimes, the world’s richest have given away their money in very different ways. Now they are bypassing charity—and writing a new social contract.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e4",
+   "section": "economy",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-24T00:36:47+00:00",
+   "title": {
+    "en": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "fa": ""
+   },
+   "summary": {
+    "en": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e5",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-24/growth-value-stocks-set-for-reshuffle-as-s-p-adopts-new-rules",
+   "published": "2026-10-24T00:12:59+00:00",
+   "title": {
+    "en": "Growth, Value Stocks Set for Reshuffle as S&P Adopts New Rules",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Growth and value shares are set for an overhaul after S&P Dow Jones Indices adopted new rules on how to sort equities into the two investment styles.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e6",
+   "section": "economy",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-24T00:09:12+00:00",
+   "title": {
+    "en": "How does the UK state pension compare with other countries?",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Do British pensioners have it better or worse than those in other countries?",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e7",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/23/business/france-debt-moodys-protests.html",
+   "published": "2026-10-23T23:23:10+00:00",
+   "title": {
+    "en": "France’s Avoids a Debt Downgrade From Moody’s, but Is Given a Warning",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Moody’s held the country’s credit rating steady amid political uncertainty and a rise in borrowing costs that have worsened France’s debt situation.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "e8",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/bloomberg-money-10-23-2026-video",
+   "published": "2026-10-23T22:47:27+00:00",
+   "title": {
+    "en": "Wealth Tax Debate, Midterm Investing, AI Anxiety",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: Whitney Tilson, Stansberry Research Editor, and Stephanie Guild, Robinhood CIO. (Source: Bloomberg)",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t9",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/ai-math-quiz-openai-anthropic-e776b8a9?mod=rss_Technology",
+   "published": "2026-10-24T01:00:00+00:00",
+   "title": {
+    "en": "You Were Once Smarter Than AI at Math. Yes, Even You.",
+    "fa": ""
+   },
+   "summary": {
+    "en": "These basic problems stumped AI only a few years ago. Can you solve them?",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t10",
+   "section": "tech",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-24T00:05:45+00:00",
+   "title": {
+    "en": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t11",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/ai-hacks-are-coming-thick-and-fast-and-overwhelming-the-internet-4529c26c?mod=rss_Technology",
+   "published": "2026-10-24T00:00:00+00:00",
+   "title": {
+    "en": "AI Hacks Are Coming Thick and Fast and Overwhelming the Internet",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Criminals are turning to next-generation, AI-powered hacking tools as a serious internet flaw has given birth to “Black October.”",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t12",
+   "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
+   "published": "2026-10-23T23:01:00+00:00",
+   "title": {
+    "en": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t13",
+   "section": "tech",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+   "published": "2026-10-23T22:48:25+00:00",
+   "title": {
+    "en": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+    "fa": ""
+   },
+   "summary": {
+    "en": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t14",
+   "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-23/-1-999-new-iphone-unfolds-during-affordability-crisis-video",
+   "published": "2026-10-23T22:17:11+00:00",
+   "title": {
+    "en": "$1,999 New iPhone 'Unfolds' During Affordability Crisis",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Bloomberg's Lisa Mateo, Scarlet Fu, and Tom Keene discuss the release of the new Apple iPhone on this weeks edition of \"Bloomberg Money.\" (Source: Bloomberg)",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t15",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+   "published": "2026-10-23T21:56:03+00:00",
+   "title": {
+    "en": "Xbox’s first chief operating officer is out after just a few months",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as…",
+    "fa": ""
+   }
+  },
+  {
+   "id": "t16",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "published": "2026-10-23T21:11:07+00:00",
+   "title": {
+    "en": "OpenAI now trains its frontier AI models with no internet access",
+    "fa": ""
+   },
+   "summary": {
+    "en": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web…",
+    "fa": ""
+   }
+  }
+ ]
+}
