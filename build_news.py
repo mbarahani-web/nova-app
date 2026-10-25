@@ -31,9 +31,21 @@ FEEDS = [
     ("tech", "Bloomberg", "https://www.bloomberg.com/feeds/technology/news.rss"),
     ("tech", "The Wall Street Journal", "https://feeds.content.dowjones.io/public/rss/RSSWSJD"),
     ("tech", "MIT Technology Review", "https://www.technologyreview.com/feed/"),
+    # --- management & leadership ---
+    ("management", "MIT Sloan Management Review", "https://sloanreview.mit.edu/feed/"),
+    ("management", "Fast Company", "https://www.fastcompany.com/latest/rss"),
+    ("management", "Fortune", "https://fortune.com/feed/"),
+    ("management", "McKinsey", "https://www.mckinsey.com/insights/rss"),
+    # --- trade & business ---
+    ("trade", "Financial Times", "https://www.ft.com/?format=rss"),
+    ("trade", "CNBC", "https://www.cnbc.com/id/100003114/device/rss/rss.html"),
+    ("trade", "Supply Chain Dive", "https://www.supplychaindive.com/feeds/news/"),
+    ("trade", "Nikkei Asia", "https://asia.nikkei.com/rss/feed/nar"),
+    ("trade", "World Trade Organization", "https://www.wto.org/library/rss/latest_news_e.xml"),
 ]
+SECTIONS = ("economy", "tech", "management", "trade")
 PER_FEED = 3
-PER_SECTION = 8
+PER_SECTION = 10
 MAX_AGE_HOURS = 96
 OUT = "news.json"
 MODEL = os.environ.get("NEWS_MODEL", "claude-haiku-5-5")
@@ -114,25 +126,49 @@ def norm(t):
     return re.sub(r"[^a-z0-9]+", " ", t.lower()).strip()
 
 
+EPOCH = datetime.datetime.min.replace(tzinfo=datetime.timezone.utc)
+
+
+def when(e):
+    return e["published"] or EPOCH
+
+
+def pick_section(cands, limit):
+    """Round-robin by source so every source that has fresh items gets a place
+    before any source gets a second one; the result is then sorted newest first."""
+    by_src = {}
+    for e in sorted(cands, key=when, reverse=True):
+        by_src.setdefault(e["source"], []).append(e)
+    order = sorted(by_src, key=lambda s: when(by_src[s][0]), reverse=True)
+    picked, rnd = [], 0
+    while len(picked) < limit and any(rnd < len(v) for v in by_src.values()):
+        for src in order:
+            if rnd < len(by_src[src]) and len(picked) < limit:
+                picked.append(by_src[src][rnd])
+        rnd += 1
+    return sorted(picked, key=when, reverse=True)
+
+
 def collect():
     now = datetime.datetime.now(datetime.timezone.utc)
-    buckets = {"economy": [], "tech": []}
+    buckets = {k: [] for k in SECTIONS}
+    report = []
     seen = set()
     for section, source, url in FEEDS:
         try:
             entries = parse_feed(fetch(url))
         except Exception as e:  # one broken feed must not stop the edition
             print(f"[warn] {source} ({section}) failed: {e}")
+            report.append({"section": section, "source": source, "ok": False, "count": 0, "error": str(e)[:120]})
             continue
         fresh = []
         for e in entries:
             if e["published"] and (now - e["published"]).total_seconds() > MAX_AGE_HOURS * 3600:
                 continue
-            key = norm(e["title"])
-            if key in seen:
+            if norm(e["title"]) in seen:
                 continue
             fresh.append(e)
-        fresh.sort(key=lambda e: e["published"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
+        fresh.sort(key=when, reverse=True)
         taken = 0
         for e in fresh:
             if taken >= PER_FEED:
@@ -142,21 +178,12 @@ def collect():
             buckets[section].append(e)
             taken += 1
         print(f"[ok] {source} ({section}): {taken} items")
+        report.append({"section": section, "source": source, "ok": True, "count": taken, "error": ""})
     items = []
-    for section in ("economy", "tech"):
-        lst = sorted(buckets[section], key=lambda e: e["published"] or datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
-        # keep source variety: at most 2 per source inside the section
-        per_src, picked = {}, []
-        for e in lst:
-            if per_src.get(e["source"], 0) >= 2:
-                continue
-            per_src[e["source"]] = per_src.get(e["source"], 0) + 1
-            picked.append(e)
-            if len(picked) >= PER_SECTION:
-                break
-        for e in picked:
+    for section in SECTIONS:
+        for e in pick_section(buckets[section], PER_SECTION):
             items.append({
-                "id": f"{section[:1]}{len(items)+1}",
+                "id": f"{section[:2]}{len(items)+1}",
                 "section": section,
                 "source": e["source"],
                 "link": e["link"],
@@ -164,7 +191,7 @@ def collect():
                 "title": {"en": e["title"], "fa": ""},
                 "summary": {"en": e["summary"], "fa": ""},
             })
-    return items
+    return items, report
 
 
 def extract_json(text):
@@ -198,7 +225,7 @@ def ask_claude(items, key):
 
 
 def main():
-    items = collect()
+    items, report = collect()
     if not items:
         print("[error] no items collected; keeping the previous news.json")
         sys.exit(1)
@@ -225,7 +252,7 @@ def main():
         print("[info] ANTHROPIC_API_KEY not set; publishing English only")
     now = datetime.datetime.now(datetime.timezone.utc)
     out = {"generated_at": now.isoformat(timespec="seconds"), "date": now.strftime("%Y-%m-%d"),
-           "translated": translated, "brief": brief, "items": items}
+           "translated": translated, "brief": brief, "feeds": report, "items": items}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     print(f"[done] wrote {OUT}: {len(items)} items, translated={translated}")
