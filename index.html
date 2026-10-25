@@ -5250,9 +5250,11 @@ function plan(list){var used=[],idx=list.slice(0,4),feat=[],i;idx.forEach(functi
  SECTIONS.forEach(function(s){for(i=0;i<list.length;i++){var x=list[i];if(x.section===s&&used.indexOf(x)<0){feat.push(x);used.push(x);break}}});
  return {lead:list[0]||null,idx:idx,feat:feat,rest:list.filter(function(x){return used.indexOf(x)<0})}}
 function keyOf(it){return String(it.link||it.id||'')}
-function metaLine(it,lang,now){var a=it.published?ago(it.published,lang,now):'';return esc(it.source||'')+(a?' · '+esc(a):'')}
+function bdi(x){return x?'<bdi>'+esc(x)+'</bdi>':''}
+function joinDot(a){return a.filter(function(x){return x}).join(' · ')}
+function metaLine(it,lang,now){var a=it.published?ago(it.published,lang,now):'';return joinDot([bdi(it.source||''),bdi(a)])}
 function openAttr(list,it){return 'href="#" data-open="'+list.indexOf(it)+'"'}
-function card(list,it,lang,now,withSum){var s=pick(it.summary,lang);return '<article class="jr-card"><div class="jr-cat">'+esc(T[lang][it.section]||'')+'</div><h3><a '+openAttr(list,it)+' dir="auto">'+esc(pick(it.title,lang))+'</a></h3>'+(withSum&&s?'<p dir="auto">'+esc(s)+'</p>':'')+'<div class="jr-meta">'+metaLine(it,lang,now)+'</div></article>'}
+function card(list,it,lang,now,withSum){var s=pick(it.summary,lang);return '<article class="jr-card"><div class="jr-cat">'+esc(T[lang][it.section]||'')+'</div><h3 dir="auto"><a '+openAttr(list,it)+'>'+esc(pick(it.title,lang))+'</a></h3>'+(withSum&&s?'<p dir="auto">'+esc(s)+'</p>':'')+'<div class="jr-meta">'+metaLine(it,lang,now)+'</div></article>'}
 function masthead(st,L,lang,effTheme){
  var d=st.data&&st.data.generated_at?fmtDate(st.data.generated_at,lang):'';
  var nav=['all'].concat(SECTIONS).map(function(k){return '<button type="button" data-filter="'+k+'"'+(st.filter===k?' aria-current="page"':'')+'>'+esc(L[k])+'</button>'}).join('');
@@ -5262,12 +5264,12 @@ function masthead(st,L,lang,effTheme){
  +'<div class="jr-navrow"><nav class="jr-nav" aria-label="'+esc(L.navLabel)+'">'+nav+'</nav>'+(d?'<span class="jr-issue">'+esc(L.updated)+': '+esc(d)+'</span>':'')+'</div>'
  }
 function diag(st,L){var f=st.data&&Array.isArray(st.data.feeds)?st.data.feeds:[],bad=[],quiet=[],out='';
- f.forEach(function(x){if(!x||!x.source)return;var n=x.source+' · '+(L[x.section]||'');if(x.ok===false){if(bad.indexOf(n)<0)bad.push(n)}else if(!x.count){if(quiet.indexOf(n)<0)quiet.push(n)}});
- if(bad.length)out+='<div>'+esc(L.failed)+': '+esc(bad.join('، '))+'</div>';
- if(quiet.length)out+='<div>'+esc(L.quiet)+': '+esc(quiet.join('، '))+'</div>';
+ f.forEach(function(x){if(!x||!x.source)return;var n=x.source+' — '+(L[x.section]||'');if(x.ok===false){if(bad.indexOf(n)<0)bad.push(n)}else if(!x.count){if(quiet.indexOf(n)<0)quiet.push(n)}});
+ if(bad.length)out+='<div>'+esc(L.failed)+': '+bad.map(bdi).join('، ')+'</div>';
+ if(quiet.length)out+='<div>'+esc(L.quiet)+': '+quiet.map(bdi).join('، ')+'</div>';
  return out?'<div class="jr-diag">'+out+'</div>':''}
 function footer(st,L,list){var seen=[],srcs=[];list.forEach(function(x){if(x.source&&seen.indexOf(x.source)<0){seen.push(x.source);srcs.push(x.source)}});
- return '<footer class="jr-footer"><span class="jr-fbrand">✦ NOVA <small>JOURNAL</small></span>'+(srcs.length?'<span>'+esc(L.sources)+': '+esc(srcs.join(' · '))+'</span>':'')+'<nav class="jr-fnav"><button type="button" data-act="refresh">'+esc(L.refresh)+'</button><button type="button" data-act="settings">'+esc(L.settings)+'</button></nav>'+diag(st,L)+'</footer>'}
+ return '<footer class="jr-footer"><span class="jr-fbrand">✦ NOVA <small>JOURNAL</small></span>'+(srcs.length?'<span>'+esc(L.sources)+': '+srcs.map(bdi).join(' · ')+'</span>':'')+'<nav class="jr-fnav"><button type="button" data-act="refresh">'+esc(L.refresh)+'</button><button type="button" data-act="settings">'+esc(L.settings)+'</button></nav>'+diag(st,L)+'</footer>'}
 function renderHome(st,now){var lang=st.lang==='en'?'en':'fa',L=T[lang],list=listOf(st.data),eff=st.effTheme||'dark',out=masthead(st,L,lang,eff);
  if(lang==='fa'&&st.data&&st.data.translated===false&&list.length)out+='<div class="jr-note">'+esc(L.noFa)+'</div>';
  if(!list.length)return out+'<div class="jr-empty">'+esc(L.empty)+'</div>'+footer(st,L,list);
@@ -5277,7 +5279,7 @@ function renderHome(st,now){var lang=st.lang==='en'?'en':'fa',L=T[lang],list=lis
   return out+'</section>'+footer(st,L,list)}
  var p=plan(list),lead=p.lead,ls=pick(lead.summary,lang);
  out+='<section class="jr-hero" id="jr-top"><div><div class="jr-kicker">'+esc(L.big)+'</div><h1 dir="auto">'+esc(pick(lead.title,lang))+'</h1>'+(ls?'<p class="jr-dek" dir="auto">'+esc(ls)+'</p>':'')+'<div class="jr-byline">'+esc(L.from)+': '+metaLine(lead,lang,now)+'</div><a class="jr-tlink" '+openAttr(list,lead)+'>'+esc(L.fwd)+' '+esc(L.read)+'</a></div>'
- +'<aside class="jr-index" aria-label="'+esc(L.picks)+'">'+p.idx.map(function(x,n){return '<div class="jr-index-item"><span class="jr-no" aria-hidden="true">0'+(n+1)+'</span><div><h3><a '+openAttr(list,x)+' dir="auto">'+esc(pick(x.title,lang))+'</a></h3><div class="jr-meta">'+esc(L[x.section]||'')+' · '+metaLine(x,lang,now)+'</div></div></div>'}).join('')+'</aside></section>';
+ +'<aside class="jr-index" aria-label="'+esc(L.picks)+'">'+p.idx.map(function(x,n){return '<div class="jr-index-item"><span class="jr-no" aria-hidden="true">0'+(n+1)+'</span><div><h3 dir="auto"><a '+openAttr(list,x)+'>'+esc(pick(x.title,lang))+'</a></h3><div class="jr-meta">'+joinDot([bdi(L[x.section]||''),metaLine(x,lang,now)])+'</div></div></div>'}).join('')+'</aside></section>';
  if(p.feat.length)out+='<section aria-labelledby="jr-h-feat"><div class="jr-sec"><h2 id="jr-h-feat">'+esc(L.featured)+'</h2></div><div class="jr-grid">'+p.feat.map(function(x){return card(list,x,lang,now,true)}).join('')+'</div></section>';
  var brief=st.data.brief&&(st.data.brief[lang]||(lang==='fa'?'':st.data.brief.en));
  if(brief)out+='<section class="jr-special"><div><div class="jr-kicker">'+esc(L.briefKicker)+'</div><h2>'+esc(L.brief)+'</h2></div><p dir="auto">'+esc(brief)+'</p><button type="button" class="jr-tlink" data-act="latest">'+esc(L.toLatest)+' '+(lang==='fa'?'↓':'↓')+'</button></section>';
@@ -5289,9 +5291,9 @@ function renderArticle(st,now){var lang=st.lang==='en'?'en':'fa',L=T[lang],list=
  if(!it)return null;
  var u=safeUrl(it.link),sum=pick(it.summary,lang),rel=list.filter(function(x){return x!==it&&x.section===it.section}).slice(0,4),when=fmtDate(it.published,lang),ag=it.published?ago(it.published,lang,now):'';
  return '<article class="jr-article" id="jr-article" tabindex="-1" aria-labelledby="jr-art-h"><button type="button" class="jr-back" data-act="back">'+esc(L.bk)+' '+esc(L.back)+'</button>'
- +'<div class="jr-topline"><span class="jr-cat">'+esc(L[it.section]||'')+'</span><span>'+esc(it.source||'')+(ag?' · '+esc(ag):'')+'</span></div>'
+ +'<div class="jr-topline"><span class="jr-cat">'+esc(L[it.section]||'')+'</span><span>'+metaLine(it,lang,now)+'</span></div>'
  +'<h1 id="jr-art-h" dir="auto">'+esc(pick(it.title,lang))+'</h1>'+(sum?'<p class="jr-dek" dir="auto">'+esc(sum)+'</p>':'')
- +'<div class="jr-abyline">'+esc(L.from)+': <strong>'+esc(it.source||'—')+'</strong>'+(when?'<br><span class="jr-meta">'+esc(when)+'</span>':'')+'</div>'
+ +'<div class="jr-abyline">'+esc(L.from)+': <strong>'+bdi(it.source||'—')+'</strong>'+(when?'<br><span class="jr-meta">'+bdi(when)+'</span>':'')+'</div>'
  +'<div class="jr-abody"><p>'+esc(L.note)+'</p>'+(u?'<a class="jr-cta" href="'+esc(u)+'" target="_blank" rel="noopener noreferrer">'+esc(L.readSrc)+' ↗</a>':'')+'</div>'
  +(rel.length?'<section class="jr-related" aria-labelledby="jr-h-rel"><div class="jr-sec"><h2 id="jr-h-rel">'+esc(L.related)+'</h2></div>'+rel.map(function(x){return '<div class="jr-rel"><a '+openAttr(list,x)+' dir="auto">'+esc(pick(x.title,lang))+'</a><span class="jr-meta">'+metaLine(x,lang,now)+'</span></div>'}).join('')+'</section>':'')+'</article>'}
 function renderJournal(st,now){var lang=st.lang==='en'?'en':'fa',body=null;

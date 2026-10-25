@@ -44,6 +44,22 @@ FEEDS = [
     ("trade", "World Trade Organization", "https://www.wto.org/library/rss/latest_news_e.xml"),
 ]
 SECTIONS = ("economy", "tech", "management", "trade")
+
+# General-news feeds (their RSS mixes politics, world news, etc.) are kept only
+# for items that actually match the topic of the section they feed.
+TOPIC_FILTER = {
+    "https://www.ft.com/?format=rss": "trade",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html": "trade",
+    "https://fortune.com/feed/": "management",
+}
+TOPIC_WORDS = {
+    "trade": r"trade|tariffs?|exports?|exported|exporting|exporters?|imports?|imported|importers?|supply[- ]chains?|shipping|freight|cargo|containers?|ports?|customs|sanctions?|embargo|logistics|wto|commerce|manufactur\w*",
+    "management": r"manag\w*|leader\w*|ceos?|executives?|workforce|workplace|employees?|employers?|hiring|layoffs?|culture|strategy|productivity|remote work|bosses|boss|talent|teams?|careers?|burnout|mentor\w*|organi[sz]ation\w*",
+}
+
+
+def on_topic(topic, e):
+    return re.search(r"\b(?:" + TOPIC_WORDS[topic] + r")\b", (e["title"] + " " + e["summary"]).lower()) is not None
 PER_FEED = 3
 PER_SECTION = 10
 MAX_AGE_HOURS = 96
@@ -161,6 +177,11 @@ def collect():
             print(f"[warn] {source} ({section}) failed: {e}")
             report.append({"section": section, "source": source, "ok": False, "count": 0, "error": str(e)[:120]})
             continue
+        dropped = 0
+        if url in TOPIC_FILTER:
+            kept = [e for e in entries if on_topic(TOPIC_FILTER[url], e)]
+            dropped = len(entries) - len(kept)
+            entries = kept
         fresh = []
         for e in entries:
             if e["published"] and (now - e["published"]).total_seconds() > MAX_AGE_HOURS * 3600:
@@ -177,8 +198,8 @@ def collect():
             e["source"] = source
             buckets[section].append(e)
             taken += 1
-        print(f"[ok] {source} ({section}): {taken} items")
-        report.append({"section": section, "source": source, "ok": True, "count": taken, "error": ""})
+        print(f"[ok] {source} ({section}): {taken} items" + (f" (off-topic dropped: {dropped})" if dropped else ""))
+        report.append({"section": section, "source": source, "ok": True, "count": taken, "dropped": dropped, "error": ""})
     items = []
     for section in SECTIONS:
         for e in pick_section(buckets[section], PER_SECTION):
