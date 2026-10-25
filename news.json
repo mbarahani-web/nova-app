@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T00:31:59+00:00",
+ "generated_at": "2026-10-25T03:02:46+00:00",
  "date": "2026-10-25",
  "translated": false,
  "brief": {
@@ -180,7 +180,7 @@
    "source": "Financial Times",
    "ok": true,
    "count": 1,
-   "dropped": 8,
+   "dropped": 6,
    "error": ""
   },
   {
@@ -222,7 +222,7 @@
    "section": "economy",
    "source": "The New York Times",
    "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-   "published": "2026-10-25T00:27:04+00:00",
+   "published": "2026-10-25T02:17:33+00:00",
    "title": {
     "en": "Audi to Build Factory in Georgia, Trump Says",
     "fa": ""
@@ -235,35 +235,65 @@
   {
    "id": "ec2",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?mod=rss_markets_main",
-   "published": "2026-10-25T00:00:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
+   "published": "2026-10-25T02:02:19+00:00",
    "title": {
-    "en": "The Cat-and-Mouse Game Between Premium Credit-Card Firms and Points Junkies",
+    "en": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
     "fa": ""
    },
    "summary": {
-    "en": "A subculture of people obsessed with reaping rewards is prompting banks to adjust to their evolving tactics.",
+    "en": "Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of…",
     "fa": ""
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
-   "published": "2026-10-24T23:18:15+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=pls_whats_news_us_business_f",
+   "published": "2026-10-25T02:00:00+00:00",
    "title": {
-    "en": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84",
+    "en": "The Saudi Airline That Launched Right in the Middle of a War",
     "fa": ""
    },
    "summary": {
-    "en": "A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said.",
+    "en": "Violence aimed at civilian aviation has roiled a company that hoped to be a major lever in the kingdom’s long-term economic ambitions.",
     "fa": ""
    }
   },
   {
    "id": "ec4",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
+   "published": "2026-10-25T01:12:45+00:00",
+   "title": {
+    "en": "How Trump Gave the Worst Polluters a Free Pass",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "ec5",
+   "section": "economy",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
+   "published": "2026-10-25T01:00:00+00:00",
+   "title": {
+    "en": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "ec6",
    "section": "economy",
    "source": "BBC News",
    "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -278,22 +308,7 @@
    }
   },
   {
-   "id": "ec5",
-   "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/energy-oil/u-s-energy-execs-say-they-quit-startup-over-undisclosed-russian-funding-b5eae266?mod=pls_whats_news_us_business_f",
-   "published": "2026-10-24T22:24:00+00:00",
-   "title": {
-    "en": "U.S. Energy Execs Say They Quit Startup Over Undisclosed Russian Funding",
-    "fa": ""
-   },
-   "summary": {
-    "en": "High-ranking officials at the company, Polar LNG, shared concerns with the Trump administration.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec6",
+   "id": "ec7",
    "section": "economy",
    "source": "The Guardian",
    "link": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
@@ -308,7 +323,7 @@
    }
   },
   {
-   "id": "ec7",
+   "id": "ec8",
    "section": "economy",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
@@ -319,21 +334,6 @@
    },
    "summary": {
     "en": "Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec8",
-   "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-24T11:55:35+00:00",
-   "title": {
-    "en": "Rising demand from families needing Christmas help",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
     "fa": ""
    }
   },
@@ -385,6 +385,21 @@
   {
    "id": "te12",
    "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+   "published": "2026-10-25T00:00:00+00:00",
+   "title": {
+    "en": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "te13",
+   "section": "tech",
    "source": "The Verge",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
    "published": "2026-10-24T21:29:12+00:00",
@@ -398,7 +413,7 @@
    }
   },
   {
-   "id": "te13",
+   "id": "te14",
    "section": "tech",
    "source": "The Verge",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
@@ -413,7 +428,7 @@
    }
   },
   {
-   "id": "te14",
+   "id": "te15",
    "section": "tech",
    "source": "The Wall Street Journal",
    "link": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_Technology",
@@ -428,7 +443,7 @@
    }
   },
   {
-   "id": "te15",
+   "id": "te16",
    "section": "tech",
    "source": "Bloomberg",
    "link": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
@@ -439,21 +454,6 @@
    },
    "summary": {
     "en": "The Atlantic CEO Nicholas Thompson tells Bloomberg This Weekend that AI offers powerful tools for businesses but poses significant risks to media, while its broader economic impact continues to lag behind rapidly advancing capabilities. Speaking with hosts…",
-    "fa": ""
-   }
-  },
-  {
-   "id": "te16",
-   "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/four-innovators-on-work-and-creativity-da4263e9?mod=rss_Technology",
-   "published": "2026-10-24T12:25:00+00:00",
-   "title": {
-    "en": "Four Innovators on Work and Creativity",
-    "fa": ""
-   },
-   "summary": {
-    "en": "",
     "fa": ""
    }
   },
@@ -596,14 +596,14 @@
    "id": "ma26",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
+   "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
    "published": "",
    "title": {
-    "en": "Asia’s energy reckoning: Securing the energy system to drive growth",
+    "en": "The State of Grocery Retail Europe: Implications for packaging players",
     "fa": ""
    },
    "summary": {
-    "en": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
+    "en": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
     "fa": ""
    }
   },
@@ -626,14 +626,14 @@
    "id": "tr28",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-   "published": "2026-10-24T19:19:48+00:00",
+   "link": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
+   "published": "2026-10-25T01:00:09+00:00",
    "title": {
-    "en": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+    "en": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
     "fa": ""
    },
    "summary": {
-    "en": "Critics say prime minister’s proposal would turn country into an economic pariah",
+    "en": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
     "fa": ""
    }
   },
@@ -716,10 +716,10 @@
    "id": "tr34",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-davao-cracking-open-the-philippines-durian-city",
+   "link": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
    "published": "",
    "title": {
-    "en": "Footloose in Davao: Cracking open the Philippines' 'durian city'",
+    "en": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
     "fa": ""
    },
    "summary": {
@@ -731,10 +731,10 @@
    "id": "tr35",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-led-coalition-says-it-downed-2-missiles-fired-by-houthis",
+   "link": "https://asia.nikkei.com/business/travel-leisure/south-korean-golfers-flock-to-small-japanese-town-for-deals-at-resort",
    "published": "",
    "title": {
-    "en": "Saudi-led coalition says it downed 2 missiles fired by Houthis",
+    "en": "South Korean golfers flock to small Japanese town for deals at resort",
     "fa": ""
    },
    "summary": {
@@ -746,10 +746,10 @@
    "id": "tr36",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
+   "link": "https://asia.nikkei.com/business/agriculture/australia-s-red-tipped-bananas-are-its-first-ecoganic-export",
    "published": "",
    "title": {
-    "en": "China urges US to halt proposed expansion of outbound investment curbs",
+    "en": "Australia's red-tipped bananas are its first 'ecoganic' export",
     "fa": ""
    },
    "summary": {
