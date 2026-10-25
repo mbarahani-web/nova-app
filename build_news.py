@@ -6,7 +6,7 @@ short snippet only), optionally asks Claude for a Persian translation and a shor
 paraphrased summary, and writes news.json next to index.html.
 Uses only the Python standard library.
 """
-import json, os, re, sys, html, datetime, urllib.request, urllib.error
+import json, os, re, sys, html, datetime, subprocess, urllib.request, urllib.error
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
@@ -47,13 +47,12 @@ SECTIONS = ("economy", "tech", "management", "trade")
 
 # General-news feeds (their RSS mixes politics, world news, etc.) are kept only
 # for items that actually match the topic of the section they feed.
-TOPIC_FILTER = {
-    "https://www.ft.com/?format=rss": "trade",
-    "https://www.cnbc.com/id/100003114/device/rss/rss.html": "trade",
-    "https://fortune.com/feed/": "management",
-}
+TOPIC_FILTER = {}
+# Empty = no filtering: general feeds keep their top headlines as published.
+# To keep only on-topic items from a feed, add its URL, e.g.
+#   "https://fortune.com/feed/": "management",   (or "trade")
 TOPIC_WORDS = {
-    "trade": r"trade|tariffs?|exports?|exported|exporting|exporters?|imports?|imported|importers?|supply[- ]chains?|shipping|freight|cargo|containers?|ports?|customs|sanctions?|embargo|logistics|wto|commerce|manufactur\w*",
+    "trade": r"trade|tariffs?|exports?|exported|exporting|exporters?|imports?|imported|importers?|supply[- ]chains?|shipping|freight|cargo|containers?|ports?|customs|sanctions?|embargo|logistics|wto|commerce|manufactur\w*|outbound investment|foreign investment|investment curbs|curbs|subsid\w*|duties|quotas?|dumping",
     "management": r"manag\w*|leader\w*|ceos?|executives?|workforce|workplace|employees?|employers?|hiring|layoffs?|culture|strategy|productivity|remote work|bosses|boss|talent|teams?|careers?|burnout|mentor\w*|organi[sz]ation\w*",
 }
 
@@ -63,6 +62,7 @@ def on_topic(topic, e):
 PER_FEED = 3
 PER_SECTION = 10
 MAX_AGE_HOURS = 96
+MAX_AGE_BY_SECTION = {}  # optional per-section windows, e.g. {"management": 240}; default is MAX_AGE_HOURS
 OUT = "news.json"
 MODEL = os.environ.get("NEWS_MODEL", "claude-haiku-5-5")
 UA = "Mozilla/5.0 (compatible; NOVA-news-bot/1.0)"
@@ -184,7 +184,7 @@ def collect():
             entries = kept
         fresh = []
         for e in entries:
-            if e["published"] and (now - e["published"]).total_seconds() > MAX_AGE_HOURS * 3600:
+            if e["published"] and (now - e["published"]).total_seconds() > MAX_AGE_BY_SECTION.get(section, MAX_AGE_HOURS) * 3600:
                 continue
             if norm(e["title"]) in seen:
                 continue
@@ -245,6 +245,75 @@ def ask_claude(items, key):
     return extract_json(text)
 
 
+def load_previous():
+    """Previously published machine translations, keyed by article link (saves time and keeps text stable)."""
+    try:
+        with open(OUT, encoding="utf-8") as f:
+            d = json.load(f)
+    except Exception:
+        return {}
+    if d.get("translator") != "argos":
+        return {}
+    return {it["link"]: it for it in d.get("items", []) if isinstance(it, dict) and it.get("link")}
+
+
+def ensure_argos():
+    """Install the free translation library on first use (GitHub Actions runners have pip and network)."""
+    try:
+        import argostranslate.package  # noqa: F401
+    except ImportError:
+        print("[info] installing argostranslate (first run takes a few minutes)...")
+        subprocess.run([sys.executable, "-m", "pip", "install", "--quiet", "argostranslate"], check=True, timeout=1500)
+
+
+def argos_translator():
+    """Return a function en->fa using Argos Translate (free, open source, runs offline once the model is installed)."""
+    import argostranslate.package as pkg
+    import argostranslate.translate as tr
+
+    def has_pair():
+        langs = {l.code: l for l in tr.get_installed_languages()}
+        return "en" in langs and "fa" in langs and langs["en"].get_translation(langs["fa"]) is not None
+
+    if not has_pair():
+        pkg.update_package_index()
+        cand = next((p for p in pkg.get_available_packages() if p.from_code == "en" and p.to_code == "fa"), None)
+        if cand is None:
+            raise RuntimeError("no en->fa model in the Argos package index")
+        pkg.install_from_path(cand.download())
+        if not has_pair():
+            raise RuntimeError("en->fa model did not install")
+    return lambda text: tr.translate(text, "en", "fa")
+
+
+def translate_local(items, prev):
+    """Fill title.fa / summary.fa with Argos machine translation. Returns True if any title was translated."""
+    todo = []
+    for it in items:
+        old = prev.get(it["link"])
+        if old and (old.get("title") or {}).get("fa"):
+            it["title"]["fa"] = old["title"]["fa"]
+            it["summary"]["fa"] = (old.get("summary") or {}).get("fa", "")
+        else:
+            todo.append(it)
+    if todo:
+        ensure_argos()
+        tx = argos_translator()
+        for it in todo:
+            for field, limit in (("title", 300), ("summary", 400)):
+                src = (it[field]["en"] or "").strip()[:limit]
+                if not src:
+                    continue
+                try:
+                    out = (tx(src) or "").strip()
+                except Exception as e:
+                    print(f"[warn] could not translate one {field}: {e}")
+                    continue
+                if out and out != src:
+                    it[field]["fa"] = out
+    return any(it["title"]["fa"] for it in items)
+
+
 def main():
     items, report = collect()
     if not items:
@@ -252,6 +321,8 @@ def main():
         sys.exit(1)
     brief = {"en": "", "fa": ""}
     translated = False
+    translator = ""
+    translator_error = ""
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if key:
         try:
@@ -267,13 +338,22 @@ def main():
                 it["summary"]["fa"] = (x.get("summary_fa") or "").strip()
             brief = {"en": (res.get("brief_en") or "").strip(), "fa": (res.get("brief_fa") or "").strip()}
             translated = any(it["title"]["fa"] for it in items)
+            translator = "claude" if translated else ""
         except Exception as e:
             print(f"[warn] translation step failed, publishing English only: {e}")
+    elif os.environ.get("LOCAL_TRANSLATE", "argos").strip().lower() == "argos":  # default; set to "off" to disable
+        try:
+            translated = translate_local(items, load_previous())
+            translator = "argos" if translated else ""
+            print(f"[info] local (Argos) translation: translated={translated}")
+        except Exception as e:  # missing package, no model, no network... never block the English edition
+            translator_error = (type(e).__name__ + ": " + str(e)).strip()[:160]
+            print(f"[warn] local translation unavailable, publishing English only: {translator_error}")
     else:
-        print("[info] ANTHROPIC_API_KEY not set; publishing English only")
+        print("[info] no translator configured; publishing English only")
     now = datetime.datetime.now(datetime.timezone.utc)
     out = {"generated_at": now.isoformat(timespec="seconds"), "date": now.strftime("%Y-%m-%d"),
-           "translated": translated, "brief": brief, "feeds": report, "items": items}
+           "translated": translated, "translator": translator, "translator_error": translator_error, "brief": brief, "feeds": report, "items": items}
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
     print(f"[done] wrote {OUT}: {len(items)} items, translated={translated}")
