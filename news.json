@@ -1,7 +1,9 @@
 {
- "generated_at": "2026-10-25T03:02:46+00:00",
+ "generated_at": "2026-10-25T07:41:29+00:00",
  "date": "2026-10-25",
- "translated": false,
+ "translated": true,
+ "translator": "argos",
+ "translator_error": "",
  "brief": {
   "en": "",
   "fa": ""
@@ -163,8 +165,8 @@
    "section": "management",
    "source": "Fortune",
    "ok": true,
-   "count": 0,
-   "dropped": 10,
+   "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -179,16 +181,16 @@
    "section": "trade",
    "source": "Financial Times",
    "ok": true,
-   "count": 1,
-   "dropped": 6,
+   "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
    "section": "trade",
    "source": "CNBC",
    "ok": true,
-   "count": 2,
-   "dropped": 28,
+   "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -220,121 +222,121 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
-   "published": "2026-10-25T02:17:33+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-25T07:15:38+00:00",
    "title": {
-    "en": "Audi to Build Factory in Georgia, Trump Says",
-    "fa": ""
+    "en": "Rosebank: Life on the oil field at the centre of a political storm",
+    "fa": "رز بانک: زندگی در زمینه نفت در مرکز طوفان سیاسی"
    },
    "summary": {
-    "en": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
-    "fa": ""
+    "en": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+    "fa": "سردبیر اسکاتلند جیمز کوک متوجه می شود که زندگی در یک کشتی در یک میدان نفتی بدون سرنشین در انتظار سرنوشت آن است."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/brazil-election-lula-rallies-supporters-for-one-last-comeback",
-   "published": "2026-10-25T02:02:19+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-25T07:12:21+00:00",
    "title": {
-    "en": "Brazil Election: Lula Rallies Supporters for One Last Comeback",
-    "fa": ""
+    "en": "Heating oil costs 'more than double' ahead of winter",
+    "fa": "هزینه های روغن گرم بیشتر از دو برابر قبل از زمستان است"
    },
    "summary": {
-    "en": "Luiz Inácio Lula da Silva wasn’t going down without a fight. And his fans weren’t ready to give up on him. Here, marching down Sao Paulo’s most iconic avenue, they were bearing witness to what may turn out to be the last rally by the most defining figure of…",
-    "fa": ""
+    "en": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+    "fa": "در sdale هیچ منبع اصلی گاز وجود ندارد، بنابراین بسیاری از ساکنان از روغن گرم گران قیمت استفاده می کنند."
    }
   },
   {
    "id": "ec3",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/2026/oct/25/nationwide-to-cut-275-jobs-in-latest-round-since-takeover-of-virgin-money",
+   "published": "2026-10-25T07:00:57+00:00",
+   "title": {
+    "en": "Nationwide to cut 275 jobs in latest round since takeover of Virgin Money",
+    "fa": "در سراسر کشور برای کاهش 275 شغل در آخرین دور از زمان مصرف پول ویرجین"
+   },
+   "summary": {
+    "en": "Exclusive: Bosses tell staff cuts part of effort to ‘simplify’ operations and ‘remove duplication’ across wider workforce Nationwide building society is slashing another 275 jobs in the latest round of cuts since bank bosses pushed through a £2.9bn takeover…",
+    "fa": "منحصر به فرد: رئیس ها به کارکنان می گویند که بخشی از تلاش برای تقویت عملیات و \"تعهد\" در سراسر جامعه گسترده تر نیروی کار را کاهش می دهد و ۲۷۵ شغل دیگر را در آخرین دور از کاهش کاهش از زمانی که رؤسای بانک از طریق یک £ £ £ £ £ £ £ £ £ £ £ £ £ ۲."
+   }
+  },
+  {
+   "id": "ec4",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+   "published": "2026-10-25T07:00:56+00:00",
+   "title": {
+    "en": "Cookie theft: how fraudsters get the digital key to your accounts",
+    "fa": "سرقت کوکی: چگونه کلاهبرداران کلید دیجیتال را برای حساب های شما دریافت می کنند"
+   },
+   "summary": {
+    "en": "‘Session cookies’ are a primary target for hackers letting them hijack and use your accounts You’ve had a busy morning of life admin, logging into various accounts to check balances and make payments. At the end of a productive few hours you close your laptop…",
+    "fa": "کوکی های درام یک هدف اولیه برای هکرها است که به آنها اجازه می دهد تا به سرقت بروند و از حساب های شما استفاده کنند. شما یک صبح شلوغ از مدیر زندگی، ورود به حساب های مختلف برای بررسی تعادل و پرداخت. در پایان چند ساعت تولیدی شما لپ تاپ خود را ببندید."
+   }
+  },
+  {
+   "id": "ec5",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/singapore-s-wong-vows-more-support-for-workers-energy-security",
+   "published": "2026-10-25T05:40:56+00:00",
+   "title": {
+    "en": "Singapore’s Wong Vows More Support for Workers, Energy Security",
+    "fa": "حمایت و پشتیبانی بیشتر سنگاپور از کارگران، امنیت انرژی"
+   },
+   "summary": {
+    "en": "Singapore Prime Minister Lawrence Wong pledged more support for workers and households, and said the government would step up efforts to secure energy supplies and attract investment as the city-state confronts growing global uncertainty.",
+    "fa": "لارنس وونگ، نخست وزیر سنگاپور، از کارگران و خانواده ها حمایت بیشتری کرد و گفت که دولت تلاش خواهد کرد تا منابع انرژی را تأمین کند و سرمایه گذاری را به عنوان کشوری که با عدم اطمینان جهانی در حال رشد مواجه است، جذب کند."
+   }
+  },
+  {
+   "id": "ec6",
+   "section": "economy",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/bc-s-left-wing-leader-loses-to-conservatives-in-vote-he-called",
+   "published": "2026-10-25T04:08:12+00:00",
+   "title": {
+    "en": "BC Left-Wing Leader Loses to Conservatives in Vote He Called",
+    "fa": "رهبر چپ و راست در رای دادن به محافظه کاران از دست داد"
+   },
+   "summary": {
+    "en": "British Columbia elected its first Conservative Party majority in 98 years, swinging Canada’s third most populous province to the political right.",
+    "fa": "بریتیش کلمبیا اولین حزب محافظه کار خود را در 98 سال انتخاب کرد و سومین استان پرجمعیت کانادا را به سمت راست سیاسی تغییر داد."
+   }
+  },
+  {
+   "id": "ec7",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/22/business/economy/ai-economy-jobs-history.html",
+   "published": "2026-10-25T03:18:02+00:00",
+   "title": {
+    "en": "For Clues About How A.I. Will Change Work, Look to the Past",
+    "fa": "در مورد اینکه چگونه A.I تغییر خواهد کرد، نگاهی به گذشته"
+   },
+   "summary": {
+    "en": "Economists hope earlier episodes of labor disruption, from the Industrial Revolution to the Great Depression, can help us prepare for the age of artificial intelligence.",
+    "fa": "اقتصاددانان امیدوار هستند که قسمت های پیشین اختلال کار، از انقلاب صنعتی تا رکود بزرگ، به ما کمک کند تا برای عصر هوش مصنوعی آماده شویم."
+   }
+  },
+  {
+   "id": "ec8",
    "section": "economy",
    "source": "The Wall Street Journal",
    "link": "https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=pls_whats_news_us_business_f",
    "published": "2026-10-25T02:00:00+00:00",
    "title": {
     "en": "The Saudi Airline That Launched Right in the Middle of a War",
-    "fa": ""
+    "fa": "خطوط هوایی سعودی که در میانه یک جنگ به راه افتاد"
    },
    "summary": {
     "en": "Violence aimed at civilian aviation has roiled a company that hoped to be a major lever in the kingdom’s long-term economic ambitions.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec4",
-   "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html",
-   "published": "2026-10-25T01:12:45+00:00",
-   "title": {
-    "en": "How Trump Gave the Worst Polluters a Free Pass",
-    "fa": ""
-   },
-   "summary": {
-    "en": "The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec5",
-   "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/stocks/the-earnings-boom-is-heavily-reliant-on-just-a-handful-of-stocks-21decb53?mod=rss_markets_main",
-   "published": "2026-10-25T01:00:00+00:00",
-   "title": {
-    "en": "The Earnings Boom Is Heavily Reliant on Just a Handful of Stocks",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec6",
-   "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-24T23:15:18+00:00",
-   "title": {
-    "en": "Rosebank: Life on the oil field at the centre of a political storm",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec7",
-   "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/24/andy-burnham-john-healey-first-budget-devolution-growth-package",
-   "published": "2026-10-24T21:30:43+00:00",
-   "title": {
-    "en": "Healey’s first budget to include big devolution package to boost growth",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Chancellor will build on Burnham’s promise that local leaders in England will no longer have to ‘come cap in hand to Westminster’ Andy Burnham has promised that local leaders in England will no longer have to come “cap in hand to Westminster” ahead of a fresh…",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec8",
-   "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-24/saudi-arabia-suggests-riyadh-airport-may-reopen-on-sunday",
-   "published": "2026-10-24T21:27:28+00:00",
-   "title": {
-    "en": "Saudi Arabia Suggests Riyadh Airport May Reopen on Sunday",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Saudi Arabia’s main airport was gearing up to reopen as early as Sunday after operations had been disrupted by a spate of attacks by Houthi rebels.",
-    "fa": ""
+    "fa": "خشونت با هدف حمل و نقل هوایی غیرنظامی، شرکتی را به راه انداخته است که امیدوار است یک اهرم بزرگ در جاه طلبی های اقتصادی بلند مدت پادشاهی باشد."
    }
   },
   {
@@ -345,11 +347,11 @@
    "published": "2026-10-22T15:51:39+00:00",
    "title": {
     "en": "Sam Bankman-Fried says he has paid his debts",
-    "fa": ""
+    "fa": "سام بانکدار می گوید که بدهی هایش را پرداخت کرده است"
    },
    "summary": {
     "en": "The crypto tycoon speaks with The Economist from prison in California",
-    "fa": ""
+    "fa": "tycoon رمزنگاری با اقتصاددان از زندان در کالیفرنیا صحبت می کند"
    }
   },
   {
@@ -360,101 +362,101 @@
    "published": "2026-10-22T09:10:00+00:00",
    "title": {
     "en": "Can Germany revive its economy before the AfD gains ground?",
-    "fa": ""
+    "fa": "آیا آلمان می تواند اقتصاد خود را قبل از به دست آوردن اف دی احیا کند؟"
    },
    "summary": {
     "en": "Conflicts, rising costs and Chinese competition are testing Germany's economic model like never before. Can new growth sectors create jobs and ease voters' economic fears, thereby helping contain the far-right AfD?",
-    "fa": ""
+    "fa": "درگیری ها، افزایش هزینه ها و رقابت های چین، مدل اقتصادی آلمان را مانند گذشته آزمایش می کنند. آیا بخش های رشد جدید می توانند شغل ایجاد کنند و ترس های اقتصادی رای دهندگان را کاهش دهند، و در نتیجه به آنها کمک می کنند تا شامل یک گروه بسیار راست باشند؟"
    }
   },
   {
    "id": "te11",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "published": "2026-10-25T00:10:07+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf",
+   "published": "2026-10-25T05:45:20+00:00",
    "title": {
-    "en": "Elon Musk Says Ukraine Violated Starlink’s Rules",
-    "fa": ""
+    "en": "UAE Shuts More Beaches as It Deals with Oil Spill in Gulf",
+    "fa": "امارات متحده عربی سواحل بیشتری را تعطیل می کند زیرا با نفت اسپیلبرگ در خلیج فارس معامله می شود"
    },
    "summary": {
-    "en": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
-    "fa": ""
+    "en": "The United Arab Emirates shut more beaches after an oil spill in the Persian Gulf raised concerns over environmental and health impacts.",
+    "fa": "امارات متحده عربی پس از نشت نفت در خلیج فارس، سواحل بیشتری را تعطیل کرد و نگرانی هایی در مورد اثرات زیست محیطی و بهداشتی ایجاد کرد."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
-   "published": "2026-10-25T00:00:00+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/australia-police-chief-says-angry-debate-adds-risks-to-lawmakers",
+   "published": "2026-10-25T03:14:56+00:00",
    "title": {
-    "en": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
-    "fa": ""
+    "en": "Australia Police Chief Says Angry Debate Adds Risks to Lawmakers",
+    "fa": "رئیس پلیس استرالیا می گوید که بحث های خشمگین خطرات را به قانونگذاران اضافه می کند"
    },
    "summary": {
-    "en": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
-    "fa": ""
+    "en": "Acrimonious political debate in Australia is escalating risks to legislators, one of the country’s most senior police officers said after a lawmaker suffered serious injuries following an alleged attack.",
+    "fa": "بحث های سیاسی در استرالیا در حال افزایش ریسک برای قانونگذاران است، یکی از افسران ارشد پلیس این کشور پس از اینکه یک قانون گذار پس از حمله ای که ادعا می شود آسیب جدی به همراه داشته است."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "published": "2026-10-24T21:29:12+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+   "published": "2026-10-25T00:10:07+00:00",
    "title": {
-    "en": "Blue Planet III is keeping the rough edges in the age of AI",
-    "fa": ""
+    "en": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+    "fa": "ایلان ماسک می گوید که اوکراین قوانین Starlink را نقض کرد"
    },
    "summary": {
-    "en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead…",
-    "fa": ""
+    "en": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+    "fa": "این اظهارات اولین اظهارات او از زمان اختلال در خدمات ماهواره ای کشور بود. پیشتر، اوکراین اعلام کرد که هواپیماهای بدون سرنشین با استفاده از استارپل، سرویس بودجه پنتاگون به سرعت های عادی بازگشته اند."
    }
   },
   {
    "id": "te14",
    "section": "tech",
    "source": "The Verge",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "published": "2026-10-24T18:32:44+00:00",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "published": "2026-10-24T21:29:12+00:00",
    "title": {
-    "en": "Pennsylvania will require labels on AI-generated ads",
-    "fa": ""
+    "en": "Blue Planet III is keeping the rough edges in the age of AI",
+    "fa": "Blue Planet III دارای لبه های خشن در عصر AI است"
    },
    "summary": {
-    "en": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been…",
-    "fa": ""
+    "en": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead…",
+    "fa": "BBC’s Blue Planet III به دنبال اثبات اعتبار خود با ترک در شات های کمتر از کامل است. تجسم های قبلی از سری طبیعت توسط فیلم های زرق و برق دار و شفاف آن ها تعریف شده است که به نظر می رسد بسیار خوب است. اما یک مرده ..."
    }
   },
   {
    "id": "te15",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "published": "2026-10-24T18:32:44+00:00",
+   "title": {
+    "en": "Pennsylvania will require labels on AI-generated ads",
+    "fa": "پنسیلوانیا نیاز به برچسب در تبلیغات تولید شده AI خواهد داشت"
+   },
+   "summary": {
+    "en": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been…",
+    "fa": "روز پنجشنبه، جاش شپیرو، فرماندار پنسیلوانیا، قانون تبلیغات ادراکی هوش مصنوعی را به قانون امضا کرد و نیاز به افشای تبلیغات تولید شده توسط AI داشت. این قانون نیاز به هر آگهی دارد - چه یک تصویر، ویدئو، صوتی و یا متن است - که \"..."
+   }
+  },
+  {
+   "id": "te16",
    "section": "tech",
    "source": "The Wall Street Journal",
    "link": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_Technology",
    "published": "2026-10-24T17:07:00+00:00",
    "title": {
     "en": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
-    "fa": ""
+    "fa": "FBI پرونده جاسوسی علیه OpenAI Suspect"
    },
    "summary": {
     "en": "Engineer Abdulrahman Alfozan was accused of bugging a restricted conference room at the company’s offices.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "te16",
-   "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-24/ai-boom-faces-a-growing-public-backlash-video",
-   "published": "2026-10-24T14:08:22+00:00",
-   "title": {
-    "en": "AI Boom Faces a Growing Public Backlash",
-    "fa": ""
-   },
-   "summary": {
-    "en": "The Atlantic CEO Nicholas Thompson tells Bloomberg This Weekend that AI offers powerful tools for businesses but poses significant risks to media, while its broader economic impact continues to lag behind rapidly advancing capabilities. Speaking with hosts…",
-    "fa": ""
+    "fa": "مهندس عبدالrahman Alfozan متهم به ایجاد یک اتاق کنفرانس محدود در دفاتر شرکت شد."
    }
   },
   {
@@ -465,11 +467,11 @@
    "published": "2026-10-24T11:50:28+00:00",
    "title": {
     "en": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-    "fa": ""
+    "fa": "یک ابر 1000 مایل در مریخ ممکن است فیزیک را نشان دهد که هرگز در طبیعت دیده نمی شود."
    },
    "summary": {
     "en": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-    "fa": ""
+    "fa": "یک مدل جدید نشان می دهد که مریخ ممکن است حاوی فیزیک یخ باشد که هرگز به طور مستقیم مشاهده نشود."
    }
   },
   {
@@ -480,11 +482,11 @@
    "published": "2026-10-24T00:05:45+00:00",
    "title": {
     "en": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-    "fa": ""
+    "fa": "انگلستان برای سرمایه گذاری 100 میلیون پوند در آزمایشگاه امنیت زیستی AI"
    },
    "summary": {
     "en": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-    "fa": ""
+    "fa": "صدراعظم از هزینه های AI با هدف کاهش دفاع انگلیس در بودجه چهارشنبه پرده برداری خواهد کرد."
    }
   },
   {
@@ -495,11 +497,11 @@
    "published": "2026-10-23T17:19:38+00:00",
    "title": {
     "en": "What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’",
-    "fa": ""
+    "fa": "معامله با بیلی ایوانز چیست؟ راهنمای Spoiler-Filled برای \"شما می توانید همه چیز را ببینید\""
    },
    "summary": {
     "en": "“You shouldn’t overbeat scrambled eggs.”",
-    "fa": ""
+    "fa": "\"شما نباید تخم مرغ های پر پیچ و خم را پر کنید.\""
    }
   },
   {
@@ -510,247 +512,307 @@
    "published": "2026-10-23T12:10:00+00:00",
    "title": {
     "en": "The Download: testing six tech promises and biotech’s blind spots",
-    "fa": ""
+    "fa": "دانلود بازی The Download: تست شش وعده تکنولوژی و نقاط کور بیوتکنولوژی"
    },
    "summary": {
     "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on.…",
-    "fa": ""
+    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. آیا هنوز وجود داریم؟ بررسی واقعیت شش وعده بزرگ تکنولوژی برخی از شاهکارهای به ظاهر غیرممکن خیلی خوب هستند که تسلیم شوند..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91619326/the-ai-infrastructure-race-ive-seen-this-movie-before-technology-ai-infrastructure",
-   "published": "2026-10-24T12:22:00+00:00",
+   "link": "https://www.fastcompany.com/91626870/how-dropbox-wants-to-keep-ai-from-making-its-workers-less-intelligent",
+   "published": "2026-10-25T07:00:00+00:00",
    "title": {
-    "en": "The AI infrastructure race: I’ve seen this movie before",
-    "fa": ""
+    "en": "How Dropbox plans to prevent AI brain rot in its workers",
+    "fa": "چگونه Dropbox قصد دارد مغز AI را در کارگران خود خراب کند"
    },
    "summary": {
-    "en": "Back in 2022, when the auto industry was fixated on autonomous vehicles, I was cofounder and chief technology officer at Luminar, where our lidar technology was helping enable the next generation of self-driving cars. Speaking at an automotive conference, I…",
-    "fa": ""
+    "en": "Concerned about its workers losing brainpower as they outsource work to artificial intelligence , Dropbox is considering using cognitive training tools, like memory exercises and attention-span training, to keep them mentally sharp. The cloud storage pioneer…",
+    "fa": "در مورد کارکنان خود از دست دادن قدرت مغز به عنوان آنها برون سپاری کار به هوش مصنوعی، Dropbox در نظر گرفتن استفاده از ابزار آموزش شناختی، مانند تمرینات حافظه و آموزش توجه - برای نگه داشتن آنها از نظر ذهنی تیز است. پیشگام ذخیره سازی ابر ..."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91628523/netflix-lost-place-in-pop-culture-high-viewership",
-   "published": "2026-10-24T11:01:00+00:00",
+   "link": "https://www.fastcompany.com/91626259/your-customer-service-problem-isnt-a-customer-service-problem",
+   "published": "2026-10-25T05:00:00+00:00",
    "title": {
-    "en": "From zeitgeist to zeitghost: How Netflix kept a hold on viewers—but lost its spot in pop culture",
-    "fa": ""
+    "en": "Your customer service problem isn’t a customer service problem",
+    "fa": "مشکل خدمات مشتری شما مشکل خدمات مشتری نیست"
    },
    "summary": {
-    "en": "Netflix has been pumping out original content for so long and at such an immense scale that it recently released its second original movie entitled War Machine . Although the Brad Pitt-starring first iteration sank like a stone in 2017, the unrelated new War…",
-    "fa": ""
+    "en": "A few years ago, one of our team members came down with a big health problem—a splitting headache that just wouldn’t let up. She visited several doctors, who recommended various treatments and medications to alleviate the pain, none of which worked. The pain…",
+    "fa": "چند سال پیش، یکی از اعضای تیم ما با یک مشکل بزرگ سلامتی مواجه شد – سردردی که نمی توانست آن را رها کند. او از چندین پزشک بازدید کرد که درمان ها و داروهای مختلف را برای کاهش درد توصیه می کردند و هیچ کدام از آنها کار نمی کردند. درد ..."
    }
   },
   {
    "id": "ma23",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91628222/nike-after-dark-race-medal-jewelry",
-   "published": "2026-10-24T11:00:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/",
+   "published": "2026-10-24T23:20:47+00:00",
    "title": {
-    "en": "This Nike race medal is meant to be worn as jewelry",
-    "fa": ""
+    "en": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
+    "fa": "اسرائیلی ها آخرین تجمع را علیه نتانیاهو پیش از انتخابات احتمالی در تاریخ کشور برگزار می کنند"
    },
    "summary": {
-    "en": "For its 2026 After Dark Tour, a nighttime race series of 10Ks and half-marathons for women, Nike designed a multipurpose medal that’s meant to be worn long after race day as a necklace, bracelet, keychain loop, or belt chain. It features a Nike Swoosh and…",
-    "fa": ""
+    "en": "The crowd heard calls for a commission of inquiry into the security failures that led to the Hamas-led attack on Oct. 7, 2023, that sparked the war in Gaza.",
+    "fa": "این جمعیت خواستار کمیسیون تحقیق در مورد شکست های امنیتی شد که منجر به حمله تحت رهبری حماس در ۷ اکتبر ۲۰۲۳ شد و این جنگ را در غزه برانگیخت."
    }
   },
   {
    "id": "ma24",
+   "section": "management",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/10/24/french-police-tear-gas-water-cannons-protests-violence/",
+   "published": "2026-10-24T23:09:17+00:00",
+   "title": {
+    "en": "French police use tear gas and water cannons after some protests turn violent as shopkeepers board up storefronts across Paris",
+    "fa": "پلیس فرانسه از گاز اشک آور و توپ های آبی استفاده می کند پس از برخی اعتراضات خشونت آمیز به عنوان مغازه داران در سراسر پاریس"
+   },
+   "summary": {
+    "en": "Clashes erupted in Paris as a mass march drew to a close Saturday, with more than 400,000 people rallying across France over school funding and soaring living costs.",
+    "fa": "درگیری ها در پاریس به عنوان یک راهپیمایی توده ای به یک شنبه نزدیک با بیش از ۴۰۰ هزار نفر در سراسر فرانسه در بودجه مدرسه و افزایش هزینه های زندگی گسترش یافت."
+   }
+  },
+  {
+   "id": "ma25",
+   "section": "management",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
+   "published": "2026-10-24T22:46:22+00:00",
+   "title": {
+    "en": "The world’s biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump’s tariffs",
+    "fa": "بزرگترین تولید کننده شربت نقشه جهان، تقریباً ذخایر استراتژیک خود را پس از اینکه آمریکایی ها ذخایر خود را پیش از تعرفه های ترامپ ذخیره کردند، خسته کرده است."
+   },
+   "summary": {
+    "en": "The Quebec Maple Syrup Producers, which oversees the strategic syrup reserve, predicted the stockpile will be completely empty by February.",
+    "fa": "تولید کنندگان Quyrup کبک که بر ذخایر استراتژیک شربت نظارت می کنند، پیش بینی می کنند که این ذخایر تا ماه فوریه کاملا خالی خواهد بود."
+   }
+  },
+  {
+   "id": "ma26",
+   "section": "management",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91619326/the-ai-infrastructure-race-ive-seen-this-movie-before-technology-ai-infrastructure",
+   "published": "2026-10-24T12:22:00+00:00",
+   "title": {
+    "en": "The AI infrastructure race: I’ve seen this movie before",
+    "fa": "مسابقه زیرساخت های هوش مصنوعی: من این فیلم را پیش از این دیده ام"
+   },
+   "summary": {
+    "en": "Back in 2022, when the auto industry was fixated on autonomous vehicles, I was cofounder and chief technology officer at Luminar, where our lidar technology was helping enable the next generation of self-driving cars. Speaking at an automotive conference, I…",
+    "fa": "در سال 2022، هنگامی که صنعت خودرو در وسایل نقلیه مستقل تعمیر شد، من بنیانگذار و مدیر ارشد تکنولوژی در Luminar بودم، جایی که فناوری لیدی ما به فعال کردن نسل بعدی خودروهای خودران کمک می کرد. در یک کنفرانس خودرو، من ..."
+   }
+  },
+  {
+   "id": "ma27",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/",
    "published": "2026-10-21T11:00:48+00:00",
    "title": {
     "en": "The Hidden Upside of Tech Challenges",
-    "fa": ""
+    "fa": "دانلود بازی The Hidden Upside of Tech Challenges"
    },
    "summary": {
     "en": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of 2022, stress had increased medical expenses and decreased productivity at an estimated annual cost of up to $300 billion in high-income…",
-    "fa": ""
+    "fa": "آلیس موللون / استرس کارکنان تصویر یک مسئله اجتماعی مهم در داخل و خارج از محل کار ما است. از سال 2022، استرس هزینه های پزشکی را افزایش داد و بهره وری را با هزینه تخمین سالانه تا 300 میلیارد دلار در درآمد بالا کاهش داد."
    }
   },
   {
-   "id": "ma25",
+   "id": "ma28",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
    "published": "",
    "title": {
     "en": "Author Talks: AI is advancing. Is our judgment keeping up?",
-    "fa": ""
+    "fa": "نویسندگان: AI در حال پیشرفت است. آیا قضاوت ما ادامه دارد؟"
    },
    "summary": {
     "en": "Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says the answer lies in learning not whether to trust AI, but when—and how much.",
-    "fa": ""
+    "fa": "آیا می توانیم وعده AI را بدون تسلیم قضاوت انسانی باز کنیم؟ رهبر فناوری تیفانی Xingyu وانگ می گوید پاسخ در یادگیری نه اینکه آیا به هوش مصنوعی اعتماد کنیم، بلکه وقتی و چقدر است."
    }
   },
   {
-   "id": "ma26",
+   "id": "ma29",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+   "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
    "published": "",
    "title": {
-    "en": "The State of Grocery Retail Europe: Implications for packaging players",
-    "fa": ""
+    "en": "Asia’s energy reckoning: Securing the energy system to drive growth",
+    "fa": "محاسبه انرژی آسیا: اتخاذ سیستم انرژی برای رشد"
    },
    "summary": {
-    "en": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
-    "fa": ""
+    "en": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
+    "fa": "اختلالات اخیر بر آسیب پذیری های سیستم انرژی آسیا تاکید کرده اند. کشورها می توانند روی پنج حوزه سرمایه گذاری اولویت برای حمایت از رشد و انعطاف پذیری منطقه ای تمرکز کنند."
    }
   },
   {
-   "id": "ma27",
+   "id": "ma30",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
    "published": "",
    "title": {
     "en": "Focus, scale, fund: The AI playbook CPG leaders are missing",
-    "fa": ""
+    "fa": "تمرکز، مقیاس، صندوق: رهبران بازی AI CPG از دست رفته اند"
    },
    "summary": {
     "en": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it used to be. Here’s how AI could help fund the next wave of growth in food and beverage.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr28",
-   "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/653f5a48-94f5-4e92-86dd-7d118e8849a8?syn-25a6b1a6=1",
-   "published": "2026-10-25T01:00:09+00:00",
-   "title": {
-    "en": "Co-operate to avoid being hostage to geopolitics, Australia tells ‘middle powers’",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Jim Chalmers argues economic security and bolstering supply chains would benefit consumers",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr29",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-   "published": "2026-10-23T21:26:59+00:00",
-   "title": {
-    "en": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr30",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-   "published": "2026-10-23T19:19:08+00:00",
-   "title": {
-    "en": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-    "fa": ""
-   },
-   "summary": {
-    "en": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
-    "fa": ""
+    "fa": "مارک های کوچک غول های نوآوری هستند، الگوهای خرید در حال تغییر هستند و مقیاس آن سپر نیست. در اینجا چگونگی کمک AI می تواند به تامین مالی موج بعدی رشد در غذا و نوشیدنی کمک کند."
    }
   },
   {
    "id": "tr31",
+   "section": "trade",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+   "published": "2026-10-25T05:00:10+00:00",
+   "title": {
+    "en": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+    "fa": "ارزش گروه های لوکس با 250 میلیارد یورو کاهش می یابد زیرا تقاضای مصرف کننده چینی محو می شود"
+   },
+   "summary": {
+    "en": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+    "fa": "کند شدن در چین و خنک کردن بازارهای سهام جهانی باعث رکود بخش اروپا می شود"
+   }
+  },
+  {
+   "id": "tr32",
+   "section": "trade",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1",
+   "published": "2026-10-25T05:00:10+00:00",
+   "title": {
+    "en": "Bolsonaro and Lula face off in knife-edge Brazil election",
+    "fa": "بولسونارو و لولا با چاقو در انتخابات برتر برزیل روبرو هستند"
+   },
+   "summary": {
+    "en": "Rightwing challenger seeks to oust leftist president and bring Latin America’s largest country closer to Donald Trump",
+    "fa": "به دنبال سرنگونی رئیس جمهور چپ گرا و نزدیک شدن به بزرگترین کشور آمریکای لاتین به دونالد ترامپ است"
+   }
+  },
+  {
+   "id": "tr33",
+   "section": "trade",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/3736714a-2058-4413-ac91-e8f10f33ad69?syn-25a6b1a6=1",
+   "published": "2026-10-25T05:00:02+00:00",
+   "title": {
+    "en": "The right’s obsession with ‘civil war’ in Britain",
+    "fa": "وسواس حق با \"جنگ مدنی\" در بریتانیا"
+   },
+   "summary": {
+    "en": "Many of those stoking fears of bloody unrest don’t actually live in the country",
+    "fa": "بسیاری از این ترس های شدید از ناآرامی های خونین در کشور زندگی نمی کنند"
+   }
+  },
+  {
+   "id": "tr34",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+   "published": "2026-10-24T21:07:01+00:00",
+   "title": {
+    "en": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+    "fa": "سفارت های آمریکا امنیت را تشدید می کنند زیرا هشدار تهدید ایران پیش از انتخابات میان مدت آمریکا تشدید می شود"
+   },
+   "summary": {
+    "en": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
+    "fa": "جی کلیتون، مدیر DNI، گفت که ایران در \"دوره های پیشرفته\" برنامه ریزی حملات علیه آمریکایی ها قرار دارد."
+   }
+  },
+  {
+   "id": "tr35",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+   "published": "2026-10-24T20:38:30+00:00",
+   "title": {
+    "en": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+    "fa": "پس از آنکه اسپیس ایکس سرویس سرعت بالا را بازگرداند، ماسک ادعا می کند که اوکراین توافق Starlink را نقض کرد"
+   },
+   "summary": {
+    "en": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+    "fa": "اوکراین می گوید که محدودیت های Starlink و Starscape پس از اختلال در سیستم های نظامی به سرعت در حال حرکت است."
+   }
+  },
+  {
+   "id": "tr36",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+   "published": "2026-10-24T19:57:24+00:00",
+   "title": {
+    "en": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+    "fa": "دموکرات ها، گروه های حق رای گیری پیشنهاد ترامپ برای مسدود کردن گواهی نامه سنا را به چالش می کشند"
+   },
+   "summary": {
+    "en": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
+    "fa": "قوانین ثبت شده توسط نامزد ماری پلتولا و گروه حقوق رای دهندگان تلاش های پیشگیرانه ترامپ برای جلوگیری از پیروزی دموکرات سنا در آلاسکا را به چالش می کشد."
+   }
+  },
+  {
+   "id": "tr37",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/",
    "published": "2026-10-23T18:24:00+00:00",
    "title": {
     "en": "Trump tweaks Canada tariffs, removing certain goods while adding others",
-    "fa": ""
+    "fa": "ترامپ تعرفه های کانادا را اصلاح می کند، کالاهای خاصی را حذف می کند در حالی که دیگران را اضافه می کند"
    },
    "summary": {
     "en": "Plywood and certain packaging materials are among the products that will no longer face the 50% tariff, effective Oct. 30.",
-    "fa": ""
+    "fa": "ورق و مواد بسته بندی خاص در میان محصولاتی هستند که دیگر با 50٪ تعرفه، موثر در 30 اکتبر مواجه نخواهند شد."
    }
   },
   {
-   "id": "tr32",
+   "id": "tr38",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/dhl-boosts-us-asia-cold-chain-connectivity-for-healthcare-shippers/833763/",
    "published": "2026-10-23T14:30:21+00:00",
    "title": {
     "en": "DHL boosts US-Asia cold chain connectivity for healthcare shippers",
-    "fa": ""
+    "fa": "DHL اتصال زنجیره سرد US-Asia برای کشتی های بهداشتی را افزایش می دهد"
    },
    "summary": {
     "en": "For temperature-sensitive goods, DHL Global Forwarding has added air freight corridors connecting Cincinnati with key hubs in Asia.",
-    "fa": ""
+    "fa": "برای کالاهای حساس به دما، DHL Global Forwarding دارای راهروهای حمل و نقل هوایی است که Cincinnati را با هاب های کلیدی در آسیا متصل می کند."
    }
   },
   {
-   "id": "tr33",
+   "id": "tr39",
    "section": "trade",
-   "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/levis-distribution-network-transition-saga-continues-to-drag/833749/",
-   "published": "2026-10-23T14:27:10+00:00",
+   "source": "Nikkei Asia",
+   "link": "https://asia.nikkei.com/spotlight/your-week-in-asia/china-s-fifth-plenum-jio-listing-on-indian-bourses-boj-meeting",
+   "published": "",
    "title": {
-    "en": "Levi’s distribution network transition saga continues to drag",
-    "fa": ""
+    "en": "China's fifth plenum, Jio listing on Indian bourses, BOJ meeting",
+    "fa": "پنجمین plenum چین، فهرست Jio در صومعه های هند، BOJ"
    },
    "summary": {
-    "en": "Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn't expect to see benefits from its overhaul until 2027.",
+    "en": "",
     "fa": ""
    }
   },
   {
-   "id": "tr34",
+   "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
    "link": "https://asia.nikkei.com/business/automobiles/pressed-by-chinese-evs-in-southeast-asia-mitsubishi-motors-makes-risky-pivot",
    "published": "",
    "title": {
     "en": "Pressed by Chinese EVs in Southeast Asia, Mitsubishi Motors makes risky pivot",
-    "fa": ""
-   },
-   "summary": {
-    "en": "",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr35",
-   "section": "trade",
-   "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/travel-leisure/south-korean-golfers-flock-to-small-japanese-town-for-deals-at-resort",
-   "published": "",
-   "title": {
-    "en": "South Korean golfers flock to small Japanese town for deals at resort",
-    "fa": ""
-   },
-   "summary": {
-    "en": "",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr36",
-   "section": "trade",
-   "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/agriculture/australia-s-red-tipped-bananas-are-its-first-ecoganic-export",
-   "published": "",
-   "title": {
-    "en": "Australia's red-tipped bananas are its first 'ecoganic' export",
-    "fa": ""
+    "fa": "منتشر شده توسط خودروهای چینی در جنوب شرقی آسیا، میتسوبیشی موتورز باعث چرخش خطرناک می شود"
    },
    "summary": {
     "en": "",
