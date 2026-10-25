@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T00:08:37+00:00",
+ "generated_at": "2026-10-25T00:31:59+00:00",
  "date": "2026-10-25",
  "translated": false,
  "brief": {
@@ -12,6 +12,7 @@
    "source": "BBC News",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -19,6 +20,7 @@
    "source": "The New York Times",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -26,6 +28,7 @@
    "source": "The Guardian",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -33,6 +36,7 @@
    "source": "Bloomberg",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -40,6 +44,7 @@
    "source": "Bloomberg",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -47,6 +52,7 @@
    "source": "The Economist",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -54,6 +60,7 @@
    "source": "The Economist",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -61,6 +68,7 @@
    "source": "The Wall Street Journal",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -68,6 +76,7 @@
    "source": "The Wall Street Journal",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -75,6 +84,7 @@
    "source": "Deutsche Welle",
    "ok": true,
    "count": 2,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -82,6 +92,7 @@
    "source": "BBC News",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -89,6 +100,7 @@
    "source": "The New York Times",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -96,6 +108,7 @@
    "source": "Ars Technica",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -103,6 +116,7 @@
    "source": "The Verge",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -110,6 +124,7 @@
    "source": "Bloomberg",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -117,6 +132,7 @@
    "source": "The Wall Street Journal",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -124,6 +140,7 @@
    "source": "MIT Technology Review",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -131,6 +148,7 @@
    "source": "MIT Sloan Management Review",
    "ok": true,
    "count": 1,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -138,13 +156,15 @@
    "source": "Fast Company",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
    "section": "management",
    "source": "Fortune",
    "ok": true,
-   "count": 3,
+   "count": 0,
+   "dropped": 10,
    "error": ""
   },
   {
@@ -152,20 +172,23 @@
    "source": "McKinsey",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
    "section": "trade",
    "source": "Financial Times",
    "ok": true,
-   "count": 3,
+   "count": 1,
+   "dropped": 8,
    "error": ""
   },
   {
    "section": "trade",
    "source": "CNBC",
    "ok": true,
-   "count": 3,
+   "count": 2,
+   "dropped": 28,
    "error": ""
   },
   {
@@ -173,6 +196,7 @@
    "source": "Supply Chain Dive",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -180,6 +204,7 @@
    "source": "Nikkei Asia",
    "ok": true,
    "count": 3,
+   "dropped": 0,
    "error": ""
   },
   {
@@ -187,12 +212,28 @@
    "source": "World Trade Organization",
    "ok": true,
    "count": 0,
+   "dropped": 0,
    "error": ""
   }
  ],
  "items": [
   {
    "id": "ec1",
+   "section": "economy",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/24/business/audi-factory-georgia-trump.html",
+   "published": "2026-10-25T00:27:04+00:00",
+   "title": {
+    "en": "Audi to Build Factory in Georgia, Trump Says",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The Volkswagen division, which imports all its cars from Europe or Mexico, has been hit hard by U.S. tariffs.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "ec2",
    "section": "economy",
    "source": "The Wall Street Journal",
    "link": "https://www.wsj.com/finance/banking/the-cat-and-mouse-game-between-premium-credit-card-firms-and-points-junkies-8ce2e30a?mod=rss_markets_main",
@@ -207,7 +248,7 @@
    }
   },
   {
-   "id": "ec2",
+   "id": "ec3",
    "section": "economy",
    "source": "The New York Times",
    "link": "https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html",
@@ -222,7 +263,7 @@
    }
   },
   {
-   "id": "ec3",
+   "id": "ec4",
    "section": "economy",
    "source": "BBC News",
    "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -237,7 +278,7 @@
    }
   },
   {
-   "id": "ec4",
+   "id": "ec5",
    "section": "economy",
    "source": "The Wall Street Journal",
    "link": "https://www.wsj.com/business/energy-oil/u-s-energy-execs-say-they-quit-startup-over-undisclosed-russian-funding-b5eae266?mod=pls_whats_news_us_business_f",
@@ -248,21 +289,6 @@
    },
    "summary": {
     "en": "High-ranking officials at the company, Polar LNG, shared concerns with the Trump administration.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ec5",
-   "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/24/business/six-flags-death-roller-coaster-seat-belt.html",
-   "published": "2026-10-24T21:45:35+00:00",
-   "title": {
-    "en": "Six Flags to Add Seatbelts on Roller Coasters After Rider’s Death",
-    "fa": ""
-   },
-   "summary": {
-    "en": "The company said that all Six Flags rides and attractions would undergo safety reviews, as the park operator faces lawsuits over safety concerns.",
     "fa": ""
    }
   },
@@ -346,7 +372,7 @@
    "section": "tech",
    "source": "The New York Times",
    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "published": "2026-10-24T22:37:56+00:00",
+   "published": "2026-10-25T00:10:07+00:00",
    "title": {
     "en": "Elon Musk Says Ukraine Violated Starlink’s Rules",
     "fa": ""
@@ -494,51 +520,6 @@
   {
    "id": "ma21",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
-   "published": "2026-10-24T22:46:22+00:00",
-   "title": {
-    "en": "The world’s biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump’s tariffs",
-    "fa": ""
-   },
-   "summary": {
-    "en": "The Quebec Maple Syrup Producers, which oversees the strategic syrup reserve, predicted the stockpile will be completely empty by February.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ma22",
-   "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/10/24/ai-core-economic-flaw-bull-case-stock-bond-trades-credit-default-swaps-data-centers/",
-   "published": "2026-10-24T19:39:53+00:00",
-   "title": {
-    "en": "Here’s the ‘core economic flaw’ in the AI bull case as stock and bond trades unravel, according to a top economist",
-    "fa": ""
-   },
-   "summary": {
-    "en": "\"So far, the AI payoff for firms has been slow to materialize, implying a growing reluctance to pay for AI services.\"",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ma23",
-   "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher/",
-   "published": "2026-10-24T19:00:00+00:00",
-   "title": {
-    "en": "Every child will get AI. Not every child will get a teacher",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Today, you hear concerns that AI tools will be a privilege for wealthy kids only. But soon every child will have an AI tutor, just maybe not a human one.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "ma24",
-   "section": "management",
    "source": "Fast Company",
    "link": "https://www.fastcompany.com/91619326/the-ai-infrastructure-race-ive-seen-this-movie-before-technology-ai-infrastructure",
    "published": "2026-10-24T12:22:00+00:00",
@@ -552,7 +533,7 @@
    }
   },
   {
-   "id": "ma25",
+   "id": "ma22",
    "section": "management",
    "source": "Fast Company",
    "link": "https://www.fastcompany.com/91628523/netflix-lost-place-in-pop-culture-high-viewership",
@@ -567,7 +548,7 @@
    }
   },
   {
-   "id": "ma26",
+   "id": "ma23",
    "section": "management",
    "source": "Fast Company",
    "link": "https://www.fastcompany.com/91628222/nike-after-dark-race-medal-jewelry",
@@ -582,7 +563,7 @@
    }
   },
   {
-   "id": "ma27",
+   "id": "ma24",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/",
@@ -597,7 +578,7 @@
    }
   },
   {
-   "id": "ma28",
+   "id": "ma25",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
@@ -612,22 +593,22 @@
    }
   },
   {
-   "id": "ma29",
+   "id": "ma26",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+   "link": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
    "published": "",
    "title": {
-    "en": "The State of Grocery Retail Europe: Implications for packaging players",
+    "en": "Asia’s energy reckoning: Securing the energy system to drive growth",
     "fa": ""
    },
    "summary": {
-    "en": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment, cost competitiveness remains imperative.",
+    "en": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could focus on five priority investment areas to support regional growth and resilience.",
     "fa": ""
    }
   },
   {
-   "id": "ma30",
+   "id": "ma27",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
@@ -642,82 +623,7 @@
    }
   },
   {
-   "id": "tr31",
-   "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
-   "published": "2026-10-24T23:23:01+00:00",
-   "title": {
-    "en": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr32",
-   "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-   "published": "2026-10-24T21:30:37+00:00",
-   "title": {
-    "en": "Ukraine military says Starlink service restrictions have been lifted",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr33",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
-   "published": "2026-10-24T21:07:01+00:00",
-   "title": {
-    "en": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
-    "fa": ""
-   },
-   "summary": {
-    "en": "A memo from DNI director Jay Clayton said Iran is in the \"advanced stages\" of planning attacks against Americans.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr34",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-   "published": "2026-10-24T20:38:30+00:00",
-   "title": {
-    "en": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr35",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
-   "published": "2026-10-24T19:57:24+00:00",
-   "title": {
-    "en": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
-    "fa": ""
-   },
-   "summary": {
-    "en": "Lawsuits filed by candidate Mary Peltola and a voters' rights group challenge Trump's preemptive efforts to block a Democratic Senate victory in Alaska.",
-    "fa": ""
-   }
-  },
-  {
-   "id": "tr36",
+   "id": "tr28",
    "section": "trade",
    "source": "Financial Times",
    "link": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
@@ -732,7 +638,37 @@
    }
   },
   {
-   "id": "tr37",
+   "id": "tr29",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+   "published": "2026-10-23T21:26:59+00:00",
+   "title": {
+    "en": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "tr30",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+   "published": "2026-10-23T19:19:08+00:00",
+   "title": {
+    "en": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+    "fa": ""
+   },
+   "summary": {
+    "en": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "tr31",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/",
@@ -747,7 +683,7 @@
    }
   },
   {
-   "id": "tr38",
+   "id": "tr32",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/dhl-boosts-us-asia-cold-chain-connectivity-for-healthcare-shippers/833763/",
@@ -762,7 +698,22 @@
    }
   },
   {
-   "id": "tr39",
+   "id": "tr33",
+   "section": "trade",
+   "source": "Supply Chain Dive",
+   "link": "https://www.supplychaindive.com/news/levis-distribution-network-transition-saga-continues-to-drag/833749/",
+   "published": "2026-10-23T14:27:10+00:00",
+   "title": {
+    "en": "Levi’s distribution network transition saga continues to drag",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Due to a facility fire during Q3 and the complexity of its SKU mix, the retailer doesn't expect to see benefits from its overhaul until 2027.",
+    "fa": ""
+   }
+  },
+  {
+   "id": "tr34",
    "section": "trade",
    "source": "Nikkei Asia",
    "link": "https://asia.nikkei.com/life-arts/life/destinations/footloose-in-davao-cracking-open-the-philippines-durian-city",
@@ -777,13 +728,28 @@
    }
   },
   {
-   "id": "tr40",
+   "id": "tr35",
    "section": "trade",
    "source": "Nikkei Asia",
    "link": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-led-coalition-says-it-downed-2-missiles-fired-by-houthis",
    "published": "",
    "title": {
     "en": "Saudi-led coalition says it downed 2 missiles fired by Houthis",
+    "fa": ""
+   },
+   "summary": {
+    "en": "",
+    "fa": ""
+   }
+  },
+  {
+   "id": "tr36",
+   "section": "trade",
+   "source": "Nikkei Asia",
+   "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-urges-us-to-halt-proposed-expansion-of-outbound-investment-curbs",
+   "published": "",
+   "title": {
+    "en": "China urges US to halt proposed expansion of outbound investment curbs",
     "fa": ""
    },
    "summary": {
