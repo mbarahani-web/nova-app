@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T03:08:59+00:00",
- "date": "2026-10-27",
+ "generated_at": "2026-10-28T03:17:59+00:00",
+ "date": "2026-10-28",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -53,7 +53,7 @@
    "section": "economy",
    "source": "The Economist",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -61,7 +61,7 @@
    "section": "economy",
    "source": "The Economist",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "dropped": 0,
    "error": ""
   },
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -222,136 +222,136 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/iron-ore-declines-to-two-year-low-as-demand-outlook-weakens",
-   "published": "2026-10-27T02:46:20+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T03:05:11+00:00",
    "title": {
-    "en": "Iron Ore Declines to Two-Year Low as Demand Outlook Weakens",
-    "fa": "آهن Ore به دو سال پایین به عنوان Outlook Weakens"
+    "en": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    "fa": "مسافران کروز لوکس به دلیل هزینه های سنگین سوخت در کامبوج سرگردان شدند"
    },
    "summary": {
-    "en": "Iron ore dropped to the lowest level in more than two years on a weaker demand outlook and rising supply through year-end.",
-    "fa": "سنگ آهن به پایین ترین سطح در بیش از دو سال در چشم انداز تقاضای ضعیف تر و افزایش عرضه از طریق سال به پایان رسید."
+    "en": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+    "fa": "ویلا Vie Odyssey سفر خود را به حالت تعلیق در می آورد و با مسافران در \"تنظیمات زندگی موقت\" کار می کند."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/japan-life-insurers-swap-into-higher-yield-bonds-to-lift-returns",
-   "published": "2026-10-27T02:43:26+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/commonwealth-bank-now-expects-rba-to-hike-to-4-85-in-november",
+   "published": "2026-10-28T02:52:17+00:00",
    "title": {
-    "en": "Japan Life Insurers Swap Into Higher-Yield Bonds to Lift Returns",
-    "fa": "دانلود بازی ژاپنی Life Insurers به باندهای برتر به Returns"
+    "en": "Commonwealth Bank Now Expects RBA to Hike to 4.85% in November",
+    "fa": "بانک مشترک المنافع در حال حاضر انتظار دارد RBA به Hike تا 4.8٪ در نوامبر"
    },
    "summary": {
-    "en": "Japan’s life insurers are swapping out of lower-yielding bonds into higher-yielding debt as elevated yields create opportunities to boost portfolio returns.",
-    "fa": "بیمه گران زندگی ژاپن از اوراق قرضه پایین تر به بدهی های بالاتر تبدیل می شوند، زیرا بازده بالا فرصت هایی برای افزایش بازده نمونه کارها ایجاد می کند."
+    "en": "Commonwealth Bank of Australia now sees the Reserve Bank raising interest rates to 4.85% in November, economist Belinda Allen said in a research note on Wednesday.",
+    "fa": "بانک مشترک المنافع استرالیا در حال حاضر شاهد افزایش نرخ بهره بانک رزرو به 4.85٪ در ماه نوامبر است، اقتصاددان بیندا آلن در یادداشت تحقیقاتی روز چهارشنبه گفت."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/arts-culture/music/jay-z-announced-as-super-bowl-halftime-star-82b485fc?mod=pls_whats_news_us_business_f",
-   "published": "2026-10-27T02:11:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/jio-looks-to-break-india-mega-ipo-jinx-with-a-blockbuster-stock-market-debut",
+   "published": "2026-10-28T02:35:31+00:00",
    "title": {
-    "en": "Jay-Z Announced as Super Bowl Halftime Star",
-    "fa": "جی زی به عنوان Super Bowl Halftime Star معرفی شد"
+    "en": "Jio Looks to Break India Mega-IPO Jinx With a Blockbuster Stock-Market Debut",
+    "fa": "Jio به نظر می رسد هند Mega-IPO Jinx را با Blockbuster Stock-Market Debut"
    },
    "summary": {
-    "en": "The rapper owns Roc Nation, the entertainment company that helps the NFL book the show.",
-    "fa": "این رپ صاحب روملت، شرکت سرگرمی است که به کتاب NFL کمک می کند."
+    "en": "A gray-market premium of about 22% suggests investors are betting on a strong start.",
+    "fa": "یک حق بیمه بازار خاکستری حدود 22 درصد نشان می دهد که سرمایه گذاران روی یک شروع قوی شرط بندی می کنند."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-fed-decision-0d81a31b?mod=rss_markets_main",
-   "published": "2026-10-27T02:04:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/27/business/media/candace-owens-macron-defamation-case.html",
+   "published": "2026-10-28T02:19:44+00:00",
    "title": {
-    "en": "Asian Currencies Consolidate as Focus Turns to Fed Decision",
-    "fa": "ضعف های آسیایی به عنوان Focus Turns به تصمیم فدرال رزرو"
+    "en": "Judge Limits Candace Owens’s Liability in Macron Defamation Case",
+    "fa": "قاضی محدودیت های مسئولیت اوزون را در پرونده معافیت ماکرون"
    },
    "summary": {
-    "en": "Asian currencies consolidated against the U.S. dollar in early trade. Tuesday’s session is expected to be dominated by the lead up to Wednesday’s Federal Reserve rate decision.",
-    "fa": "ارزهای آسیایی با دلار آمریکا در تجارت اولیه ادغام شدند. انتظار می رود جلسه سه شنبه تحت سلطه تصمیم فدرال رزرو چهارشنبه قرار گیرد."
+    "en": "The French president, Emmanuel Macron, and his wife, Brigitte, sued Candace Owens in 2025 over claims she made about Ms. Macron’s gender. A judge said the court had jurisdiction over her companies but not her.",
+    "fa": "رئیس جمهور فرانسه، امانوئل ماکرون، و همسرش، بریتا، در سال 2025، از Candace Owens در مورد ادعاهای او در مورد جنسیت خانم مکرون شکایت کرد. قاضی گفت که دادگاه در مورد شرکت های خود صلاحیت دارد اما نه او."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T01:57:48+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/earnings/sk-hynix-plans-75-billion-in-shareholder-returns-after-blockbuster-earnings-f3a460b7?mod=pls_whats_news_us_business_f",
+   "published": "2026-10-28T02:07:00+00:00",
    "title": {
-    "en": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-    "fa": "Healey قول می دهد Marmalade ارزان تر و gherkins در بسته قبل از Budget از \" اصلاحات روزانه\""
+    "en": "SK Hynix Plans $75 Billion in Shareholder Returns After Blockbuster Earnings",
+    "fa": "SK Hynix قصد دارد 75 میلیارد دلار در بازگشت سهام پس از Blockbuster Earnings"
    },
    "summary": {
-    "en": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-    "fa": "صدراعظم تعرفه ها را بر برخی از اصلی ها به عنوان بخشی از برنامه ها برای خانواده ها \"فضای گرم\" متمرکز خواهد کرد."
+    "en": "The South Korean memory-chip maker reported that its net profit more than tripled in the third quarter, while revenue and operating profit hit record highs for a sixth straight quarter.",
+    "fa": "سازنده حافظه کره جنوبی گزارش داد که سود خالص آن در سه ماهه سوم بیش از سه برابر شده است، در حالی که درآمد و سود عملیاتی برای یک چهارم مستقیم ششم رکورد بالایی دارد."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-27T01:48:04+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T00:03:10+00:00",
    "title": {
-    "en": "Apple says it will replace iPhone Duo handsets with screen problems",
-    "fa": "اپل می گوید جایگزین گوشی های iPhone Duo با مشکلات صفحه نمایش خواهد شد"
+    "en": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+    "fa": "مالیات بر بانک ها، کمک های مالی و حداقل افزایش دستمزد - چه چیزی می تواند در بودجه باشد؟"
    },
    "summary": {
-    "en": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-    "fa": "عکس های به اشتراک گذاشته شده آنلاین نشان داد که خطا در صفحه نمایش اولین دستگاه تاشو اپل ظاهر می شود."
+    "en": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+    "fa": "جان صدراعظم Healey برنامه های خود را برای مالیات بریتانیا در ۲۸ اکتبر تنظیم خواهد کرد."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
-   "published": "2026-10-27T00:01:02+00:00",
+   "source": "The Economist",
+   "link": "https://www.economist.com/finance-and-economics/2026/10/27/in-an-ai-blow-up-would-insurance-pay-out",
+   "published": "2026-10-27T22:26:42+00:00",
    "title": {
-    "en": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
-    "fa": "تورم قیمت فروشگاه انگلستان از سال 2024 به عنوان خرده فروشان تلاش برای محدود کردن افزایش قیمت"
+    "en": "In an AI blow-up, would insurance pay out?",
+    "fa": "در یک ضربه هوش مصنوعی، بیمه پرداخت خواهد کرد؟"
    },
    "summary": {
-    "en": "British Retail Consortium says ‘dam is starting to break on the huge wave of costs’ being kept from consumers Shop price inflation has risen to the highest level in two and a half years, according to the British Retail Consortium, which warned that “the dam…",
-    "fa": "کنسرسیوم خرده فروشی بریتانیا می گوید: «دام شروع به شکستن موج عظیمی از هزینه ها می کند» که از قیمت خریداران نگهداری می شود، در دو و نیم سال به بالاترین سطح رسیده است، با توجه به کنسرسیوم خرده فروشی بریتانیا، که هشدار داد « سد ..."
+    "en": "Credit default swaps are back in vogue amid fears of a debt disaster",
+    "fa": "مبادلات پیش فرض اعتباری در میان ترس از یک فاجعه بدهی بازگشته اند"
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "The Economist",
-   "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
-   "published": "2026-10-26T22:23:01+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/27/business/senate-races-kansas-texas-bots.html",
+   "published": "2026-10-27T22:10:26+00:00",
    "title": {
-    "en": "Don’t expect supersize profits from Anthropic any time soon",
-    "fa": "انتظار سودهای فوق العاده از Anthropic در هر زمان به زودی"
+    "en": "Bots Drive Online Chatter About Races in Kansas and Texas",
+    "fa": "Bots Drive Online Chatter درباره مسابقات در کانزاس و تگزاس"
    },
    "summary": {
-    "en": "Lurking in its IPO prospectus are warnings of challenges ahead",
-    "fa": "Lurking در چشم انداز IPO هشدار از چالش های پیش رو"
+    "en": "Much of the online discourse about Senate races in Texas and Kansas is coming from accounts that appear to be automated, according to new research.",
+    "fa": "بسیاری از گفتمان آنلاین در مورد مسابقات سنا در تگزاس و کانزاس از حساب هایی که به نظر می رسد خودکار هستند، با توجه به تحقیقات جدید است."
    }
   },
   {
    "id": "ec9",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
-   "published": "2026-10-26T20:07:18+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/27/ella-baron-autumn-budget-government-import-tariffs-gherkins-cartoon",
+   "published": "2026-10-27T18:23:03+00:00",
    "title": {
-    "en": "Brazilian Markets Convulse After Unexpected Election Result",
-    "fa": "بازارهای برزیل پس از نتیجه انتخابات غیر منتظره"
+    "en": "Ella Baron on the autumn budget – cartoon",
+    "fa": "اللا بارون در بودجه پاییز - کارتون"
    },
    "summary": {
-    "en": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.",
-    "fa": "پیروزی انتخاب مجدد رئیس جمهور Luiz Inácio Lula دا سیلوا باعث بازگشت شدید در بازارهای مالی شد که انتظار داشت حریفش برنده شود."
+    "en": "Continue reading...",
+    "fa": "ادامه خواندن ..."
    }
   },
   {
@@ -373,244 +373,259 @@
    "id": "te11",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-27/alibaba-wins-challenge-to-pentagon-s-chinese-army-blacklisting",
-   "published": "2026-10-27T02:49:25+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/openai-plans-to-buy-google-s-chips-as-part-of-its-ai-build-out",
+   "published": "2026-10-28T01:19:46+00:00",
    "title": {
-    "en": "Alibaba Wins Challenge to Pentagon’s Chinese Army Blacklisting",
-    "fa": "علی بابا برنده چالش در لیست سیاه ارتش چین پنتاگون"
+    "en": "OpenAI Plans to Buy Google’s Chips as Part of Its AI Build-Out",
+    "fa": "OpenAI Plans برای خرید تراشه های گوگل به عنوان بخشی از AI Build-Out"
    },
    "summary": {
-    "en": "Alibaba Group Holding Ltd. won a US court ruling in its challenge to a Department of Defense blacklist that identifies the e-commerce leader as a supporter of the Chinese military.",
-    "fa": "علی بابا Group Holding Ltd، یک حکم دادگاه ایالات متحده را به چالش وزارت دفاع در لیست سیاه که رهبر تجارت الکترونیک را به عنوان یک حامی ارتش چین معرفی می کند، به دست آورد."
+    "en": "OpenAI intends to buy artificial intelligence computing chips from Alphabet Inc.’s Google, according to a person familiar with the matter, part of broader efforts by the ChatGPT maker to build out its AI infrastructure.",
+    "fa": "OpenAI قصد دارد تراشه های محاسباتی هوش مصنوعی را از Google Inc خریداری کند، با توجه به فردی که با این موضوع آشنا است، بخشی از تلاش های گسترده تر توسط سازنده ChatGPT برای ساخت زیرساخت های AI آن است."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-27/bny-cfo-on-ai-strategy-business-growth-video",
-   "published": "2026-10-27T02:31:44+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-28/nvidia-backed-firm-launches-3-1-billion-gpu-loan-into-market",
+   "published": "2026-10-28T01:14:38+00:00",
    "title": {
-    "en": "BNY CFO on AI Strategy, Business Growth",
-    "fa": "BNY CFO در استراتژی AI، رشد کسب و کار"
+    "en": "Nvidia-Backed Firm Launches $3.1 Billion GPU Loan into Market",
+    "fa": "شرکت Nvidia-Backed وام GPU 3.1 میلیارد دلاری را به بازار عرضه می کند"
    },
    "summary": {
-    "en": "Dermot McDonogh, Global CFO at BNY, discusses his outlook on the bank's growth and business strategies, as well as how he is monitoring AI so as to avoid overspending on related tools. He speaks exclusively with Paul Allen and Haidi Stroud Watts on…",
-    "fa": "Dermot McDonogh، Global CFO در BNY، دیدگاه خود را در مورد استراتژی های رشد و کسب و کار بانک، و همچنین چگونگی نظارت بر AI به عنوان جلوگیری از بیش از حد در ابزارهای مرتبط بحث می کند. او به طور انحصاری با پل آلن و Haidi Stroud Watts صحبت می کند."
+    "en": "Zankore, an Indonesian artificial intelligence infrastructure platform backed by Nvidia Corp., is syndicating a $3.1 billion loan to the broader market, according to people familiar with the matter, adding to a flurry of financing for Asia’s AI buildout.",
+    "fa": "Zankore، یک پلت فرم زیرساخت هوش مصنوعی اندونزیایی که توسط شرکت Nvidia پشتیبانی می شود، نشان دهنده یک وام 1.3 میلیارد دلاری به بازار گسترده تر است، با توجه به افرادی که با این موضوع آشنا هستند، اضافه کردن به یک منبع مالی برای ساخت هوش مصنوعی آسیا."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "published": "2026-10-26T23:47:59+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0?mod=rss_Technology",
+   "published": "2026-10-28T00:10:00+00:00",
    "title": {
-    "en": "OpenAI announces three big science discoveries and a new way to work with academics",
-    "fa": "OpenAI سه کشف بزرگ علمی و یک راه جدید برای همکاری با دانشگاهیان را اعلام می کند"
+    "en": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
+    "fa": "ببینید که چگونه Anthropic در ذهن خود را - 40 تریلیون فرصت بازار"
    },
    "summary": {
-    "en": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time…",
-    "fa": "کمتر از یک ماه پس از انتشار انبوه صدها نسخه خطی که گفته می شود شامل راه حل هایی برای سوالات ریاضیات طولانی مدت است، OpenAI با سه کشف بزرگ تر در ریاضیات، علوم کامپیوتر و فیزیک باز می گردد. این بار متفاوت است ..."
+    "en": "The company’s estimated market opportunity, tied to the economic value of work produced by knowledge workers, tops SpaceX’s enormous figure from earlier this year.",
+    "fa": "فرصت بازار تخمین زده شده این شرکت، با ارزش اقتصادی کار تولید شده توسط کارکنان دانش، شخصیت عظیم اسپیس ایکس از اوایل سال جاری مرتبط است."
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-   "published": "2026-10-26T22:36:06+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-28T00:01:10+00:00",
    "title": {
-    "en": "Microsoft offers to buy out a quarter of its workforce",
-    "fa": "مایکروسافت پیشنهاد می کند یک چهارم نیروی کار خود را خریداری کند"
+    "en": "'An annoying buzz': The search for stealthier drones",
+    "fa": "\"یک صدای آزاردهنده\" : جستجو برای هواپیماهای بدون سرنشین"
    },
    "summary": {
-    "en": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
-    "fa": "کارکنان در ایالات متحده، کانادا، هند و انگلستان ممکن است پیشنهاداتی برای ترک MS امروز دریافت کنند."
+    "en": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+    "fa": "همانطور که تحویل هواپیماهای بدون سرنشین رایج تر می شود، سازندگان آنها به دنبال راه هایی برای آرام تر کردن آنها هستند."
    }
   },
   {
    "id": "te15",
    "section": "tech",
    "source": "The Verge",
-   "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-   "published": "2026-10-26T21:56:36+00:00",
+   "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+   "published": "2026-10-27T22:55:05+00:00",
    "title": {
-    "en": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-    "fa": "سوئیچ 2 Ready MicroSD Express سامسونگ برای فروش کمتر از 50 دلار"
+    "en": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+    "fa": "به همین دلیل لولای آیفون Duo می تواند صفحه نمایش را خراب کند"
    },
    "summary": {
-    "en": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller card…",
-    "fa": "اجرای فضا در Nintendo Switch 2 خوشبختانه، کارت P9 MicroSD Express سامسونگ در خرده فروشان مختلف تخفیف داده می شود، با نسخه 256 گیگابایتی که به قیمت 47.99 دلار (آمازون، B&H Photo) و نسخه 512GB 99 دلار (آمازون، B&H Photo) پرداخت می شود. کارت کوچکتر ..."
+    "en": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the…",
+    "fa": "در عرض چند ساعت از راه اندازی آیفون Duo در جمعه گذشته، مردم گزارش دادند که صفحه داخلی بر روی برخی از تلفن های تاشو جدید در حال حاضر شکسته شده است. این مسئله در بسیاری از عکس های به اشتراک گذاشته شده در رسانه های اجتماعی مشابه بود: برخی از مسائل یا کرک ها در ..."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/opinion/anthropic-ipo-investors-regulation-dario-amodei-c7339185?mod=rss_Technology",
-   "published": "2026-10-26T21:41:00+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+   "published": "2026-10-27T22:37:30+00:00",
    "title": {
-    "en": "Opinion | Anthropic’s Big IPO Gamble",
-    "fa": "دانلود بازی Anthropic's Big IPO Gamble"
+    "en": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+    "fa": "اپل iMac را تازه می کند، MacBook Pro در سطح ورودی با تراشه M6"
    },
    "summary": {
-    "en": "The company says it could save humanity or destroy it. Investors, place your bets.",
-    "fa": "این شرکت می گوید که می تواند انسانیت را نجات دهد یا آن را نابود کند. سرمایه گذاران، شرط های خود را قرار دهید."
+    "en": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+    "fa": "علاوه بر این، تراشه N1 Wi-Fi 7 و بلوتوث 6 را به ارمغان می آورد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-   "published": "2026-10-26T20:27:00+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_Technology",
+   "published": "2026-10-27T21:21:00+00:00",
    "title": {
-    "en": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-    "fa": "کرم ها در چشم انسان قرار می گیرند، درست قبل از اینکه لارو منفجر شود، بیرون می آیند."
+    "en": "Apple Knows Some iPhone Duos Have a Major Issue",
+    "fa": "اپل می داند که برخی از iPhone Duos دارای یک مشکل بزرگ است"
    },
    "summary": {
-    "en": "Case study gives a whole new meaning to \"bedroom eyes.\"",
-    "fa": "مطالعه موردی یک مفهوم کاملا جدید به \"چشم های اتاق خواب\" می دهد."
+    "en": "Plus, Brazil canceled Flávio Bolsonaro’s passport, and a $300 billion “debt wall” is looming over private-equity backed companies.",
+    "fa": "علاوه بر این، برزیل گذرنامه فلاشو بولسونارو را لغو کرد و 300 میلیارد دلار \"دیوار بدهی\" از شرکت های خصوصی پشتیبانی می کند."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
-   "published": "2026-10-26T20:21:28+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-27T20:30:00+00:00",
    "title": {
-    "en": "The Key Numbers From Anthropic’s IPO Filing",
-    "fa": "شماره های کلیدی از IPO فیلیپین"
+    "en": "Tech Life",
+    "fa": "تکنولوژی زندگی"
    },
    "summary": {
-    "en": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
-    "fa": "ما ارقام کلیدی شرکت A.I را شکست دادیم که به سلامت کسب و کار، برنامه های آینده و کسانی که مسئول آن هستند، بینش می دهد."
+    "en": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis.",
+    "fa": "ما از Ondřej Surý می شنویم، برنامه نویس که پچ های PHP به جلوگیری از یک بحران سایبری کمک کرد."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-26T19:57:23+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+   "published": "2026-10-27T18:20:48+00:00",
    "title": {
-    "en": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    "fa": "لیست اشتراک گذاری بلاکبوتر Anthropic – 5 چیز شگفت انگیز که اکنون می دانیم"
+    "en": "Wanted: Robot-Dog Walkers. $20/Hour.",
+    "fa": "نام فیلم: Robot-Dog Walkers 20 دلار / ساعت"
    },
    "summary": {
-    "en": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-    "fa": "چشم انداز IPO Anthropic 355 صفحه و پر از هرگز قبل از افشای اطلاعات شرکت است."
+    "en": "No pooper scooper required.",
+    "fa": "نیازی به مدفوع نیست."
    }
   },
   {
    "id": "te20",
    "section": "tech",
    "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-   "published": "2026-10-26T17:45:43+00:00",
+   "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+   "published": "2026-10-27T12:10:00+00:00",
    "title": {
-    "en": "Will the real Anthropic please stand up",
-    "fa": "دانلود زیرنویس فارسی فیلم Will The Real Anthropic"
+    "en": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "fa": "دانلود بازی Anthropic’s IPO، شبکه های برق هوشمند و قرص های ورزشی"
    },
    "summary": {
-    "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are…",
-    "fa": "این داستان در ابتدا در الگوریتم، خبرنامه هفتگی ما در AI ظاهر شد. برای دریافت داستان هایی مانند این در جعبه اول خود، اینجا را ثبت کنید. پس از هفته ها گمانه زنی های ناخوشایند، Anthropic چشم انداز IPO خود را ثبت کرده است. سند 335- صفحه ای (100 صفحه یا ..."
+    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The…",
+    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. آیا آنتروپی واقعی می تواند بایستد؟ پس از هفته ها گمانه زنی های ناخوشایند، Anthropic چشم انداز IPO خود را ثبت کرده است. ..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91628593/brick-night-bedtime-screentime",
-   "published": "2026-10-26T23:00:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+   "published": "2026-10-27T21:00:00+00:00",
    "title": {
-    "en": "Brick has become essential for reducing screen time during the day. Its new device will curb your pre-bed scroll",
-    "fa": "آجر برای کاهش زمان صفحه نمایش در طول روز ضروری شده است. دستگاه جدید آن، اسکرول قبل از خواب شما را محدود خواهد کرد"
+    "en": "China’s first AI-generated film to get a theatrical release flops at the box office",
+    "fa": "اولین فیلم تولید شده AI چین برای به دست آوردن یک انتشار تئاتر در دفتر جعبه"
    },
    "summary": {
-    "en": "Since it launched in September 2023, Brick—the NFC-enabled productivity tool that lets users tap their phone to block a set list of apps—has become a popular way to get people to limit their screen time. Now the company wants to bring the simplicity of its…",
-    "fa": "از زمان راه اندازی آن در سپتامبر 2023، آجر - ابزار بهره وری فعال NFC که به کاربران اجازه می دهد تا تلفن خود را برای مسدود کردن یک لیست از برنامه ها - تبدیل به یک راه محبوب برای به دست آوردن مردم برای محدود کردن زمان صفحه نمایش خود. حالا این شرکت می خواهد سادگی خود را ..."
+    "en": "Sanxingdui: Future Past only generated around $180,000 at the box office, despite costing $1.5 million to make.",
+    "fa": "Sanxingdui: Future گذشته تنها حدود 180 هزار دلار در دفتر جعبه تولید کرد، علی رغم هزینه 1.5 میلیون دلار برای ساخت."
    }
   },
   {
    "id": "ma22",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/10/26/anthropic-7-cofounders-pay-parity/",
-   "published": "2026-10-26T21:25:05+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91630776/anthropic-ipo-filing-business-risks-quadruple-other-ai-ipos-weapons-blackmail-rogue-agents",
+   "published": "2026-10-27T20:30:00+00:00",
    "title": {
-    "en": "Anthropic’s 7 cofounders are splitting $200 billion almost evenly, down to the last stock option",
-    "fa": "7 بنیانگذار Anthropic تقریبا 200 میلیارد دلار تقسیم می شوند، به آخرین گزینه سهام"
+    "en": "Anthropic’s 97-page list of business risks is quadruple the length of other AI IPOs. What’s on it: Weapons, blackmail, and more",
+    "fa": "لیست 97 صفحه ای ریسک های کسب و کار Anthropic طول سایر IPO های AI را چهار برابر می کند. چه چیزی در مورد آن است: سلاح، ایمیل و بیشتر"
    },
    "summary": {
-    "en": "The Claude maker’s seven founders are paid under a philosophy of internal pay parity.",
-    "fa": "هفت بنیانگذار کلود تحت یک فلسفه از برابری پرداخت داخلی پرداخت می شود."
+    "en": "In preparation for what could be the biggest initial public offering of stock ever , Anthropic has finally filed its long-awaited prospectus with the Securities and Exchange Commission. That includes a summary of all the potential risks to Anthropic’s…",
+    "fa": "در آماده سازی برای آنچه که می تواند بزرگترین ارائه عمومی اولیه سهام تا به حال باشد، Anthropic در نهایت ارائه چشم انداز طولانی مدت خود را با کمیسیون اوراق بهادار و مبادله. این شامل خلاصه ای از تمام خطرات بالقوه برای Anthropic است."
    }
   },
   {
    "id": "ma23",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/",
-   "published": "2026-10-26T21:22:29+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91630739/ozempic-is-changing-how-americans-spend-money-and-the-numbers-are-startling",
+   "published": "2026-10-27T20:04:08+00:00",
    "title": {
-    "en": "Microsoft offers buyouts to nearly 30% of workforce in ongoing AI shift",
-    "fa": "مایکروسافت پیشنهاد می کند تا نزدیک به 30٪ از نیروی کار در تغییر مداوم AI"
+    "en": "Ozempic is changing how Americans spend money, and the numbers are startling",
+    "fa": "اوزempic در حال تغییر است که چگونه آمریکایی ها پول خرج می کنند و اعداد در حال کاهش است."
    },
    "summary": {
-    "en": "The software giant has been cutting headcount to trim costs while investing billions to build out AI data centers.",
-    "fa": "غول نرم افزار در حال کاهش حساب برای کاهش هزینه ها در حالی که سرمایه گذاری میلیاردها دلار برای ساخت مراکز داده AI است."
+    "en": "Millions of Americans are spending potentially hundreds of dollars each month on GLP-1 medications, but that comes at a cost: Their weight-loss journey is shaking up how they spend their money. In the five years since these medications were approved for…",
+    "fa": "میلیون ها آمریکایی به طور بالقوه صدها دلار در هر ماه را در داروهای GLP-1 هزینه می کنند، اما این هزینه به همراه دارد: سفر از دست دادن وزن آنها تکان دادن چگونگی خرج کردن پول خود است. در پنج سال پس از تایید این داروها..."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91629791/wendys-closing-stores-list-shuttered-locations-likely-to-grow",
-   "published": "2026-10-26T21:10:00+00:00",
+   "link": "https://www.fastcompany.com/91630201/the-generation-that-hates-work-the-most-isnt-the-one-you-think",
+   "published": "2026-10-27T20:00:00+00:00",
    "title": {
-    "en": "Wendy’s store closures: Franchisee could close another 60 locations in Chapter 11 bankruptcy",
-    "fa": "تعطیلی فروشگاه وندی: حق رای می تواند 60 مکان دیگر را در فصل 11 ورشکستگی تعطیل کند"
+    "en": "The generation that hates work the most isn’t the one you’d think",
+    "fa": "نسلی که از کار نفرت دارد، چیزی نیست که فکر می کنید"
    },
    "summary": {
-    "en": "One of Wendy’s biggest franchisees is moving to potentially close as many as 60 restaurants, adding to the dozens of stores it has already closed this year. The move comes after the franchisee, Meritage Hospitality Group, filed for Chapter 11 bankruptcy…",
-    "fa": "یکی از بزرگترین حق رای دهندگان وندی در حال حرکت به طور بالقوه نزدیک به 60 رستوران، اضافه کردن به ده ها فروشگاه که در حال حاضر بسته است. این حرکت پس از حق رای، گروه مهمان نوازی با شایستگی، ثبت شده برای فصل 11 ورشکستگی..."
+    "en": "Disliking your job is wildly common. But according to new research, feelings about work vary greatly from generation to generation. And when it comes to being the least content with their chosen profession, members of one age group stand out from the rest as…",
+    "fa": "جدا کردن شغل شما بسیار رایج است. اما با توجه به تحقیقات جدید، احساسات مربوط به کار از نسل به نسل متفاوت است. و هنگامی که می آید به حداقل محتوا با حرفه انتخاب خود، اعضای یک گروه سنی از بقیه به عنوان ..."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/26/beef-imports-reduced-tariffs-falling-short-beef-prices/",
-   "published": "2026-10-26T21:03:24+00:00",
+   "link": "https://fortune.com/2026/10/27/elon-musk-grok-imagine-ai-odyssey-movie-seven-minute-episode-backlash-christopher-nolan-casting-controversy/",
+   "published": "2026-10-27T19:57:42+00:00",
    "title": {
-    "en": "Trump promised 300,000 tons of beef imports at lower tariff rates to reduce grocery costs. Instead, shipments have lagged and prices haven’t budged",
-    "fa": "ترامپ قول داد که ۳۰۰ هزار تن واردات گوشت گاو با نرخ تعرفه پایین تر برای کاهش هزینه های مواد غذایی. در عوض، محموله ها متوقف شده اند و قیمت ها دوباره جوانه زده اند."
+    "en": "Elon Musk promised an AI epic to rival Christopher Nolan’s film. Viewers got a seven-minute glitch",
+    "fa": "ایلان ماسک قول داد که یک حماسه هوش مصنوعی برای رقابت با فیلم کریستوفر نولان باشد. بازدید کنندگان یک glitch هفت دقیقه ای داشتند"
    },
    "summary": {
-    "en": "“The simple assumption there was that if we can just increase supply of beef in the U.S., that should lower prices. Unfortunately, the beef industry is much more complex than that.”",
-    "fa": "فرض ساده این بود که اگر فقط بتوانیم عرضه گوشت گاو را در ایالات متحده افزایش دهیم، باید قیمت ها را کاهش دهیم. متاسفانه صنعت گوشت گاو بسیار پیچیده تر از این است.»"
+    "en": "The first installment of Grok’s “The Odyssey” reveals the persistent gap between generative video hype and cinematic reality.",
+    "fa": "اولین قسط Grok \"The Odyssey\" شکاف مداوم بین هیپنوتیزم ویدئویی و واقعیت سینمایی را نشان می دهد."
    }
   },
   {
    "id": "ma26",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91629305/entrepreneurship-might-be-the-key-to-a-longer-life",
-   "published": "2026-10-26T20:45:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "published": "2026-10-27T19:38:10+00:00",
    "title": {
-    "en": "Entrepreneurship might be the key to a longer life",
-    "fa": "کارآفرینی ممکن است کلید زندگی طولانی تر باشد"
+    "en": "The big takeaways and big questions from Anthropic’s S-1",
+    "fa": "سوالات بزرگ و سوالات بزرگ از S-1 Anthropic"
    },
    "summary": {
-    "en": "If you thought entrepreneurship was too stressful a path to venture down, you might want to reassess. A new study found that there may be a surprising benefit to starting a business: longevity. The study, titled “ Do Entrepreneurs Live Longer? ,” comes from…",
-    "fa": "اگر فکر می کردید کارآفرینی بیش از حد پر تنش است، ممکن است بخواهید ارزیابی کنید. یک مطالعه جدید نشان داد که ممکن است یک مزیت شگفت انگیز برای شروع یک کسب و کار وجود داشته باشد: طول عمر. این مطالعه با عنوان \"آیا کارآفرینان بیشتر زندگی می کنند؟\" از ..."
+    "en": "Anthropic's IPO prospectus shows its current financials are strong—but the risks to its business and, perhaps, all of us loom large.",
+    "fa": "چشم انداز IPO Anthropic نشان می دهد که مالی فعلی آن قوی است - اما خطرات به کسب و کار آن و شاید همه ما بزرگ است."
    }
   },
   {
    "id": "ma27",
+   "section": "management",
+   "source": "MIT Sloan Management Review",
+   "link": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
+   "published": "2026-10-27T11:00:35+00:00",
+   "title": {
+    "en": "What Interruptions Say About Your Organizational Culture",
+    "fa": "آنچه درباره فرهنگ سازمانی شما می گوید"
+   },
+   "summary": {
+    "en": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments that show how culture actually manifests. During meetings, who gets interrupted? Employees notice…",
+    "fa": "رهبران تصاویر مارک ایر یا آیکان تمایل دارند در مورد فرهنگ به صورت انتزاعی صحبت کنند: ارزش ها، هنجارها، اعتماد، تعلق و غیره. اما کارکنان منتظر لحظاتی هستند که نشان می دهند فرهنگ در واقع چگونه آشکار می شود. در جلسه، چه کسی قطع می شود؟ کارکنان متوجه ..."
+   }
+  },
+  {
+   "id": "ma28",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
@@ -625,179 +640,164 @@
    }
   },
   {
-   "id": "ma28",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability",
-   "published": "",
-   "title": {
-    "en": "Pfizer’s Alex Condoleon on medical affairs accountability",
-    "fa": "الکس کاندولیون (Pfizer’s Alex Condoleon) در امور پزشکی"
-   },
-   "summary": {
-    "en": "Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what patient-first really means.",
-    "fa": "مدیر ارشد امور پزشکی Pfizer در مورد اندازه گیری تاثیر واقعی امور پزشکی، تغییر در مقیاس و آنچه بیمار اول واقعا بدان معنی است، صحبت می کند."
-   }
-  },
-  {
    "id": "ma29",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners",
+   "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
    "published": "",
    "title": {
-    "en": "Agentic AI in financial-crime prevention: Lessons from winners",
-    "fa": "هوش مصنوعی در پیشگیری از جرایم مالی: درس هایی از برندگان"
+    "en": "What AI can’t replace—and why it matters for value",
+    "fa": "آنچه AI نمی تواند جایگزین کند و چرا برای ارزش مهم است"
    },
    "summary": {
-    "en": "A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and inspired five key questions that can help institutions scale.",
-    "fa": "یک سال تحویل، بسیاری از آنچه که ما در مورد هوش مصنوعی در پیشگیری از جرایم مالی انتظار داریم را تایید کرده است و پنج سوال کلیدی را الهام گرفته است که می تواند به مقیاس موسسات کمک کند."
+    "en": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change with empathy helps leaders build trust, strengthen relationships, and get the most out of their AI investments.",
+    "fa": "هوش مصنوعی ممکن است بحران ارتباط ما را عمیق تر کند، می گوید که روان شناس تحقیق استنفورد، Jamil zi. مدیریت تغییر با همدلی به رهبران کمک می کند تا اعتماد ایجاد کنند، روابط را تقویت کنند و بیشترین بهره را از سرمایه گذاری های AI خود بگیرند."
    }
   },
   {
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
+   "link": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
    "published": "",
    "title": {
-    "en": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
-    "fa": "ظهور همکار عامل: راهنمای بانکداری CIO به موج بعدی AI"
+    "en": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
+    "fa": "\"دوره های قدیمی و سازگار با شما رفتن\": مصاحبه با Manon van Beek"
    },
    "summary": {
-    "en": "AI agents can increasingly make decisions, act, and collaborate across workflows. Deploying them at scale requires new approaches to governance, architecture, and accountability.",
-    "fa": "عوامل AI می توانند به طور فزاینده ای تصمیم گیری، عمل و همکاری در جریان های کاری را انجام دهند. استقرار آنها در مقیاس نیاز به رویکردهای جدید برای حکمرانی، معماری و پاسخگویی دارد."
+    "en": "As she prepares to step down, the CEO of leading European grid operator TenneT reflects on scaling energy infrastructure, navigating geopolitical shocks, and building resilience amid uncertainty.",
+    "fa": "همانطور که او آماده به گام، مدیر عامل شرکت پیشرو شبکه اروپا TenneT نشان دهنده زیرساخت های انرژی مقیاس، هدایت شوک های ژئوپولیتیک و ایجاد انعطاف پذیری در میان عدم اطمینان است."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/26/bessent-obama-cheesecake-trump-election.html",
-   "published": "2026-10-27T02:37:31+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/44c35ed7-aa46-4d45-91f5-2773f00ae6be",
+   "published": "2026-10-28T03:06:38+00:00",
    "title": {
-    "en": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
-    "fa": "شام در کارخانه کیک پنیر، اوباما را به شوخی Trump"
+    "en": "SK Hynix profits soar amid roaring AI chip demand",
+    "fa": "SK Hynix سود در میان تقاضای تراشه ای درخشان AI"
    },
    "summary": {
-    "en": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
-    "fa": "کارخانه کیک پنیر قبل از انتخابات هفته آینده به عنوان یک نقطه سخنرانی کمپین معرفی شده است، با وزیر خزانه داری اسکات بیسنت دوشنبه آنجا غذا می خورد."
+    "en": "South Korean group announces better than expected quarterly operating profit and will return $75bn to investors this year",
+    "fa": "گروه کره جنوبی اعلام کرد که بهتر از سود عملیاتی سه ماهه انتظار می رود و امسال به سرمایه گذاران 75 میلیارد دلار خواهد رسید."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-   "published": "2026-10-27T02:23:29+00:00",
+   "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+   "published": "2026-10-28T03:02:44+00:00",
    "title": {
-    "en": "China industrial profits post strongest growth in three months, rising 14.4%",
-    "fa": "سود صنعتی چین در سه ماه به شدیدترین رشد خود رسید و 14.4% افزایش یافت."
+    "en": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    "fa": "ترامپ می گوید: «جنگ ایران به پایان خواهد رسید، زمانی که می خواهم آن را به عنوان هزینه ای که به نظر می رسد بالون به ۴۷ میلیارد دلار است، پایان خواهد داد.»"
    },
    "summary": {
-    "en": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
-    "fa": "رونق جهانی AI و قیمت کالاهای بالاتر ناشی از جنگ در ایران، درآمد استخراج کنندگان، تراشه سازان و تامین کنندگان مواد خام را افزایش داده است."
+    "en": "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+    "fa": "بیانیه ترامپ به عنوان گزارشی از هیل منتشر شده است که نشان می دهد هزینه های درگیری ایران به ۴۷ میلیارد دلار رسیده است."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-   "published": "2026-10-27T01:24:28+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/ec7a3e3e-21e3-44de-81ee-db2f2073bee3?syn-25a6b1a6=1",
+   "published": "2026-10-28T02:58:30+00:00",
    "title": {
-    "en": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-    "fa": "چین و روسیه تجارت قطب شمال را از بین می برند. آیا اروپا می تواند بجنگد؟"
+    "en": "Flávio Bolsonaro flees to US after Brazil election defeat",
+    "fa": "فلاشو بولسونارو پس از شکست انتخابات برزیل به آمریکا فرار می کند"
    },
    "summary": {
-    "en": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
-    "fa": "چین و روسیه کنترل خود را در مسیر حمل و نقل قطب شمال سفت می کنند و منطقه به سرعت گرم شدن را به یک میدان نبرد ژئوپولیتیک جدید با اروپا تبدیل می کنند."
+    "en": "Rightwing politician and son of jailed ex-president Jair Bolsonaro arrived in Florida on Tuesday evening",
+    "fa": "جورج بولسونارو، سیاستمدار راستگرا و پسر رئیس جمهور سابق زندان، روز سه شنبه شب به فلوریدا آمد"
    }
   },
   {
    "id": "tr34",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/ae37754c-6200-425d-8f8f-ce0b0f7cc250?syn-25a6b1a6=1",
-   "published": "2026-10-27T00:54:15+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/labubu-pop-mart-third-quarter-earnings.html",
+   "published": "2026-10-28T02:57:36+00:00",
    "title": {
-    "en": "Bolsonaro’s Liberal Party accepts defeat in Brazil as Trump calls result ‘rigged’",
-    "fa": "حزب لیبرال بولسونارو شکست را در برزیل می پذیرد، زیرا ترامپ می گوید که \"تعجب\""
+    "en": "Labubu-maker Pop Mart's shares extend declines as third-quarter sales plunge",
+    "fa": "سهام Labu-maker Pop Mart کاهش به عنوان سقوط فروش سوم"
    },
    "summary": {
-    "en": "US President casts doubt on integrity of South American nation’s election result over extension of voting hours",
-    "fa": "رئیس جمهور آمریکا در مورد یکپارچگی انتخابات کشور آمریکای جنوبی شک و تردید می کند تا زمان رای گیری را تمدید کند"
+    "en": "The company reported a 45% to 50% year-on-year drop in third-quarter revenue.",
+    "fa": "این شرکت گزارش داد که 45 تا 50 درصد کاهش سالانه در درآمد سه ماهه سوم."
    }
   },
   {
    "id": "tr35",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/6b669a41-b629-47ce-8f68-c1ab1bd1320b?syn-25a6b1a6=1",
-   "published": "2026-10-26T22:56:09+00:00",
+   "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+   "published": "2026-10-28T02:43:22+00:00",
    "title": {
-    "en": "US charges ex-FBI chief James Comey for third time",
-    "fa": "آمریکا برای سومین بار جیمز کومی، رئیس سابق FBII را متهم کرد"
+    "en": "No clear winner in Israeli parliamentary election, exit polls suggest",
+    "fa": "هیچ برنده روشنی در انتخابات پارلمانی اسرائیل وجود ندارد، نظرسنجی های خروج نشان می دهد"
    },
    "summary": {
-    "en": "Former official is charged with disclosing national defence information in latest case brought by the Trump administration",
-    "fa": "مقام سابق متهم به افشای اطلاعات دفاع ملی در آخرین مورد به دست دولت ترامپ است"
+    "en": "Benjamin Netanyahu urges rivals to join Jewish coalition and shun Arab parties as neither bloc set for majority",
+    "fa": "بنیامین نتانیاهو از رقبا می خواهد تا به ائتلاف یهودی بپیوندند و از احزاب عربی دوری کنند زیرا هیچ بلوکی برای اکثریت تعیین نمی شود."
    }
   },
   {
    "id": "tr36",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/fe3cb92f-bc25-4db7-8fa8-dff3f1f38348?syn-25a6b1a6=1",
-   "published": "2026-10-26T21:50:06+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+   "published": "2026-10-28T02:15:55+00:00",
    "title": {
-    "en": "Trump offers $1mn reward for tips leading to election fraud conviction",
-    "fa": "Trump ارائه می دهد $ 1 پاداش برای راهنمایی منجر به تقلب در انتخابات"
+    "en": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    "fa": "به نظر می رسد که انتخابات اسرائیل هیچ برنده روشنی با نتانیاهو ندارد، رقیب اوسکوت بسیار کوتاه از اکثریت"
    },
    "summary": {
-    "en": "US president offers payout days before midterm vote that will shape balance of power in Congress",
-    "fa": "رئیس جمهور آمریکا روز های پرداختی را قبل از رای گیری میان مدت ارائه می دهد که توازن قدرت در کنگره را شکل خواهد داد."
+    "en": "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+    "fa": "نظرسنجی های خروج نشان می دهد که اتحاد نخست وزیر بنیامین نتانیاهو و بلوک اپوزیسیون Gadi Eisenkot هر دو به خوبی از اعداد مورد نیاز برای تشکیل اکثریت حاکم است."
    }
   },
   {
    "id": "tr37",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/ustr-weighs-extending-pause-on-china-linked-vessel-fees-to-january/872763/",
-   "published": "2026-10-26T20:48:18+00:00",
+   "link": "https://www.supplychaindive.com/news/kroger-taps-rfid-computer-vision-data-to-boost-inventory-management/872819/",
+   "published": "2026-10-27T17:49:36+00:00",
    "title": {
-    "en": "USTR weighs extending pause on China-linked vessel fees to January",
-    "fa": "USTR هزینه های کشتی متصل به چین را تا ژانویه افزایش می دهد"
+    "en": "Kroger taps RFID, computer vision data to boost inventory management",
+    "fa": "Kroger به RFID، داده های بینایی کامپیوتر برای افزایش مدیریت موجودی ضربه می زند"
    },
    "summary": {
-    "en": "The suspension is currently set to lift Nov. 9, but the agency said more time would allow the U.S. and China to further negotiations.",
-    "fa": "این تعلیق در حال حاضر برای بالا بردن 9 نوامبر تنظیم شده است، اما این آژانس گفت زمان بیشتری به ایالات متحده و چین اجازه می دهد تا مذاکرات بیشتری انجام دهند."
+    "en": "The grocery chain is providing machine learning insights to suppliers to improve availability while piloting radio frequency identification at 1,500 store bakeries.",
+    "fa": "زنجیره مواد غذایی ارائه بینش یادگیری ماشین به تامین کنندگان برای بهبود در دسترس بودن در حالی که تست تشخیص فرکانس رادیویی در 1500 پخت فروشگاه."
    }
   },
   {
    "id": "tr38",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/usps-to-debut-weekly-fuel-fee-in-2027-matching-fedex-ups-practices/872778/",
-   "published": "2026-10-26T19:12:00+00:00",
+   "link": "https://www.supplychaindive.com/news/ups-gears-up-for-peak-season-with-less-amazon-volume-in-tow/872845/",
+   "published": "2026-10-27T16:06:00+00:00",
    "title": {
-    "en": "USPS to debut weekly fuel fee in 2027, matching FedEx, UPS practices",
-    "fa": "USPS برای شروع هزینه سوخت هفتگی در سال 2027، مطابق با روش های FedEx، UPS"
+    "en": "UPS gears up for peak season with less Amazon volume in tow",
+    "fa": "UPS برای فصل اوج با حجم کمتر آمازون در Tow"
    },
    "summary": {
-    "en": "The surcharge for package shipping services will be tied to diesel and jet fuel prices, which have been climbing this year.",
-    "fa": "هزینه خدمات حمل و نقل بسته به قیمت سوخت دیزل و جت، که در سال جاری افزایش یافته است."
+    "en": "The carrier expects U.S. volume to dip year over year in Q4, but packages from other customer segments are projected to boost revenue.",
+    "fa": "این شرکت انتظار دارد که حجم ایالات متحده در طول سال در Q4 کاهش یابد، اما بسته های سایر بخش های مشتری برای افزایش درآمد پیش بینی می شود."
    }
   },
   {
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/transportation/japan-s-top-shippers-and-power-producer-unite-on-ammonia-vessels",
+   "link": "https://asia.nikkei.com/business/media-entertainment/japan-s-fandom-economy-rises-as-talent-agency-bankruptcies-hit-record",
    "published": "",
    "title": {
-    "en": "Japan's top shippers and power producer unite on ammonia vessels",
-    "fa": "کشتی های برتر ژاپن و تولید کننده برق در کشتی های آمونیاک متحد شده اند"
+    "en": "Japan's 'fandom' economy rises as talent agency bankruptcies hit record",
+    "fa": "اقتصاد \"فندوم\" ژاپن به عنوان ورشکستگی آژانس استعداد افزایش می یابد"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/consumer/asics-on-nike-s-heels-in-us-market-comeback",
+   "link": "https://asia.nikkei.com/politics/defense/asean-and-quad-defense-chiefs-give-the-philippines-a-diplomatic-test",
    "published": "",
    "title": {
-    "en": "ASICS on Nike's heels in US market comeback",
-    "fa": "ASICS در پاشنه نایک در بازگشت به بازار آمریکا"
+    "en": "ASEAN and Quad defense chiefs give the Philippines a 'diplomatic test'",
+    "fa": "آسه و چهار رئیس دفاع به فیلیپین \"آزمون دیپلماتیک\" می دهند"
    },
    "summary": {
     "en": "",
