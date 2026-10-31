@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T03:19:31+00:00",
- "date": "2026-10-30",
+ "generated_at": "2026-10-31T03:18:02+00:00",
+ "date": "2026-10-31",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -222,110 +222,140 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T03:12:53+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
+   "published": "2026-10-31T03:00:00+00:00",
    "title": {
-    "en": "Binance says crypto worth $6.3bn impacted in suspected hack",
-    "fa": "بایننس می گوید که ارز دیجیتال به ارزش 6.3 میلیارد دلار در هک مشکوک آسیب دیده است"
+    "en": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money",
+    "fa": "تنگنای جدید در AI Build-Out آمریکا: کمبود پول ارزان"
    },
    "summary": {
-    "en": "The firm said roughly $3bn in assets have been frozen and that it will 'cover all losses'.",
-    "fa": "این شرکت اعلام کرد که تقریباً 3 میلیارد دلار دارایی ها یخ زده اند و \"همه ضررها\" را پوشش می دهد."
+    "en": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase.",
+    "fa": "وام دهندگان و سرمایه گذاران در مورد شرط های خود و درخواست شرایط سخت تر، به عنوان AI build-out وارد مرحله جدیدی می شوند."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
-   "published": "2026-10-30T03:07:37+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
+   "published": "2026-10-31T02:32:32+00:00",
    "title": {
-    "en": "Binance Grapples With ‘Security Incident’ That May Cause $6.3 Billion in Losses",
-    "fa": "بایننس گرنت با \"حادث امنیتی\" که ممکن است منجر به 6.3 میلیارد دلار از دست دادن شود"
+    "en": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
+    "fa": "فروش سریع تر ETF BOJ می تواند به برنامه خرج کردن Takaichi کمک کند"
    },
    "summary": {
-    "en": "The world’s largest crypto exchange suspended deposits and withdrawals after an apparent hack.",
-    "fa": "بزرگترین مبادله رمزنگاری جهان پس از یک هک آشکار، سپرده ها و عقب نشینی ها را به حالت تعلیق درآورد."
+    "en": "The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her costly policy agenda.",
+    "fa": "تصمیم بانک ژاپن برای تسریع فروش وجوه مبادله ای می تواند پرداخت های خود را به دولت افزایش دهد و به طور بالقوه به سانتاچی نخست وزیر کمک می کند تا برنامه سیاست پر هزینه خود را تامین کند."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/boj-holds-benchmark-rate-steady-as-expected-after-september-hike",
-   "published": "2026-10-30T03:02:22+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
+   "published": "2026-10-31T02:13:04+00:00",
    "title": {
-    "en": "BOJ Holds Rates, Says Inflation Trend Hits Target For First Time",
-    "fa": "BOJ نرخ ها را نگه می دارد، می گوید: تورم هدف برای اولین بار"
+    "en": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
+    "fa": "روبیو و وزیر خارجه برزیل پس از تنش انتخابات"
    },
    "summary": {
-    "en": "The Bank of Japan held its benchmark rate untouched while indicating for the first time that underlying inflation has reached its 2% target, a milestone that opens the door to a hike in December.",
-    "fa": "بانک ژاپن نرخ معیار خود را دست نخورده در حالی که نشان می دهد برای اولین بار که تورم اساسی به هدف 2٪ خود رسیده است، یک نقطه عطف است که درب را به پیاده روی در ماه دسامبر باز می کند."
+    "en": "Secretary of State Marco Rubio and his Brazilian counterpart agreed to meet in the coming weeks, according to people familiar with the matter, after President Donald Trump’s decision to grant the nation’s defeated right-wing candidate Flávio Bolsonaro refuge…",
+    "fa": "وزیر امور خارجه مارکو روبیو و همتای برزیلی اش توافق کردند که در هفته های آینده با توجه به افرادی که با این موضوع آشنا هستند، ملاقات کنند، پس از تصمیم رئیس جمهور دونالد ترامپ مبنی بر اعطای نامزد راست گرای شکست خورده این کشور، Flávio Bolsonaro."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f?mod=rss_markets_main",
-   "published": "2026-10-30T03:02:00+00:00",
+   "link": "https://www.wsj.com/business/goldfish-campbell-s-soup-shark-gluten-free-crackers-51f0a791?mod=pls_whats_news_us_business_f",
+   "published": "2026-10-31T02:00:00+00:00",
    "title": {
-    "en": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
-    "fa": "Binance Suspends معاملات پس از آن که در بزرگترین سرقت سایبری قرار گرفته است"
+    "en": "‘We Need to Win.’ Inside the Five-Year Quest to Reinvent the Goldfish.",
+    "fa": "\"ما باید برنده شویم\" در طول پنج سال تلاش برای بازسازی ماهی طلایی."
    },
    "summary": {
-    "en": "The crypto exchange says users will be made whole. But hackers made off with an estimated $6.3 billion.",
-    "fa": "تبادل رمزنگاری می گوید که کاربران به طور کامل ساخته خواهند شد. اما هکرها با 6.3 میلیارد دلار تخمین زده اند."
+    "en": "Campbell’s started, abandoned and restarted a project to make the popular children’s snack gluten-free. Finding sales growth is just that hard.",
+    "fa": "شروع کمپبل، رها و راه اندازی یک پروژه برای ایجاد گلوتن محبوب کودکان است. پیدا کردن رشد فروش فقط این سخت است."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/philippine-exports-rise-at-fastest-in-five-years-on-weak-peso-ai-boom",
-   "published": "2026-10-30T02:51:29+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+   "published": "2026-10-31T00:03:24+00:00",
    "title": {
-    "en": "Philippine Exports Rise at Fastest in Five Years on Weak Peso, AI Boom",
-    "fa": "صادرات فیلیپین به سرعت در پنج سال در Weak Peso، AI Boom"
+    "en": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+    "fa": "مرکز داده های Big Tech Blitz از طریق Cash و Scaring Wall St می سوزد."
    },
    "summary": {
-    "en": "Philippine exports rose at their fastest pace in five years, bringing overseas sales to a new record on the back of global electronics demand and a weak peso.",
-    "fa": "صادرات فیلیپین در پنج سال سریع ترین سرعت خود را افزایش داد و فروش خارجی را به یک رکورد جدید در پشت تقاضای جهانی الکترونیک و یک پso ضعیف تبدیل کرد."
+    "en": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
+    "fa": "آمازون روز پنجشنبه به آخرین شرکت تکنولوژی تبدیل شد تا سرمایه گذاری های تورم در A.I را در میان قیمت های سهام اعلام کند."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
    "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-   "published": "2026-10-30T01:30:27+00:00",
+   "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
+   "published": "2026-10-30T23:42:10+00:00",
    "title": {
-    "en": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-    "fa": "مرکز داده های Big Tech Blitz از طریق Cash و Scaring Wall St می سوزد."
+    "en": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
+    "fa": "سیاست های مراقبت از اوباما دوباره با Steep Premium افزایش 2027"
    },
    "summary": {
-    "en": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-    "fa": "آمازون روز پنجشنبه به آخرین شرکت تکنولوژی تبدیل شد تا سرمایه گذاری های تورم در A.I را در میان قیمت های سهام اعلام کند."
+    "en": "Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.",
+    "fa": "حق بیمه ها در سال آینده به طور متوسط ۱۳ درصد برای میلیون ها آمریکایی افزایش خواهند یافت که در بالای یک افزایش شیب دار قبلی قرار دارند. این امر به مشکلاتی که با برنامه مواجه شده است، که دولت ترامپ تضعیف کرده است، اضافه می کند."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T00:00:35+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-30T21:34:32+00:00",
    "title": {
-    "en": "From workshops to the catwalk - why mended clothes are going mainstream",
-    "fa": "از کارگاه ها تا پیاده روی گربه – چرا لباس های مردانه در حال رفتن هستند"
+    "en": "Soaring cost of Halloween treats spooks shoppers",
+    "fa": "هزینه های شگفت انگیز هالووین با خریداران"
    },
    "summary": {
-    "en": "A new generation is embracing eye-catching patching and visible mends.",
-    "fa": "نسل جدید در حال جذب پچ های چشم نواز و مردان قابل مشاهده است."
+    "en": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+    "fa": "قیمت آب نبات، به ویژه شکلات، بالا است و شکارچیان معامله هالووین به دنبال معامله و راه هایی برای کاهش هزینه هستند."
    }
   },
   {
    "id": "ec8",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
+   "published": "2026-10-30T21:12:33+00:00",
+   "title": {
+    "en": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
+    "fa": "شرط های مشکوک بازگشت به 149000 پوند برای پیش بینی Ballon d'Or"
+   },
+   "summary": {
+    "en": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-five finishing order of this year’s Ballon d’Or and generated almost $200,000 (£149,000) in…",
+    "fa": "شرط ها پیش بینی می کنند که به طور دقیق به پایان رساندن سفارش پنج مرد در فرانسه فوتبال با پلیس مجموعه ای از شرط های مشکوک تماس گرفته است که به درستی پیش بینی شده است سفارش دقیق به پایان رساندن توپون D امسال و تولید تقریبا 2000.000 (149000 پوند) در ..."
+   }
+  },
+  {
+   "id": "ec9",
+   "section": "economy",
+   "source": "Deutsche Welle",
+   "link": "https://www.dw.com/en/germany-news-merz-hopes-for-korean-reunification-at-dmz/live-79803462?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-10-30T14:46:00+00:00",
+   "title": {
+    "en": "Germany news: Merz hopes for Korean reunification at DMZ",
+    "fa": "اخبار آلمان: Merz امیدوار است که اتحاد کره ای در DMZ"
+   },
+   "summary": {
+    "en": "Chancellor Friedrich Merz has expressed hope for Korean reunification during a visit to the heavily fortified border. Meanwhile, President Steinmeier has held talks with China's Xi Jinping in Beijing.",
+    "fa": "رئیس جمهور Friedrich Merz ابراز امیدواری برای اتحاد کره در طول بازدید از مرز به شدت تقویت شده است. در همین حال، رئیس جمهور Steinmeier مذاکراتی با شی جین پینگ چین در پکن برگزار کرده است."
+   }
+  },
+  {
+   "id": "ec10",
    "section": "economy",
    "source": "The Economist",
    "link": "https://www.economist.com/business/2026/10/29/googles-500bn-bloodbath-reflects-the-danger-it-faces-from-ai",
@@ -340,273 +370,243 @@
    }
   },
   {
-   "id": "ec9",
-   "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture",
-   "published": "2026-10-29T21:23:02+00:00",
-   "title": {
-    "en": "Amazon gives Wall Street mixed financial picture in earnings report",
-    "fa": "آمازون تصویر مالی مخلوط وال استریت را در گزارش درآمد ارائه می دهد"
-   },
-   "summary": {
-    "en": "E-commerce company posts high cloud computing sales but gives a cautious sales forecast for the fourth quarter Amazon offered a mixed picture of its financial health on Thursday in its quarterly earnings report. The e-commerce company gave a cautious sales…",
-    "fa": "شرکت تجارت الکترونیک فروش محاسبات ابری بالا را پست می کند، اما پیش بینی فروش محتاطانه را برای ربع چهارم آمازون ارائه می دهد تصویر ترکیبی از سلامت مالی آن در روز پنج شنبه در گزارش درآمد سه ماهه خود. شرکت تجارت الکترونیک به فروش محتاطانه ای پرداخت کرد..."
-   }
-  },
-  {
-   "id": "ec10",
-   "section": "economy",
-   "source": "Deutsche Welle",
-   "link": "https://www.dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971?maca=en-rss-en-bus-2091-rdf",
-   "published": "2026-10-29T16:30:00+00:00",
-   "title": {
-    "en": "India increases growth forecast for fiscal year",
-    "fa": "هند پیش بینی رشد را برای سال مالی افزایش می دهد"
-   },
-   "summary": {
-    "en": "India's Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability in the Middle East.",
-    "fa": "وزارت دارایی هند پیش بینی های رشد خود را برای سال مالی فعلی افزایش داده است. اما در مورد تورم، به ویژه برای سوخت و انرژی، در میان بی ثباتی مداوم در خاورمیانه هشدار داد."
-   }
-  },
-  {
    "id": "te11",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
-   "published": "2026-10-30T01:43:55+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-31T02:12:19+00:00",
    "title": {
-    "en": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth",
-    "fa": "تکنولوژی بزرگ 750 میلیارد دلاری AI شرط Collides با رشد هسته ای آهسته"
+    "en": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "fa": "چرا هکرهای «ملایت» کره شمالی اولین مظنون در هک بزرگ بایننس هستند؟"
    },
    "summary": {
-    "en": "The core businesses of America’s technology giants — the advertising, consumer and retail machines propping up a collective $750 billion in AI spending this year — are starting to show signs of slowing. In some cases, they’re being cannibalized by the very…",
-    "fa": "کسب و کارهای اصلی غول های فناوری آمریکا – تبلیغات، مصرف کننده و خرده فروشی که در سال جاری میلادی ۷۵۰ میلیارد دلار در هزینه های AI هزینه می کنند – شروع به نشان دادن نشانه های کند شدن می کنند. در برخی موارد، آنها توسط ..."
+    "en": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    "fa": "اگر این اتهامات درست باشد، اویست ثبت شده نشان می دهد که هکرهای کره شمالی چقدر قدرتمند هستند."
    }
   },
   {
    "id": "te12",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
-   "published": "2026-10-30T01:37:51+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?mod=rss_Technology",
+   "published": "2026-10-31T01:56:00+00:00",
    "title": {
-    "en": "Odd Lots: What Wall Street Really Thinks About the AI Trade Now",
-    "fa": "عجیب و غریب: آنچه وال استریت واقعا فکر می کند درباره تجارت AI Now"
+    "en": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+    "fa": "OpenAI کمتر از نیمی از 30 میلیارد هدف را در آخرین دور افزایش می دهد"
    },
    "summary": {
-    "en": "It has been a big week for the AI trade — Anthropic's IPO filing, Microsoft beating earnings estimates. Reaction in the markets has been mixed as concerns about the AI boom grows. Global head of equities tactical strategies at Barclays, Alexander Altmann…",
-    "fa": "این یک هفته بزرگ برای تجارت AI - ثبت IPO Anthropic، مایکروسافت برآورد درآمد ضرب و شتم است. واکنش در بازار مخلوط شده است زیرا نگرانی در مورد رونق AI رشد می کند. رئیس جهانی استراتژی های تاکتیکی در Barclays، الکساندر Altmann"
+    "en": "The ChatGPT maker’s latest funding round values it at $1.25 trillion, less than its $1.4 trillion target.",
+    "fa": "آخرین سرمایه گذاران ChatGPT آن را با قیمت 1.25 تریلیون دلار، کمتر از 1.4 تریلیون دلار ارزش گذاری می کنند."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-   "published": "2026-10-29T23:57:18+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?mod=rss_Technology",
+   "published": "2026-10-31T01:00:00+00:00",
    "title": {
-    "en": "The director of Obsession put a new horror short on YouTube",
-    "fa": "مدیر وسواس یک وحشت جدید را در YouTube قرار داد"
+    "en": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
+    "fa": "باهوش ترین افراد در AI معتقدند که این مهم ترین نمودار جهان است"
    },
    "summary": {
-    "en": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's…",
-    "fa": "کری بارکر، مدیر فیلم ترسناک، فقط یک وحشت جدید را در YouTube منتشر کرد. کوتاه مدت، با عنوان \" خرس ماما\" تقریبا پنج دقیقه طول دارد. این ویدیو بسیار ناخوشایند است و هشدار منصفانه است که کمی گرافیکی می شود، اما ..."
+    "en": "AI is starting to build better AI. This self-improvement is speeding up research and development—and freaking everyone out.",
+    "fa": "AI شروع به ساخت هوش مصنوعی بهتر می کند. این پیشرفت شخصی سرعت تحقیق و توسعه را افزایش می دهد و همه را از بین می برد."
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-   "published": "2026-10-29T23:48:25+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+   "published": "2026-10-31T00:07:22+00:00",
    "title": {
-    "en": "Intel says it’s selling every affordable laptop chip it can make",
-    "fa": "اینتل می گوید که فروش هر تراشه لپ تاپ مقرون به صرفه است."
+    "en": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+    "fa": "ناسا بار دیگر از ایده هایی برای نجات هابل از مرگ خاصی درخواست می کند."
    },
    "summary": {
-    "en": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wildcat…",
-    "fa": "در طول آخرین تماس های درآمد اینتل، مدیر عامل شرکت Lip-Bu Tan گفت که تقاضا برای تراشه های دریاچه Wildcat متمرکز بر بودجه آن \" عرضه را کاهش می دهد.\" به گفته CFO David Zinsner، تراشه ها در حال حاضر فروخته می شوند. Zinsner گفت که اینتل رشد قابل توجهی در Wildcat دارد."
+    "en": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+    "fa": "آژانس فضایی چهار سال پیش ایده هایی را برای بازسازی هابل مطرح کرد، اما آنها به هیچ جایی نرفتند."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/earnings/intel-shares-tumble-on-lower-profit-weak-guidance-a2bdcdd8?mod=rss_Technology",
-   "published": "2026-10-29T22:33:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+   "published": "2026-10-30T23:39:37+00:00",
    "title": {
-    "en": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook",
-    "fa": "اینتل بیش از 20٪ را در چشم انداز ضعیف PC-Market به اشتراک می گذارد"
+    "en": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
+    "fa": "هک می تواند AO3 را ترک کند، یک سایت محبوب داستانی طرفداران، آفلاین برای هفته ها"
    },
    "summary": {
-    "en": "The chip maker warned that challenges in the segment, driven by high memory-chip prices, will continue into 2028.",
-    "fa": "سازنده تراشه هشدار داد که چالش های موجود در بخش، با توجه به قیمت های بالای تراشه، به 2028 ادامه خواهد داد."
+    "en": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
+    "fa": "AO3، که میزبان 18 میلیون داستان است که از امثال \"هری پاتر\" و \"بازنماز\" جدا شده است، پس از \"یک نفوذ\"، یکی از بنیانگذاران آن گفت."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/amazon-amzn-q3-earnings-report-2026-stock-a0b92f17?mod=rss_Technology",
-   "published": "2026-10-29T22:13:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
+   "published": "2026-10-30T22:49:08+00:00",
    "title": {
-    "en": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
-    "fa": "آمازون سهام در وال استریت خانم، علی رغم بزرگترین رشد ابرها در سال ها"
+    "en": "NYSE Owner Plans Hyperliquid Perpetuals Market in US",
+    "fa": "NYSE مالک برنامه های بازار Hyper Liquid Perpetuals در ایالات متحده"
    },
    "summary": {
-    "en": "The online behemoth’s net income topped $20 billion for the third quarter, but free cash flow plunged.",
-    "fa": "درآمد خالص Behemoth آنلاین به 20 میلیارد دلار برای سه ماهه سوم، اما جریان نقدی آزاد سقوط کرد."
+    "en": "Intercontinental Exchange joined forces with one of the market operators behind offshore crypto-trading platform Hyperliquid as it seeks to bring perpetual futures products into US regulated markets. ICE and Trade.xyz are planning a new market for trading…",
+    "fa": "تبادل بین قاره با یکی از اپراتورهای بازار در پشت پلتفرم رمزنگاری خارج از کشور Hyper Liquid پیوست، زیرا به دنبال آن است تا محصولات آینده دائمی را به بازارهای تنظیم شده ایالات متحده وارد کند. ICE و Trade.xyz در حال برنامه ریزی یک بازار جدید برای تجارت هستند."
    }
   },
   {
    "id": "te17",
    "section": "tech",
    "source": "Ars Technica",
-   "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
-   "published": "2026-10-29T21:47:57+00:00",
+   "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+   "published": "2026-10-30T22:36:41+00:00",
    "title": {
-    "en": "Reddit is moving to “a logged-in-only experience,” CEO says",
-    "fa": "Reddit در حال حرکت به \"یک تجربه ثبت شده در تنها\"، مدیر عامل می گوید."
+    "en": "Flesh-eating screwworms spread to third state and are attacking pets",
+    "fa": "کرم های پیچ گوشتی به حالت سوم گسترش یافته و به حیوانات خانگی حمله می کنند"
    },
    "summary": {
-    "en": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-    "fa": "ترافیک جستجوی Reddit \"به طور معناداری\" در سه ماهه گذشته کاهش یافته است."
+    "en": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
+    "fa": "USDA ۷۴ مورد حیوانی را در ایالات متحده شناسایی کرده است زیرا مگس های انگلی در ماه ژوئن مورد حمله قرار گرفته اند."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/29/technology/intel-earnings.html",
-   "published": "2026-10-29T21:17:40+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "published": "2026-10-30T22:32:53+00:00",
    "title": {
-    "en": "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
-    "fa": "اشتراک های اینتل Plunge 20٪ به عنوان A.I هیندرز برخی از بخش های کسب و کار آن"
+    "en": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "fa": "Apple Intelligence در نهایت با iOS 27.3 به چین می آید"
    },
    "summary": {
-    "en": "The chipmaker, whose largest investor is the U.S. government, reported that the A.I. boom’s domino effect had hurt sales to personal computer makers.",
-    "fa": "این تراشه ساز، که بزرگترین سرمایه گذار آن دولت ایالات متحده است، گزارش داد که اثر Domino رونق A.I. فروش را به سازندگان کامپیوتر شخصی آسیب دیده است."
+    "en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th…",
+    "fa": "اپل اطلاعات اپل را در چین با iOS 27.3 راه اندازی خواهد کرد، این شرکت در وب سایت خبری چینی خود، همانطور که توسط MacRumors گزارش شده است، اعلام کرد. ویژگی های Apple Intelligence برای اولین بار در iOS 27.3 بتا در دسترس خواهد بود که قرار است در 4 نوامبر عرضه شود."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-   "published": "2026-10-29T12:10:00+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-10-30T12:04:02+00:00",
    "title": {
-    "en": "The Download: AI agent tracking and climate feedback loops",
-    "fa": "دانلود بازی The Download: AI Agent ردیابی و حلقه های بازخورد آب و هوا"
+    "en": "Google value plunges by $500bn as its own AI search hits ad sales",
+    "fa": "ارزش گوگل به اندازه جستجوی AI خود 500 میلیارد دلار کاهش می یابد"
    },
    "summary": {
-    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the…",
-    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. نظر: ما فورا نیاز به نظارت بر اقدامات عوامل هوش مصنوعی در زمان واقعی داریم - ماdhulika Srikumar و کلر Leib از ..."
+    "en": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+    "fa": "گوگل به شدت نگران سرمایه گذاران بود که سهام آن به شش ماه پایین رسید، پس از آن نشان داد که خلاصه جستجوی خود AI بر درآمد تبلیغات تاثیر می گذارد."
    }
   },
   {
    "id": "te20",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-29T09:31:44+00:00",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+   "published": "2026-10-30T11:30:00+00:00",
    "title": {
-    "en": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-    "fa": "Outcom روش های بررسی سن را پیش از ممنوعیت رسانه های اجتماعی برای کمتر از 16 سال مشخص می کند."
+    "en": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "fa": "برچسب ها: GLP-1s و اختلالات خوردن، شهرهای خودآگاه و مواد شیمیایی همیشگی"
    },
    "summary": {
-    "en": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
-    "fa": "ازcom می گوید که عکس و شناسه دیجیتال، چک بانکی یا تخمین سن صورت می تواند به اثبات اینکه کسی ۱۶ یا بیشتر است، کمک کند."
+    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech…",
+    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. اختلالات خوردن در حال افزایش است. GLP-1 می تواند اوضاع را بدتر کند. داروهای از دست دادن وزن GLP-1 یکی از بزرگترین مواد زیستی هستند."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/29/alphabet-worst-day-google-search-valuation-energy-sector-bofa/",
-   "published": "2026-10-30T00:10:15+00:00",
+   "link": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
+   "published": "2026-10-30T20:40:58+00:00",
    "title": {
-    "en": "Alphabet just had its worst day as a public company. BofA now values Google search at a lower multiple than fossil fuel stocks",
-    "fa": "آلفابت بدترین روز خود را به عنوان یک شرکت عمومی داشت. BofA در حال حاضر ارزش جستجوی گوگل را در چندین کمتر از سهام سوخت فسیلی دارد"
+    "en": "Canada expects to seal a deal in June to become the EU’s first ‘associate member’ — ‘everything short of full EU membership’",
+    "fa": "کانادا انتظار دارد در ماه ژوئن توافق نامه ای را برای تبدیل شدن به اولین عضو اتحادیه اروپا امضا کند - \"همه چیز کوتاه از عضویت کامل اتحادیه اروپا\""
    },
    "summary": {
-    "en": "Search revenue missed forecasts and free cash flow went negative. Bank of America now values Google’s core search business at about 10 times earnings, against 18.7 for the S&P 500.",
-    "fa": "درآمد جستجو پیش بینی های از دست رفته و جریان نقدی آزاد منفی بود. بانک آمریکا در حال حاضر به کسب و کار جستجوی اصلی گوگل در حدود 10 برابر درآمد، در برابر 18.7 برای S&P 500 ارزش می دهد."
+    "en": "Trump has suggested Canada’s proposed EU arrangement could be a “hostile act” and threatened tariffs on Europe if he considered it unfriendly.",
+    "fa": "ترامپ پیشنهاد کرده است که ترتیبات پیشنهادی اتحادیه اروپا کانادا می تواند یک «اقدام خصمانه» باشد و اگر آن را غیر دوستانه تلقی کند، تعرفه های اروپا را تهدید می کند."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/29/amazon-ceo-says-shopping-agents-like-metas-muse-not-great/",
-   "published": "2026-10-29T23:37:04+00:00",
+   "link": "https://fortune.com/2026/10/30/italy-inflation-outpace-us-china-farmer-strike-mozzarella-pasta-shortage/",
+   "published": "2026-10-30T20:39:31+00:00",
    "title": {
-    "en": "Amazon CEO says shopping agents like Meta’s Muse ‘not great’",
-    "fa": "مدیر عامل آمازون می گوید که آژانس های خرید مانند Meta's Muse \"نه عالی\""
+    "en": "Italy’s inflation hits 5.4%, outpacing the U.S. and China, as a farmers’ revolt empties shelves of pasta and mozzarella",
+    "fa": "تورم ایتالیا به ۵.۴ درصد رسید و ایالات متحده و چین را به عنوان قفسه های شورشی کشاورزان پاستا و مقبرهلا آرام کرد."
    },
    "summary": {
-    "en": "In September, Amazon blocked Meta’s popular new AI assistant from accessing its online store.",
-    "fa": "در ماه سپتامبر، آمازون دستیار جدید هوش مصنوعی متا را از دسترسی به فروشگاه آنلاین خود مسدود کرد."
+    "en": "Blockades over diesel costs halted mozzarella and pasta production in the south. Now farmers are joining a national strike.",
+    "fa": "مسدود کردن هزینه های دیزل متوقف شده موزارلا و تولید پاستا در جنوب. اکنون کشاورزان به اعتصاب ملی ملحق می شوند."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/29/patrick-stewart-dies-star-trek-x-men/",
-   "published": "2026-10-29T22:57:11+00:00",
+   "link": "https://fortune.com/2026/10/30/trump-dc-golf-course-truth-social-judge-inquiry-lawyers/",
+   "published": "2026-10-30T20:39:13+00:00",
    "title": {
-    "en": "‘Star Trek’ and ‘X-Men’ icon Patrick Stewart dies at 86: ‘We lost one of the greats of stage and screen today’",
-    "fa": "پاتریک استوارت، \"Star Trek\" و \"X-Men\" در 86 سالگی درگذشت: \"ما یکی از بزرگ های صحنه و صفحه نمایش امروز را از دست دادیم.\""
+    "en": "Trump posted that a public D.C. golf course would close for 15 months — his own officials can’t confirm it and a judge is opening a ‘formal inquiry’",
+    "fa": "ترامپ اعلام کرد که یک دوره گلف عمومی D.C به مدت ۱۵ ماه بسته خواهد شد - مقامات خود نمی توانند آن را تایید کنند و یک قاضی \"تحقیقات رسمی\" را باز می کند."
    },
    "summary": {
-    "en": "Captain Picard and Professor X sails into the undiscovered country.",
-    "fa": "کاپیتان پیکارد و پروفسور ایکس در کشور کشف نشده حرکت می کنند."
+    "en": "The Justice Department filed notice Wednesday night that the plans were real.",
+    "fa": "وزارت دادگستری روز چهارشنبه اعلام کرد که برنامه ها واقعی هستند."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91632505/employee-engagement-in-u-s-hits-lowest-point-in-15-years",
-   "published": "2026-10-29T21:00:00+00:00",
+   "link": "https://www.fastcompany.com/91633207/could-canva-brush-new-ai-feature-end-graphic-design-slop",
+   "published": "2026-10-30T20:30:00+00:00",
    "title": {
-    "en": "Employee engagement in U.S. hits lowest point in 15 years",
-    "fa": "مشارکت کارکنان در ایالات متحده در 15 سال به پایین ترین نقطه رسیده است"
+    "en": "Could Canva’s newest AI feature end graphic design slop?",
+    "fa": "آیا می توان جدیدترین ویژگی AI Canva را طراحی گرافیک نهایی کرد؟"
    },
    "summary": {
-    "en": "Worker engagement in the U.S. has dropped below 30%, to its lowest level since 2011, Gallup reports . Engagement dropped two points from last quarter, equivalent to roughly 3.2 million fewer engaged workers. The share of “actively disengaged” workers rose…",
-    "fa": "مشارکت کارگران در ایالات متحده از سال 2011 به پایین ترین سطح آن کاهش یافته است، گزارش های گالوپ. مشارکت دو امتیاز را از سه ماهه گذشته کاهش داد که معادل حدود 3.2 میلیون کارگر کمتر است. سهم کارگران \"به طور فعال بی طرف\" افزایش یافت ..."
+    "en": "AI slop has a signature style. At a glance, it’s easy to clock the hallmarks of an AI-generated poster : crowded blocks of cliché-ridden text. Cutesy characters straight from the uncanny valley. Inexplicably explosion-filled backgrounds. But Canva might have…",
+    "fa": "AI sl دارای یک سبک امضا است. در یک نگاه، آسان است به ساعت نشانه های یک پوستر تولید شده AI: بلوک های شلوغ از متن کلیشه ای. شخصیت های زیبا مستقیماً از دره غیرcanny. پس زمینه های پر از انفجار اما Canva ممکن است..."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91632538/homebuilding-dr-horton-inside-giant-homebuilder-bet-on-robotics",
-   "published": "2026-10-29T21:00:00+00:00",
+   "link": "https://www.fastcompany.com/91633064/just-before-halloween-a-new-report-reveals-a-frightening-trend-in-americas-housing-market",
+   "published": "2026-10-30T20:15:00+00:00",
    "title": {
-    "en": "Inside giant homebuilder D.R. Horton’s bet on robotic homebuilding",
-    "fa": "در داخل خانه ساز غول پیکر D.R. Horton شرط بر ساخت خانه رباتیک"
+    "en": "Just before Halloween, a new report reveals a frightening trend in America’s housing market",
+    "fa": "درست قبل از هالووین، یک گزارش جدید نشان دهنده یک روند ترسناک در بازار مسکن آمریکا است."
    },
    "summary": {
-    "en": "Want more housing market stories from Lance Lambert’s ResiClub in your inbox? Subscribe to the ResiClub newsletter . D.R. Horton , the nation’s largest homebuilder by volume, has signed a multiyear commercial agreement with Promise Robotics to use the…",
-    "fa": "آیا می خواهید داستان های بازار مسکن بیشتری از لیدل لمبرت در صندوق ورودی خود داشته باشید؟ اشتراک در خبرنامه ResiClub D.R. Horton، بزرگترین خانه ساز کشور با حجم، یک توافق تجاری چند ساله با وعده رباتیک برای استفاده از ..."
+    "en": "Something in the real estate market just got a little less spooky this holiday season. Out of all residential properties in the U.S., the number of homes abandoned during the foreclosure process dropped to 3% in the last quarter, an improvement from 3.3%…",
+    "fa": "چیزی در بازار املاک و مستغلات در این فصل تعطیلات کمی کمتر ترسناک است. از تمام املاک مسکونی در ایالات متحده، تعداد خانه های رها شده در طول فرایند بیمه به 3٪ در سه ماهه گذشته کاهش یافته است، بهبود از 3.3%."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91632358/sam-altman-has-chronic-disappointment-with-mba-students-heres-his-advice-for-young-job-seekers",
-   "published": "2026-10-29T20:30:00+00:00",
+   "link": "https://www.fastcompany.com/91633112/tiktok-has-a-new-halloween-obsession-and-its-not-about-what-people-are-wearing",
+   "published": "2026-10-30T20:07:39+00:00",
    "title": {
-    "en": "Sam Altman has ‘chronic disappointment’ with MBA students. Here’s his advice for young job seekers",
-    "fa": "Sam Altman دارای \"اختلال شدید\" با دانشجویان MBA است. در اینجا توصیه های او برای جویندگان کار جوان"
+    "en": "TikTok has a new Halloween obsession, and it’s not about what people are wearing",
+    "fa": "TikTok دارای وسواس هالووین جدید است و در مورد آنچه مردم می پوشند نیست."
    },
    "summary": {
-    "en": "Sam Altman knows how to play the startup game. Beyond co-founding two companies—the social network Loopt when he was just 20 years old, and OpenAI, which now stands as one of the highest valued unicorns of all time—he’s helped launch dozens of other startups…",
-    "fa": "سام آلتمن می داند که چگونه بازی استارت آپ را انجام دهد. فراتر از ادغام دو شرکت – شبکه اجتماعی زمانی که او فقط 20 ساله بود و OpenAI، که در حال حاضر به عنوان یکی از پر ارزش ترین اسباب بازی های تمام وقت است – او به راه اندازی ده ها استارتاپ دیگر کمک کرد."
+    "en": "A good and creative costume will only go so far this Halloween. Now instead of just the costume, TikTok users are focusing on its reveal. The trend follows a simple template: Users appear wearing normal clothes and no makeup under text that reads “costume…",
+    "fa": "یک لباس خوب و خلاقانه تنها در این هالووین قرار خواهد گرفت. در حال حاضر به جای فقط لباس، کاربران TikTok بر روی نمایش آن تمرکز می کنند. این روند به دنبال یک قالب ساده است: کاربران به نظر می رسد پوشیدن لباس های طبیعی و بدون آرایش تحت متن است که می گوید: \"هزینه ..."
    }
   },
   {
@@ -643,161 +643,161 @@
    "id": "ma29",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+   "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
    "published": "",
    "title": {
-    "en": "Global Economics Intelligence executive summary, September 2026",
-    "fa": "اقتصاد جهانی خلاصه اجرایی اطلاعات، 2026 سپتامبر"
+    "en": "Shapers and Founders: Scaling without losing soul",
+    "fa": "Shapers و بنیانگذاران: مقیاس بدون از دست دادن روح"
    },
    "summary": {
-    "en": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in some economies, but activity indicators see manufacturing and services expanding.",
-    "fa": "بانک های مرکزی برای سفت کردن سیاست های نرخ بهره به عنوان قیمت انرژی تورم سوخت حرکت می کنند؛ رشد در برخی از اقتصاد ها پراکنده به نظر می رسد، اما شاخص های فعالیت تولید و خدمات در حال گسترش است."
+    "en": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial spirit.",
+    "fa": "نگاهی دقیق تر به بنیانگذار موفق آسیا -CEOs نشان می دهد که چگونه آنها کسب و کار خود را بدون قربانی روح کارآفرینی خود را اندازه گیری کرده اند."
    }
   },
   {
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is",
+   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
    "published": "",
    "title": {
-    "en": "The algorithm isn’t the advantage–the team is",
-    "fa": "الگوریتم مزیت نیست – تیم است"
+    "en": "Closing banking’s AI value gap: A CEO guide",
+    "fa": "بستن شکاف ارزش کامپیوتر: راهنمای مدیر عامل"
    },
    "summary": {
-    "en": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data analytics company apart from competitors in this AI era.",
-    "fa": "مدیر عامل FICO Will Lansing می گوید یک فرهنگ مالکیت قوی، نه یک روش محاسباتی دقیق تر، شرکت تجزیه و تحلیل داده ها را جدا از رقبا در این دوره AI تنظیم خواهد کرد."
+    "en": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that turns investment into AI capital that can be deployed again and again.",
+    "fa": "همانطور که پذیرش AI پیش می رود، ارزش زیادی پشت سر گذاشته می شود. رهبران به یک مدل عملیاتی نیاز دارند که سرمایه گذاری را به سرمایه هوش مصنوعی تبدیل می کند که می تواند دوباره و دوباره به کار گرفته شود."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "published": "2026-10-30T03:01:44+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+   "published": "2026-10-31T00:05:08+00:00",
    "title": {
-    "en": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-    "fa": "بزرگترین هک رمزنگاری بر روی 6.3 میلیارد دلار تاثیر می گذارد، زیرا Binance کار می کند"
+    "en": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+    "fa": "OpenAI بودجه هدف را با 10 میلیارد دلار کاهش می دهد، زیرا تکنولوژی Axieties"
    },
    "summary": {
-    "en": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-    "fa": "بایننس تاثیر یک حادثه امنیتی را در 6.3 میلیارد دلار برآورد کرد و حدود 3 میلیارد دلار در دارایی های رمزنگاری یخ زده بود و قول داد که تمام خسارات را پوشش دهد."
+    "en": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+    "fa": "سازنده ChatGPT در حال حاضر به دنبال 20 میلیارد دلار ارزش گذاری 1.25 دلار است، زیرا جاه طلبی های خود را تنظیم می کند."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
-   "published": "2026-10-30T02:54:12+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+   "published": "2026-10-30T22:57:55+00:00",
    "title": {
-    "en": "Binance halts withdrawals after $6.3bn hack",
-    "fa": "بایننس پس از هک 6.3 میلیارد دلار متوقف شد"
+    "en": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+    "fa": "انتخابات مجلس سنای آلاسکا: DOJ می خواهد همه رای ها را برای کاندیدای دوم سولوانا صادر کند"
    },
    "summary": {
-    "en": "World’s biggest crypto exchange appears to have suffered one of the biggest security breaches in the digital asset industry",
-    "fa": "به نظر می رسد بزرگترین مبادله رمزنگاری جهان یکی از بزرگترین نقض های امنیتی در صنعت دارایی دیجیتال بوده است."
+    "en": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+    "fa": "برنده انتخابات آلاسکا می تواند تعیین کند که آیا جمهوریخواهان اکثریت خود را در سنا آمریکا حفظ می کنند یا اینکه دموکرات ها کنترل اتاق را در دست بگیرند."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-   "published": "2026-10-30T01:46:36+00:00",
+   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
+   "published": "2026-10-30T22:52:04+00:00",
    "title": {
-    "en": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
-    "fa": "برخی از صندوق های کاربری PolyMarket به سرقت رفته توسط هکرها؛ تبادل نظر در مورد مقامات U.K."
+    "en": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+    "fa": "جیم کلمر می گوید وقت آن است که به فراتر از تکنولوژی نگاه کنیم. در اینجا ۴ سهام مصرف کننده که دوست دارد"
    },
    "summary": {
-    "en": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-    "fa": "انتظار می رود که این قطع نامه فقط چند روز قبل از اینکه این پلتفرم در طول انتخابات میان دوره ای ایالات متحده تجارت افزایش یابد، صورت گیرد."
+    "en": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+    "fa": "Cramer گفت که سرمایه گذارانی که به دنبال تنوع بیشتر از تجارت AI هستند باید اصل مصرف کننده را در نظر بگیرند."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
-   "published": "2026-10-30T00:21:27+00:00",
+   "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
+   "published": "2026-10-30T22:17:15+00:00",
    "title": {
-    "en": "Has Australia’s push for lower house prices gone too far?",
-    "fa": "آیا فشار استرالیا برای قیمت پایین خانه بسیار زیاد است؟"
+    "en": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
+    "fa": "6.3 میلیارد دلار در 30 دقیقه: بزرگ ترین دزدی جهان"
    },
    "summary": {
-    "en": "Canberra wanted to cool one of the world’s hottest property markets",
-    "fa": "کانبرا می خواست یکی از داغ ترین بازارهای املاک جهان را خنک کند"
+    "en": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
+    "fa": "حمله هکرهای کره شمالی به Binance سرقت رمزنگاری را به مقیاس بی سابقه ای می برد"
    }
   },
   {
    "id": "tr35",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/kroger-accelerates-direct-sourcing-efforts-for-better-cost-control-visibil/872931/",
-   "published": "2026-10-29T16:44:00+00:00",
+   "link": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
+   "published": "2026-10-30T14:52:00+00:00",
    "title": {
-    "en": "Kroger accelerates direct sourcing efforts for better cost control, visibility",
-    "fa": "Kroger سرعت بخشیدن به تلاش های منابع مستقیم برای کنترل بهتر هزینه، دید"
+    "en": "USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B",
+    "fa": "USDA برای تامین 8 پروژه تولید کود در مجموع بیش از 1.3B $"
    },
    "summary": {
-    "en": "The grocery chain seeks to boost first-party procurement volumes to more than 10% while working toward a fully owned import and distribution model.",
-    "fa": "زنجیره مواد غذایی به دنبال افزایش حجم تدارکات شخص اول به بیش از 10٪ در حالی که کار به سمت یک مدل واردات و توزیع کامل است."
+    "en": "The agency said the projects will add production capacity to drive prices lower and reduce the nation’s reliance on nutrients from other countries.",
+    "fa": "این آژانس گفت که این پروژه ها ظرفیت تولید را برای کاهش قیمت ها و کاهش وابستگی کشور به مواد مغذی از کشورهای دیگر اضافه خواهند کرد."
    }
   },
   {
    "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/fedex-drawing-parcel-focused-shippers-to-its-air-freight-services/873182/",
-   "published": "2026-10-29T15:36:00+00:00",
+   "link": "https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/",
+   "published": "2026-10-30T14:45:39+00:00",
    "title": {
-    "en": "FedEx drawing parcel-focused shippers to its air freight services",
-    "fa": "کشتی های بسته متمرکز را به خدمات حمل و نقل هوایی خود"
+    "en": "UPS aims to double RFID-labeled volume from customer locations",
+    "fa": "UPS با هدف دو برابر کردن حجم برچسب RFID از مکان های مشتری"
    },
    "summary": {
-    "en": "Air freight demand from traditionally parcel-centric customers is rising as the carrier pushes for more business in high-value segments like AI and data centers.",
-    "fa": "تقاضای حمل و نقل هوایی از مشتریان سنتی بسته در حال افزایش است، زیرا حامل برای کسب و کار بیشتر در بخش های با ارزش بالا مانند AI و مراکز داده است."
+    "en": "The carrier expects 6 million packages a day will benefit from the offering in 2027, increasing shipper visibility in the process, CEO Carol Tomé said.",
+    "fa": "این شرکت انتظار دارد که 6 میلیون بسته در روز از عرضه در سال 2027 بهره مند شود و در این فرآیند، کارول تام، مدیر عامل این شرکت، افزایش دید ناو را افزایش دهد."
    }
   },
   {
    "id": "tr37",
    "section": "trade",
    "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/aid_29oct26_526_e.htm",
-   "published": "2026-10-29T00:00:00+00:00",
+   "link": "https://www.wto.org/english/news_e/news26_e/gr26_30oct26_534_e.htm",
+   "published": "2026-10-30T00:00:00+00:00",
    "title": {
-    "en": "Global Review 2026 spotlights partnerships for trade and development",
-    "fa": "بررسی جهانی 2026 توجه مشارکت برای تجارت و توسعه"
+    "en": "Global Review concludes with a declaration on partnerships for trade and development",
+    "fa": "بررسی جهانی با اعلام مشارکت برای تجارت و توسعه پایان می یابد"
    },
    "summary": {
-    "en": "\"Developing economies seeking trade success need stronger partnerships with all stakeholders,\" WTO Director-General Ngozi Okonjo-Iweala said in her opening remarks at the 2026 Global Review on 29 October, marking 20 years of the Aid for Trade initiative. Over…",
-    "fa": "\"اقتصاد های پیشرفته به دنبال موفقیت تجاری نیاز به مشارکت قوی تر با تمام ذینفعان\"، مدیر سازمان تجارت جهانی Ngozi Okonjo-Iweala در سخنرانی افتتاحیه خود در 2026 Global Review در 29 اکتبر، نشان داد که 20 سال کمک به ابتکار تجاری است. ..."
+    "en": "Marking the 20th anniversary of the Aid for Trade Initiative, WTO members adopted a declaration on 30 October repositioning the initiative as \"Aid for Trade: partnerships for trade and development\". The declaration was adopted at a meeting of the Committee on…",
+    "fa": "با توجه به سالگرد 20th کمک به ابتکار تجارت، اعضای سازمان تجارت جهانی بیانیه ای را در 30 اکتبر تصویب کردند که این ابتکار را به عنوان \"آدی برای تجارت: مشارکت برای تجارت و توسعه\". این بیانیه در جلسه ای از کمیته در ..."
    }
   },
   {
    "id": "tr38",
    "section": "trade",
    "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+   "link": "https://www.wto.org/english/news_e/news26_e/devel_29oct26_535_e.htm",
    "published": "2026-10-29T00:00:00+00:00",
    "title": {
-    "en": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
-    "fa": "رئیس جمهور Côte d'Ivoire: Re-Globalization فرصتی برای حرکت فراتر از تجارت سنتی"
+    "en": "New report looks at role of South-South and triangular cooperation for trade development",
+    "fa": "گزارش جدید در نقش همکاری جنوب-جنوب و مثلثی برای توسعه تجارت"
    },
    "summary": {
-    "en": "\"Re-globalization presents an opportunity for developing countries to move beyond their traditional areas of specialization in exporting primary products, and to occupy a more prominent place in the spheres of innovation, transformation, industrial production…",
-    "fa": "جهانی شدن فرصتی برای کشورهای در حال توسعه برای فراتر از حوزه های سنتی تخصص خود در صادرات محصولات اولیه و اشغال یک مکان برجسته تر در زمینه های نوآوری، تحول، تولید صنعتی است."
+    "en": "The growing importance of trade between developing economies - South-South trade - is highlighted in a joint publication launched on Day 1 (29 October) of the 10th Global Review of Aid for Trade by the WTO and the United Nations Office for South-South…",
+    "fa": "اهمیت فزاینده تجارت بین اقتصادهای در حال توسعه - تجارت جنوب-جنوب - در یک نشریه مشترک که در روز 1 (29 اکتبر) از 10th Global Review of Aid for Trade توسط سازمان تجارت جهانی و دفتر سازمان ملل متحد برای جنوب-جنوب آغاز شده است، برجسته شده است."
    }
   },
   {
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/markets/china-debt-crunch/pag-to-buy-51-of-china-evergrande-services-arm-for-510m",
+   "link": "https://asia.nikkei.com/spotlight/society/fatal-dog-attacks-test-hong-kong-s-ambitions-for-a-pet-friendly-economy",
    "published": "",
    "title": {
-    "en": "PAG to buy 51% of China Evergrande services arm for $510m",
-    "fa": "PAG برای خرید 51 درصد از خدمات قدیمی چین برای 510 میلیون دلار"
+    "en": "Fatal dog attacks test Hong Kong's ambitions for a pet-friendly economy",
+    "fa": "حملات مرگبار سگ، جاه طلبی های هنگ کنگ برای یک اقتصاد دوستدار حیوانات خانگی را آزمایش می کند"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/economy/bank-of-japan/boj-holds-interest-rates-raises-2027-inflation-outlook",
+   "link": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
    "published": "",
    "title": {
-    "en": "BOJ holds interest rates, raises 2027 inflation outlook",
-    "fa": "BOJ دارای نرخ بهره، افزایش 2027 چشم انداز تورم"
+    "en": "Thailand looks west after 30 years of struggles over Dawei",
+    "fa": "تایلند پس از 30 سال مبارزه با Dawei"
    },
    "summary": {
     "en": "",
