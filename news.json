@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T03:18:02+00:00",
- "date": "2026-10-31",
+ "generated_at": "2026-11-01T03:20:19+00:00",
+ "date": "2026-11-01",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -222,95 +222,110 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/the-new-bottleneck-in-americas-ai-build-out-a-shortage-of-cheap-money-0c14c84d?mod=rss_markets_main",
-   "published": "2026-10-31T03:00:00+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-01T01:59:57+00:00",
    "title": {
-    "en": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money",
-    "fa": "تنگنای جدید در AI Build-Out آمریکا: کمبود پول ارزان"
+    "en": "Shops looted as German cost of living protests turn violent",
+    "fa": "مغازه ها به عنوان هزینه آلمانی تظاهرات زنده به خشونت تبدیل می شوند"
    },
    "summary": {
-    "en": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase.",
-    "fa": "وام دهندگان و سرمایه گذاران در مورد شرط های خود و درخواست شرایط سخت تر، به عنوان AI build-out وارد مرحله جدیدی می شوند."
+    "en": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+    "fa": "پلیس فرانکفورت می گوید: «شورش های خشونت آمیز» در مرکز شهر اتفاق افتاد و ناآرامی ها نیز در برلین، هامبورگ و کلن گزارش شده است."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/boj-faster-etf-sales-may-help-takaichi-spending-plan-non-tax-revenue",
-   "published": "2026-10-31T02:32:32+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues",
+   "published": "2026-11-01T00:25:30+00:00",
    "title": {
-    "en": "BOJ’s Faster ETF Sales May Help Takaichi’s Spending Plan",
-    "fa": "فروش سریع تر ETF BOJ می تواند به برنامه خرج کردن Takaichi کمک کند"
+    "en": "S. Korea Exports Extend Robust Growth as Chip Boom Continues",
+    "fa": "صادرات کره رشد قوی را گسترش می دهد زیرا Chip Boom همچنان ادامه دارد"
    },
    "summary": {
-    "en": "The Bank of Japan’s decision to accelerate sales of exchange-traded funds could boost its payments to the government, potentially helping Prime Minister Sanae Takaichi finance her costly policy agenda.",
-    "fa": "تصمیم بانک ژاپن برای تسریع فروش وجوه مبادله ای می تواند پرداخت های خود را به دولت افزایش دهد و به طور بالقوه به سانتاچی نخست وزیر کمک می کند تا برنامه سیاست پر هزینه خود را تامین کند."
+    "en": "South Korea’s exports maintained strong growth in October, with an artificial intelligence-driven boom continuing to power the trade-reliant economy.",
+    "fa": "صادرات کره جنوبی در ماه اکتبر رشد قوی داشته است و رونق هوش مصنوعی همچنان به قدرت اقتصاد وابسته به تجارت ادامه می دهد."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-meet-brazil-foreign-minister-mauro-vieira-luiz-inacio-lula-flavio-bolsonaro-trump",
-   "published": "2026-10-31T02:13:04+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html",
+   "published": "2026-11-01T00:08:24+00:00",
    "title": {
-    "en": "Rubio and Brazil Foreign Minister to Meet After Election Tension",
-    "fa": "روبیو و وزیر خارجه برزیل پس از تنش انتخابات"
+    "en": "Chili’s Margaritas Rimmed With Degreaser Burn 5 People in North Carolina",
+    "fa": "Margaritas Chili با Degreaser Burn 5 نفر در کارولینای شمالی"
    },
    "summary": {
-    "en": "Secretary of State Marco Rubio and his Brazilian counterpart agreed to meet in the coming weeks, according to people familiar with the matter, after President Donald Trump’s decision to grant the nation’s defeated right-wing candidate Flávio Bolsonaro refuge…",
-    "fa": "وزیر امور خارجه مارکو روبیو و همتای برزیلی اش توافق کردند که در هفته های آینده با توجه به افرادی که با این موضوع آشنا هستند، ملاقات کنند، پس از تصمیم رئیس جمهور دونالد ترامپ مبنی بر اعطای نامزد راست گرای شکست خورده این کشور، Flávio Bolsonaro."
+    "en": "Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.",
+    "fa": "سه مشتری و دو کارمند پس از اینکه یک ماده سنگین با شکر اشتباه گرفته شد، در اطراف دهان خود سوزانده شدند."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/goldfish-campbell-s-soup-shark-gluten-free-crackers-51f0a791?mod=pls_whats_news_us_business_f",
-   "published": "2026-10-31T02:00:00+00:00",
+   "link": "https://www.wsj.com/finance/stocks/ai-investors-are-racing-to-get-insurance-on-the-biggest-market-bet-in-history-a60e296f?mod=rss_markets_main",
+   "published": "2026-11-01T00:00:00+00:00",
    "title": {
-    "en": "‘We Need to Win.’ Inside the Five-Year Quest to Reinvent the Goldfish.",
-    "fa": "\"ما باید برنده شویم\" در طول پنج سال تلاش برای بازسازی ماهی طلایی."
+    "en": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+    "fa": "سرمایه گذاران AI برای دریافت بیمه در بزرگترین شرط بازار در تاریخ"
    },
    "summary": {
-    "en": "Campbell’s started, abandoned and restarted a project to make the popular children’s snack gluten-free. Finding sales growth is just that hard.",
-    "fa": "شروع کمپبل، رها و راه اندازی یک پروژه برای ایجاد گلوتن محبوب کودکان است. پیدا کردن رشد فروش فقط این سخت است."
+    "en": "With trillions of dollars riding on the artificial-intelligence trade, investors, traders and even tech executives are hunting for high-stakes protection.",
+    "fa": "با تریلیون ها دلار در تجارت هوش مصنوعی، سرمایه گذاران، معامله گران و حتی مدیران فناوری به دنبال حفاظت از جذب بالا هستند."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
-   "published": "2026-10-31T00:03:24+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+   "published": "2026-11-01T00:00:00+00:00",
    "title": {
-    "en": "Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
-    "fa": "مرکز داده های Big Tech Blitz از طریق Cash و Scaring Wall St می سوزد."
+    "en": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+    "fa": "راهنمای یک معامله گر آسیایی (Ahead of the America Midterm)"
    },
    "summary": {
-    "en": "Amazon became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
-    "fa": "آمازون روز پنجشنبه به آخرین شرکت تکنولوژی تبدیل شد تا سرمایه گذاری های تورم در A.I را در میان قیمت های سهام اعلام کند."
+    "en": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
+    "fa": "بازارهای سهام هوش مصنوعی آسیا با یک کارت وحشی سیاست جدید ایالات متحده در انتخابات میان مدت مواجه هستند، با این نتیجه به طور بالقوه تجارت فناوری و بخش های انرژی پاک را به دفاع تغییر می دهد."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
    "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-   "published": "2026-10-30T23:42:10+00:00",
+   "link": "https://www.nytimes.com/2026/10/30/business/binance-hack-crypto-price-what.html",
+   "published": "2026-10-31T22:25:51+00:00",
    "title": {
-    "en": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
-    "fa": "سیاست های مراقبت از اوباما دوباره با Steep Premium افزایش 2027"
+    "en": "Binance Lost Over $6 Billion in Crypto Hack. Here’s What to Know.",
+    "fa": "Binance بیش از 6 میلیارد دلار در Crypto Hack از دست داد. این چیزی است که باید بدانیم."
    },
    "summary": {
-    "en": "Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.",
-    "fa": "حق بیمه ها در سال آینده به طور متوسط ۱۳ درصد برای میلیون ها آمریکایی افزایش خواهند یافت که در بالای یک افزایش شیب دار قبلی قرار دارند. این امر به مشکلاتی که با برنامه مواجه شده است، که دولت ترامپ تضعیف کرده است، اضافه می کند."
+    "en": "Hackers made off with around $6 billion in digital currency in what could be the biggest crypto heist in history. Binance said it will cover the losses.",
+    "fa": "هکرها با حدود 6 میلیارد دلار در ارز دیجیتال ساخته شده اند که می تواند بزرگترین سرقت رمزنگاری در تاریخ باشد. بایننس گفت که خسارت ها را پوشش خواهد داد."
    }
   },
   {
    "id": "ec7",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/fashion/2026/oct/31/a-listers-ai-stylists-high-street-brands-fashion-comeback",
+   "published": "2026-10-31T16:00:47+00:00",
+   "title": {
+    "en": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+    "fa": "A-listers و AI Styles: چگونه مارک های خیابانی بالا در حال قرار دادن یک بازگشت مد هستند"
+   },
+   "summary": {
+    "en": "Gap, M&S, Topshop and more are taking a leaf from luxury label playbooks to satisfy savvier generation of shoppers High street brands that boomed in the noughties before the squeeze of both sustainably minded consumers and the rise of ultra-cheap online…",
+    "fa": "Gap، M&S، Topshop و موارد دیگر یک برگ را از کتاب های برچسب لوکس می گیرند تا نسل خریداران را راضی کنند. برندهای خیابانی بالا که قبل از فشرده شدن مصرف کنندگان به طور پایدار و افزایش فوق العاده آنلاین در حال رونق بودند."
+   }
+  },
+  {
+   "id": "ec8",
    "section": "economy",
    "source": "BBC News",
    "link": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
@@ -322,21 +337,6 @@
    "summary": {
     "en": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
     "fa": "قیمت آب نبات، به ویژه شکلات، بالا است و شکارچیان معامله هالووین به دنبال معامله و راه هایی برای کاهش هزینه هستند."
-   }
-  },
-  {
-   "id": "ec8",
-   "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/football/2026/oct/30/ballon-dor-betting-suspicious-cryptocurrency-investigation",
-   "published": "2026-10-30T21:12:33+00:00",
-   "title": {
-    "en": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
-    "fa": "شرط های مشکوک بازگشت به 149000 پوند برای پیش بینی Ballon d'Or"
-   },
-   "summary": {
-    "en": "Bets predicted exact top-five men’s finishing order Organiser France Football has contacted police A series of suspicious bets that correctly predicted the exact top-five finishing order of this year’s Ballon d’Or and generated almost $200,000 (£149,000) in…",
-    "fa": "شرط ها پیش بینی می کنند که به طور دقیق به پایان رساندن سفارش پنج مرد در فرانسه فوتبال با پلیس مجموعه ای از شرط های مشکوک تماس گرفته است که به درستی پیش بینی شده است سفارش دقیق به پایان رساندن توپون D امسال و تولید تقریبا 2000.000 (149000 پوند) در ..."
    }
   },
   {
@@ -373,6 +373,126 @@
    "id": "te11",
    "section": "tech",
    "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-01T01:37:26+00:00",
+   "title": {
+    "en": "These firms you've never heard of are feeding fears the AI bubble could burst",
+    "fa": "این شرکت هایی که تا به حال نشنیده اید، ترس از این دارند که حباب هوش مصنوعی می تواند منفجر شود."
+   },
+   "summary": {
+    "en": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+    "fa": "میزان بدهی های انجام شده توسط مراکز داده در ده ها میلیارد پوند اندازه گیری می شود."
+   }
+  },
+  {
+   "id": "te12",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_Technology",
+   "published": "2026-11-01T00:42:00+00:00",
+   "title": {
+    "en": "South Korea’s Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer",
+    "fa": "صادرات تراشه-Led کره جنوبی تسریع می شود و هدف سالانه تریلیون دلار را نزدیک تر می کند."
+   },
+   "summary": {
+    "en": "",
+    "fa": ""
+   }
+  },
+  {
+   "id": "te13",
+   "section": "tech",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+   "published": "2026-10-31T23:24:11+00:00",
+   "title": {
+    "en": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+    "fa": "A.I. Agents خود را برای کار با این 5 کار قاتل قرار دهید"
+   },
+   "summary": {
+    "en": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+    "fa": "هنگامی که شروع به استفاده از نقاط Muse و OpenAI برای این وظایف می کنید - مانند درخواست شغل و رزرو میز رستوران های سخت - ممکن است هرگز به عقب برگردید."
+   }
+  },
+  {
+   "id": "te14",
+   "section": "tech",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+   "published": "2026-10-31T21:59:09+00:00",
+   "title": {
+    "en": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+    "fa": "FBI کره شمالی را به قیمت 6 میلیارد دلار بایننس Crypto هک مقصر می داند"
+   },
+   "summary": {
+    "en": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
+    "fa": "اف بی آی گفت که کره شمالی مسئول سرقت بیش از ۶ میلیارد دلار در ارزهای دیجیتال در یک حمله هک شده بایننس است."
+   }
+  },
+  {
+   "id": "te15",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+   "published": "2026-10-31T21:06:58+00:00",
+   "title": {
+    "en": "Get in the spirit with these horrors from YouTube",
+    "fa": "با این ترس ها از YouTube وارد روح شوید"
+   },
+   "summary": {
+    "en": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone…",
+    "fa": "به جای توصیه یک فیلم ترسناک یا یک آلبوم ناراحت کننده برای آخرین قسط فصل ترسناک ما، من شما را با یک انتخاب کوچک از فیلم های ترسناک، ناراحت کننده و فقط فیلم های عجیب و غریب ساده از YouTube ارائه می دهم. چیز کمی برای همه وجود دارد..."
+   }
+  },
+  {
+   "id": "te16",
+   "section": "tech",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
+   "published": "2026-10-31T21:04:43+00:00",
+   "title": {
+    "en": "AO3 Fan Fiction Site Is Hacked and Could Be Offline for Weeks",
+    "fa": "هک می تواند AO3 را ترک کند، یک سایت محبوب داستانی طرفداران، آفلاین برای هفته ها"
+   },
+   "summary": {
+    "en": "Home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” the archive was taken down after “an intrusion,” one of its founders said. It could be down for weeks.",
+    "fa": "AO3، که میزبان 18 میلیون داستان است که از امثال \"هری پاتر\" و \"بازنماز\" جدا شده است، پس از \"یک نفوذ\"، یکی از بنیانگذاران آن گفت."
+   }
+  },
+  {
+   "id": "te17",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/personal-tech/home-security-cameras-paranormal-activity-0eb3862f?mod=rss_Technology",
+   "published": "2026-10-31T13:00:00+00:00",
+   "title": {
+    "en": "Do Security Cameras Make Us Feel Safer or Give Us Unnecessary Frights?",
+    "fa": "آیا دوربین های امنیتی ما را امن تر می کنند یا به ما حق های غیر ضروری می دهند؟"
+   },
+   "summary": {
+    "en": "These cameras can provide solace, and even prevent crimes. But they also show us things that are inexplicable, and sometimes downright terrifying.",
+    "fa": "این دوربین ها می توانند آرامش ایجاد کنند و حتی از جرایم جلوگیری کنند. اما آنها همچنین چیزهایی را به ما نشان می دهند که غیرقابل توضیح هستند و گاهی اوقات ترسناک هستند."
+   }
+  },
+  {
+   "id": "te18",
+   "section": "tech",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+   "published": "2026-10-31T11:15:26+00:00",
+   "title": {
+    "en": "Seabirds racing home over the ocean can get jet-lagged",
+    "fa": "Seabirds در سراسر اقیانوس می تواند جت را بگیرد"
+   },
+   "summary": {
+    "en": "A long flight home from feeding grounds messes with birds' internal clocks.",
+    "fa": "یک پرواز طولانی از زمین های تغذیه با ساعت های داخلی پرندگان."
+   }
+  },
+  {
+   "id": "te19",
+   "section": "tech",
+   "source": "BBC News",
    "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
    "published": "2026-10-31T02:12:19+00:00",
    "title": {
@@ -382,126 +502,6 @@
    "summary": {
     "en": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
     "fa": "اگر این اتهامات درست باشد، اویست ثبت شده نشان می دهد که هکرهای کره شمالی چقدر قدرتمند هستند."
-   }
-  },
-  {
-   "id": "te12",
-   "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5?mod=rss_Technology",
-   "published": "2026-10-31T01:56:00+00:00",
-   "title": {
-    "en": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
-    "fa": "OpenAI کمتر از نیمی از 30 میلیارد هدف را در آخرین دور افزایش می دهد"
-   },
-   "summary": {
-    "en": "The ChatGPT maker’s latest funding round values it at $1.25 trillion, less than its $1.4 trillion target.",
-    "fa": "آخرین سرمایه گذاران ChatGPT آن را با قیمت 1.25 تریلیون دلار، کمتر از 1.4 تریلیون دلار ارزش گذاری می کنند."
-   }
-  },
-  {
-   "id": "te13",
-   "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815?mod=rss_Technology",
-   "published": "2026-10-31T01:00:00+00:00",
-   "title": {
-    "en": "The Smartest People in AI Believe This Is the World’s Most Important Chart",
-    "fa": "باهوش ترین افراد در AI معتقدند که این مهم ترین نمودار جهان است"
-   },
-   "summary": {
-    "en": "AI is starting to build better AI. This self-improvement is speeding up research and development—and freaking everyone out.",
-    "fa": "AI شروع به ساخت هوش مصنوعی بهتر می کند. این پیشرفت شخصی سرعت تحقیق و توسعه را افزایش می دهد و همه را از بین می برد."
-   }
-  },
-  {
-   "id": "te14",
-   "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-   "published": "2026-10-31T00:07:22+00:00",
-   "title": {
-    "en": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-    "fa": "ناسا بار دیگر از ایده هایی برای نجات هابل از مرگ خاصی درخواست می کند."
-   },
-   "summary": {
-    "en": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-    "fa": "آژانس فضایی چهار سال پیش ایده هایی را برای بازسازی هابل مطرح کرد، اما آنها به هیچ جایی نرفتند."
-   }
-  },
-  {
-   "id": "te15",
-   "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
-   "published": "2026-10-30T23:39:37+00:00",
-   "title": {
-    "en": "Hack Could Leave AO3, a Popular Fan Fiction Site, Offline for Weeks",
-    "fa": "هک می تواند AO3 را ترک کند، یک سایت محبوب داستانی طرفداران، آفلاین برای هفته ها"
-   },
-   "summary": {
-    "en": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
-    "fa": "AO3، که میزبان 18 میلیون داستان است که از امثال \"هری پاتر\" و \"بازنماز\" جدا شده است، پس از \"یک نفوذ\"، یکی از بنیانگذاران آن گفت."
-   }
-  },
-  {
-   "id": "te16",
-   "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
-   "published": "2026-10-30T22:49:08+00:00",
-   "title": {
-    "en": "NYSE Owner Plans Hyperliquid Perpetuals Market in US",
-    "fa": "NYSE مالک برنامه های بازار Hyper Liquid Perpetuals در ایالات متحده"
-   },
-   "summary": {
-    "en": "Intercontinental Exchange joined forces with one of the market operators behind offshore crypto-trading platform Hyperliquid as it seeks to bring perpetual futures products into US regulated markets. ICE and Trade.xyz are planning a new market for trading…",
-    "fa": "تبادل بین قاره با یکی از اپراتورهای بازار در پشت پلتفرم رمزنگاری خارج از کشور Hyper Liquid پیوست، زیرا به دنبال آن است تا محصولات آینده دائمی را به بازارهای تنظیم شده ایالات متحده وارد کند. ICE و Trade.xyz در حال برنامه ریزی یک بازار جدید برای تجارت هستند."
-   }
-  },
-  {
-   "id": "te17",
-   "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-   "published": "2026-10-30T22:36:41+00:00",
-   "title": {
-    "en": "Flesh-eating screwworms spread to third state and are attacking pets",
-    "fa": "کرم های پیچ گوشتی به حالت سوم گسترش یافته و به حیوانات خانگی حمله می کنند"
-   },
-   "summary": {
-    "en": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-    "fa": "USDA ۷۴ مورد حیوانی را در ایالات متحده شناسایی کرده است زیرا مگس های انگلی در ماه ژوئن مورد حمله قرار گرفته اند."
-   }
-  },
-  {
-   "id": "te18",
-   "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-   "published": "2026-10-30T22:32:53+00:00",
-   "title": {
-    "en": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "fa": "Apple Intelligence در نهایت با iOS 27.3 به چین می آید"
-   },
-   "summary": {
-    "en": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th…",
-    "fa": "اپل اطلاعات اپل را در چین با iOS 27.3 راه اندازی خواهد کرد، این شرکت در وب سایت خبری چینی خود، همانطور که توسط MacRumors گزارش شده است، اعلام کرد. ویژگی های Apple Intelligence برای اولین بار در iOS 27.3 بتا در دسترس خواهد بود که قرار است در 4 نوامبر عرضه شود."
-   }
-  },
-  {
-   "id": "te19",
-   "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-10-30T12:04:02+00:00",
-   "title": {
-    "en": "Google value plunges by $500bn as its own AI search hits ad sales",
-    "fa": "ارزش گوگل به اندازه جستجوی AI خود 500 میلیارد دلار کاهش می یابد"
-   },
-   "summary": {
-    "en": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
-    "fa": "گوگل به شدت نگران سرمایه گذاران بود که سهام آن به شش ماه پایین رسید، پس از آن نشان داد که خلاصه جستجوی خود AI بر درآمد تبلیغات تاثیر می گذارد."
    }
   },
   {
@@ -523,90 +523,90 @@
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/30/canada-eu-associate-member-june-carney/",
-   "published": "2026-10-30T20:40:58+00:00",
+   "link": "https://fortune.com/2026/10/31/china-us-currency-wars-yuan-vs-dollar-pepsi-coke-pretodollar-dedollarization/",
+   "published": "2026-10-31T22:15:08+00:00",
    "title": {
-    "en": "Canada expects to seal a deal in June to become the EU’s first ‘associate member’ — ‘everything short of full EU membership’",
-    "fa": "کانادا انتظار دارد در ماه ژوئن توافق نامه ای را برای تبدیل شدن به اولین عضو اتحادیه اروپا امضا کند - \"همه چیز کوتاه از عضویت کامل اتحادیه اروپا\""
+    "en": "China sees the yuan vs. dollar rivalry like Pepsi vs. Coke, expert says — ‘never the market leader, but serviceable in a pinch’",
+    "fa": "چین رقابت یوآن در برابر دلار مانند پپسی در مقابل را می بیند. کوک، متخصص می گوید: «هرگز رهبر بازار، اما قابل خدمت در یک پیپ»"
    },
    "summary": {
-    "en": "Trump has suggested Canada’s proposed EU arrangement could be a “hostile act” and threatened tariffs on Europe if he considered it unfriendly.",
-    "fa": "ترامپ پیشنهاد کرده است که ترتیبات پیشنهادی اتحادیه اروپا کانادا می تواند یک «اقدام خصمانه» باشد و اگر آن را غیر دوستانه تلقی کند، تعرفه های اروپا را تهدید می کند."
+    "en": "\"Without a far larger pool of renminbi assets that foreigners can freely buy and sell, the renminbi cannot come close to replacing the dollar.\"",
+    "fa": "بدون یک استخر بزرگ تر از دارایی های گرانبی که خارجی ها می توانند آزادانه خرید و فروش کنند، نمی توانند به جایگزینی دلار نزدیک شوند.»"
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/30/italy-inflation-outpace-us-china-farmer-strike-mozzarella-pasta-shortage/",
-   "published": "2026-10-30T20:39:31+00:00",
+   "link": "https://fortune.com/2026/10/31/california-billionaire-wealth-tax-prop-40-revenue-prop-13-texas-taxes/",
+   "published": "2026-10-31T19:41:13+00:00",
    "title": {
-    "en": "Italy’s inflation hits 5.4%, outpacing the U.S. and China, as a farmers’ revolt empties shelves of pasta and mozzarella",
-    "fa": "تورم ایتالیا به ۵.۴ درصد رسید و ایالات متحده و چین را به عنوان قفسه های شورشی کشاورزان پاستا و مقبرهلا آرام کرد."
+    "en": "If California undid its ‘original sin’ and matched Texas on taxing property, it would raise more revenue than the billionaire tax, economists say",
+    "fa": "اگر کالیفرنیا « گناه اصلی» خود را نپذیرفت و تگزاس را در مورد مالیات بر دارایی ها تطبیق داد، درآمد بیشتری نسبت به مالیات میلیاردرها افزایش می یابد."
    },
    "summary": {
-    "en": "Blockades over diesel costs halted mozzarella and pasta production in the south. Now farmers are joining a national strike.",
-    "fa": "مسدود کردن هزینه های دیزل متوقف شده موزارلا و تولید پاستا در جنوب. اکنون کشاورزان به اعتصاب ملی ملحق می شوند."
+    "en": "\"It is simply not possible to fund the state’s needs by leaning on a few hundred people, as politically appealing as that may be.\"",
+    "fa": "به سادگی نمی توان نیازهای دولت را با تکیه بر چند صد نفر، به عنوان جذاب سیاسی به عنوان آن ممکن است."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/10/30/trump-dc-golf-course-truth-social-judge-inquiry-lawyers/",
-   "published": "2026-10-30T20:39:13+00:00",
+   "link": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
+   "published": "2026-10-31T16:41:35+00:00",
    "title": {
-    "en": "Trump posted that a public D.C. golf course would close for 15 months — his own officials can’t confirm it and a judge is opening a ‘formal inquiry’",
-    "fa": "ترامپ اعلام کرد که یک دوره گلف عمومی D.C به مدت ۱۵ ماه بسته خواهد شد - مقامات خود نمی توانند آن را تایید کنند و یک قاضی \"تحقیقات رسمی\" را باز می کند."
+    "en": "AI boom hits a wall on Wall Street as OpenAI cuts fundraising target while Meta gets a credit warning over its cash flow, spending and monetization",
+    "fa": "رونق AI به دیوار در وال استریت ضربه می زند، زیرا OpenAI هدف جمع آوری سرمایه را کاهش می دهد، در حالی که متا یک هشدار اعتباری در جریان نقدی، هزینه و درآمدزایی خود دریافت می کند."
    },
    "summary": {
-    "en": "The Justice Department filed notice Wednesday night that the plans were real.",
-    "fa": "وزارت دادگستری روز چهارشنبه اعلام کرد که برنامه ها واقعی هستند."
+    "en": "S&P Global cut its outlook on Meta to \"negative\" from \"stable\" late Friday.",
+    "fa": "S&P Global چشم انداز خود را در مورد Meta به \"negative\" از \"stable\" در اواخر جمعه کاهش داد."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91633207/could-canva-brush-new-ai-feature-end-graphic-design-slop",
-   "published": "2026-10-30T20:30:00+00:00",
+   "link": "https://www.fastcompany.com/91633335/nyc-marathon-2026-route-map-road-closures-track-runners-live",
+   "published": "2026-10-31T14:51:00+00:00",
    "title": {
-    "en": "Could Canva’s newest AI feature end graphic design slop?",
-    "fa": "آیا می توان جدیدترین ویژگی AI Canva را طراحی گرافیک نهایی کرد؟"
+    "en": "New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more",
+    "fa": "ماراتن شهر نیویورک 2026: چگونه به تماشای پوشش زنده، دونده های مسیر، نقشه مسیر و بیشتر"
    },
    "summary": {
-    "en": "AI slop has a signature style. At a glance, it’s easy to clock the hallmarks of an AI-generated poster : crowded blocks of cliché-ridden text. Cutesy characters straight from the uncanny valley. Inexplicably explosion-filled backgrounds. But Canva might have…",
-    "fa": "AI sl دارای یک سبک امضا است. در یک نگاه، آسان است به ساعت نشانه های یک پوستر تولید شده AI: بلوک های شلوغ از متن کلیشه ای. شخصیت های زیبا مستقیماً از دره غیرcanny. پس زمینه های پر از انفجار اما Canva ممکن است..."
+    "en": "On Sunday, November 1, the Big Apple will be taken over by running enthusiasts. The TCS New York City Marathon is back for the 50th anniversary of its expanded course. Here’s everything you need to know, from the history of the race to road closures, as well…",
+    "fa": "یکشنبه، 1 نوامبر، اپل بزرگ با علاقه مندان به دویدن گرفته خواهد شد. ماراتون شهر نیویورک برای پنجاهمین سالگرد دوره گسترش خود بازگشته است. در اینجا همه چیز شما باید بدانید، از تاریخ مسابقه تا بسته شدن جاده ها و همچنین ..."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91633064/just-before-halloween-a-new-report-reveals-a-frightening-trend-in-americas-housing-market",
-   "published": "2026-10-30T20:15:00+00:00",
+   "link": "https://www.fastcompany.com/91630610/enterprise-ai-waiting-pagerank-moment",
+   "published": "2026-10-31T11:00:00+00:00",
    "title": {
-    "en": "Just before Halloween, a new report reveals a frightening trend in America’s housing market",
-    "fa": "درست قبل از هالووین، یک گزارش جدید نشان دهنده یک روند ترسناک در بازار مسکن آمریکا است."
+    "en": "Enterprise AI is waiting for its PageRank moment",
+    "fa": "شرکت هوش مصنوعی منتظر لحظه PageRank خود است"
    },
    "summary": {
-    "en": "Something in the real estate market just got a little less spooky this holiday season. Out of all residential properties in the U.S., the number of homes abandoned during the foreclosure process dropped to 3% in the last quarter, an improvement from 3.3%…",
-    "fa": "چیزی در بازار املاک و مستغلات در این فصل تعطیلات کمی کمتر ترسناک است. از تمام املاک مسکونی در ایالات متحده، تعداد خانه های رها شده در طول فرایند بیمه به 3٪ در سه ماهه گذشته کاهش یافته است، بهبود از 3.3%."
+    "en": "Let’s try a little thought experiment in technology-fiction: what would have happened if Larry Page and Sergey Brin’s PageRank , back in 1998, had failed to attract its first investors? Google didn’t invent the search engine: there were plenty of them before…",
+    "fa": "بیایید یک آزمایش فکری کوچک را در زمینه تکنولوژی امتحان کنیم: چه اتفاقی می افتاد اگر صفحه لری و سرگی Brin در سال 1998 نتوانست اولین سرمایه گذاران خود را جذب کند؟ گوگل موتور جستجو را اختراع نکرد: تعداد زیادی از آنها قبل از ..."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91633112/tiktok-has-a-new-halloween-obsession-and-its-not-about-what-people-are-wearing",
-   "published": "2026-10-30T20:07:39+00:00",
+   "link": "https://www.fastcompany.com/91632474/nyc-flips-streets-halloween-to-the-marathon",
+   "published": "2026-10-31T11:00:00+00:00",
    "title": {
-    "en": "TikTok has a new Halloween obsession, and it’s not about what people are wearing",
-    "fa": "TikTok دارای وسواس هالووین جدید است و در مورد آنچه مردم می پوشند نیست."
+    "en": "NYC will flip the streets from Halloween to the marathon in just a few hours. Here’s how",
+    "fa": "نیویورک خیابان ها را از هالووین به ماراتون در عرض چند ساعت چرخانده است. در اینجا چگونه"
    },
    "summary": {
-    "en": "A good and creative costume will only go so far this Halloween. Now instead of just the costume, TikTok users are focusing on its reveal. The trend follows a simple template: Users appear wearing normal clothes and no makeup under text that reads “costume…",
-    "fa": "یک لباس خوب و خلاقانه تنها در این هالووین قرار خواهد گرفت. در حال حاضر به جای فقط لباس، کاربران TikTok بر روی نمایش آن تمرکز می کنند. این روند به دنبال یک قالب ساده است: کاربران به نظر می رسد پوشیدن لباس های طبیعی و بدون آرایش تحت متن است که می گوید: \"هزینه ..."
+    "en": "New York City is gearing up for another big weekend. This year, there are just eight hours between the end of the Halloween parade and the start of the marathon. Organizers of the former expect 80,000 participants in costume and 2 million spectators, while…",
+    "fa": "نیویورک برای یک آخر هفته بزرگ دیگر آماده می شود. امسال فقط هشت ساعت بین پایان رژه هالووین و شروع ماراتن وجود دارد. سازمان دهندگان سابق انتظار دارند 800000 نفر در لباس و 2 میلیون تماشاگر در حالی که ..."
    }
   },
   {
@@ -627,16 +627,16 @@
   {
    "id": "ma28",
    "section": "management",
-   "source": "MIT Sloan Management Review",
-   "link": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
-   "published": "2026-10-27T11:00:35+00:00",
+   "source": "McKinsey",
+   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
+   "published": "",
    "title": {
-    "en": "What Interruptions Say About Your Organizational Culture",
-    "fa": "آنچه درباره فرهنگ سازمانی شما می گوید"
+    "en": "Closing banking’s AI value gap: A CEO guide",
+    "fa": "بستن شکاف ارزش کامپیوتر: راهنمای مدیر عامل"
    },
    "summary": {
-    "en": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the like. But employees watch for the moments that show how culture actually manifests. During meetings, who gets interrupted? Employees notice…",
-    "fa": "رهبران تصاویر مارک ایر یا آیکان تمایل دارند در مورد فرهنگ به صورت انتزاعی صحبت کنند: ارزش ها، هنجارها، اعتماد، تعلق و غیره. اما کارکنان منتظر لحظاتی هستند که نشان می دهند فرهنگ در واقع چگونه آشکار می شود. در جلسه، چه کسی قطع می شود؟ کارکنان متوجه ..."
+    "en": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that turns investment into AI capital that can be deployed again and again.",
+    "fa": "همانطور که پذیرش AI پیش می رود، ارزش زیادی پشت سر گذاشته می شود. رهبران به یک مدل عملیاتی نیاز دارند که سرمایه گذاری را به سرمایه هوش مصنوعی تبدیل می کند که می تواند دوباره و دوباره به کار گرفته شود."
    }
   },
   {
@@ -658,75 +658,75 @@
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
+   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
    "published": "",
    "title": {
-    "en": "Closing banking’s AI value gap: A CEO guide",
-    "fa": "بستن شکاف ارزش کامپیوتر: راهنمای مدیر عامل"
+    "en": "Overcoming the R&D bottleneck: Building a causal decision system",
+    "fa": "غلبه بر تنگنا R&D: ایجاد یک سیستم تصمیم گیری علی"
    },
    "summary": {
-    "en": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that turns investment into AI capital that can be deployed again and again.",
-    "fa": "همانطور که پذیرش AI پیش می رود، ارزش زیادی پشت سر گذاشته می شود. رهبران به یک مدل عملیاتی نیاز دارند که سرمایه گذاری را به سرمایه هوش مصنوعی تبدیل می کند که می تواند دوباره و دوباره به کار گرفته شود."
+    "en": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected, causal decision systems to optimize speed, cost, and success rates.",
+    "fa": "محدود کردن بهره وری توسعه نیاز به تصمیم گیری دقیق دارد. سرب بیوشیمی جایگزین تجزیه و تحلیل تقسیم شده با سیستم های تصمیم گیری متصل به هم، علی برای بهینه سازی سرعت، هزینه و نرخ موفقیت است."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
-   "published": "2026-10-31T00:05:08+00:00",
+   "link": "https://www.ft.com/content/7e749777-dcee-4c11-9bdc-7f81bee80455?syn-25a6b1a6=1",
+   "published": "2026-11-01T01:00:06+00:00",
    "title": {
-    "en": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-    "fa": "OpenAI بودجه هدف را با 10 میلیارد دلار کاهش می دهد، زیرا تکنولوژی Axieties"
+    "en": "Toyota-backed truckmaker bets on aftersales service to fend off Chinese EV rivals",
+    "fa": "کامیونساز مورد حمایت تویوتا در خدمات پس از فروش شرط می کند تا رقبای چینی EV را از بین ببرد"
    },
    "summary": {
-    "en": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
-    "fa": "سازنده ChatGPT در حال حاضر به دنبال 20 میلیارد دلار ارزش گذاری 1.25 دلار است، زیرا جاه طلبی های خود را تنظیم می کند."
+    "en": "Archion chief says repair network offers competitive strength after Thai floods bring service quality to fore",
+    "fa": "رئیس Archion می گوید که تعمیر شبکه قدرت رقابتی را پس از سیل های تایلندی ارائه می دهد کیفیت خدمات برای Fore"
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
-   "published": "2026-10-30T22:57:55+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
+   "published": "2026-10-31T23:57:07+00:00",
    "title": {
-    "en": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-    "fa": "انتخابات مجلس سنای آلاسکا: DOJ می خواهد همه رای ها را برای کاندیدای دوم سولوانا صادر کند"
+    "en": "Michigan feud threatens Democratic unity in key Senate race",
+    "fa": "آرژانتینی میشیگان وحدت دموکراتیک را در رقابت های کلیدی سنا تهدید می کند"
    },
    "summary": {
-    "en": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
-    "fa": "برنده انتخابات آلاسکا می تواند تعیین کند که آیا جمهوریخواهان اکثریت خود را در سنا آمریکا حفظ می کنند یا اینکه دموکرات ها کنترل اتاق را در دست بگیرند."
+    "en": "Abdul El-Sayed disinvites former primary rival Haley Stevens from campaign event amid war of words over Israel",
+    "fa": "عبدالقاید از رقابت های اولیه سابق هیلی استیون استیونز در میان جنگ کلمات بر فراز اسرائیل"
    }
   },
   {
    "id": "tr33",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html",
-   "published": "2026-10-30T22:52:04+00:00",
+   "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+   "published": "2026-10-31T23:56:40+00:00",
    "title": {
-    "en": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
-    "fa": "جیم کلمر می گوید وقت آن است که به فراتر از تکنولوژی نگاه کنیم. در اینجا ۴ سهام مصرف کننده که دوست دارد"
+    "en": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+    "fa": "Trump defamation کت و شلوار علیه Murdoch، WSJ بیش از نامه اپستین با تعصب رد شد"
    },
    "summary": {
-    "en": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
-    "fa": "Cramer گفت که سرمایه گذارانی که به دنبال تنوع بیشتر از تجارت AI هستند باید اصل مصرف کننده را در نظر بگیرند."
+    "en": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
+    "fa": "دونالد ترامپ از نوشتن نامه تولد به جفری اپستین، که موضوع مقاله وال استریت 2025 بود، خودداری کرد."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/e84eceda-040b-4e5f-b906-09768085933a?syn-25a6b1a6=1",
-   "published": "2026-10-30T22:17:15+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+   "published": "2026-10-31T22:27:56+00:00",
    "title": {
-    "en": "$6.3bn in 30 minutes: how the world’s biggest heist unfolded",
-    "fa": "6.3 میلیارد دلار در 30 دقیقه: بزرگ ترین دزدی جهان"
+    "en": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+    "fa": "بایننس می گوید که 90 درصد از 6.3 میلیارد دلار ضرر هک در حال حاضر تحت پوشش قرار گرفته است و قصد دارد روز یکشنبه از خروج خود کناره گیری کند."
    },
    "summary": {
-    "en": "North Korean hackers’ attack on Binance takes crypto theft to an unprecedented scale",
-    "fa": "حمله هکرهای کره شمالی به Binance سرقت رمزنگاری را به مقیاس بی سابقه ای می برد"
+    "en": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+    "fa": "بایننس می گوید که حمایت از 90 درصد از دارایی های تحت تاثیر هک $6.3 میلیارد دلاری خود را بازسازی کرده و قصد دارد تا خروج خود را از سر بگیرد و به بررسی های امنیتی بپردازد."
    }
   },
   {
@@ -793,11 +793,11 @@
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/spotlight/society/fatal-dog-attacks-test-hong-kong-s-ambitions-for-a-pet-friendly-economy",
+   "link": "https://asia.nikkei.com/politics/thai-reformists-became-too-technocratic-party-ex-leader-pita-says",
    "published": "",
    "title": {
-    "en": "Fatal dog attacks test Hong Kong's ambitions for a pet-friendly economy",
-    "fa": "حملات مرگبار سگ، جاه طلبی های هنگ کنگ برای یک اقتصاد دوستدار حیوانات خانگی را آزمایش می کند"
+    "en": "Thai reformists became too technocratic, party ex-leader Pita says",
+    "fa": "اصلاح طلبان تایلندی بیش از حد تکنوکراتیک شدند، رهبر سابق حزب Pita می گوید"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/spotlight/comment/thailand-looks-west-after-30-years-of-struggles-over-dawei",
+   "link": "https://asia.nikkei.com/business/companies/japan-bamboo-chopsticks-catch-on-in-south-korea",
    "published": "",
    "title": {
-    "en": "Thailand looks west after 30 years of struggles over Dawei",
-    "fa": "تایلند پس از 30 سال مبارزه با Dawei"
+    "en": "Japan bamboo chopsticks catch on in South Korea",
+    "fa": "چوب تراش بامبو ژاپن در کره جنوبی"
    },
    "summary": {
     "en": "",
