@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-02T03:24:29+00:00",
- "date": "2026-11-02",
+ "generated_at": "2026-11-03T03:24:47+00:00",
+ "date": "2026-11-03",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -53,7 +53,7 @@
    "section": "economy",
    "source": "The Economist",
    "ok": true,
-   "count": 3,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -61,7 +61,7 @@
    "section": "economy",
    "source": "The Economist",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -85,7 +85,7 @@
    "section": "economy",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 3,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -223,135 +223,135 @@
    "id": "ec1",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/goldman-hikes-oil-price-forecasts-on-substantial-supply-risks",
-   "published": "2026-11-02T03:02:18+00:00",
+   "link": "https://www.bloomberg.com/news/live-blog/2026-11-03/reserve-bank-of-australia-rate-decision",
+   "published": "2026-11-03T03:17:54+00:00",
    "title": {
-    "en": "Goldman Hikes Oil-Price Forecasts on ‘Substantial’ Supply Risks",
-    "fa": "Goldman Hikes Oil-Price پیش بینی شده در مورد خطرات عرضه \"Substantial\""
+    "en": "RBA Expected to Raise Interest Rates: Live Updates, Analysis",
+    "fa": "RBA انتظار افزایش نرخ بهره: به روز رسانی زنده، تجزیه و تحلیل"
    },
    "summary": {
-    "en": "Goldman Sachs Group Inc. raised oil-price forecasts for the year-end and 2027 on elevated risks to supplies, joining other banks in hiking their outlooks after months of war in the Middle East.",
-    "fa": "Goldman Sachs Group Inc. پیش بینی قیمت نفت را برای سال و 2027 در مورد خطرات بالا برای عرضه، پیوستن به بانک های دیگر در پیاده روی چشم انداز خود پس از ماه ها جنگ در خاورمیانه افزایش داد."
+    "en": "",
+    "fa": ""
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/science/space-astronomy/could-orbital-data-centers-ruin-the-night-sky-9462bf2d?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T03:00:00+00:00",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-ahead-of-u-s-midterm-elections-2352f046?mod=rss_markets_main",
+   "published": "2026-11-03T03:14:00+00:00",
    "title": {
-    "en": "Could Orbital Data Centers Ruin the Night Sky?",
-    "fa": "آیا مرکز داده های مدار می تواند آسمان شب را به وجود آورد؟"
+    "en": "Singapore Dollar Weakens as Risk Appetite Fades",
+    "fa": "دلار سنگاپور به عنوان ریسک Appetite Fades"
    },
    "summary": {
-    "en": "Astronomers are warning that megaconstellations of satellites will obstruct our view of the cosmos.",
-    "fa": "ستاره شناسان هشدار می دهند که megaconstellations از ماهواره ها دیدگاه ما از کیهان را مسدود خواهد کرد."
+    "en": "The Singapore dollar weakened against its U.S. counterpart amid fading appetite for risky assets.",
+    "fa": "دلار سنگاپور در برابر همتای آمریکایی خود در میان کاهش اشتها برای دارایی های خطرناک تضعیف شده است."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/china-should-take-much-bolder-actions-says-primavera-s-hu",
-   "published": "2026-11-02T02:48:10+00:00",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-03/solomon-on-tech-supercycle-bumps-video",
+   "published": "2026-11-03T03:10:13+00:00",
    "title": {
-    "en": "China Should Take ‘Much Bolder Actions,’ Says Primavera’s Hu",
-    "fa": "چین باید «چنین اقدامات جسورانه» را در نظر بگیرد، و می گوید: «هارا»"
+    "en": "Solomon on Tech Supercycle 'Bumps'",
+    "fa": "سلیمان در Tech Supercycle 'Bumps'"
    },
    "summary": {
-    "en": "China’s policy makers should focus on improving the country’s fundamentals instead of worrying about short term volatility and have room to take “much bolder” steps, according to Primavera Capital chief executive officer Fred Hu.",
-    "fa": "سیاست گذاران چین باید بر بهبود اصول کشور به جای نگرانی در مورد نوسانات کوتاه مدت و داشتن اتاق برای برداشتن گام های \"بسیار جسورانه\" با توجه به افسر اجرایی اولیه سرمایه، فرد هو تمرکز کنند."
+    "en": "Goldman’s David Solomon said there will be “bumps” during this technology supercycle, while praising the US economy as resilient. (Source: Bloomberg)",
+    "fa": "دیوید سلیمان، گلدمن، گفت که در طول این ابر چرخه تکنولوژی، \"مخالف\" وجود خواهد داشت، در حالی که اقتصاد آمریکا را انعطاف پذیر می داند. (منبع: Bloomberg)"
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-02T02:00:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/02/business/willow-springs-racetrack-country-club.html",
+   "published": "2026-11-03T02:47:39+00:00",
    "title": {
-    "en": "U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
-    "fa": "ایالات متحده برای بازگرداندن فروش گاز روسیه به اروپا از طریق اوکراین"
+    "en": "The Nation’s Oldest Road Racetrack Starts a Big, Costly Face-Lift",
+    "fa": "قدیمی ترین مسیر مسابقه جاده ای ملت، یک چهره بزرگ و پر هزینه را آغاز می کند"
    },
    "summary": {
-    "en": "The idea is intended to unlock an energy ceasefire between Moscow and Kyiv but it faces resistance in European capitals.",
-    "fa": "این ایده در نظر گرفته شده است تا یک آتش بس انرژی بین مسکو و کیرو را باز کند اما با مقاومت در پایتخت های اروپایی مواجه است."
+    "en": "New owners at Willow Springs in California have major plans for the once spartan track, hoping to lure expensive supercars and their wealthy drivers.",
+    "fa": "صاحبان جدید در ویلو اسپرینگز در کالیفرنیا برنامه های مهمی برای مسیر یک بار اسپارتا دارند، به امید جذب سوپرکارهای گران قیمت و رانندگان ثروتمند خود."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/01/business/after-tech-sell-off-investors-brace-for-more-market-volatility.html",
-   "published": "2026-11-02T01:37:46+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-03T02:11:13+00:00",
    "title": {
-    "en": "After Tech Sell-Off, Investors Brace for More Market Volatility",
-    "fa": "پس از فروش فن آوری، سرمایه گذاران برای بازار بیشتر"
+    "en": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+    "fa": "انگلستان و اتحادیه اروپا توافق دارند که پیش نویس توافق کنند نوار قرمز Brexit را بر صادرات مواد غذایی لغو کنند"
    },
    "summary": {
-    "en": "Futures on the S&P 500, which allow investors to bet on the market before the official start of trading, rose slightly on Sunday night.",
-    "fa": "آینده در S&P 500، که به سرمایه گذاران اجازه می دهد تا قبل از شروع رسمی معامله، در شب یکشنبه کمی روی بازار شرط بندی کنند."
+    "en": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+    "fa": "معامله غذا، پیش از نشست بریتانیا و اتحادیه اروپا در ماه جاری، مهم ترین بخش از به اصطلاح تنظیم مجدد Brexit است که تاکنون توافق شده است."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-02T01:15:25+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/us-news/the-final-seconds-before-a-learjet-plunged-into-a-florida-street-315b0c97?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-03T01:18:00+00:00",
    "title": {
-    "en": "Binance users withdraw $3.6bn after record crypto hack",
-    "fa": "کاربران بایننس پس از ضبط هک رمزنگاری، 3.6 میلیارد دلار برداشت می کنند"
+    "en": "The Final Seconds Before a Learjet Plunged Into a Florida Street",
+    "fa": "فینال دوم قبل از اینکه یک Learjet به خیابان فلوریدا وارد شود"
    },
    "summary": {
-    "en": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-    "fa": "این مبادله معاملات را پس از حادثه مسدود کرد که 6.3 میلیارد دلار از دارایی های دیجیتال را تحت تاثیر قرار داد."
+    "en": "The NTSB expects weather to be a major focus in the crash investigation.",
+    "fa": "NTSB انتظار دارد که آب و هوا یک تمرکز عمده در تحقیقات تصادف باشد."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The Economist",
-   "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-   "published": "2026-11-01T21:41:42+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+   "published": "2026-11-03T00:27:42+00:00",
    "title": {
-    "en": "Hackers are running riot with AI. Its makers want to cash in",
-    "fa": "هکرها با AI در حال اجرا هستند. سازندگان آن می خواهند پول نقد کنند"
+    "en": "William Nordhaus Pioneered Putting a Price on Pollution",
+    "fa": "ویلیام Nordhaus پیشگام قرار دادن یک قیمت در آلودگی"
    },
    "summary": {
-    "en": "OpenAI and Anthropic spy a big opportunity in cyber-security",
-    "fa": "OpenAI و Anthropic جاسوسی یک فرصت بزرگ در امنیت سایبری"
+    "en": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
+    "fa": "اقتصاددان ویلیام Nordhaus گفت قیمت گذاری در آلودگی بهترین راه برای کاهش تغییرات آب و هوایی است. سپس به لابی سوخت فسیلی و جنبش ضد مالیات رسید."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
    "source": "The Guardian",
-   "link": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
-   "published": "2026-11-01T18:53:25+00:00",
+   "link": "https://www.theguardian.com/media/2026/nov/03/john-lewis-christmas-advert-kristin-scott-thomas-glamorous-granny-gift-hunt",
+   "published": "2026-11-03T00:01:32+00:00",
    "title": {
-    "en": "Investors pull billions in funds from Binance after record $6.3bn hack",
-    "fa": "سرمایه گذاران پس از ثبت 6.3 میلیارد دلار هک، میلیاردها دلار را در صندوق های باین قرار می دهند"
+    "en": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
+    "fa": "ستاره های تبلیغاتی کریسمس جان لوئیس کریستین اسکات توماس به عنوان یک مادربزرگ بزرگ در شکار هدیه"
    },
    "summary": {
-    "en": "Cryptocurrency exchange has begun to allow withdrawals after theft believed to have come from North Korea Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen…",
-    "fa": "مبادله ارز دیجیتال پس از سرقت، شروع به اجازه خروج از سرمایه گذاران کره شمالی کرده است 3.6 میلیارد دلار (2.7 میلیارد پوند) در وجوه از مبادله ارز رمزنگاری شده بایننس، به عنوان آن را از یک هک رکورد که در آن میلیاردها دلار به سرقت رفته است."
+    "en": "Company tugs at heartstrings with Pickles the talking toy dog as it celebrates 20 years of blockbuster festive ads John Lewis has turned to a celebrity best known for playing aristocrats to put a playful but rather upmarket spin on the countdown to Christmas…",
+    "fa": "شرکت در Heartstrings با سگ اسباب بازی صحبت می کند، زیرا 20 سال تبلیغات جشن مسدود کننده را جشن می گیرد جان لوئیس به یک مشهور شناخته شده برای بازی aristoکرات برای قرار دادن یک نمایشنامه دار اما ترجیحا چرخش بازار در شمارش معکوس به کریسمس تبدیل شده است."
    }
   },
   {
    "id": "ec9",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/01/business/binance-hack-crypto-north-korea.html",
-   "published": "2026-11-01T18:28:24+00:00",
+   "source": "The Economist",
+   "link": "https://www.economist.com/business/2026/11/02/the-quest-for-immortality-has-become-serious-business",
+   "published": "2026-11-02T21:39:36+00:00",
    "title": {
-    "en": "Binance Reports $3.64 Billion in Outflows as It Resumes Normal Transactions",
-    "fa": "Binance گزارش 3.64 میلیارد دلار در خروجی های خروجی به عنوان آن معاملات عادی"
+    "en": "The quest for immortality has become serious business",
+    "fa": "تلاش برای جاودانگی تبدیل به کسب و کار جدی شده است"
    },
    "summary": {
-    "en": "The cryptocurrency exchange saw an immediate uptick in customer withdrawals, following the theft of $6.3 billion in tokens that has been linked to North Korea.",
-    "fa": "تبادل ارز دیجیتال، بلافاصله در خروج مشتری، پس از سرقت 6.3 میلیارد دلار توکن هایی که به کره شمالی مرتبط است، مشاهده کرد."
+    "en": "As entrepreneurs peddle scans and supplements, biotechs are probing the mysteries of ageing",
+    "fa": "به عنوان کارآفرینان اسکن و مکمل، بیوتکنولوژی در حال بررسی اسرار پیری"
    }
   },
   {
@@ -373,244 +373,289 @@
    "id": "te11",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/oaktree-s-howard-marks-says-ai-stumbles-have-boosted-skepticism",
-   "published": "2026-11-02T03:04:25+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/goldman-s-solomon-sees-very-robust-demand-for-ai-deals",
+   "published": "2026-11-03T03:13:14+00:00",
    "title": {
-    "en": "Oaktree’s Howard Marks Says AI Stumbles Have Boosted Skepticism",
-    "fa": "هاوارد مارکز، Oaktree می گوید که AI Stumbles Skepticism را تقویت کرده است"
+    "en": "Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals",
+    "fa": "سلیمان گلدمن تقاضای «بسیار قوی» برای معاملات AI را می بیند"
    },
    "summary": {
-    "en": "Recent artificial intelligence related market stumbles have somewhat burst the bubble of infallibility around the sector, Howard Marks, co-chair of Oaktree Capital Management LP, said in an interview with Bloomberg TV.",
-    "fa": "بازار اطلاعات مصنوعی اخیر تا حدودی حباب بی ثباتی را در اطراف بخش، هاوارد مارکز، رئیس مشترک مدیریت سرمایه اورنج، LP، در مصاحبه با تلویزیون بلومبرگ، منفجر کرده است."
+    "en": "Goldman Sachs Group Inc. Chief Executive Officer David Solomon said a technology supercycle will dominate capital markets and financing activity as deal demand remains robust.",
+    "fa": "مدیر اجرایی شرکت Goldman Sachs Group Inc.، دیوید سلیمان، گفت که یک سوپر چرخه تکنولوژی بر بازارهای سرمایه و فعالیت های مالی تسلط خواهد داشت، زیرا تقاضای معامله همچنان قوی است."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/macquarie-executive-sees-ai-fast-tracking-junior-analyst-careers",
-   "published": "2026-11-02T02:15:26+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-s-huang-gave-blessing-to-marvell-lumentum-megadeal",
+   "published": "2026-11-03T03:11:19+00:00",
    "title": {
-    "en": "Macquarie Executive Sees AI Fast-Tracking Junior Analyst Careers",
-    "fa": "Macquarie Executive Sees AI Fast-Tracking Junior Analysis Careers"
+    "en": "Nvidia’s Huang Gave Blessing to Marvell-Lumentum Megadeal",
+    "fa": "هوانگی Nvidia به Marvell-Lumentum Megauch"
    },
    "summary": {
-    "en": "Junior research staff at Macquarie Capital need not fret too much about AI taking their jobs, according to an executive at the Australian firm.",
-    "fa": "کارکنان تحقیق در Macquarie Capital نباید بیش از حد در مورد هوش مصنوعی که شغل خود را می گیرد، نگران باشند."
+    "en": "The heads of Marvell Technology Inc. and Lumentum Holdings Inc. got the blessing of Nvidia Corp.’s Jensen Huang before striking their nearly $103 billion tie-up.",
+    "fa": "سران شرکت فناوری مارولل و شرکت لومتوم Holdings، برکت شرکت Nvidia Corp. Jensen Huang را قبل از اینکه نزدیک به 103 میلیارد دلار به آنها برسد، دریافت کردند."
    }
   },
   {
    "id": "te13",
    "section": "tech",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/lifestyle/cars/to-tame-the-fastest-drivers-states-deploy-speed-limiting-devices-on-cars-4eafe66d?mod=rss_Technology",
-   "published": "2026-11-02T01:00:00+00:00",
+   "link": "https://www.wsj.com/us-news/law/people-are-using-ai-for-divorce-advice-and-its-driving-their-lawyers-crazy-9b03b123?mod=rss_Technology",
+   "published": "2026-11-03T01:00:00+00:00",
    "title": {
-    "en": "To Tame the Fastest Drivers, States Deploy Speed-Limiting Devices on Cars",
-    "fa": "برای Tame the Fastest Drivers, State Deploy Speed-Limiting Devices"
+    "en": "People Are Using AI for Divorce Advice and It’s Driving Their Lawyers Crazy",
+    "fa": "مردم از هوش مصنوعی برای مشاوره طلاق استفاده می کنند و وکلا را دیوانه می کنند"
    },
    "summary": {
-    "en": "Virginia and other states are trying to slow “super speeders” with GPS technology that prevents their cars from blowing the speed limit.",
-    "fa": "ویرجینیا و دیگر ایالت ها تلاش می کنند تا سرعت های بالا را با تکنولوژی GPS کاهش دهند که مانع از انفجار اتومبیل های آنها می شود."
+    "en": "Feed one side of a family fight into a chatbot and you might get the legal answer you want to see, but it won’t necessarily fly with the judge.",
+    "fa": "یک طرف از یک خانواده را در یک چت تغذیه کنید و ممکن است پاسخ قانونی را که می خواهید ببینید دریافت کنید، اما لزوما با قاضی پرواز نخواهد کرد."
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-   "published": "2026-11-01T21:27:52+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-03T00:29:00+00:00",
    "title": {
-    "en": "Flock keeps ignoring requests to cancel its contracts",
-    "fa": "Flock همچنان درخواست های لغو قراردادهای خود را نادیده می گیرد"
+    "en": "Apple unsure when more foldable iPhones will be available after selling out",
+    "fa": "اپل مطمئن نیست که آیفون های تاشو بیشتر پس از فروش در دسترس خواهند بود"
    },
    "summary": {
-    "en": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to…",
-    "fa": "در حالی که شهرهای بیشتری قراردادهای خود را با ایمنی Flock لغو می کنند، همانطور که بسیاری از آنها کشف می کنند که در برخی موارد چقدر دشوار است. در ماه سپتامبر، شورای شهر مینه سوتا تصمیم گرفت قرارداد خود را با Flock خاتمه دهد، اما نتوانست به ..."
+    "en": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+    "fa": "آیفون Duo اپل یک ضربه با افرادی بود که مایل بودند ۲۰۰۰ دلار برای یک موبایل جدید خرج کنند."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-   "published": "2026-11-01T21:09:21+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+   "published": "2026-11-02T23:41:50+00:00",
    "title": {
-    "en": "NASA hopes the commercial space industry can help save Hubble",
-    "fa": "ناسا امیدوار است که صنعت فضایی تجاری بتواند به نجات هابل کمک کند"
+    "en": "Apple’s Profit Grows 12% Despite Component Price Worries",
+    "fa": "سود اپل ۱۲% رشد می کند با وجود هزینه های قطعات"
    },
    "summary": {
-    "en": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless its orbit…",
-    "fa": "گرانش یک معشوقه بی رحم است که به آرامی تلسکوپ مشهور را به مرگ نهایی خود نزدیک می کند. هابل در معرض خطر فوری آتش سوزی در اتمسفر زمین قرار ندارد، اما زمان آن در اوایل تا اواسط دهه ۲۰۳۰ میلادی به پایان خواهد رسید مگر اینکه مدار آن به پایان برسد."
+    "en": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+    "fa": "این شرکت گفت که فروش آیفون قوی است، اما هشدار داد که هزینه تراشه های حافظه برای دستگاه های آن افزایش یافته است."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
-   "published": "2026-11-01T17:19:20+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+   "published": "2026-11-02T23:30:16+00:00",
    "title": {
-    "en": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
-    "fa": "AI در حال پیدا کردن یک سیل از Bugs، و دره سیلیکون در حال رشد برای حل آن است"
+    "en": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+    "fa": "\"در خانه در فضا\" باز می شود، بازسازی موزه هوا و فضا"
    },
    "summary": {
-    "en": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
-    "fa": "A.I. یک horde از نقص های نرم افزاری را کشف کرده است که مهندسان قبل از اینکه بتوانند مورد سوء استفاده قرار گیرند و توسط هکرها مورد سوءاستفاده قرار گیرند، در حال رقابت هستند."
+    "en": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
+    "fa": "موزه ملی هوایی و فضایی اسمیتسونیان تمام فضای آن را باز کرده است."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/opinion/dont-let-ai-split-learning-589d0adc?mod=rss_Technology",
-   "published": "2026-11-01T16:29:00+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+   "published": "2026-11-02T23:27:09+00:00",
    "title": {
-    "en": "Opinion | Don’t Let AI Split Learning",
-    "fa": "اجازه ندهید AI یادگیری را تقسیم کند"
+    "en": "Apple is ‘not able to predict’ when it’ll have enough iPhone Duos to go around",
+    "fa": "اپل قادر به پیش بینی نیست، زمانی که آیفون Duos کافی خواهد داشت"
    },
    "summary": {
-    "en": "What must change is how universities design curricula and assessments.",
-    "fa": "آنچه باید تغییر کند این است که چگونه دانشگاه ها برنامه های درسی و ارزیابی را طراحی می کنند."
+    "en": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we're not…",
+    "fa": "مدیر عامل شرکت اپل، جان ترو یک جدول زمانی برای زمانی که محدودیت های عرضه آیفون Duo می تواند بلند شود، ندارد. در طی مصاحبه ای با رویترز، تروها گفتند که این شرکت \"سخت تلاش می کند تا هر چه سریعتر به مشتریان خود برسد، اما در این مرحله، ما نه ..."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-01T01:37:26+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?mod=rss_Technology",
+   "published": "2026-11-02T22:18:00+00:00",
    "title": {
-    "en": "These firms you've never heard of are feeding fears the AI bubble could burst",
-    "fa": "این شرکت هایی که تا به حال نشنیده اید، ترس از این دارند که حباب هوش مصنوعی می تواند منفجر شود."
+    "en": "Anthropic Investors Push for Cautious Valuation Closer to $1.5 Trillion",
+    "fa": "سرمایه گذاران Anthropic Push for Cautious Valuation نزدیک به 1.5 تریلیون دلار"
    },
    "summary": {
-    "en": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
-    "fa": "میزان بدهی های انجام شده توسط مراکز داده در ده ها میلیارد پوند اندازه گیری می شود."
+    "en": "Institutional investors who plan to buy shares in the AI company’s planned IPO show concern following a selloff in tech stocks.",
+    "fa": "سرمایه گذاران سازمانی که قصد خرید سهام در IPO برنامه ریزی شده شرکت AI را دارند، نگرانی خود را پس از فروش سهام فناوری نشان می دهند."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-   "published": "2026-10-31T11:15:26+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-02T18:25:01+00:00",
    "title": {
-    "en": "Seabirds racing home over the ocean can get jet-lagged",
-    "fa": "Seabirds در سراسر اقیانوس می تواند جت را بگیرد"
+    "en": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+    "fa": "اگر هکرها بتوانند کنترل یک فریزر سوپر مارکت را به دست بگیرند، چه میزان آسیب پذیر است؟"
    },
    "summary": {
-    "en": "A long flight home from feeding grounds messes with birds' internal clocks.",
-    "fa": "یک پرواز طولانی از زمین های تغذیه با ساعت های داخلی پرندگان."
+    "en": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+    "fa": "ده ها مغازه در سراسر کشورهای اروپایی تحت تاثیر حمله سایبری بر یخچال های خود قرار گرفته اند."
    }
   },
   {
    "id": "te20",
    "section": "tech",
    "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
-   "published": "2026-10-30T11:30:00+00:00",
+   "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+   "published": "2026-11-02T17:00:00+00:00",
    "title": {
-    "en": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-    "fa": "برچسب ها: GLP-1s و اختلالات خوردن، شهرهای خودآگاه و مواد شیمیایی همیشگی"
+    "en": "Raising the quality of insights in agentic analytics",
+    "fa": "افزایش کیفیت بینش در تجزیه و تحلیل نمایندگی"
    },
    "summary": {
-    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech…",
-    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. اختلالات خوردن در حال افزایش است. GLP-1 می تواند اوضاع را بدتر کند. داروهای از دست دادن وزن GLP-1 یکی از بزرگترین مواد زیستی هستند."
+    "en": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent…",
+    "fa": "در عرض چند سال، هوش مصنوعی عمومی چهره تجزیه و تحلیل سازمانی را تغییر داده است، به ویژه با ایجاد تجزیه و تحلیل در دسترس کاربران در سراسر سازمان. AI Agentic وعده می دهد که حتی بیشتر، با خودکار کردن تمام جریان های کاری و انجام اقدامات بر اساس عامل ..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/01/laika-wildwood-box-office-phil-knight-nike-fortune/",
-   "published": "2026-11-02T02:02:45+00:00",
+   "link": "https://fortune.com/2026/11/02/new-apple-ceo-john-ternus-chalks-up-some-early-wins-but-the-honeymoon-is-over/",
+   "published": "2026-11-03T02:03:01+00:00",
    "title": {
-    "en": "The anti-Skydance: How a Nike billionaire’s backing lets Laika spend a reported $100 million on ‘Wildwood’",
-    "fa": "ضدSkydance: چگونه حمایت یک میلیاردر نایک اجازه می دهد تا لائوس 100 میلیون دلار در \"Wildwood\" هزینه کند"
+    "en": "New Apple CEO John Ternus chalks up some early wins, but the honeymoon is over",
+    "fa": "مدیر عامل جدید اپل، جان ترو، برخی از پیروزی های اولیه را به دست می آورد، اما ماه عسل بیش از حد است."
    },
    "summary": {
-    "en": "The studio behind ‘Coraline’ is run by the Nike co-founder’s son, and its films rarely make money at the box office.",
-    "fa": "استودیو پشت \"Coraline\" توسط پسر بنیانگذار نایک اداره می شود و فیلم های آن به ندرت در دفتر جعبه پول می سازند."
+    "en": "Apple beat earnings expectations Monday, but it’s facing surging memory chip costs and investor questions about its new Siri AI product.",
+    "fa": "اپل روز دوشنبه انتظارات درآمد را شکست می دهد، اما با هزینه های تراشه حافظه و سوالات سرمایه گذار در مورد محصول جدید Siri AI مواجه است."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/01/gen-z-sedans-suvs-ford-gm-affordability/",
-   "published": "2026-11-02T01:43:03+00:00",
+   "link": "https://fortune.com/2026/11/02/how-trumps-trade-policy-is-handing-asia-to-beijing/",
+   "published": "2026-11-02T23:00:00+00:00",
    "title": {
-    "en": "Gen Z is ditching the family SUV for the humble sedan U.S. carmakers gave up on. Now, Ford and GM are reconsidering",
-    "fa": "Gen Z در حال ترک SUV خانواده برای سدان فروتن ایالات متحده خودروسازان تسلیم شده است. فورد و جنرال موتورز در حال بررسی هستند"
+    "en": "How Trump’s trade policy is handing Asia to Beijing",
+    "fa": "سیاست تجاری ترامپ چگونه آسیا را به پکن واگذار می کند"
    },
    "summary": {
-    "en": "Eight of Gen Z’s 10 most commonly driven models are sedans, new data shows. Affordability is a big reason, and Ford and GM, which abandoned the segment, are reconsidering.",
-    "fa": "هشت مدل از ده مدل اصلی Gen Z عبارتند از سدان، داده های جدید. Affordability یک دلیل بزرگ است و فورد و جنرال موتورز که بخش را رها کردند، در حال بررسی هستند."
+    "en": "Usually, U.S. statecraft is designed to help American companies succeed abroad. President Donald Trump’s trade program is having the reverse effect.",
+    "fa": "به طور معمول، دولت آمریکا برای کمک به شرکت های آمریکایی در خارج از کشور طراحی شده است. برنامه تجاری دونالد ترامپ اثر معکوس دارد."
    }
   },
   {
    "id": "ma23",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/01/fed-chair-kevin-warsh-treasury-bond-yield-curve-control-debt-costs-inflation-interest-rates-gdp-growth/",
-   "published": "2026-11-01T23:07:18+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91634518/ao3-down-fanfic-may-not-be-back-for-weeks-whats-the-reason",
+   "published": "2026-11-02T22:39:00+00:00",
    "title": {
-    "en": "Fed Chair Kevin Warsh is actually managing U.S. debt costs not inflation, economist says, as interest rates threaten to top GDP growth soon",
-    "fa": "رئیس فدرال رزرو، کوین وارش در واقع مدیریت هزینه های بدهی ایالات متحده است نه تورم، اقتصاددان می گوید، به عنوان نرخ بهره تهدید به رشد GDP بالا به زودی"
+    "en": "What’s happening with AO3? Fan fiction readers are not okay as outage drags on longer than planned",
+    "fa": "با A3 چه اتفاقی می افتد؟ خوانندگان داستان های تخیلی به عنوان قطع برق طولانی تر از برنامه ریزی شده خوب نیستند"
    },
    "summary": {
-    "en": "\"We’re not in hawkish or dovish land. What’s happening is yield curve management, which itself is a function of how precarious the U.S. debt picture is.\"",
-    "fa": "ما در سرزمین های سرخ و یا ترک نیستیم. آنچه اتفاق می افتد مدیریت منحنی است، که خود یک تابع از این است که چگونه تصویر بدهی ایالات متحده است. \""
+    "en": "The world of fan fiction is bracing for an apocalypse as one the world’s largest repositories of fan-written stories has gone dark—and may not return anytime soon. The panic began on October 29 when Archive of Our Own (AO3), the online library for fan-created…",
+    "fa": "دنیای داستان های فن برای یک آخرالزمان به عنوان یکی از بزرگترین مخازن جهان از داستان های فن نوشته شده تاریک شده است و ممکن است به زودی بازگشت. این وحشت در 29 اکتبر آغاز شد، زمانی که Archive of Our Own (AO3)، کتابخانه آنلاین برای ساخت فن ..."
    }
   },
   {
    "id": "ma24",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91633258/are-american-voters-actually-gloomy-about-the-economy",
-   "published": "2026-11-01T09:30:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/02/sweetgreen-manager-salary-200000-pay-plan/",
+   "published": "2026-11-02T22:12:19+00:00",
    "title": {
-    "en": "Are American voters actually gloomy about the economy?",
-    "fa": "آیا رای دهندگان آمریکایی در واقع از اقتصاد ناراضی هستند؟"
+    "en": "Sweetgreen managers could earn more than $200,000 a year under a new pay plan, as the salad chain bets higher pay will lift sales",
+    "fa": "مدیران شیرین سبز می توانند بیش از ۲۰۰،۰۰۰ دلار در سال تحت یک برنامه پرداخت جدید کسب کنند، چرا که شرط های زنجیره ای سالاد بالاتر پرداخت می شود."
    },
    "summary": {
-    "en": "Polling is looking grim for Republicans ahead of the U.S. midterm elections on November 3, due in large part to deep pessimism among the public about the economy. At first glance, this might seem surprising. With the exception of inflation , many economic…",
-    "fa": "نظرسنجی برای جمهوریخواهان پیش از انتخابات میان دوره ای ایالات متحده در 3 نوامبر، به دلیل بخش بزرگی از بدبینی عمیق در میان مردم در مورد اقتصاد، ترسناک است. در نگاه اول، ممکن است تعجب آور به نظر برسد. به جز تورم، بسیاری از اقتصاد ..."
+    "en": "Starting in 2027, the salad chain will raise base pay by up to 45% at higher-volume stores and give managers a cut of revenue when their restaurants beat sales targets.",
+    "fa": "با شروع در سال 2027، زنجیره سالاد پرداخت پایه را تا 45٪ در فروشگاه های با حجم بالاتر افزایش می دهد و به مدیران کاهش درآمد زمانی که رستوران ها اهداف فروش خود را ضرب و شتم."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91632428/driverless-trucks-wont-be-taking-over-highways-just-yet",
-   "published": "2026-11-01T09:00:00+00:00",
+   "link": "https://www.fastcompany.com/91634198/hackers-may-have-found-a-surprising-new-target-your-grocery-stores-frozen-food-aisle",
+   "published": "2026-11-02T21:29:17+00:00",
    "title": {
-    "en": "Why driverless trucks won’t be taking over highways just yet",
-    "fa": "چرا کامیون های بدون راننده هنوز از بزرگراه ها استفاده نمی کنند"
+    "en": "Hackers may have found a surprising new target: Your grocery store’s frozen food aisle",
+    "fa": "هکرها ممکن است یک هدف جدید شگفت انگیز پیدا کنند: فروشگاه مواد غذایی منجمد"
    },
    "summary": {
-    "en": "Driverless trucks with artificial intelligence on board could dramatically change the landscape of freight shipping. A few companies have begun testing early models on some limited routes in Texas and California. Simulations of automated fleets show the…",
-    "fa": "کامیون های بدون راننده با هوش مصنوعی در هیئت مدیره می توانند به طور چشمگیری چشم انداز حمل و نقل محموله را تغییر دهند. چند شرکت شروع به آزمایش مدل های اولیه در برخی از مسیرهای محدود در تگزاس و کالیفرنیا کرده اند. شبیه سازی ناوگان های خودکار نشان می دهد ..."
+    "en": "Grocery stores across Europe faced an overnight cyberattack on Monday, affecting the refrigerated and freezer sections and leading to product losses. The new wave of cyberattacks affected grocery stores in Belgium, Luxembourg, Sweden, Ireland, the…",
+    "fa": "فروشگاه های Grocery در سراسر اروپا روز دوشنبه با یک حمله سایبری شبانه مواجه شدند و بخش های یخچال و فریزر را تحت تاثیر قرار دادند و منجر به ضرر محصول شدند. موج جدید حملات سایبری بر فروشگاه های مواد غذایی در بلژیک، لوکزامبورگ، ایرلند، تاثیر گذاشت."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91633136/could-ai-give-older-creatives-a-second-act",
-   "published": "2026-11-01T05:00:00+00:00",
+   "link": "https://www.fastcompany.com/91630282/why-the-heart-will-matter-more-in-an-ai-driven-world",
+   "published": "2026-11-02T21:04:05+00:00",
    "title": {
-    "en": "Could AI give older creatives a second act?",
-    "fa": "آیا هوش مصنوعی می تواند به خلاقیت های قدیمی تر عمل دوم بدهد؟"
+    "en": "Why the heart will matter more in an AI-driven world",
+    "fa": "چرا قلب در دنیای مبتنی بر هوش مصنوعی بیشتر اهمیت خواهد داشت"
    },
    "summary": {
-    "en": "Advertising is made for the young by the young. That’s conventional wisdom backed up by the Bureau of Labor Statistics , which in 2025 reported the median age of ad industry workers was 39, compared to 42 for the broader workforce. Meanwhile, a report from…",
-    "fa": "تبلیغات برای جوانان ساخته شده است. این عقل متعارف است که توسط اداره آمار کار پشتیبانی می شود، که در سال 2025 گزارش داد که سن متوسط کارگران صنعت تبلیغات 39 است، در مقایسه با 42 برای نیروی کار گسترده تر. در همین حال گزارشی از ..."
+    "en": "I am an Alfista . The word is Italian for someone devoted to the cars produced by Alfa Romeo. Together with the thousands of others who share that devotion, I am one of the Alfisti . Nobody chooses to join the ranks of the Alfisti on the numbers alone. We…",
+    "fa": "من یک آلفیست هستم. کلمه ایتالیایی برای کسی است که به اتومبیل های تولید شده توسط آلفا رومئو اختصاص داده شده است. همراه با هزاران نفر دیگر که این فداکاری را به اشتراک می گذارند، من یکی از Alfisti هستم. هیچ کس تصمیم نمی گیرد به رتبه های Alfisti تنها در اعداد بپیوندد. ما ..."
    }
   },
   {
    "id": "ma27",
+   "section": "management",
+   "source": "MIT Sloan Management Review",
+   "link": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
+   "published": "2026-11-02T12:00:13+00:00",
+   "title": {
+    "en": "The AI Governance Paradox",
+    "fa": ""
+   },
+   "summary": {
+    "en": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers — have long understood that safety depends not just on good technology but on how people exercise judgment under…",
+    "fa": "عملیات عکس های جذاب که تحت خطر شدید قرار می گیرند – مانند نیروگاه های هسته ای، حامل های هواپیما و مراکز کنترل ترافیک هوایی – مدت ها متوجه شده اند که ایمنی نه تنها به فناوری خوب بستگی دارد بلکه به این بستگی دارد که مردم چگونه قضاوت می کنند."
+   }
+  },
+  {
+   "id": "ma28",
+   "section": "management",
+   "source": "McKinsey",
+   "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
+   "published": "",
+   "title": {
+    "en": "Critical infrastructure is under threat. Are organizations prepared?",
+    "fa": "زیرساخت های بحرانی در معرض تهدید قرار دارند. آیا سازمان ها آماده هستند؟"
+   },
+   "summary": {
+    "en": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here is how they can anticipate and reduce risks associated with these threats.",
+    "fa": "سازمان ها ممکن است قرار گرفتن در معرض خطرات متعارف، سایبری و هیبریدی را تا زمانی که یک اختلال رخ دهد، تشخیص ندهند. در اینجا چگونگی پیش بینی و کاهش ریسک های مرتبط با این تهدیدات وجود دارد."
+   }
+  },
+  {
+   "id": "ma29",
+   "section": "management",
+   "source": "McKinsey",
+   "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
+   "published": "",
+   "title": {
+    "en": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+    "fa": "تبدیل قضاوت اجرایی به هوش سازمانی: Leveraging AI در رهبری مدیرعامل"
+   },
+   "summary": {
+    "en": "The judgment of the CEO and top leaders is one of the most valuable sources of knowledge in the organization. AI can now codify that tacit wisdom and make it available to everyone, for the first time.",
+    "fa": "قضاوت مدیرعامل و رهبران ارشد یکی از ارزشمندترین منابع دانش در سازمان است. AI اکنون می تواند این حکمت ضمنی را تقویت کند و آن را برای همه در دسترس قرار دهد."
+   }
+  },
+  {
+   "id": "ma30",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
@@ -625,164 +670,134 @@
    }
   },
   {
-   "id": "ma28",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
-   "published": "",
-   "title": {
-    "en": "Shapers and Founders: Scaling without losing soul",
-    "fa": "Shapers و بنیانگذاران: مقیاس بدون از دست دادن روح"
-   },
-   "summary": {
-    "en": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial spirit.",
-    "fa": "نگاهی دقیق تر به بنیانگذار موفق آسیا -CEOs نشان می دهد که چگونه آنها کسب و کار خود را بدون قربانی روح کارآفرینی خود را اندازه گیری کرده اند."
-   }
-  },
-  {
-   "id": "ma29",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
-   "published": "",
-   "title": {
-    "en": "Overcoming the R&D bottleneck: Building a causal decision system",
-    "fa": "غلبه بر تنگنا R&D: ایجاد یک سیستم تصمیم گیری علی"
-   },
-   "summary": {
-    "en": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected, causal decision systems to optimize speed, cost, and success rates.",
-    "fa": "محدود کردن بهره وری توسعه نیاز به تصمیم گیری دقیق دارد. سرب بیوشیمی جایگزین تجزیه و تحلیل تقسیم شده با سیستم های تصمیم گیری متصل به هم، علی برای بهینه سازی سرعت، هزینه و نرخ موفقیت است."
-   }
-  },
-  {
-   "id": "tr30",
-   "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-   "published": "2026-11-02T02:58:53+00:00",
-   "title": {
-    "en": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-    "fa": "سام آلتمن سفر کره جنوبی را شگفت زده می کند زیرا OpenAI بر روی همکاری های تراشه ای ساخته است"
-   },
-   "summary": {
-    "en": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
-    "fa": "سام آلتمن، مدیر عامل OpenAI، طی تعطیلات آخر هفته به کره جنوبی سفر کرد و با مدیران سامسونگ ملاقات کرد و به گزارش ها مدیران گروه SK."
-   }
-  },
-  {
    "id": "tr31",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-   "published": "2026-11-02T02:39:35+00:00",
+   "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+   "published": "2026-11-03T02:51:33+00:00",
    "title": {
-    "en": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-    "fa": "روبیو می گوید که ترامپ خواهان پایان دادن به جنگ ایران با صلح است، حتی اگر هر دو طرف برای حمله آماده شوند."
+    "en": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+    "fa": "گزارش شده است که ایالات متحده به جزیره قشم ایران حمله می کند و امیدوار است \"توافق مجدد\" با تهران"
    },
    "summary": {
-    "en": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
-    "fa": "این اظهارات حاکی از آن است که هر دو طرف پس از انتخابات میان دوره ای ایالات متحده برای حملات نظامی اضافی آماده می شوند."
+    "en": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+    "fa": "ارتش آمریکا روز دوشنبه حملاتی به جزیره قشم ایران انجام داد، حتی زمانی که دولت ترامپ در معرض خطر جنگ بوده است."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/9652cb30-c8b1-4f36-993f-54f7827d2174?syn-25a6b1a6=1",
-   "published": "2026-11-02T01:56:22+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+   "published": "2026-11-03T02:50:34+00:00",
    "title": {
-    "en": "Japanese groups stage $21bn deal spree to secure gas supplies",
-    "fa": "گروه های ژاپنی 21 میلیارد دلار برای تأمین منابع گازی"
+    "en": "North Korea denies links to Binance hack as researchers trace stolen billions",
+    "fa": "کره شمالی پیوندهای هک بایننس را انکار می کند، زیرا محققان میلیاردها دلار را به سرقت می برند"
    },
    "summary": {
-    "en": "World’s second-biggest buyer of LNG targets shale resources on US Gulf Coast amid market upheavals",
-    "fa": "دومین خریدار بزرگ LNG جهان، منابع شیل را در سواحل خلیج آمریکا در میان تحولات بازار هدف قرار می دهد"
+    "en": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+    "fa": "کره شمالی اتهامات آمریکا مبنی بر ارتباط آن با هک بایننس را رد کرد، زیرا محققان بلاک چین میلیاردها دلار را در رمزنگاری سرقت شده در سراسر شبکه ها ردیابی کردند."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-   "published": "2026-11-02T01:47:26+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+   "published": "2026-11-03T02:47:57+00:00",
    "title": {
-    "en": "Trump makes final pitch to restive voters in midterms campaign",
-    "fa": "ترامپ زمین نهایی را برای رأی دهندگان در میان دوره های انتخاباتی"
+    "en": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+    "fa": "OpenAI، وزیر سابق ارتش ایالات متحده، Dan Driscoll را برای نقش امنیت ملی استخدام می کند"
    },
    "summary": {
-    "en": "Republican Party is defending its control of Congress against signs of backlash against president",
-    "fa": "حزب جمهوریخواه از کنترل کنگره علیه نشانه های واکنش علیه رئیس جمهور دفاع می کند"
+    "en": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+    "fa": "OpenAI وزیر سابق ارتش ایالات متحده، Dan Driscoll را برای نقش امنیتی تازه ایجاد شده برای مدرن سازی امنیت ملی استخدام کرده است."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-   "published": "2026-11-02T00:11:37+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+   "published": "2026-11-03T01:17:37+00:00",
    "title": {
-    "en": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-    "fa": "Binance 3.64 میلیارد دلار در جریان خروجی خالص را پس از هک بزرگ می بیند."
+    "en": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+    "fa": "اپل هشدار می دهد که هزینه های تراشه حافظه “unprecedented” منجر به حاشیه خواهد شد"
    },
    "summary": {
-    "en": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-    "fa": "بایننس 3.64 میلیارد دلار در جریان خروجی خالص پس از برداشت مجدد پس از یک هک 6.3 میلیارد دلاری ثبت کرد که نشان دهنده 2.1 درصد کل دارایی های آن است."
+    "en": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
+    "fa": "غول سخت افزار پیش بینی فروش قوی در فصل تعطیلات اما چشم انداز خدمات ناامید کننده"
    }
   },
   {
    "id": "tr35",
    "section": "trade",
-   "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/usda-fund-8-fertilizer-manufacturing-projects-totaling-1-billion/873311/",
-   "published": "2026-10-30T14:52:00+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/cb91f234-85af-4686-9cc5-6f6189e0304c?syn-25a6b1a6=1",
+   "published": "2026-11-03T00:35:42+00:00",
    "title": {
-    "en": "USDA to fund 8 fertilizer manufacturing projects totaling more than $1.3B",
-    "fa": "USDA برای تامین 8 پروژه تولید کود در مجموع بیش از 1.3B $"
+    "en": "US to hold first talks with Russia and Ukraine since February",
+    "fa": "آمریکا از ماه فوریه برای برگزاری اولین مذاکرات با روسیه و اوکراین"
    },
    "summary": {
-    "en": "The agency said the projects will add production capacity to drive prices lower and reduce the nation’s reliance on nutrients from other countries.",
-    "fa": "این آژانس گفت که این پروژه ها ظرفیت تولید را برای کاهش قیمت ها و کاهش وابستگی کشور به مواد مغذی از کشورهای دیگر اضافه خواهند کرد."
+    "en": "Officials from Washington, Moscow and Kyiv will meet in Abu Dhabi next week",
+    "fa": "مقامات واشنگتن، مسکو و کیوی هفته آینده در ابوظبی دیدار خواهند کرد"
    }
   },
   {
    "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/ups-aims-to-double-rfid-labeled-volume-from-customer-locations/872946/",
-   "published": "2026-10-30T14:45:39+00:00",
+   "link": "https://www.supplychaindive.com/news/manufacturing-expands-for-10th-straight-month-but-iran-war-weighs-heavily/873468/",
+   "published": "2026-11-02T17:41:00+00:00",
    "title": {
-    "en": "UPS aims to double RFID-labeled volume from customer locations",
-    "fa": "UPS با هدف دو برابر کردن حجم برچسب RFID از مکان های مشتری"
+    "en": "Manufacturing expands for 10th straight month, but Iran war weighs heavily",
+    "fa": "تولید به مدت ۱۰ ماه به طور مستقیم گسترش می یابد، اما جنگ ایران به شدت وزن دارد"
    },
    "summary": {
-    "en": "The carrier expects 6 million packages a day will benefit from the offering in 2027, increasing shipper visibility in the process, CEO Carol Tomé said.",
-    "fa": "این شرکت انتظار دارد که 6 میلیون بسته در روز از عرضه در سال 2027 بهره مند شود و در این فرآیند، کارول تام، مدیر عامل این شرکت، افزایش دید ناو را افزایش دهد."
+    "en": "Increasingly negative comments from respondents also cite price vitality and trade wars in the latest Purchasing Managers’ Index from the Institute for Supply Management.",
+    "fa": "به طور فزاینده نظرات منفی از پاسخ دهندگان همچنین حاکی از نشاط قیمت و جنگ های تجاری در آخرین شاخص مدیران خرید از موسسه مدیریت عرضه است."
    }
   },
   {
    "id": "tr37",
    "section": "trade",
-   "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/gr26_30oct26_534_e.htm",
-   "published": "2026-10-30T00:00:00+00:00",
+   "source": "Supply Chain Dive",
+   "link": "https://www.supplychaindive.com/news/reshoring-foreign-direct-investment-247k-jobs-2025-report-reshoring-initiative/873433/",
+   "published": "2026-11-02T15:35:00+00:00",
    "title": {
-    "en": "Global Review concludes with a declaration on partnerships for trade and development",
-    "fa": "بررسی جهانی با اعلام مشارکت برای تجارت و توسعه پایان می یابد"
+    "en": "Reshoring and foreign direct investment added 247K manufacturing jobs in 2025",
+    "fa": "Reshoring و سرمایه گذاری مستقیم خارجی 247K را در سال 2025 اضافه کردند."
    },
    "summary": {
-    "en": "Marking the 20th anniversary of the Aid for Trade Initiative, WTO members adopted a declaration on 30 October repositioning the initiative as \"Aid for Trade: partnerships for trade and development\". The declaration was adopted at a meeting of the Committee on…",
-    "fa": "با توجه به سالگرد 20th کمک به ابتکار تجارت، اعضای سازمان تجارت جهانی بیانیه ای را در 30 اکتبر تصویب کردند که این ابتکار را به عنوان \"آدی برای تجارت: مشارکت برای تجارت و توسعه\". این بیانیه در جلسه ای از کمیته در ..."
+    "en": "The result “essentially matched” the previous year, per the Reshoring Initiative, which expects 25% growth in reshoring-related jobs in 2026.",
+    "fa": "نتیجه \"به طور ضروری\" سال گذشته، در هر طرح Reshoring، که انتظار می رود 25٪ رشد در مشاغل مرتبط با شوشینگ در سال 2026."
    }
   },
   {
    "id": "tr38",
    "section": "trade",
+   "source": "World Trade Organization",
+   "link": "https://www.wto.org/english/news_e/news26_e/safe_eec_02nov26_536_e.htm",
+   "published": "2026-11-02T00:00:00+00:00",
+   "title": {
+    "en": "EU launches safeguard investigation on certain new hybrid vehicles",
+    "fa": "اتحادیه اروپا تحقیقات امنیتی در مورد برخی از خودروهای هیبریدی جدید را راه اندازی کرد"
+   },
+   "summary": {
+    "en": "On 30 October 2026, the European Union notified the WTO’s Committee on Safeguards that it had initiated, on the same day (30 October 2026), a safeguard investigation on imports of certain new hybrid vehicles.",
+    "fa": "در 30 اکتبر 2026، اتحادیه اروپا به کمیته سازمان جهانی تجارت جهانی در مورد امنگاردها اطلاع داد که در همان روز (30 اکتبر 2026)، تحقیقات حفاظتی در مورد واردات خودروهای هیبریدی جدید آغاز شده است."
+   }
+  },
+  {
+   "id": "tr39",
+   "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/education/bangladesh-turns-to-china-for-worker-training-amid-graduate-job-struggles",
+   "link": "https://asia.nikkei.com/politics/malaysia-transport-minister-still-plans-to-quit-says-megaprojects-safe",
    "published": "",
    "title": {
-    "en": "Bangladesh turns to China for worker training amid graduate job struggles",
-    "fa": "بنگلادش به چین برای آموزش کارکنان در میان مبارزات شغلی فارغ التحصیل تبدیل می شود"
+    "en": "Malaysia transport minister still plans to quit, says megaprojects safe",
+    "fa": "وزیر حمل و نقل مالزی هنوز هم قصد دارد از آن خارج شود، می گوید که پروژه های بزرگ امن هستند"
    },
    "summary": {
     "en": "",
@@ -790,14 +805,14 @@
    }
   },
   {
-   "id": "tr39",
+   "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-refugees-fill-labor-gaps-in-thailand-as-cambodians-return-home",
+   "link": "https://asia.nikkei.com/business/technology/apple-s-new-ceo-delivers-first-earnings-as-sales-hit-record",
    "published": "",
    "title": {
-    "en": "Myanmar refugees fill labor gaps in Thailand as Cambodians return home",
-    "fa": "پناهندگان میانمار شکاف های کارگری در تایلند را پر می کنند، زیرا کامبوجی ها به خانه برمی گردند"
+    "en": "Apple's new CEO delivers first earnings as sales hit record",
+    "fa": "مدیر عامل جدید اپل اولین درآمد را به عنوان رکورد فروش ارائه می دهد"
    },
    "summary": {
     "en": "",
