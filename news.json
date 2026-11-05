@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T03:24:14+00:00",
- "date": "2026-11-04",
+ "generated_at": "2026-11-05T03:22:42+00:00",
+ "date": "2026-11-05",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -85,7 +85,7 @@
    "section": "economy",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 1,
+   "count": 3,
    "dropped": 0,
    "error": ""
   },
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -213,7 +213,7 @@
    "section": "trade",
    "source": "World Trade Organization",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   }
@@ -222,395 +222,410 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-cooling-oil-prices-c805a544?mod=rss_markets_main",
-   "published": "2026-11-04T03:17:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/04/business/media/midterm-elections-fox-ms-now.html",
+   "published": "2026-11-05T03:06:29+00:00",
    "title": {
-    "en": "Gold in Demand as Dollar, U.S. Yields Fall",
-    "fa": "طلا در تقاضا به عنوان دلار، ایالات متحده Yields سقوط"
+    "en": "Candy and Smiles on MS NOW, and Some Regrets on Fox News",
+    "fa": "Candy و Smiles در MS Now و برخی از rerets در فاکس نیوز"
    },
    "summary": {
-    "en": "Gold buyers are driving up futures volumes in Asia, with buyers likely seeking protection, too, against a potentially more unpredictable Trump administration, Pepperstone said.",
-    "fa": "خریداران طلا در آسیا حجم های آینده را افزایش می دهند و خریداران احتمالاً به دنبال محافظت هستند، در مقابل دولت ترامپ که به طور بالقوه غیرقابل پیش بینی تر است."
+    "en": "On TV, the outcome of the midterm elections became clear early on. Pundits celebrated and grieved by turns.",
+    "fa": "در تلویزیون، نتیجه انتخابات میان مدت در اوایل روشن شد. در حالی که برخی از آن ها به طور ناگهانی جشن گرفته و غمگین می شوند."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/global-solar-stocks-jump-as-democrats-hold-early-us-midterm-lead",
-   "published": "2026-11-04T03:13:54+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/chinese-lgfv-seeks-to-reassure-creditors-after-huafa-selloff",
+   "published": "2026-11-05T03:02:36+00:00",
    "title": {
-    "en": "Global Solar Stocks Jump as Democrats Hold Early US Midterm Lead",
-    "fa": "Global Solar Stocks Jump به عنوان دموکرات ها در اوایل ایالات متحده آمریکا"
+    "en": "Chinese LGFV Seeks to Reassure Creditors After Huafa Selloff",
+    "fa": "LGFV چینی پس از فروش Huafa، به دنبال بازگشت اعتبار گیرندگان است"
    },
    "summary": {
-    "en": "Global solar stocks rallied as investors priced in growing odds of a Democratic sweep of Congress in the US midterm elections, an outcome seen supporting the renewable energy sector.",
-    "fa": "سهام جهانی خورشیدی به عنوان سرمایه گذاران قیمت گذاری شده در شانس رو به رشد یک انتخابات دموکراتیک کنگره در انتخابات میان مدت ایالات متحده، نتیجه ای که از بخش انرژی تجدید پذیر حمایت می کند، متحد شده است."
+    "en": "A Chinese local government financing vehicle in the southern city of Zhuhai has been seeking to reassure investors after missed debt payments by another firm there sparked concerns, people familiar with the matter said.",
+    "fa": "یک وسیله نقلیه تامین مالی دولتی محلی چینی در شهر جنوبی Zhuhai به دنبال اطمینان از سرمایه گذاران پس از از از دست دادن پرداخت بدهی توسط شرکت دیگر نگرانی های جرقه زده، افرادی که با این موضوع آشنا هستند."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/franc-yen-emerge-as-fx-winners-as-us-midterms-weaken-dollar",
-   "published": "2026-11-04T03:11:23+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/ifc-s-22-billion-africa-push-runs-up-against-shallow-markets",
+   "published": "2026-11-05T03:00:00+00:00",
    "title": {
-    "en": "Franc, Yen Emerge as FX Winners as US Midterms Weaken Dollar",
-    "fa": "فرانک، Yen به عنوان برنده FX به عنوان US Midterms Weaken دلار"
+    "en": "IFC’s $22 Billion Africa Push Runs Up Against Shallow Markets",
+    "fa": "2 میلیارد دلار IFC آفریقا تلاش برای مقابله با بازارهای آتی"
    },
    "summary": {
-    "en": "The Swiss franc and Japanese yen jumped as early US election results pointed to the Democrats winning both the House and the Senate, sending the dollar to its worst day in a month.",
-    "fa": "فرانک سوئیس و ین ژاپنی به عنوان نتایج اولیه ی انتخابات آمریکا به دموکرات ها نشان دادند که در هر دو مجلس و سنا دلار را به بدترین روز در ماه می فرستند."
+    "en": "Development lenders, governments and regulators need to deepen African markets so that every dollar they deploy can attract $10 more of commercial capital, an official at the World Bank’s private-sector arm said.",
+    "fa": "وام دهندگان توسعه، دولت ها و رگولاتورها باید بازارهای آفریقایی را عمیق تر کنند تا هر دلاری که در آن مستقر می شوند بتواند ۱۰ دلار بیشتر از سرمایه تجاری را جذب کند، یک مقام در بازوی بخش خصوصی بانک جهانی گفت."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/news/audio/2026/nov/04/kim-jong-un-crypto-bros-and-a-63bn-heist-podcast",
-   "published": "2026-11-04T03:00:22+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-rises-0-7-led-by-auto-pharma-stocks-f42def12?mod=rss_markets_main",
+   "published": "2026-11-05T02:50:00+00:00",
    "title": {
-    "en": "Kim Jong-un, crypto bros and a $6.3bn heist – podcast",
-    "fa": "کیم جونگ اون، فاحشه های رمزنگاری و 6.3 میلیارد دلار Heist – پادکست"
+    "en": "South Korean Chip Selloff Triggers Trading Halt on Main Bourse",
+    "fa": "شرکت کره جنوبی Chip Selloff منجر به فروش معاملات Halt در Main Bourse شد"
    },
    "summary": {
-    "en": "North Korea is said to be behind the theft from the crypto exchange Binance. How did they pull it off and what will they do with the money? Kalyeena Makortoff and Jean H Lee report It was 8pm last Thursday when the panic alarms went off across the crypto…",
-    "fa": "گفته می شود کره شمالی در پشت سرقت صرافی رمزنگاری بایننس قرار دارد. چگونه آن را از بین بردند و با پول چه کار خواهند کرد؟ گزارش Kalyeena Makortoff و Jean H Lee این ساعت 8 بعد از ظهر پنجشنبه بود که زنگ های وحشت در سراسر رمزنگاری خاموش شدند."
+    "en": "A selloff in South Korean semiconductor stocks in early Thursday trading triggered a temporary trading halt on the main bourse.",
+    "fa": "فروش در سهام نیمه هادی کره جنوبی در اوایل روز پنجشنبه، باعث توقف موقت تجارت در تنگه اصلی شد."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/stocks/nikkei-flat-supported-by-financial-airline-stocks-87443383?mod=rss_markets_main",
-   "published": "2026-11-04T02:51:00+00:00",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-flat-after-midterm-linked-rebound-2d7cca6a?mod=rss_markets_main",
+   "published": "2026-11-05T02:25:00+00:00",
    "title": {
-    "en": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
-    "fa": "سهام ایالات متحده، دلار برای Weaken به عنوان Blue Wave Forms"
+    "en": "Gold Rises on Falling Treasury Yields Post-Midterms",
+    "fa": "افزایش طلا در حال سقوط خزانه داری Yields Post-Midterms"
    },
    "summary": {
-    "en": "It’s looking like a blue wave is unfolding in the U.S. midterms, which could mean more regulatory controls, particularly around AI, AMP said. This would be potentially a negative for U.S. equities and the U.S. dollar.",
-    "fa": "به نظر می رسد که یک موج آبی در وسط ایالات متحده در حال وقوع است، که می تواند به معنی کنترل های نظارتی بیشتر، به ویژه در اطراف AI، AMP گفت. این امر به طور بالقوه برای سهام آمریکا و دلار آمریکا منفی خواهد بود."
+    "en": "Gold gained. The U.S. midterm election results sent Treasury yields lower, boosting the appeal of the precious metal, ANZ said.",
+    "fa": "طلا به دست آورد نتایج انتخابات میان مدت ایالات متحده، خزانه داری را پایین تر می آورد و جذابیت فلز گرانبها را افزایش می دهد."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/03/business/media/trump-fox-news-gutfeld-tarlov.html",
-   "published": "2026-11-04T01:59:57+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-05T00:59:22+00:00",
    "title": {
-    "en": "Trump Is Watching Fox News, and He Is Not Thrilled",
-    "fa": "ترامپ در حال تماشای فاکس نیوز است و او در حال حرکت نیست"
+    "en": "Australia's oldest department store David Jones folds after 188 years",
+    "fa": "قدیمی ترین فروشگاه استرالیا دیوید جونز پس از ۱۸۸ سال"
    },
    "summary": {
-    "en": "On a consequential midterm night, the president offered some harsh criticism of the cable news channel on his social media account.",
-    "fa": "در یک شب میان مدت، رئیس جمهور انتقاد شدیدی از کانال اخبار کابل در حساب رسانه های اجتماعی خود ارائه داد."
+    "en": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+    "fa": "38 فروشگاه فیزیکی و سایت آنلاین این برند همچنان به کار خود ادامه می دهند و گیرنده ها عملیات خود را بررسی می کنند."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-04T01:36:06+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
+   "published": "2026-11-05T00:31:06+00:00",
    "title": {
-    "en": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
-    "fa": "دیگر دانه های برنج در کریسپیگ به دلیل تغییر آب و هوا"
+    "en": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
+    "fa": "چگونه سیاست های انرژی Trump کمک کرد تا میانه رو را تحریک کند"
    },
    "summary": {
-    "en": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
-    "fa": "دستورالعمل های جدید به این معنی است که بسته بندی غلات در حال حاضر شامل یک هشدار \" گلوتن گندم\" است."
+    "en": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent.",
+    "fa": "جنگ در ایران، تلاش برای ترویج سوخت های فسیلی و حملات به انرژی های تجدید پذیر به قیمت های بالاتر برای گاز و برق کمک کرد که باعث نارضایتی رای دهندگان شد."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
    "source": "The Economist",
-   "link": "https://www.economist.com/finance-and-economics/2026/11/03/chinas-ai-stock-market-struggles-are-a-warning",
-   "published": "2026-11-03T20:48:59+00:00",
+   "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
+   "published": "2026-11-04T21:48:18+00:00",
    "title": {
-    "en": "China’s AI stock-market struggles are a warning",
-    "fa": "مبارزات بازار سهام چین هشداری است"
+    "en": "What markets make of the midterms",
+    "fa": "چه بازارهایی از اواسط دهه"
    },
    "summary": {
-    "en": "What happens when the supply of new tech catches up with demand?",
-    "fa": "چه اتفاقی می افتد زمانی که عرضه تکنولوژی جدید با تقاضا مواجه می شود؟"
+    "en": "Democrats triumph. Investors yawn",
+    "fa": "پیروزی دموکرات ها سرمایه گذاران"
    }
   },
   {
    "id": "ec9",
    "section": "economy",
    "source": "The Guardian",
-   "link": "https://www.theguardian.com/news/video/2026/nov/03/why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
-   "published": "2026-11-03T19:12:31+00:00",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/04/democrats-elected-us-awakening",
+   "published": "2026-11-04T19:03:08+00:00",
    "title": {
-    "en": "Why are fridges being hacked and what could be next? - The Latest",
-    "fa": "چرا یخچال ها هک می شوند و چه می توانند بعدی باشند؟ آخرین ها"
+    "en": "The great sleeping giant of America has awakened | Robert Reich",
+    "fa": "غول خواب بزرگ آمریکا بیدار شده است رابرت رایش"
    },
    "summary": {
-    "en": "Supermarket fridges and freezers in several European countries have malfunctioned after a reported cyber-attack, with their thermostats remotely cranked up. It is unclear who is behind the latest apparent attack but the EU has condemned what it said was ‘a…",
-    "fa": "یخچال های سوپرمارکت و فریزر در چندین کشور اروپایی پس از یک حمله سایبری گزارش شده، با ترموستات های خود از راه دور پر شده اند. مشخص نیست که چه کسی پشت آخرین حمله آشکار قرار دارد اما اتحادیه اروپا آنچه را که گفته بود، محکوم کرده است."
+    "en": "The real question in my mind is whether Democrats will take advantage of the new age of populism The great sleeping giant of the US has awakened, taken a hard look at what’s become of the nation, and roared a thunderous “NO!” What occurred on Tuesday was not…",
+    "fa": "سوال واقعی در ذهن من این است که آیا دموکرات ها از عصر جدید پوپولیسم بهره مند خواهند شد غول خواب بزرگ ایالات متحده بیدار شده است، نگاهی سخت به آنچه که از کشور تبدیل شده است، و یک \"نه\" رعد و برق زده است. اتفاقی که روز سه شنبه رخ داد این نبود..."
    }
   },
   {
    "id": "ec10",
    "section": "economy",
    "source": "Deutsche Welle",
-   "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-bus-2091-rdf",
-   "published": "2026-11-03T10:27:00+00:00",
+   "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-11-04T15:09:00+00:00",
    "title": {
-    "en": "Could the AI boom make borrowing more expensive in Europe?",
-    "fa": "آیا رونق هوش مصنوعی می تواند در اروپا گران تر شود؟"
+    "en": "What the Democrats' midterms win means for the US economy and Trump",
+    "fa": "پیروزی میان دوره های دموکرات ها برای اقتصاد آمریکا و ترامپ"
    },
    "summary": {
-    "en": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
-    "fa": "فرانسه، آلمان و ایتالیا با بازار اوراق قرضه فرار به عنوان گاز تورم جنگی مواجه هستند. با غول های فناوری ایالات متحده در حال حاضر میلیاردها دلار در اوراق قرضه AI صادر می کنند، آنها با دولت های اروپایی در حال رقابت هستند."
+    "en": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
+    "fa": "از قیمت های بالای نفت و مراکز داده گرفته تا تعرفه ها و بدهی های فزاینده، نگرانی های اقتصادی نقش مهمی در شکست خرد کردن جمهوریخواهان دونالد ترامپ ایفا کرد. آیا دموکرات ها اکنون می توانند تفاوت ایجاد کنند؟"
    }
   },
   {
    "id": "te11",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-04/singapore-air-becomes-latest-carrier-affected-by-data-breach",
-   "published": "2026-11-04T03:05:12+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/ai/meta-president-says-midterm-results-will-make-building-data-centers-harder-f1d27c93?mod=rss_Technology",
+   "published": "2026-11-05T03:11:00+00:00",
    "title": {
-    "en": "Singapore Air Becomes Latest Carrier Affected by Data Breach",
-    "fa": "سنگاپور ایر تبدیل به آخرین حامل تحت تاثیر داده های BRAN"
+    "en": "Meta President Says Midterm Results Will Make Building Data Centers Harder",
+    "fa": "متا رئیس جمهور می گوید که نتایج متوسط باعث ایجاد مراکز داده سخت تر خواهد شد"
    },
    "summary": {
-    "en": "Singapore Airlines Ltd. became the latest carrier hit by a data breach at one of its main software providers, bringing the global number of bookings compromised by the hack across the industry to over 200,000.",
-    "fa": "شرکت هواپیمایی سنگاپور تبدیل به آخرین حامل نفوذ داده ها در یکی از ارائه دهندگان اصلی نرم افزار خود شد و تعداد جهانی رزرو های به خطر افتاده توسط هک در سراسر صنعت به بیش از 200،000."
+    "en": "Speaking at the WSJ Tech conference, Dina Powell McCormick said the company is more optimistic about scaling up its existing data centers.",
+    "fa": "در کنفرانس فناوری WSJ، Dina Paul McCormick گفت که این شرکت نسبت به اندازه گیری مراکز داده موجود، خوشبین تر است."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?mod=rss_Technology",
-   "published": "2026-11-04T02:00:00+00:00",
+   "link": "https://www.wsj.com/tech/ai/the-election-day-revolt-that-threatens-americas-ai-boom-03a53b52?mod=rss_Technology",
+   "published": "2026-11-05T02:00:00+00:00",
    "title": {
-    "en": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren’t Buying It.",
-    "fa": "سیلیکون دره وعده می دهد که AI بیماری را درمان می کند. مدیران عامل مواد مخدر آن را خریداری نمی کنند."
+    "en": "The Election Day Revolt That Threatens America’s AI Boom",
+    "fa": "روز انتخابات این است که بی خطر بودن AI آمریکا"
    },
    "summary": {
-    "en": "No drug designed by artificial intelligence has won FDA clearance, and pharma leaders say biology is the obstacle.",
-    "fa": "هیچ دارویی که توسط هوش مصنوعی طراحی شده است، مجوز FDA را به دست نیاورده و رهبران دارویی می گویند که زیست شناسی مانعی است."
+    "en": "Americans’ vote for anti-data center candidates and ballot measures could rein in AI’s expansion and hobble economic growth.",
+    "fa": "رای گیری آمریکایی ها برای نامزدهای مرکز داده و اقدامات رای گیری می تواند در گسترش هوش مصنوعی و رشد اقتصادی متزلزل شود."
    }
   },
   {
    "id": "te13",
    "section": "tech",
    "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-   "published": "2026-11-04T01:17:17+00:00",
+   "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+   "published": "2026-11-05T00:25:12+00:00",
    "title": {
-    "en": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-    "fa": "AMD از ثروت های مرکز داده برای \"بزرگ ترین و سودآورترین\" در تاریخ استفاده می کند"
+    "en": "X says its updated web app is way faster",
+    "fa": "X می گوید که برنامه وب به روز شده سریع تر است"
    },
    "summary": {
-    "en": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record high next…",
-    "fa": "مدیر عامل AMD Lisa سو گفت که درآمد سه ماهه شرکت سه شنبه سه شنبه اعلام کرد که Q3 2026 بزرگترین و سودآورترین درآمد در تاریخ ما بوده است. AMD یک رکورد 13.4 میلیارد دلاری را در درآمد سه ماهه گزارش داد و پیش بینی می کند که رکورد دیگری را در آینده بالا خواهد برد."
+    "en": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Nizipli…",
+    "fa": "X نسخه جدیدی از برنامه وب خود را معرفی می کند که می گوید بسیار سریع تر از قبل است و در حال حاضر برنامه به روز شده \"یک کشور در یک زمان\" برای کاربران امضا شده است. باز کردن یک پروفایل در X.com بر روی یک اتصال آهسته، مهندس اصلی یارد Nizipli"
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
-   "published": "2026-11-04T01:05:31+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-05/south-korea-s-current-account-surplus-hits-record-on-chip-boom",
+   "published": "2026-11-05T00:05:49+00:00",
    "title": {
-    "en": "All the news about The Legend of Zelda: Ocarina of Time remake",
-    "fa": "تمام اخبار مربوط به افسانه Zelda: Ocarina بازسازی زمان"
+    "en": "South Korea’s Current Account Surplus Hits Record on Chip Boom",
+    "fa": "رکورد فعلی کره جنوبی Surplus Hits در Chip Boom"
    },
    "summary": {
-    "en": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on Nintendo…",
-    "fa": "پیش از انتشار Grand Theft Auto VI بزرگ Rockstar Games، نینتندو در حال راه اندازی مجدد خود است: یک Switch 2 از The Legend of Zelda: Ocarina of Time. بازسازی، که ۲۸ سال پس از راه اندازی نسخه اصلی در Nintendo منتشر می شود."
+    "en": "South Korea’s current-account surplus jumped to a record in September, fueled by booming semiconductor exports as global investment in artificial intelligence continues to stoke demand for the country’s technology products.",
+    "fa": "مازاد حساب فعلی کره جنوبی در ماه سپتامبر به رکوردی رسید که با رونق صادرات نیمه هادی به عنوان سرمایه گذاری جهانی در هوش مصنوعی همچنان به کاهش تقاضا برای محصولات فن آوری این کشور ادامه می دهد."
    }
   },
   {
    "id": "te15",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-04/quantum-computing-on-commercial-scale-video",
-   "published": "2026-11-04T00:01:30+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-04/nextdc-surges-on-report-of-goodman-digital-realty-buying-stake",
+   "published": "2026-11-04T23:09:02+00:00",
    "title": {
-    "en": "Quantum Computing on Commercial Scale",
-    "fa": "محاسبات کوانتومی در مقیاس تجاری"
+    "en": "Nextdc Shares Surge After Rival Data Center Firms Seek Stake",
+    "fa": "Nextdc پس از شرکت های مرکز داده Rival به دنبال Stakes"
    },
    "summary": {
-    "en": "Ebba Carbonnier, CEO, QuNorth; Jan Goetz, Co-Founder & CEO, IQM Quantum Computers and Carmen Palacios-Berraquero, Founder & CEO, Nu Quantum, discuss the technology, infrastructure, investment and demand shaping quantum computing’s commercial future with…",
-    "fa": "Ebba Carbonnier، مدیر عامل، QuNorth؛ Jan Goetz، Co-Founder & CEO، IQM Quantum Computers و کارمن Palacios-Berraquero، موسس و مدیر عامل، Nu Quantum، بحث در مورد تکنولوژی، زیرساخت، سرمایه گذاری و تقاضا شکل دادن به آینده تجاری محاسبات کوانتومی با ..."
+    "en": "Nextdc Ltd. shares jumped the most since 2010 after rival data center operators bought equity following a selloff in the Australian company.",
+    "fa": "سهام سهام از سال 2010 پس از اپراتورهای مرکز داده رقیب، سهام را پس از فروش در شرکت استرالیا خریداری کرد."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-   "published": "2026-11-03T23:39:55+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+   "published": "2026-11-04T22:47:51+00:00",
    "title": {
-    "en": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
-    "fa": "OpenAI و Anthropic Set Up \"اتاق های جنگی\" برای مبارزه با Disinfo در مورد انتخابات میان دوره ای"
+    "en": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+    "fa": "بزرگترین عرضه کننده چیپ ROM نینتندو از کسب و کار خارج شده است"
    },
    "summary": {
-    "en": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
-    "fa": "OpenAI، Anthropic و دیگر شرکت های فناوری وعده داده اند که از انتخابات سه شنبه در برابر تلاش برای تضعیف دموکراسی محافظت کنند."
+    "en": "And what that could mean for physical Switch game costs.",
+    "fa": "این چه چیزی می تواند برای هزینه های بازی سوئیچ فیزیکی باشد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/google-curbs-ai-in-school-accounts-after-pushback-6b8021fc?mod=rss_Technology",
-   "published": "2026-11-03T22:53:00+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+   "published": "2026-11-04T22:42:15+00:00",
    "title": {
-    "en": "Google Curbs AI in School Accounts After Pushback",
-    "fa": "Google Curbs AI در حساب های مدرسه پس از Pushback"
+    "en": "Qualcomm is betting big on data centers as smartphone sales sink",
+    "fa": "کوالکام در مراکز داده بزرگ شرط بندی می کند زیرا فروش تلفن های هوشمند"
    },
    "summary": {
-    "en": "The search company turns off Gemini chatbot and Google Search by default for schoolchildren after a WSJ investigation into Google’s AI rollout in schools.",
-    "fa": "این شرکت جستجوی Gemini Chatbot و Google Search را به طور پیش فرض برای کودکان مدرسه پس از بررسی WSJ در ارتقاء هوش مصنوعی گوگل در مدارس، خاموش می کند."
+    "en": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through…",
+    "fa": "با مخزن فروش گوشی های هوشمند در مقایسه با 2025، کوالکام به دنبال مراکز داده برای کمک به افزایش خط پایین آن است. در طول تماس درآمد Q4 2026، شرکت برنامه های خود را برای ایجاد یک ضربه در کسب و کار مرکز داده هوش مصنوعی، از طریق ..."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-   "published": "2026-11-03T22:39:37+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-04T21:41:15+00:00",
    "title": {
-    "en": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-    "fa": "کالیفرنیا با \"پیش زمینه\" درخواست مدیر Trump برای لغو قوانین باند پهن ایالتی مبارزه می کند"
+    "en": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+    "fa": "میلیون ها نفر از الون ماسک موفق به ارائه پیروزی های جمهوری خواه در میان دوره های شدید شدند"
    },
    "summary": {
-    "en": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
-    "fa": "دولت تلاش می کند با وجود رد کردن وضعیت مدیریت ترامپ، بودجه پهن باند را به دست آورد."
+    "en": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+    "fa": "ماسک نزدیک به ۵۰۰ میلیون دلار در انتخابات میان دوره ای ۲۰۲۶ ایالات متحده، یک رکورد هزینه های انتخاباتی فردی، صرف کرد."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-03T20:30:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+   "published": "2026-11-04T19:53:16+00:00",
    "title": {
-    "en": "Tech Life",
-    "fa": "تکنولوژی زندگی"
+    "en": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+    "fa": "رای دهندگان A.I را در وسط ها رد کردند. در حال حاضر یک دوره از Scrutiny است."
    },
    "summary": {
-    "en": "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show.",
-    "fa": "هنگامی که کپی رایت به خبرنگاران سکوت می کند، ایمنی راه آهن و ارباب حلقه ها نمایش زنده می دهد."
+    "en": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
+    "fa": "پس از دو سال نظارت اندک A.I.، رای دهندگان روز سه شنبه پروژه های مرکز داده ها را رد کردند و به کاندیداهای دموکراتیک دفتری که قول دادند این تکنولوژی را تنظیم کنند، رفتند."
    }
   },
   {
    "id": "te20",
    "section": "tech",
    "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-   "published": "2026-11-03T13:10:00+00:00",
+   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "published": "2026-11-04T18:50:55+00:00",
    "title": {
-    "en": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-    "fa": "دانلود زیرنویس فارسی فیلم Control Agents and Super Intelligence Tests"
+    "en": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "fa": "تگزاس مرکز جدید ساخت مرکز داده AI بود. این ممکن است جزئی باشد."
    },
    "summary": {
-    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control…",
-    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. چگونه \"تئوری بازی معکوس\" می تواند عوامل AI را در بررسی یک رویکرد جدید به نام \"تئوری بازی معکوس\" با هدف کنترل ..."
+    "en": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton.…",
+    "fa": "تگزاس سریعترین بازار مرکز داده در حال رشد در ایالات متحده و زمین صفر برای بزرگترین ساخت های هوش مصنوعی بزرگ تکنولوژی است. اما موج آبی که ایالت تک ستاره را درنوردید ممکن است این موقعیت را به خطر بیندازد. جیمز Talarico، دموکرات آمریکا در مقابل Ken Paxton پیروز شد."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/03/meta-ai-content-moderation-election-errors-brazil-no-kings/",
-   "published": "2026-11-04T01:49:54+00:00",
+   "link": "https://fortune.com/2026/11/04/el-sayed-medicare-for-all-plan-senate-michigan/",
+   "published": "2026-11-05T02:06:04+00:00",
    "title": {
-    "en": "Meta says automation wrongly took down No Kings and a Senate candidate’s page. It’s automating more anyway",
-    "fa": "متا می گوید که اتوماسیون به اشتباه هیچ پادشاه و صفحه کاندیدای سنا را از بین برد. در هر صورت بیشتر خودکار می شود"
+    "en": "How Abdul El-Sayed would build Medicare for All, from a wealth tax to a Fed-style governing board",
+    "fa": "چگونه عبدالعزیز برای همه، از مالیات بر ثروت به یک هیئت مدیره به سبک فدرال ساخته می شود"
    },
    "summary": {
-    "en": "Lula’s campaign, the No Kings coalition and a Florida Senate candidate ran into restrictions on Meta’s platforms this fall. Each time, Meta blamed errors in its systems.",
-    "fa": "کمپین لولا، ائتلاف No Kings و نامزد مجلس سنای فلوریدا به محدودیت هایی در سیستم عامل های Meta در این سقوط پرداخت. هر بار، متا خطا در سیستم های خود را سرزنش کرد."
+    "en": "The Michigan Democrat co-wrote a 2021 guide to single-payer that would fold Medicare, Medicaid, and ACA subsidies into one fund, with new taxes on the wealthy to cover the rest.",
+    "fa": "دموکرات میشیگان یک راهنمای 2021 را به تک پرداخت کنندگان که Medicare، Medicaid و ACA یارانه به یک صندوق، با مالیات های جدید بر ثروتمندان برای پوشش بقیه."
    }
   },
   {
    "id": "ma22",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/03/openai-hires-uber-jill-hazelbaker-to-to-lead-communications/",
-   "published": "2026-11-03T22:28:47+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91633396/a-discussion-on-women-at-work-with-laetitia-vitaud",
+   "published": "2026-11-04T23:31:00+00:00",
    "title": {
-    "en": "OpenAI hires Uber President Jill Hazelbaker to lead communications, filling a critical role that was curiously vacant for 10 months",
-    "fa": "OpenAI، رئیس جمهور Uber، جیل هازلبکر را استخدام می کند تا ارتباطات را رهبری کند و نقش مهمی را که به طرز عجیبی برای ۱۰ ماه خالی بود، پر کند."
+    "en": "A discussion on women at work with Laëtitia Vitaud",
+    "fa": "بحث در مورد زنان در محل کار با Laëtitia Vitaud"
    },
    "summary": {
-    "en": "Hazelbaker turned down the role in the spring, Fortune previously reported. But now it seems OpenAI has made her an offer she cannot refuse.",
-    "fa": "هازلباکر نقش خود را در بهار کاهش داد و پیش از این گزارش داده بود. اما حالا به نظر می رسد که OpenAI پیشنهادی را به او داده که نمی تواند آن را رد کند."
+    "en": "There’s never a “right” age for a woman at work. Early in their careers, women may face discrimination based on assumptions about whether they’ll take maternity leave. Later, they’re subject to a new set of age-based biases. In this FC Live, Fast Company…",
+    "fa": "هیچ وقت یک \"حق\" برای یک زن در محل کار وجود ندارد. در اوایل حرفه خود، زنان ممکن است بر اساس فرضیات در مورد اینکه آیا آنها مرخصی زایمان را می گیرند، با تبعیض مواجه شوند. بعدها، آنها به یک مجموعه جدید از تعصبات مبتنی بر سن تبدیل می شوند. در این FC Live، Fast Company ..."
    }
   },
   {
    "id": "ma23",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635182/the-2026-midterm-elections-could-change-everything-for-trump-heres-whats-at-stake",
-   "published": "2026-11-03T22:04:31+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/04/appeals-court-tosses-lawsuit-over-mamdanis-pied-a-terre-tax-rollout-ruling-homeowners-cant-sue-over-notices/",
+   "published": "2026-11-04T22:48:32+00:00",
    "title": {
-    "en": "The 2026 midterm elections could change everything for Trump. Here’s what’s at stake",
-    "fa": "انتخابات ۲۰۲۶ ساله می تواند همه چیز را برای ترامپ تغییر دهد. اینجا چیزی است که در خطر است"
+    "en": "Appeals court tosses lawsuit over Mamdani’s pied-à-terre tax rollout, ruling homeowners can’t sue over notices",
+    "fa": "دادگاه درخواست دعوی در مورد شکایت مامداانی در مورد رول مالیات بر جای، صاحبان خانه های حاکم نمی توانند شکایت کنند"
    },
    "summary": {
-    "en": "The midterm elections have the potential to upend everything from politics, to business , to the stock market . But the person most impacted by Tuesday’s results could be President Donald Trump and determine the course of his final two years in office. On the…",
-    "fa": "انتخابات میان مدت پتانسیل دارد که همه چیز را از سیاست، کسب و کار، به بازار سهام برساند. اما فردی که بیشتر تحت تأثیر نتایج سه شنبه قرار دارد، می تواند رئیس جمهور دونالد ترامپ باشد و دوره دو سال آخر ریاست جمهوری خود را در دفتر تعیین کند. در ..."
+    "en": "The decision reverses a Staten Island judgment that ordered the city to redo its notices. Other legal challenges continue.",
+    "fa": "این تصمیم قضاوت جزیره ای را معکوس می کند که به شهر دستور داد تا اطلاعیه های خود را از بین ببرد. سایر چالش های قانونی همچنان ادامه دارد."
    }
   },
   {
    "id": "ma24",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/03/apple-warns-rogue-ai-agents-could-cause-unintended-consequences/",
-   "published": "2026-11-03T21:56:52+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91635782/canva-just-laid-off-1200-people-but-its-severance-package-is-earning-praise",
+   "published": "2026-11-04T22:30:00+00:00",
    "title": {
-    "en": "Apple warns rogue AI agents could ‘conceal’ and ‘manipulate,’ causing unintended consequences for its business",
-    "fa": "اپل هشدار می دهد که عوامل گمراه کننده هوش مصنوعی می توانند «معجزه» و «مجله» ایجاد کنند و عواقب ناخواسته ای برای کسب و کار خود ایجاد کنند."
+    "en": "Canva’s restructuring affects more than 1,200 people. But its severance package is earning praise",
+    "fa": "بازسازی Canva بیش از 1200 نفر را تحت تاثیر قرار می دهد. اما بسته بندی آن، پاداش را دریافت می کند."
    },
    "summary": {
-    "en": "The iPhone maker said AI agents could access systems without authorization and cause damage.",
-    "fa": "سازنده آیفون گفت که عوامل AI می توانند بدون مجوز به سیستم ها دسترسی پیدا کنند و باعث آسیب شوند."
+    "en": "Design tech company Canva is doing some major restructuring : The move will impact nearly 1,300 employees, or roughly 22% of its staff. But the company’s also getting attention for how it’s treating the employees who are being let go. On November 3, CEO…",
+    "fa": "شرکت تکنولوژی طراحی Canva در حال انجام برخی از بازسازی های بزرگ است: این حرکت نزدیک به 1300 کارمند یا تقریبا 22 درصد از کارکنانش را تحت تاثیر قرار خواهد داد. اما این شرکت همچنین به این موضوع توجه می کند که چگونه با کارکنانی که اجازه رفتن دارند رفتار می کند. در 3 نوامبر، مدیرعامل ..."
    }
   },
   {
    "id": "ma25",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635059/hinge-is-making-a-surprising-change-to-its-subscriptions-heres-who-stands-to-benefit",
-   "published": "2026-11-03T20:00:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/04/seismic-blue-wave-sinking-oil-prices-energy-stocks-power-permitting-reform/",
+   "published": "2026-11-04T21:31:52+00:00",
    "title": {
-    "en": "Hinge is making a surprising change to its subscriptions. Here’s who stands to benefit",
-    "fa": "لولا در حال تغییر شگفت انگیز در اشتراک های خود است. در اینجا است که می ایستد برای سود"
+    "en": "‘Seismic’ blue wave triggers the sinking of oil prices, energy stocks, and the chances of power permitting reform",
+    "fa": "موج آبی \"Seismic\" باعث غرق شدن قیمت نفت، ذخایر انرژی و احتمال اجازه دادن به اصلاحات قدرت می شود"
    },
    "summary": {
-    "en": "Hinge users may soon have access to a more affordable subscription tier. The app’s parent company, Match Group, announced on November 2 that it’s testing a new feature geared toward women. During its third-quarter 2026 earnings call , Match Group said the new…",
-    "fa": "کاربران RL ممکن است به زودی به یک لایه اشتراک مقرون به صرفه تر دسترسی داشته باشند. شرکت پدر و مادر این برنامه، Match Group، در تاریخ 2 نوامبر اعلام کرد که یک ویژگی جدید را برای زنان آزمایش می کند. در طول سومین چهارم درآمد 2026 خود، گروه Match اعلام کرد که ..."
+    "en": "The overwhelming nature of the Democratic win is making everyone rethink energy strategies from Iran to Texas data centers.",
+    "fa": "ماهیت قاطع پیروزی دموکراتیک این است که همه را به استراتژی های انرژی تجدید نظر از ایران به مراکز داده تگزاس تبدیل می کند."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635003/taco-bell-says-it-has-a-magic-formula-for-bringing-customers-back-heres-what-it-is",
-   "published": "2026-11-03T19:30:00+00:00",
+   "link": "https://www.fastcompany.com/91635586/lgbtq-rights-took-blows-in-these-states-despite-midterm-election-blue-wave-i-dont-feel-like-libbing-out",
+   "published": "2026-11-04T21:15:00+00:00",
    "title": {
-    "en": "Taco Bell says it has a ‘magic formula’ for bringing customers back. Here’s what it is",
-    "fa": "Taco Bell می گوید که یک فرمول جادویی برای بازگرداندن مشتریان دارد. اینجا چیزی است که هست"
+    "en": "‘I don’t feel like libbing out’: LGBTQ+ rights took blows in these states despite midterm election blue wave",
+    "fa": "\"من احساس نمی کنم که از بین بروم\": حقوق LGBTQ+ در این کشورها با وجود موج آبی در اواسط انتخابات، ضربه می زند."
    },
    "summary": {
-    "en": "Yum Brands, the parent company of Taco Bell , KFC, and The Habit Burger & Grill, reported higher-than-expected third-quarter earnings on Tuesday, driven in part by KFC’s global expansion and higher revenue from its franchises . However, an outbreak of…",
-    "fa": "Yum Brands، شرکت مادر Taco Bell، KFC و Habit Burger & Grill، درآمد سه ماهه سوم بالاتر از حد انتظار را در روز سه شنبه گزارش کردند، که بخشی از آن توسط توسعه جهانی KFC و درآمد بالاتر از حق امتیاز آن است. با این حال، شیوع ..."
+    "en": "For Democrats, this week’s midterm elections went nearly as well as they could have hoped. The party has gained at least seven seats in the Senate and 29 in the House of Representatives, securing full Congressional control. Some conservative strongholds even…",
+    "fa": "برای دموکرات ها، انتخابات میان دوره ای این هفته تقریبا به همان اندازه بود که می توانست امیدوار باشد. این حزب حداقل هفت کرسی در سنا و ۲۹ کرسی در مجلس نمایندگان به دست آورده و کنترل کامل کنگره را تضمین می کند. برخی از استحکامات محافظه کار حتی ..."
    }
   },
   {
    "id": "ma27",
+   "section": "management",
+   "source": "MIT Sloan Management Review",
+   "link": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
+   "published": "2026-11-04T12:00:49+00:00",
+   "title": {
+    "en": "When Cultures Collide in Crisis",
+    "fa": "وقتی فرهنگ ها در بحران به سر می برند"
+   },
+   "summary": {
+    "en": "Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across continents and leadership teams span time zones, cultural agility becomes a business essential.…",
+    "fa": "Sergio Ingravalle / Ikon تصاویر با اختلالات بالا، چابکی فرهنگی کسب و کار و همچنین انعطاف پذیری عملیاتی خود را آزمایش می کند. از آنجا که زنجیره تامین در سراسر قاره ها گسترش می یابد و تیم های رهبری مناطق زمانی را شامل می شوند، چابکی فرهنگی به یک کسب و کار ضروری تبدیل می شود."
+   }
+  },
+  {
+   "id": "ma28",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
@@ -621,157 +636,142 @@
    },
    "summary": {
     "en": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers — have long understood that safety depends not just on good technology but on how people exercise judgment under…",
-    "fa": "عملیات عکس های جذاب که تحت خطر شدید قرار می گیرند – مانند نیروگاه های هسته ای، حامل های هواپیما و مراکز کنترل ترافیک هوایی – مدت ها متوجه شده اند که ایمنی نه تنها به فن آوری خوب بستگی دارد، بلکه در مورد چگونگی قضاوت مردم تحت نظارت است."
-   }
-  },
-  {
-   "id": "ma28",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
-   "published": "",
-   "title": {
-    "en": "The 1 percent wake-up call for life insurers",
-    "fa": "1 درصد تماس های پس از بیدار برای بیمه عمر"
-   },
-   "summary": {
-    "en": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around fee-based accumulation is disappearing. Life insurers have a choice to make.",
-    "fa": "اصلاحات بازنشستگی آلمان صریح ترین بیان یک روند شتاب بخش است. در سراسر اروپا، تجمع مبتنی بر هزینه ناپدید می شود. بیمه گران زندگی یک انتخاب برای انجام."
+    "fa": "عملیات عکس های جذاب که تحت خطر شدید قرار می گیرند – مانند نیروگاه های هسته ای، حامل های هواپیما و مراکز کنترل ترافیک هوایی – مدت ها متوجه شده اند که ایمنی نه تنها به فناوری خوب بستگی دارد بلکه به این بستگی دارد که مردم چگونه قضاوت می کنند."
    }
   },
   {
    "id": "ma29",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
+   "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
    "published": "",
    "title": {
-    "en": "Future of Wellness 2027: Inside the $2.7 trillion takeover",
-    "fa": "آینده رفاه 2027: در داخل 2.7 تریلیون دلار"
+    "en": "The AI-enabled risk function of the future",
+    "fa": "عملکرد ریسک فعال AI در آینده"
    },
    "summary": {
-    "en": "More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness research explores the trends shaping where they spend and what they expect in return.",
-    "fa": "مصرف کنندگان بیشتر سلامت خود را اولویت بندی می کنند و آنچه را که می خرند بررسی می کنند. آخرین آینده ما از تحقیقات Wellness بررسی روند شکل دادن به جایی که آنها صرف می کنند و آنچه که در عوض انتظار دارند."
+    "en": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk operating model.",
+    "fa": "AI نشان می دهد که چگونه بانک ها خطر را مدیریت می کنند. چالش بعدی، مقیاس پذیری قابلیت های AI از طریق یک مدل عامل ریسک مجدد است."
    }
   },
   {
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules",
+   "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
    "published": "",
    "title": {
-    "en": "How frontier AI is rewriting software security rules",
-    "fa": "چگونگی بازنویسی قوانین امنیت نرم افزار"
+    "en": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
+    "fa": "بازسازی رشد با هوش مصنوعی: گفتگو با Slack CMO Ryan Gavin"
    },
    "summary": {
-    "en": "As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies must change their approach to safeguarding their digital assets and infrastructure.",
-    "fa": "همانطور که AI باعث می شود حملات سایبری برای کشف و بهره برداری از آسیب پذیری در نرم افزار آسان تر شود، شرکت ها باید رویکرد خود را برای محافظت از دارایی های دیجیتال و زیرساخت های خود تغییر دهند."
+    "en": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed how AI can turn productivity gains into a lever for growth.",
+    "fa": "در کن شیرs 2026، Slack CMO Ryan Gavin و شریک مک کینزی جفریز در مورد چگونگی تبدیل بهره وری به یک اهرم برای رشد بحث کردند."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-   "published": "2026-11-04T02:48:01+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+   "published": "2026-11-05T03:11:58+00:00",
    "title": {
-    "en": "Democrats score early victories over Trump’s Republicans in battle for Congress",
-    "fa": "دموکرات ها پیروزی های اولیه بر جمهوریخواهان ترامپ در نبرد برای کنگره"
+    "en": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    "fa": "LIV بازی گلف پس از شرکای BC برنامه نجات را خراب می کند"
    },
    "summary": {
-    "en": "High-stakes midterm election doubles as referendum on president’s policies",
-    "fa": "انتخابات میان مدت به عنوان رفراندوم سیاست های رئیس جمهور دو برابر می شود"
+    "en": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
+    "fa": "LIV گلف پس از شرکای BC یک طرح نجات 300 میلیون دلاری را در میان تعهدات بازیکنی که به اندازه کافی نیست، کاهش داد."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-   "published": "2026-11-04T01:49:58+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+   "published": "2026-11-05T03:01:11+00:00",
    "title": {
-    "en": "Midterm elections could jolt stocks if Democrats sweep Congress",
-    "fa": "انتخابات میان مدت می تواند سهام را تحمل کند اگر دموکرات ها کنگره را بگیرند"
+    "en": "Oil tumbles below $100 on post-election peace hopes",
+    "fa": "نفت زیر 100 دلار در امید صلح پس از انتخابات"
    },
    "summary": {
-    "en": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-    "fa": "وال استریت وزن می کند که چگونه اواسط دهه 2026 می تواند بر سهام، بازده خزانه داری، هوش مصنوعی، قیمت انرژی، بانک ها، دفاع و مراقبت های بهداشتی تاثیر بگذارد."
+    "en": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+    "fa": "معاون رئیس جمهور ایالات متحده، JD Vance، شکست میان مدت جمهوری خواهان بر خشم بر جنگ ایران را مقصر می داند"
    }
   },
   {
    "id": "tr33",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-   "published": "2026-11-04T01:07:01+00:00",
+   "link": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+   "published": "2026-11-05T02:07:35+00:00",
    "title": {
-    "en": "Google responds to political backlash over removing search from schools that ban AI",
-    "fa": "گوگل به واکنش های سیاسی در مورد حذف جستجو از مدارس که AI را ممنوع می کند پاسخ می دهد"
+    "en": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+    "fa": "بازارهای پیش بینی وضعیت خود را پس از پیش بینی حرکت دموکراتیک کنگره تثبیت می کنند"
    },
    "summary": {
-    "en": "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
-    "fa": "پس از اینکه مقامات منتخب از جستجوی گوگل در مدارسی که AI را ممنوع می کنند عصبانی شدند، این شرکت گفت که جستجو می تواند با بررسی های هوش مصنوعی بازگردد."
+    "en": "Prediction markets projected election results well before media outlets in an effort to position themselves as fast, reliable news sources.",
+    "fa": "پیش بینی بازارهای پیش بینی شده نتایج انتخابات پیش بینی شده قبل از رسانه ها در تلاش برای قرار دادن خود به عنوان منابع خبری سریع و قابل اعتماد است."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1",
-   "published": "2026-11-03T23:34:36+00:00",
+   "link": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
+   "published": "2026-11-05T01:33:29+00:00",
    "title": {
-    "en": "US has no immediate plan to strike Iran, Trump tells FT",
-    "fa": "آمریکا هیچ برنامه فوری برای حمله به ایران ندارد، ترامپ به FT می گوید"
+    "en": "US midterm results herald upheaval in Middle East policy",
+    "fa": "اواسط دهه ی آمریکا منجر به تغییر در سیاست خاورمیانه شد"
    },
    "summary": {
-    "en": "President says position with Tehran is ‘brilliant’ in interview just hours before midterm polls close",
-    "fa": "رئیس جمهور می گوید که موقعیت با تهران در مصاحبه فقط چند ساعت قبل از نظرسنجی های متوسط است."
+    "en": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
+    "fa": "رای دهندگان آمریکایی – از جمله JD Vance – خواهان پایان دادن به جنگ ایران و نزدیکی واشنگتن به اسرائیل هستند"
    }
   },
   {
    "id": "tr35",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/2478a5ea-263a-4f4f-ac96-7d619fb39bb8?syn-25a6b1a6=1",
-   "published": "2026-11-03T22:33:06+00:00",
+   "source": "Supply Chain Dive",
+   "link": "https://www.supplychaindive.com/news/ustr-urged-to-permanently-suspend-china-linked-ship-fees/873618/",
+   "published": "2026-11-04T19:58:00+00:00",
    "title": {
-    "en": "CVS Health moves to dismantle $117bn healthcare empire",
-    "fa": "CVS بهداشت برای از بین بردن امپراتوری مراقبت های بهداشتی 17 میلیارد دلاری"
+    "en": "USTR urged to permanently suspend China-linked ship fees",
+    "fa": "USTR خواستار تعلیق دائمی هزینه های کشتی متصل به چین شد"
    },
    "summary": {
-    "en": "Potential spin-off of drugstore business comes as political pressure mounts on pharmacy benefit managers and health insurers",
-    "fa": "چرخش بالقوه کسب و کار داروخانه به عنوان فشار سیاسی بر مدیران بهره مند داروخانه و بیمه گران بهداشتی"
+    "en": "Stakeholders such as the World Shipping Council and the National Retail Federation are concerned fees will “add another cost layer to an already strained transportation system.”",
+    "fa": "سهامدارانی مانند شورای حمل و نقل جهانی و فدراسیون ملی خرده فروشی نگران هزینه های \"یک لایه هزینه دیگر به یک سیستم حمل و نقل در حال حاضر فشرده شده است.\""
    }
   },
   {
    "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/3m-closes-16-factories-plans-changes-at-10-more-in-network-revamp/873536/",
-   "published": "2026-11-03T17:20:00+00:00",
+   "link": "https://www.supplychaindive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873620/",
+   "published": "2026-11-04T14:47:00+00:00",
    "title": {
-    "en": "3M closes 16 factories, plans changes at 10 more in network revamp",
-    "fa": "3M نزدیک به 16 کارخانه، برنامه های تغییر در 10 بیشتر در شبکه"
+    "en": "Amazon deploys thousands of smart glasses to delivery drivers",
+    "fa": "آمازون هزاران عینک هوشمند را برای رانندگان تحویل می دهد"
    },
    "summary": {
-    "en": "The industrial conglomerate is aiming for $1 billion in annual productivity gains by the end of 2027 through an operational overhaul, Chairman and CEO William Brown said.",
-    "fa": "این شرکت صنعتی قصد دارد تا پایان سال ۲۰۲۷، یک میلیارد دلار سود بهره وری سالانه را از طریق اصلاحات عملیاتی، رئیس و مدیرعامل ویلیام براون، به دست آورد."
+    "en": "The glasses provide navigation and drop-off instructions within drivers' field of view, part of the company's effort to boost delivery efficiency.",
+    "fa": "عینک دستورالعمل های ناوبری و خروج را در زمینه دید رانندگان، بخشی از تلاش شرکت برای افزایش کارایی تحویل ارائه می دهد."
    }
   },
   {
    "id": "tr37",
    "section": "trade",
-   "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/trump-sparked-growth-widened-trade-deficit-slowed-hiring-iw/873576/",
-   "published": "2026-11-03T16:37:00+00:00",
+   "source": "World Trade Organization",
+   "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_vnm_04nov26_e.htm",
+   "published": "2026-11-04T00:00:00+00:00",
    "title": {
-    "en": "Trump sparked growth but widened trade deficit, slowed hiring",
-    "fa": "ترامپ رشد را جرقه زد اما کسری تجاری گسترده، کاهش استخدام"
+    "en": "Trade Policy Review: Viet Nam",
+    "fa": "نام تجاری: Viet Nam"
    },
    "summary": {
-    "en": "President Donald Trump’s sweeping tariffs and efforts to boost foreign direct investment have fallen short of their objectives, per the German Economic Institute.",
-    "fa": "تعرفه ها و تلاش های گسترده رئیس جمهور دونالد ترامپ برای افزایش سرمایه گذاری مستقیم خارجی، از اهداف خود در موسسه اقتصادی آلمان کم شده است."
+    "en": "The third review of the trade policies and practices of Viet Nam takes place on 4 and 6 November 2026. The basis for the review is a report by the WTO Secretariat and a report by the Government of Viet Nam.",
+    "fa": "بررسی سوم سیاست ها و شیوه های تجاری ویت نام در 4 و 6 نوامبر 2026 صورت می گیرد. اساس این بررسی گزارشی توسط دبیرخانه سازمان تجارت جهانی و گزارشی از سوی دولت ویتنام است."
    }
   },
   {
@@ -793,11 +793,11 @@
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/markets/japan-south-korea-stocks-fall-over-3-as-democrats-lead-in-us-midterms",
+   "link": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-activist-joshua-wong-sentenced-to-10-years-for-foreign-collusion",
    "published": "",
    "title": {
-    "en": "Japan, South Korea stocks fall over 3% as Democrats lead in US midterms",
-    "fa": "ژاپن، سهام کره جنوبی بیش از 3٪ کاهش می یابد، زیرا دموکرات ها در میان دوره های ایالات متحده رهبری می کنند"
+    "en": "Hong Kong activist Joshua Wong sentenced to 10 years for foreign collusion",
+    "fa": "فعال هنگ کنگ، جاشوا وونگ، به مدت ۱۰ سال به دلیل تشنج خارجی محکوم شد"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/u.s.-midterms-live-democrats-flip-first-senate-seat-in-north-carolina",
+   "link": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain",
    "published": "",
    "title": {
-    "en": "U.S. midterms live: Democrats flip first Senate seat in North Carolina",
-    "fa": "متوسط ایالات متحده زندگی می کند: دموکرات ها اولین صندلی سنا را در کارولینای شمالی پرتاب می کنند"
+    "en": "China's curbs on tungsten used in drill bits squeeze AI supply chain",
+    "fa": "محدودیت های چین در تنگستن مورد استفاده در بیت های حفاری زنجیره تامین AI"
    },
    "summary": {
     "en": "",
