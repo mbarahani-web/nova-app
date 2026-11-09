@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T03:24:44+00:00",
- "date": "2026-11-08",
+ "generated_at": "2026-11-09T03:21:53+00:00",
+ "date": "2026-11-09",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "dropped": 0,
    "error": ""
   },
@@ -213,7 +213,7 @@
    "section": "trade",
    "source": "World Trade Organization",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "dropped": 0,
    "error": ""
   }
@@ -223,124 +223,139 @@
    "id": "ec1",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/how-a-talent-war-spelled-doom-for-the-traditional-law-firm-1cf2c279?mod=rss_markets_main",
-   "published": "2026-11-08T01:00:00+00:00",
+   "link": "https://www.wsj.com/economy/central-banking/japan-spent-record-50-billion-in-single-day-to-bolster-yen-2bdeebd9?mod=rss_markets_main",
+   "published": "2026-11-09T02:58:00+00:00",
    "title": {
-    "en": "How a Talent War Spelled Doom for the Traditional Law Firm",
-    "fa": "چگونه یک جنگ استعداد برای شرکت حقوقی سنتی شکست خورد"
+    "en": "Japan Spent Record $50 Billion in Single Day to Bolster Yen",
+    "fa": "ژاپن اسپنت 50 میلیارد دلار در یک روز به بولستر Yen"
    },
    "summary": {
-    "en": "A record year for partner turnover helped bring down Weil Gotshal and is forcing similar firms to make changes to compete.",
-    "fa": "یک سال سابقه برای گردش مالی شریک به کاهش Weil Gotshal کمک کرد و شرکت های مشابه را مجبور به ایجاد تغییرات برای رقابت می کند."
+    "en": "Japan spent a record $50 billion in one day during July to prop up the yen, underscoring an aggressive intervention campaign that included rare joint action with the U.S.",
+    "fa": "ژاپن در یک روز در ماه ژوئیه 50 میلیارد دلار هزینه کرد تا کمپین مداخله تهاجمی را که شامل اقدامات مشترک نادر با ایالات متحده بود، تقویت کند."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-08/ai-slump-revives-asia-s-forgotten-trades-from-china-to-india",
-   "published": "2026-11-08T00:00:00+00:00",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-09/foreign-funds-pile-into-india-as-ai-trade-falters",
+   "published": "2026-11-09T02:45:32+00:00",
    "title": {
-    "en": "AI Slump Revives Asia’s Forgotten Trades From China to India",
-    "fa": "AI Slump Reives فراموش شده آسیا از چین به هند"
+    "en": "Foreign Funds Pile Into India as AI Trade Falters",
+    "fa": "صندوق های خارجی به هند به عنوان Falters تجارت AI"
    },
    "summary": {
-    "en": "The unraveling of the AI trade after the US midterm elections is forcing investors to rethink their Asia playbook, reviving demand for out-of-favor Chinese and Indian stocks as well as companies poised to benefit from easing inflation and trade tensions.",
-    "fa": "از بین بردن تجارت AI پس از انتخابات میان دوره ای ایالات متحده، سرمایه گذاران را مجبور می کند تا کتاب بازی آسیایی خود را تجدید نظر کنند، تقاضا برای سهام چینی و هندی و همچنین شرکت هایی که آماده بهره برداری از کاهش تورم و تنش های تجاری هستند."
+    "en": "Including Friday’s provisional figures, foreign funds were net buyers of close to $5 billion of stocks last week.",
+    "fa": "از جمله ارقام موقت جمعه، صندوق های خارجی خریداران خالص نزدیک به ۵ میلیارد دلار سهام در هفته گذشته بودند."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/health/wellness/wellness-society-college-campus-trend-5599666e?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-08T00:00:00+00:00",
+   "link": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-for-easing-mideast-tensions-28ffdb0c?mod=rss_markets_main",
+   "published": "2026-11-09T02:33:00+00:00",
    "title": {
-    "en": "Cold Plunges, Fitness Pop-Ups: The Students Pushing Clean Living on Campus",
-    "fa": "Plunges سرد، Fitness Pop-Ups: دانش آموزان Pushing تمیز زندگی در محوطه دانشگاه"
+    "en": "Oil Falls Amid Hopes for Easing Mideast Tensions",
+    "fa": "آبشار نفت Amid Hopes for Easing Mid East"
    },
    "summary": {
-    "en": "Gone are the days of instant ramen and all-nighters. Today’s undergrads are maximizing their protein, tracking their sleep and obsessing over hydration.",
-    "fa": "از دست رفته روزهایی از مردان فوری و تمام شبان هستند. امروزه زیرگراها پروتئین خود را به حداکثر می رسانند، خواب خود را ردیابی می کنند و بیش از حد آبریز می شوند."
+    "en": "Oil fell in Asian trade amid rising hopes for easing tensions in the Middle East. Investors are eager to see progress on the Iran war after Democrats’ sweeping win at the midterm elections, ANZ said.",
+    "fa": "نفت در تجارت آسیایی با افزایش امید برای کاهش تنش ها در خاورمیانه سقوط کرد. سرمایه گذاران مشتاق به مشاهده پیشرفت در جنگ ایران پس از پیروزی گسترده دموکرات ها در انتخابات میان مدت هستند."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/australia-home-sales-rise-in-fledgling-sign-of-property-recovery",
-   "published": "2026-11-07T23:54:25+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-s-cheap-domestic-gas-curbs-lng-buying-as-winter-nears",
+   "published": "2026-11-09T02:20:24+00:00",
    "title": {
-    "en": "Australia Home Sales Rise in Fledgling Sign of Property Recovery",
-    "fa": "افزایش فروش خانه استرالیا در Fledgling Sign of property Recovery"
+    "en": "China’s Cheap Domestic Gas Curbs LNG Buying as Winter Nears",
+    "fa": "خرید ارزان قیمت گاز داخلی چین در نزدیکی زمستان"
    },
    "summary": {
-    "en": "Australian home sales and auction clearance rates climbed, offering hopes of a recovery for a property market that has slumped as interest rates rose this year.",
-    "fa": "فروش و نرخ های تخفیف حراجی استرالیا افزایش یافته است و امید به بهبودی برای یک بازار املاک را فراهم می کند که امسال به عنوان نرخ بهره کاهش یافته است."
+    "en": "China’s domestic natural gas prices are weakening, curbing the world’s biggest importer’s appetite for expensive seaborne supplies and potentially freeing up cargoes for Europe and other Asian markets during the peak winter demand season.",
+    "fa": "قیمت گاز طبیعی داخلی چین در حال ضعیف شدن است و بزرگترین واردکننده جهان را برای ذخایر دریایی گران قیمت و به طور بالقوه آزاد کردن محموله ها برای اروپا و دیگر بازارهای آسیایی در طول فصل تقاضای زمستان است."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-07T23:02:35+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-09T00:50:06+00:00",
    "title": {
-    "en": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-    "fa": "Labubu به نظر می رسید توقف ناپذیر، در حال حاضر مرد هیولا سامی در حال مرگ است"
+    "en": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "fa": "Nvidia تحقیقات خود را در مورد رابطه مدیرعامل با جاسوسی چینی مشکوک آغاز کرد"
    },
    "summary": {
-    "en": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-    "fa": "درآمد شرکت پدر و مادر پاپ مارت به عنوان اشتها برای هیولا های جمع آوری شده است."
+    "en": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+    "fa": "جنسن هوانگ همچنین اعتراف کرد که به همسر خود \"نافام\" بوده و می گوید با تحقیقات امنیتی همکاری خواهد کرد."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-07T21:40:32+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html",
+   "published": "2026-11-09T00:27:00+00:00",
    "title": {
-    "en": "Ipswich Town's new club shop 'here to stay'",
-    "fa": "فروشگاه باشگاه جدید Ipswich Town \"اینجا برای اقامت\""
+    "en": "Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy",
+    "fa": "Rubio در مورد مشارکت رئیس Nvidia با جاسوسی چینی"
    },
    "summary": {
-    "en": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-    "fa": "طرفداران و بازیکنان در \"فضای فعال سازی\" جدید در مرکز شهر خوشحال هستند."
+    "en": "The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.",
+    "fa": "نقش وزیر امور خارجه در پیش نویس یک یادداشت مخفی نشان می دهد که مقامات ارشد در بهار گذشته درباره رابطه جنس جنسن هوانگ با زنی که به هوش چینی گره خورده بود، چگونه نگران بودند."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
-   "published": "2026-11-07T20:17:15+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-09T00:09:14+00:00",
    "title": {
-    "en": "Prosecutors Charge Paraguay’s Former President With Corruption",
-    "fa": "رئیس جمهور پاراگوئه از بحران مالی حذف و دستگیر شد"
+    "en": "Doing these things now will help you save money at Christmas",
+    "fa": "انجام این کارها به شما کمک می کند تا در کریسمس پول خود را پس انداز کنید."
    },
    "summary": {
-    "en": "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under.",
-    "fa": "سانتیاگو پنا استیضاح شد، از دفتر خارج شد و پس از یک بانک با روابط نزدیک با دولتش تحت بازداشت خانگی قرار گرفت."
+    "en": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+    "fa": "تصمیمات کوچک که اکنون گرفته شده اند می توانند تفاوت بزرگی با امور مالی جشن شما داشته باشند، موسسات خیریه می گویند، بنابراین در اینجا برخی از راهنمایی ها وجود دارد."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/world/2026/nov/07/paraguay-ueno-bank-collapse-santiago-pena",
-   "published": "2026-11-07T19:00:43+00:00",
+   "source": "The Economist",
+   "link": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
+   "published": "2026-11-08T19:09:19+00:00",
    "title": {
-    "en": "‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke",
-    "fa": "بسیار عجیب و غریب، بسیار غم انگیز است: سقوط بانک پاراگوئه یک ریاست جمهوری را کاهش داد و میلیون ها نفر را شکست داد."
+    "en": "YouTube’s dominance has Hollywood running scared",
+    "fa": "تسلط YouTube از هالیوود می ترسد"
    },
    "summary": {
-    "en": "Santiago Peña charged over alleged role in crisis as prosecutors request he be placed in preventive custody Pedro Volpe had just woken up last Tuesday when he saw a message from a friend asking whether his bank account was down too. It was a day after payday…",
-    "fa": "سانتیاگو پژا متهم به نقش ادعایی در بحران شد، زیرا دادستان ها درخواست می کردند که پدرو Volpe، سه شنبه گذشته از خواب بیدار شده بود، زمانی که او پیامی از یک دوست دریافت کرد که آیا حساب بانکی او نیز پایین آمده است. یک روز پس از پرداخت..."
+    "en": "Studios and streamers alike are struggling to respond to its success",
+    "fa": "استودیو ها و پخش کنندگان به طور یکسان در تلاش هستند تا به موفقیت خود پاسخ دهند"
    }
   },
   {
    "id": "ec9",
+   "section": "economy",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+   "published": "2026-11-08T16:50:58+00:00",
+   "title": {
+    "en": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+    "fa": "کارخانه ساز چینی BYD در هلند به ادعای JLR \"ماشین کپی\" حمله کرد"
+   },
+   "summary": {
+    "en": "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover Defender Bailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over…",
+    "fa": "Bailiffs گزارش شده است ضبط های دیجیتال قبل از پرونده دادگاه بیش از نقض مالکیت معنوی ادعا شده در Land Rover Defender Bailiffs که برای جگوار Land Rover عمل می کند، به دفاتر هلندی یک رقیب چینی \"کپی\" قبل از یک نمایش قانونی در این هفته حمله کرد."
+   }
+  },
+  {
+   "id": "ec10",
    "section": "economy",
    "source": "Deutsche Welle",
    "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-bus-2091-rdf",
@@ -355,153 +370,138 @@
    }
   },
   {
-   "id": "ec10",
-   "section": "economy",
-   "source": "The Economist",
-   "link": "https://www.economist.com/finance-and-economics/2026/11/05/markets-realise-they-hate-americas-blue-wave",
-   "published": "2026-11-05T23:41:07+00:00",
-   "title": {
-    "en": "Markets realise they hate America’s blue wave",
-    "fa": "بازارها می دانند که از موج آبی آمریکا نفرت دارند"
-   },
-   "summary": {
-    "en": "Investors worry that Democratic dominance will slow down the AI boom",
-    "fa": "سرمایه گذاران نگران هستند که تسلط دموکراتیک رونق AI را کاهش دهد"
-   }
-  },
-  {
    "id": "te11",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-08T00:37:45+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/ubs-peirce-on-ai-buildout-dealmaking-landscape-video",
+   "published": "2026-11-09T03:06:14+00:00",
    "title": {
-    "en": "Can the Zelda remake capture the magic of the original?",
-    "fa": "آیا بازسازی Zelda می تواند سحر و جادو از اصل را ثبت کند؟"
+    "en": "UBS' Peirce on AI Buildout, Dealmaking Landscape",
+    "fa": "UBS' Peirce در AI Buildout، Dealmaking Landscape"
    },
    "summary": {
-    "en": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-    "fa": "نینتندو بازسازی خود را از آنچه که به عنوان یکی از بهترین بازی های ساخته شده در نظر گرفته می شود منتشر کرده است - تام گرکن BBC حکم خود را می دهد."
+    "en": "Greg Peirce, Co-Head of Global Banking for APAC at UBS and also Co-Country Head at UBS Australia, discusses the outlook for the the artificial intelligence infrastructure buildout and the landscape for dealmaking. He speaks with Haidi Stroud-Watts on the…",
+    "fa": "Greg Peirce، Co-Head بانکداری جهانی برای APAC در UBS و همچنین رئیس Co-Country در UBS استرالیا، در مورد چشم انداز ساخت زیرساخت های هوش مصنوعی و چشم انداز برای معامله بحث می کند. او با هادی استود- وات در مورد ..."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
-   "published": "2026-11-07T20:33:10+00:00",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/is-nvidia-too-powerful-jensen-huang-responds-video",
+   "published": "2026-11-09T02:49:17+00:00",
    "title": {
-    "en": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
-    "fa": "CoreWeave از فرماندار تگزاس درخواست می کند"
+    "en": "Is Nvidia Too Powerful? Jensen Huang Responds",
+    "fa": "آیا Nvidia خیلی قدرتمند است؟ جینسن هوانگ پاسخ می دهد"
    },
    "summary": {
-    "en": "CoreWeave Inc. sent a letter to Texas Governor-elect Gina Hinojosa seeking to work with her incoming administration on present and future data center projects in the state.",
-    "fa": "CoreWeave Inc نامه ای به Gina Hinojosa فرماندار تگزاس فرستاده است که به دنبال همکاری با دولت ورودی خود در پروژه های فعلی و آینده مرکز داده در ایالت است."
+    "en": "Does the AI industry’s reliance on Nvidia pose a systemic risk? In an interview filmed on October 14 for an upcoming episode of The Circuit, CEO Jensen Huang responds. Huang has since acknowledged an affair, and US intelligence officials reportedly suspect…",
+    "fa": "آیا وابستگی صنعت AI به Nvidia یک خطر سیستمیک است؟ در مصاحبه ای که در 14 اکتبر برای یک قسمت بعدی از مدار فیلمبرداری شد، مدیر عامل Jensen Huang پاسخ می دهد. هوانگ از آن زمان به یک رابطه اذعان کرده است و مقامات اطلاعاتی آمریکا گزارش کرده اند که..."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/07/technology/whistle-blowers-jeffrey-wigand.html",
-   "published": "2026-11-07T18:52:51+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+   "published": "2026-11-09T02:34:19+00:00",
    "title": {
-    "en": "Jeffrey Wigand, Who Blew the Whistle on Big Tobacco, Takes a Lot of Calls",
-    "fa": "جفری واگند، که بر روی تنباکوی بزرگ فریاد می زند، تماس های زیادی می گیرد."
+    "en": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+    "fa": "مشکلات Diaspora Soul Glo یک رکورد سخت مانند دیگر است"
    },
    "summary": {
-    "en": "Jeffrey Wigand, who took on Big Tobacco, counsels insiders who think they have a story about wrongdoing. There are quite a few of them.",
-    "fa": "جفری واگند، که بر روی بزرگ تنباکو، مشاوران داخلی که فکر می کنند داستانی در مورد خطا دارند، شرکت کرد. تعداد کمی از آنها وجود دارد."
+    "en": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022…",
+    "fa": "Soul Glo یک رکورد جدید به نام NA I’M GON GRAB ALLAT در ماه ژانویه منتشر شده است و برای یک، نمی تواند صبر کند. در حالی که دو تک آهنگ از بین رفته اند، به اندازه کافی نیست که واقعا من را پراکنده کند، بنابراین من آهنگ ها را به Yeet در خورشید و آلبوم مورد علاقه من از سال 2022 بازبینی شده است."
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
-   "published": "2026-11-07T18:20:19+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
+   "published": "2026-11-09T02:24:59+00:00",
    "title": {
-    "en": "AI Backlash Spreads Across Europe With Data Center Protests",
-    "fa": "AI Backlash در سراسر اروپا با تظاهرات مرکز داده گسترش می یابد"
+    "en": "There’s no slowing down media’s pivot-to-video 2.0",
+    "fa": "هیچ کاهش سرعت چرخش رسانه ها به ویدئو 2.0"
    },
    "summary": {
-    "en": "Protests against data centers continued across Europe on Saturday as citizens took to the streets to voice their concerns about the impact on society and the environment.",
-    "fa": "تظاهرات علیه مراکز داده روز شنبه در سراسر اروپا ادامه یافت، زیرا شهروندان به خیابان ها رفتند تا نگرانی های خود را درباره تاثیر جامعه و محیط زیست ابراز کنند."
+    "en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for…",
+    "fa": "این مرحله بازگشت است، خبرنامه هفتگی که یک داستان ضروری از دنیای تکنولوژی را از بین می برد. برای بیشتر در فشار ایجاد محتوا برای اینترنت، از میا Sato پیروی کنید. بازگشت به صندوق های مشترک ما در یکشنبه 8AM ET می رسد. برای ..."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?mod=rss_Technology",
-   "published": "2026-11-07T16:09:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
+   "published": "2026-11-09T00:33:59+00:00",
    "title": {
-    "en": "Is AI Taking White-Collar Jobs? What the Latest Numbers Tell Us",
-    "fa": "آیا AI در حال گرفتن شغل های سفید است؟ آخرین اعداد به ما چه می گویند"
+    "en": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy",
+    "fa": "Nvidia تحقیقات خود را در رابطه جنس Jensen Huang با جاسوسی چینی باز می کند"
    },
    "summary": {
-    "en": "Strong hiring at law offices and consulting firms is staving off fears of a job apocalypse.",
-    "fa": "استخدام قوی در ادارات حقوقی و شرکت های مشاوره ترس از آخرالزمان شغلی را از بین می برد."
+    "en": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
+    "fa": "آقای هوانگ، مدیر اجرایی شرکت، روز یکشنبه اذعان کرد که او با یک مدیر اجرایی تجاری که مقامات ایالات متحده مصمم بودند برای هوش چینی کار می کند، صمیمی است."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-   "published": "2026-11-07T15:47:15+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/08/technology/nvidias-investigation-jensen-huang.html",
+   "published": "2026-11-09T00:21:21+00:00",
    "title": {
-    "en": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "fa": "دستیار هوش مصنوعی آشپزی NYT، جوجه های شبانه ام را نجات داد، اما تقریبا کیک من را خراب کرد."
+    "en": "What to Know About Nvidia’s Investigation of Its C.E.O.",
+    "fa": "آنچه در مورد تحقیقات Nvidia درباره C.E.O."
    },
    "summary": {
-    "en": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in…",
-    "fa": "حدود 7PM در هر شب، من خودم را در مقابل یخچال ایستاده ام و سعی می کنم در مورد چیزی برای شام تصمیم بگیرم که شوهرم را به شکایت وادار کند، \"دوباره تنبل؟\" بله، من باید برنامه غذایی بیشتری داشته باشم، اما نه، بنابراین این جایی است که من در آن هستم. یک نبرد شبانه در ..."
+    "en": "Jensen Huang, the chief executive of the A.I. chip company, admitted to a romantic relationship with a woman who U.S. intelligence says was recruited by China’s top spy agency.",
+    "fa": "Jensen Huang، مدیر ارشد شرکت تراشه A.I، به یک رابطه عاشقانه با زنی که هوش آمریکا می گوید توسط آژانس جاسوسی برتر چین استخدام شده است، اعتراف کرد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-   "published": "2026-11-07T12:15:55+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/opinion/ai-saves-the-dayand-could-bring-doom-tomorrow-b1afdfec?mod=rss_Technology",
+   "published": "2026-11-08T18:33:00+00:00",
    "title": {
-    "en": "The Bantu expansion changed Africa. Scientists are still tracing how.",
-    "fa": "توسعه بانتو آفریقا را تغییر داد. دانشمندان هنوز در حال ردیابی چگونگی هستند."
+    "en": "Opinion | AI Saves the Day—and Could Bring Doom Tomorrow",
+    "fa": "هوش مصنوعی روز را نجات می دهد و می تواند فردا را بکشد"
    },
    "summary": {
-    "en": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
-    "fa": "ژن ها و باستان شناسی نشان می دهند که چگونه بانتو سخنرانان در سراسر آفریقا گسترش یافته اند."
+    "en": "OpenAI identified a bug in the web and reported it. Will the next one be found by bad guys with a Chinese open model?",
+    "fa": "OpenAI یک اشکال را در وب شناسایی کرد و آن را گزارش کرد. آیا شخص بعدی توسط افراد بد با یک مدل باز چینی پیدا خواهد شد؟"
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-   "published": "2026-11-07T02:55:47+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-08T15:37:25+00:00",
    "title": {
-    "en": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
-    "fa": "محققان فعالیت Suspicious را در Kalshi و PolyMarket Before Times/Siena Poll Release شناسایی می کنند."
+    "en": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    "fa": "دولت \"به طور جدی\" در ممنوع کردن زیر 16 از ویند و eBay"
    },
    "summary": {
-    "en": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
-    "fa": "یک معامله گر شرط های خوبی را روی PolyMarket و Kalshi در دو مسابقه سنا قرار داد. مشخص نیست که آیا فرد به اطلاعات داخلی دسترسی داشته باشد یا به سادگی معاملات خوبی داشته باشد."
+    "en": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+    "fa": "وزیر فرهنگ تایید می کند که آنها می توانند در فهرست پلتفرم هایی باشند که قرار است در ماه مارس ممنوع شوند."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-06T21:49:50+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+   "published": "2026-11-08T12:15:31+00:00",
    "title": {
-    "en": "Elon Musk appears to signal the end of the road for Cybertruck",
-    "fa": "به نظر می رسد که ایلان ماسک پایان جاده برای CyberCast را نشان می دهد."
+    "en": "Physicists listened to electrical noise to crack a superconductor mystery",
+    "fa": "فیزیکدانان به صدای الکتریکی گوش می دادند تا یک راز فوق العاده را بشکنند"
    },
    "summary": {
-    "en": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    "fa": "ماسک گفت که قرار است اتاق هایی برای تولید وسایل سایبری خود – تاکسی های مستقل بدون راننده ایجاد کند."
+    "en": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+    "fa": "مشاهده صدای الکترونیکی می تواند به ما بگوید که آیا الکترون ها جفت شده اند یا نه."
    }
   },
   {
@@ -523,109 +523,94 @@
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/07/alabama-power-advertising-ratepayers-psc/",
-   "published": "2026-11-07T23:30:00+00:00",
+   "link": "https://fortune.com/2026/11/08/pentagon-economic-warfare-espionage-nvidia-jensen-huang-chinese-spy-romantic-affair/",
+   "published": "2026-11-08T23:20:38+00:00",
    "title": {
-    "en": "Alabama Power spent more than $6 million on ads last year — and customers can be billed for half of them until 2029",
-    "fa": "آلاباما قدرت در سال گذشته بیش از 6 میلیون دلار صرف تبلیغات کرد و مشتریان می توانند تا سال 2029 برای نیمی از آنها هزینه کنند."
+    "en": "The Pentagon is reportedly ramping up economic warfare and espionage. Nvidia CEO Jensen Huang’s affair with a suspected Chinese spy shows why",
+    "fa": "گفته می شود پنتاگون در حال افزایش جنگ و جاسوسی اقتصادی است. مدیر عامل شرکت Nvidia Jensen Huang با یک جاسوسی چینی مشکوک نشان می دهد که چرا"
    },
    "summary": {
-    "en": "Jim Zeigler, a perennial candidate in Alabama across several decades, will return to the PSC 48 years after leaving the commission.",
-    "fa": "جیم زیگلر، کاندیدای همیشگی در آلاباما در طول چند دهه، 48 سال پس از ترک کمیسیون به PSC برمی گردد."
+    "en": "\"While the Board has no reason to believe that either national security or NVIDIA secrets were compromised, the Board's inquiry will examine all available information.\"",
+    "fa": "در حالی که هیئت مدیره هیچ دلیلی ندارد که باور کند که اسرار امنیت ملی یا NVIDIA به خطر افتاده است، تحقیقات هیئت مدیره تمام اطلاعات موجود را بررسی خواهد کرد."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/07/in-n-out-billionaire-owner-lynsi-snyder-california-exodus-dumbest-business-decision-ever-tennessee-move/",
-   "published": "2026-11-07T22:47:57+00:00",
+   "link": "https://fortune.com/2026/11/08/tocqueville-democracy-in-america-midterms-data-centers-texas/",
+   "published": "2026-11-08T21:09:19+00:00",
    "title": {
-    "en": "In-N-Out’s billionaire owner vows iconic chain ‘will always be’ in California and says leaving the state would be the ‘dumbest business decision ever’",
-    "fa": "صاحب میلیاردر In-N-Out قول می دهد زنجیره نمادین \"همیشه خواهد بود\" در کالیفرنیا و می گوید ترک دولت \"بهترین تصمیم تجاری\" خواهد بود."
+    "en": "How a Frenchman’s book on ‘Democracy in America’ nearly 200 years ago explains the midterms, from data centers to Texas",
+    "fa": "چگونه کتاب یک فرانسوی در مورد \"دموکراسی در آمریکا\" نزدیک به 200 سال پیش، اواسط دهه، از مراکز داده به تگزاس توضیح می دهد"
    },
    "summary": {
-    "en": "\"This is where we started. It's where we are now, and it's where we will always be,\" Lynsi Snyder, president and owner of In-N-Out, said.",
-    "fa": "این جایی است که ما شروع کردیم. این جایی است که ما در حال حاضر هستیم، و جایی است که ما همیشه خواهیم بود، لیندسی اسی، رئیس جمهور و صاحب In-N-Out، گفت."
+    "en": "Americans are “born equal,” Alexis de Tocqueville wrote, and “powerless” until they band together. They are also \"perpetually migrating to Texas.\"",
+    "fa": "آمریکایی ها «برابر به دنیا می آیند»، الکسیس د توکویل نوشت و «قدرتمند» تا زمانی که با هم ترکیب شوند. آنها همچنین «در واقع به تگزاس مهاجرت می کنند»."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/07/florida-property-tax-cuts-amendmend-3-defund-police-fire-fighters-ems-small-towns-rural-dark-ages/",
-   "published": "2026-11-07T20:00:02+00:00",
+   "link": "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/",
+   "published": "2026-11-08T20:46:04+00:00",
    "title": {
-    "en": "Florida’s new property tax cuts could defund the police, fire fighters and EMS in small towns, threatening ‘rural dark ages,’ former GOP lawmaker says",
-    "fa": "کاهش مالیات بر اموال جدید فلوریدا می تواند پلیس، مبارزان آتش نشانی و EMS را در شهرهای کوچک، تهدید به \"سال های تاریک شهری\"، قانونگذار سابق GOP"
+    "en": "The market bloodbath just exposed Wall Street’s true fears about U.S. debt, top economist warns",
+    "fa": "حمام خون بازار فقط ترس های واقعی وال استریت در مورد بدهی ایالات متحده را افشا کرد، اقتصاددان ارشد هشدار می دهد"
    },
    "summary": {
-    "en": "\"A thinner tax base means fewer services. The dark ages won’t arrive all at once. They’ll arrive one closed fire station at a time.\"",
-    "fa": "یک پایگاه مالیاتی نازک به معنای خدمات کمتر است. سنین تاریک به هیچ وجه نمی رسد. آنها در یک زمان به یک ایستگاه آتش بسته می رسند.»"
+    "en": "\"They’re up because of mounting fiscal stress, not because of AI.\"",
+    "fa": "آنها به دلیل افزایش استرس مالی، نه به خاطر هوش مصنوعی، بالا می روند.»"
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91623675/the-charismatic-leader-trap-why-organizations-shouldnt-depend-on-one-individual-no-matter-how-appealing-they-are-leadership",
-   "published": "2026-11-07T16:00:00+00:00",
+   "link": "https://www.fastcompany.com/91634049/enterprise-ai-waiting-transformer-moment",
+   "published": "2026-11-08T13:00:00+00:00",
    "title": {
-    "en": "The ‘charismatic’ leader trap: Why organizations shouldn’t depend on one individual, no matter how appealing",
-    "fa": "تله رهبر \"ماتیک\": چرا سازمان ها نباید به یک فرد وابسته باشند، مهم نیست که چقدر جذاب هستند"
+    "en": "Enterprise AI is waiting for its Transformer moment",
+    "fa": "هوش مصنوعی شرکت منتظر لحظه تبدیل شدن آن است"
    },
    "summary": {
-    "en": "When we think of a leader, charisma—an individual’s ability to motivate people to follow them, share their vision, and ultimately do what they say—is often at the center of our image. Charismatic, transformational leaders are respected, admired, and even…",
-    "fa": "هنگامی که ما به یک رهبر فکر می کنیم، charisma - توانایی فرد برای انگیزه دادن به افراد برای پیروی از آنها، به اشتراک گذاری دیدگاه خود و در نهایت انجام آنچه آنها می گویند - اغلب در مرکز تصویر ما است. رهبران کاریزماتیک، تحول گرا مورد احترام، تحسین و حتی..."
+    "en": "As a professor of innovation, there’s a slide in my deck I use every time I start a session on artificial intelligence : a fragment of the first page from the “ Attention Is All You Need ” paper, from 2017. I use just a fragment because I don’t want the…",
+    "fa": "به عنوان یک استاد نوآوری، یک اسلاید در عرشه من هر بار که من شروع به یک جلسه در هوش مصنوعی: بخشی از صفحه اول از \"توجه است که همه شما نیاز به کاغذ\" از سال 2017. من فقط از یک تکه استفاده می کنم چون نمی خواهم..."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91636549/hershey-holiday-candy-lineup-includes-grinch-cindy-lou-who-more",
-   "published": "2026-11-07T12:01:00+00:00",
+   "link": "https://www.fastcompany.com/91635138/5-books-to-calm-ai-induced-existential-dread",
+   "published": "2026-11-08T09:00:00+00:00",
    "title": {
-    "en": "Hershey is making the 2026 holiday season sweeter with a fresh lineup of new and returning treats",
-    "fa": "Hersey فصل تعطیلات 2026 را با یک ترکیب تازه از رفتارهای جدید و بازگشت شیرین تر می کند."
+    "en": "5 books to calm AI-induced existential dread",
+    "fa": "5 کتاب برای آرام کردن ترس از وجود هوش مصنوعی"
    },
    "summary": {
-    "en": "If you already miss Halloween candy, never fear. The end-of-year holiday season is sure to be sweeter than ever, thanks to Hershey. Fast Company was privileged to be part of a recent sneak preview of Hershey’s new and returning products for 2026, hosted by…",
-    "fa": "اگر آب نبات هالووین را از دست می دهید، هرگز نترسید. فصل تعطیلات در پایان سال مطمئنا شیرین تر از همیشه است، به لطف هرزی. شرکت Fast به عنوان بخشی از یک پیش نمایش کفش های اخیر از محصولات جدید و بازگشت Hershey برای 2026، میزبانی شده توسط ..."
+    "en": "Artificial intelligence is transforming how we work, connect, and live. But with its extraordinary potential come some big questions about trust, human relationships, and the future of society. These five books explore the promises and perils of AI , offering…",
+    "fa": "هوش مصنوعی در حال تبدیل شدن به چگونگی کار، اتصال و زندگی است. اما با پتانسیل فوق العاده آن، سؤالات بزرگی در مورد اعتماد، روابط انسانی و آینده جامعه به وجود می آید. این پنج کتاب به بررسی وعده ها و خطرات AI، ارائه ..."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635406/this-simple-ingenious-design-keeps-drones-from-breaking-when-they-crashes",
-   "published": "2026-11-07T12:00:00+00:00",
+   "link": "https://www.fastcompany.com/91637367/this-election-demonstrated-something-important-about-decision-making",
+   "published": "2026-11-08T08:00:00+00:00",
    "title": {
-    "en": "This simple, ingenious design keeps drones from breaking when they crash",
-    "fa": "این طراحی ساده و هوشمندانه، هواپیماهای بدون سرنشین را از شکستن نگه می دارد زمانی که آنها سقوط می کنند."
+    "en": "This election demonstrated something important about decision-making",
+    "fa": "این انتخابات چیزی مهم در مورد تصمیم گیری نشان داد"
    },
    "summary": {
-    "en": "At first glance, FlexiQuad looks like a small drone. Just one more buzzing thingy doing its flying thing. Then you see it crashing against a tree. A regular drone would crash and fall to the ground, but this one bounces back from the tree trunk and happily…",
-    "fa": "در نگاه اول، FlexiQuad شبیه یک پهپاد کوچک به نظر می رسد. فقط یک چیز دیگر که کار پرواز را انجام می دهد. سپس می بینید که آن را بر روی یک درخت قرار دهید. یک پهپاد معمولی به زمین سقوط و سقوط می کند، اما این یکی از آن ها از تنه درخت و با خوشحالی برمی گردد."
+    "en": "Six months ago, the outcome of the 2026 midterm elections would have seemed impossible. Most states and regions were highly polarized politically. So-called purple states were generally a mix of deeply divided areas acting as a counterbalance to one another…",
+    "fa": "شش ماه پیش نتیجه انتخابات میان دوره ای ۲۰۲۶ غیر ممکن به نظر می رسید. اکثر کشورها و مناطق از نظر سیاسی بسیار قطبی شده اند. به اصطلاح کشورهای بنفش به طور کلی ترکیبی از مناطق عمیقاً تقسیم شده بودند که به عنوان یک توازن متقابل با یکدیگر عمل می کردند."
    }
   },
   {
    "id": "ma27",
-   "section": "management",
-   "source": "MIT Sloan Management Review",
-   "link": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
-   "published": "2026-11-04T12:00:49+00:00",
-   "title": {
-    "en": "When Cultures Collide in Crisis",
-    "fa": "وقتی فرهنگ ها در بحران به سر می برند"
-   },
-   "summary": {
-    "en": "Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across continents and leadership teams span time zones, cultural agility becomes a business essential.…",
-    "fa": "Sergio Ingravalle / Ikon تصاویر با اختلالات بالا، چابکی فرهنگی کسب و کار و همچنین انعطاف پذیری عملیاتی خود را آزمایش می کند. از آنجا که زنجیره تامین در سراسر قاره ها گسترش می یابد و تیم های رهبری مناطق زمانی را شامل می شوند، چابکی فرهنگی به یک کسب و کار ضروری تبدیل می شود."
-   }
-  },
-  {
-   "id": "ma28",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
@@ -640,7 +625,7 @@
    }
   },
   {
-   "id": "ma29",
+   "id": "ma28",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
@@ -655,7 +640,7 @@
    }
   },
   {
-   "id": "ma30",
+   "id": "ma29",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
@@ -670,63 +655,78 @@
    }
   },
   {
+   "id": "tr30",
+   "section": "trade",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1",
+   "published": "2026-11-09T02:54:00+00:00",
+   "title": {
+    "en": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal",
+    "fa": "ترامپ می گوید که او در مهاجران \"بسیار سخت\" بود، زیرا او یک توافق عفو بین الملل را زیر پا می گذارد."
+   },
+   "summary": {
+    "en": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on the economy in midterm elections",
+    "fa": "رئیس جمهور اذعان کرد که رای دهندگان آمریکایی با اخراج، جنگ ایران و «پیام های بد» اقتصاد در انتخابات میان دوره ای اخراج شدند."
+   }
+  },
+  {
    "id": "tr31",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-   "published": "2026-11-07T23:13:38+00:00",
+   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "published": "2026-11-09T02:50:22+00:00",
    "title": {
-    "en": "Trump offers UFC chief Dana White press secretary job",
-    "fa": "Trump ارائه می دهد UFC رئیس دانا وزیر امور خارجه آمریکا"
+    "en": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    "fa": "تورم عمده فروشی چین در بیش از چهار سال به بالاترین میزان رسید، زیرا اندازه گیری مصرف کنندگان کند می شود"
    },
    "summary": {
-    "en": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
-    "fa": "رئیس جمهور دونالد ترامپ روز شنبه به رئیس جمهور آمریکا و مدیر عامل شرکت دانا وایت پیشنهاد داد."
+    "en": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+    "fa": "PPI برای ماه اکتبر در 5.7% در مقایسه با 5.3% مورد انتظار اقتصاددانان توسط رویترز بود."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-   "published": "2026-11-07T22:17:52+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
+   "published": "2026-11-09T02:01:28+00:00",
    "title": {
-    "en": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-    "fa": "خطر تشدید جنگ ایران علی رغم انتخابات میان دوره ای آمریکا همچنان بالاست"
+    "en": "China’s inflation edges lower in October",
+    "fa": "لبه های تورم چین در ماه اکتبر پایین تر است"
    },
    "summary": {
-    "en": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
-    "fa": "ایالات متحده و ایران در یک دوره برخورد به عنوان تنش در خاورمیانه قرار دارند."
+    "en": "Weak domestic demand weighs on prices in world’s second-largest economy even as higher energy prices drive up costs for producers",
+    "fa": "تقاضای داخلی ضعیف بر قیمت های دومین اقتصاد بزرگ جهان حتی با افزایش قیمت انرژی، هزینه های تولید کنندگان را افزایش می دهد"
    }
   },
   {
    "id": "tr33",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1",
-   "published": "2026-11-07T22:00:14+00:00",
+   "link": "https://www.ft.com/content/b3acb746-76c0-46de-879a-990602b27a6a?syn-25a6b1a6=1",
+   "published": "2026-11-09T01:15:06+00:00",
    "title": {
-    "en": "Gunman kills six in Kraków shooting",
-    "fa": "Gunman شش نفر را در تیراندازی Kraków می کشد"
+    "en": "Trump says he was ‘only kidding’ about asking UFC boss to be spokesperson",
+    "fa": "ترامپ می گوید که فقط شوخی می کند و از رئیس UFC می خواهد که سخنگوی آن باشد."
    },
    "summary": {
-    "en": "Poland’s Prime Minister Donald Tusk called on politicians not to exploit the incident",
-    "fa": "دونالد توسک نخست وزیر لهستان از سیاستمداران خواست تا از این حادثه بهره برداری نکنند"
+    "en": "US president caused a media flurry by announcing he had invited Dana White to be White House press secretary",
+    "fa": "رئیس جمهور آمریکا با اعلام اینکه از دانا وایت دعوت کرده بود وزیر مطبوعات کاخ سفید باشد، رسانه ای ایجاد کرد."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
-   "published": "2026-11-07T21:03:47+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "published": "2026-11-08T22:53:57+00:00",
    "title": {
-    "en": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
-    "fa": "رئیس جمهور اسرائیل اولین فرصت را برای تشکیل یک دولت می دهد"
+    "en": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "fa": "Nvidia رابطه جینسن هوانگ را با جاسوسی چینی بررسی می کند"
    },
    "summary": {
-    "en": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
-    "fa": "تصمیم ایزاک هرزوگ به این معنی است که سیاستمدار اپوزیسیون 28 روز وقت دارد تا با هم یک ائتلاف حاکم را کنار بگذارد."
+    "en": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+    "fa": "هوانگ به کارکنان Nvidia در ایمیل گفت که او یک رابطه دارد و هیئت مدیره شرکت تحقیقات خود را در مورد اتهامات زن یک جاسوس چینی باز کرده است."
    }
   },
   {
@@ -777,27 +777,12 @@
   {
    "id": "tr38",
    "section": "trade",
-   "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/envir_05nov26_541_e.htm",
-   "published": "2026-11-05T00:00:00+00:00",
-   "title": {
-    "en": "Director-General: Leverage trade and partnerships to build a resilient ocean economy",
-    "fa": "مدیر کل: از تجارت و مشارکت برای ایجاد یک اقتصاد اقیانوسی انعطاف پذیر استفاده کنید"
-   },
-   "summary": {
-    "en": "The multilateral trading system provides important tools for the development of a healthy and prosperous ocean economy, Director-General Ngozi Okonjo-Iweala said in her keynote speech at an event on Trade, Biodiversity and the Ocean Economy: Pathways to…",
-    "fa": "سیستم معاملاتی چندجانبه ابزار مهمی برای توسعه یک اقتصاد اقیانوس سالم و مرفه، مدیر کل Ngozi Okonjo-Iweala در سخنرانی کلیدی خود در یک رویداد در مورد \"تجارت، تنوع زیستی و اقتصاد اقیانوس: Pathways به ... [+]"
-   }
-  },
-  {
-   "id": "tr39",
-   "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/video/what-the-democratic-sweep-means-for-trump-s-tariffs-and-ai",
+   "link": "https://asia.nikkei.com/politics/international-relations/malaysia-taiwan-fraying-ties-threaten-future-chip-investments",
    "published": "",
    "title": {
-    "en": "What the Democratic sweep means for Trump's tariffs and AI",
-    "fa": "آنچه که انتخابات دموکراتیک به معنای تعرفه های ترامپ و AI است"
+    "en": "Malaysia-Taiwan fraying ties threaten future chip investments",
+    "fa": "روابط نفرت انگیز مالزی-تایوان سرمایه گذاری های تراشه آینده را تهدید می کند"
    },
    "summary": {
     "en": "",
@@ -805,14 +790,14 @@
    }
   },
   {
-   "id": "tr40",
+   "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/transportation/grab-rival-tada-joins-singapore-s-self-driving-minibus-project",
+   "link": "https://asia.nikkei.com/business/fisheries/iran-war-and-ambiguous-fuel-pricing-squeeze-indian-fishermen",
    "published": "",
    "title": {
-    "en": "Grab rival Tada joins Singapore's self-driving minibus project",
-    "fa": "رقیب Grab Tada به پروژه مینی بوس خود رانندگی سنگاپور پیوست"
+    "en": "Iran war and ambiguous fuel pricing squeeze Indian fishermen",
+    "fa": "جنگ ایران و قیمت گذاری سوخت مبهم، ماهیگیران هندی را تحت فشار قرار داد"
    },
    "summary": {
     "en": "",
