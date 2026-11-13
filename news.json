@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T03:21:54+00:00",
- "date": "2026-11-12",
+ "generated_at": "2026-11-13T03:24:14+00:00",
+ "date": "2026-11-13",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -223,394 +223,409 @@
    "id": "ec1",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-turmoil-lifts-amd-broadcom-on-bets-for-business-gains",
-   "published": "2026-11-12T02:56:15+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/japan-bonds-fall-as-treasury-rout-extends-on-fed-hike-bets",
+   "published": "2026-11-13T03:11:15+00:00",
    "title": {
-    "en": "Nvidia Turmoil Lifts AMD, Broadcom on Bets for Business Gains",
-    "fa": "Nvidia Turmoil Lifts AMD، Broadcom در Bets برای کسب و کار"
+    "en": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
+    "fa": "ژاپن باند سقوط به عنوان خزانه داری Rout گسترش در فدرال - Hike Bets"
    },
    "summary": {
-    "en": "Nvidia Corp.’s leadership turmoil is boosting potential beneficiaries, with Advanced Micro Devices Inc., Broadcom Inc. and Alphabet Inc. gaining after hours on bets they may win business from the chip giant.",
-    "fa": "آشفتگی رهبری Nvidia Corp. افزایش بهره وری بالقوه، با شرکت پیشرفته Micro Devices Inc.، Broadcom Inc. و شرکت آلفابت است که پس از ساعت ها در شرط هایی که ممکن است کسب و کار از غول تراشه برنده شوند، به دست می آید."
+    "en": "Japanese government bonds slumped on Friday, tracking Treasuries which saw a second straight session of losses as traders increased wagers on aggressive Federal Reserve interest-rate hikes.",
+    "fa": "اوراق قرضه دولتی ژاپن روز جمعه کاهش یافت و Treasuries را ردیابی کرد که دومین جلسه مستقیم خسارت را مشاهده کرد، زیرا معامله گران شرط های خود را در پیاده روی های تهاجمی فدرال رزرو افزایش دادند."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/taiwan-drafts-plans-for-wealth-fund-aims-for-bill-by-year-end",
-   "published": "2026-11-12T02:40:18+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+   "published": "2026-11-13T03:03:35+00:00",
    "title": {
-    "en": "Taiwan Drafts Plans for Wealth Fund, Aims for Bill by Year-End",
-    "fa": "پیش نویس تایوان برای صندوق ثروت، هدف برای بیل تا پایان سال"
+    "en": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+    "fa": "Outlook، تیم ها و برنامه های بیشتر مایکروسافت توسط Outage از بین می روند"
    },
    "summary": {
-    "en": "Taiwan is drafting legislation to establish a new sovereign wealth fund with initial capital of about NT$30 billion ($912 million), pushing ahead with the government’s plan to make strategic investments overseas.",
-    "fa": "تایوان در حال تدوین قانون برای ایجاد یک صندوق ثروت مستقل جدید با سرمایه اولیه حدود 30 میلیارد دلار (912 میلیون دلار) است که با طرح دولت برای سرمایه گذاری استراتژیک در خارج از کشور پیش می رود."
+    "en": "The outage began early Thursday afternoon, causing problems for offices, agencies and individuals around the globe.",
+    "fa": "این قطع نامه روز پنجشنبه آغاز شد و باعث ایجاد مشکلات برای دفاتر، سازمان ها و افراد در سراسر جهان شد."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-   "published": "2026-11-12T02:40:15+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/they-were-the-indispensable-ceosuntil-they-werent-1bb8a52c?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-13T03:00:00+00:00",
    "title": {
-    "en": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
-    "fa": "قیمت سهام Nvidia به عنوان هیئت مدیره گفته می شود که Jensen Huang، مدیرعامل، آینده"
+    "en": "They Were the Indispensable CEOs—Until They Weren’t",
+    "fa": "آنها مدیران اجرایی غیر قابل انکار بودند - تا زمانی که Weren"
    },
    "summary": {
-    "en": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
-    "fa": "اخبار مربوط به مشورت هیئت مدیره در مورد کار Jensen Huang باعث شد که سهام Nvidia بیش از 8 درصد در معاملات پس از ساعت کاهش یابد."
+    "en": "What Nvidia can learn from other companies that lost their seemingly irreplaceable leaders.",
+    "fa": "چیزی که Nvidia می تواند از شرکت های دیگر یاد بگیرد که رهبران ظاهراً غیر قابل سکونت خود را از دست داده اند."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?mod=rss_markets_main",
-   "published": "2026-11-12T02:31:00+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T02:39:00+00:00",
    "title": {
-    "en": "Yen Hitting 160 to Dollar Again Won’t Be Surprising",
-    "fa": "Yen Hitting 160 به دلار دیگر تعجب نخواهد کرد"
+    "en": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+    "fa": "مدیر عامل شرکت Nvidia Jensen هوانگ ترک می کند، غول تراشه سازی AI را به آشوب می کشد"
    },
    "summary": {
-    "en": "With markets pricing more than 25 basis points of Fed tightening by the year-end, the yen hitting 160 against the dollar again wouldn’t be surprising, said State Street Investment Management.",
-    "fa": "با قیمت گذاری بازار بیش از 25 امتیاز فدرال رزرو که در سال جاری تشدید شده است، اعتصاب ین به 160 دلار دوباره تعجب آور نخواهد بود، گفت مدیریت سرمایه گذاری در خیابان ایالتی."
+    "en": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+    "fa": "قانونگذاران ایالات متحده اکنون می خواهند از او سوال کنند که آیا یکی از روابط ادعایی او با جاسوسی چینی است یا نه."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/politics/policy/top-democrats-target-trump-administrations-nvidia-china-records-0c212746?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-12T02:00:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-13/rate-hike-fears-set-to-test-nifty-s-rally-as-india-inflation-accelerates",
+   "published": "2026-11-13T02:31:00+00:00",
    "title": {
-    "en": "Top Democrats Target Trump Administration’s Nvidia-China Records",
-    "fa": "دموکرات های برتر هدف قرار دادن سوابق Nvidia-چین دولت ترامپ"
+    "en": "Rate Hike Fears Set to Test Nifty’s Rally as India Inflation Accelerates",
+    "fa": "نرخ Hike Fears برای تست Rly Nifty به عنوان تورم هند"
    },
    "summary": {
-    "en": "Sens. Elizabeth Warren and Chris Coons asked for documents to be preserved, often an initial step before formal congressional investigations.",
-    "fa": "سن الیزابت وارن و کریس کوون از اسناد خواسته اند که حفظ شوند، اغلب یک گام اولیه قبل از تحقیقات رسمی کنگره."
+    "en": "October inflation beats estimates, accelerating to the highest level in two years.",
+    "fa": "تورم اکتبر تخمین می زند که در دو سال به بالاترین سطح رسیده است."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-   "published": "2026-11-12T01:57:34+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/jensen-huang-colette-kress-nvidia-ceo-eb289097?mod=rss_markets_main",
+   "published": "2026-11-13T02:00:00+00:00",
    "title": {
-    "en": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-    "fa": "جنسن هوانگ گفت که با اجرایی Nvidia ارتباط داشته باشد که به او گزارش می دهد"
+    "en": "Before His Ouster, Jensen Huang Belittled the Executive Replacing Him",
+    "fa": "قبل از Ouster او، Jensen Huang کوچک شد و او را جایگزین کرد."
    },
    "summary": {
-    "en": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-    "fa": "آقای هوانگ، مدیر اجرایی Nvidia، در حال حاضر با بررسی رابطه با یک تاجر چینی مواجه است که اطلاعات ایالات متحده مشخص شده جاسوسی چینی است."
+    "en": "Interim CEO Colette Kress has questioned some Huang dealmaking. He called her ‘a deer in the headlights.’",
+    "fa": "مدیر عامل Interim Colette Kress از برخی از معامله گری هوانگ سوال کرده است. او او را «یک گوزن در چراغ های سر» خواند."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-12T00:49:05+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/12/business/nvidia-jensen-huang-ceo-affairs.html",
+   "published": "2026-11-13T01:56:22+00:00",
    "title": {
-    "en": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-    "fa": "پوندلند زمان بیشتری را برای تضمین یک قرارداد نجات تعیین کرد زیرا مذاکرات اضطراری همچنان ادامه دارد"
+    "en": "Jensen Huang Joins a Growing Club: C.E.O.s Brought Down by Affairs",
+    "fa": "Jensen Huang به یک باشگاه در حال رشد ملحق می شود: C.E.O.s توسط امور پایین آورد"
    },
    "summary": {
-    "en": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-    "fa": "بی بی سی زنجیره تخفیف را درک می کند، که به سمت دولت است، زمان بیشتری برای پیدا کردن یک خریدار داده می شود."
+    "en": "The Nvidia founder and chief executive, who resigned on Thursday, is among a group of top bosses whose personal relationships and sexual encounters got them in trouble.",
+    "fa": "بنیانگذار و مدیر اجرایی Nvidia که روز پنجشنبه استعفا داد، در میان گروهی از رؤسای ارشد است که روابط شخصی و برخورد جنسی آنها را به دردسر انداخت."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "The Economist",
-   "link": "https://www.economist.com/business/2026/11/12/quebecs-strategic-maple-syrup-reserve-is-running-dry",
-   "published": "2026-11-12T00:29:27+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+   "published": "2026-11-12T21:33:08+00:00",
    "title": {
-    "en": "Quebec’s strategic maple-syrup reserve is running dry",
-    "fa": "رزرو استراتژیک کبک در حال اجرا است"
+    "en": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+    "fa": "آشفتگی Nvidia همچنان ادامه دارد زیرا Jensen Huang از رسوایی امور استعفا می دهد و شرکت مدیر عامل موقت را منصوب می کند - همانطور که اتفاق افتاد."
    },
    "summary": {
-    "en": "The province’s cartel is losing its grip",
-    "fa": "کارتل استان در حال از دست دادن دست خود است"
+    "en": "This live blog is now closed. Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course…",
+    "fa": "این وبلاگ زنده اکنون بسته شده است. تجزیه و تحلیل: Jensen Huang یک پادشاهی AI ساخت. حالا چی؟ گزارش کامل: Jensen Huang استعفا می دهد به عنوان مدیر عامل Nvidia خیلی بزرگ - و خیلی متصل - برای اخراج؟ هوانگ از حقوق رای گیری فوق العاده که برای دوره ..."
    }
   },
   {
    "id": "ec9",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-   "published": "2026-11-11T21:59:07+00:00",
+   "source": "Deutsche Welle",
+   "link": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-11-12T15:08:00+00:00",
    "title": {
-    "en": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-    "fa": "Nvidia شرکت پیشرو در قانون ایالات متحده را استخدام می کند تا رابطه جنس Jensen Huang را بررسی کند"
+    "en": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
+    "fa": "Jensen Huang: قلاب جاسوسی، رابطه دوم Nvidia را بدون مدیرعامل راک استار ترک می کند"
    },
    "summary": {
-    "en": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen…",
-    "fa": "حرکت به عنوان حلقه های تراشه ساز از گزارش های مدیر عامل آن رابطه با یک جاسوسی چینی ادعا شده Nvidia منصوب یک شرکت پیشرو در ایالات متحده برای انجام یک تحقیق \"سخت و مستقل\" در رابطه بین مدیر اجرایی خود، Jensen ..."
+    "en": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO after a second affair came to light. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
+    "fa": "Jensen Huang، که Nvidia را در تراشه ساز غالب AI جهان ساخته است، پس از یک رابطه دوم به نور، به عنوان مدیر عامل پایین می آید. DW بررسی می کند که چگونه از دست دادن سر خود بر شرکت و نژاد AI آمریکا و چین تاثیر خواهد گذاشت."
    }
   },
   {
    "id": "ec10",
    "section": "economy",
-   "source": "Deutsche Welle",
-   "link": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-bus-2091-rdf",
-   "published": "2026-11-11T15:12:00+00:00",
+   "source": "The Economist",
+   "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
+   "published": "2026-11-12T14:28:59+00:00",
    "title": {
-    "en": "Is AIIB's complaint mechanism failing affected communities?",
-    "fa": "آیا مکانیسم شکایت AIIB جوامع را تحت تاثیر قرار نداده است؟"
+    "en": "Jensen Huang is out. His successor has the toughest job in tech",
+    "fa": "Jensen Huang خارج است. جانشین او سخت ترین کار را در تکنولوژی دارد"
    },
    "summary": {
-    "en": "The AIIB has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms and greater transparency are needed.",
-    "fa": "AIIB دارای یک مکانیسم جبران خسارت برای افرادی است که تحت تاثیر پروژه های مالی قرار می گیرند. اما کسانی که به دنبال ثبت یک شکایت هستند با موانع قابل توجهی مواجه هستند. منتقدان می گویند اصلاحات و شفافیت بیشتر لازم است."
+    "en": "A company built around one man must now learn to run without him",
+    "fa": "یک شرکت ساخته شده در اطراف یک مرد باید یاد بگیرد که بدون او بدود"
    }
   },
   {
    "id": "te11",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/sessions/2026-11-11/live-q-amp-a-will-jensen-huang-be-replaced-as-ceo-what-s-next-for-nvidia",
-   "published": "2026-11-12T03:13:16+00:00",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-13/singtel-cfo-on-1h-earnings-video",
+   "published": "2026-11-13T03:09:38+00:00",
    "title": {
-    "en": "Will Nvidia Replace Jensen Huang as CEO? What’s Next for AI, Markets?: Live Q&A",
-    "fa": "آیا Nvidia Jensen Huang را به عنوان مدیرعامل جایگزین می کند؟ بعدی برای AI، بازارها چیست؟ Live Q & A"
+    "en": "Singtel CFO on 1H Earnings",
+    "fa": "Singtel CFO در 1H درآمد"
    },
    "summary": {
-    "en": "Bloomberg reporters answer your questions on Nov. 12 at 12 p.m. HKT / Nov. 11 at 11 p.m. ET.",
-    "fa": "خبرنگاران بلومبرگ به سوالات شما در 12 نوامبر در 12 بعد از ظهر پاسخ می دهند. HKT / نوامبر 11 در ساعت 11 بعد از ظهر."
+    "en": "Arthur Lang, Singtel Group CFO, discusses the outlook and growth strategy for the business after the company's first half earnings, and on potential business impact from Nvidia leadership changes. He speaks with Haidi Stroud-Watts and Paul Allen on…",
+    "fa": "آرتور لانگ، Singtel Group CFO، در مورد استراتژی چشم انداز و رشد برای کسب و کار پس از نیمه اول شرکت و تاثیر بالقوه کسب و کار از تغییرات رهبری Nvidia بحث می کند. او با هادی استود- وات و پل آلن صحبت می کند."
    }
   },
   {
    "id": "te12",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/ai-agent-users-compute-costs-41a5db30?mod=rss_Technology",
-   "published": "2026-11-12T03:00:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-13/singapore-charges-5th-person-linked-to-nvidia-chip-case-st-says",
+   "published": "2026-11-13T02:24:21+00:00",
    "title": {
-    "en": "Big Tech Wants Everyone to Use an AI Agent. But Who Shoulders the Cost?",
-    "fa": "تکنولوژی بزرگ می خواهد همه از یک عامل AI استفاده کنند. چه کسی باید هزینه را پرداخت کند؟"
+    "en": "Singapore Charges 5th Person Linked to Nvidia Case, ST Says",
+    "fa": "سنگاپور ۵ شخص مرتبط با پرونده Nvidia را شارژ می کند."
    },
    "summary": {
-    "en": "These online helpers have such pricey computing needs, companies are only offering them to premium customers, or limiting who can access them.",
-    "fa": "این کمک کنندگان آنلاین دارای چنین نیازهای محاسباتی قیمت هستند، شرکت ها فقط به مشتریان برتر یا محدود کردن کسانی که می توانند به آنها دسترسی داشته باشند، ارائه می دهند."
+    "en": "Singapore charged a fifth person in relation to an AI server fraud case linked to the export of computer servers that might contain Nvidia Corp. chips to Malaysia, according to a report by the Straits Times.",
+    "fa": "سنگاپور یک شخص پنجم را در رابطه با پرونده تقلب سرور AI مرتبط با صادرات سرورهای کامپیوتری که ممکن است حاوی تراشه های Nvidia Corp به مالزی باشد، متهم کرد."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
-   "published": "2026-11-12T02:31:20+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/12/technology/huang-ai-policy-washington.html",
+   "published": "2026-11-13T01:22:35+00:00",
    "title": {
-    "en": "Nvidia to Decide on Jensen Huang’s Fate",
-    "fa": "Nvidia برای تصمیم گیری در مورد سرنوشت Jensen Huang"
+    "en": "With Jensen Huang Gone, the A.I. Industry Loses Its Most Powerful Backer in Washington",
+    "fa": "با رفتن Jensen Huang، صنعت A.I. قدرتمندترین Backer خود را در واشنگتن از دست داد"
    },
    "summary": {
-    "en": "Nvidia’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China.…",
-    "fa": "هیئت مدیره Nvidia با یک شرکت خارجی کار می کند تا جایگزین های بالقوه برای افسر ارشد اجرایی جنسن هوانگ پس از گزارش های مربوط به امور زناشویی اضافی، از جمله یک زن که به نظر می رسد مظنون به جاسوسی برای چین است، شناسایی شود."
+    "en": "Nvidia’s chief executive, a confidant of President Trump, successfully pushed for less regulation and open borders for chip sales.",
+    "fa": "مدیر اجرایی Nvidia، یک رئیس جمهور ترامپ، با موفقیت برای مقررات کمتر و مرزهای باز برای فروش تراشه فشار آورد."
    }
   },
   {
    "id": "te14",
    "section": "tech",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/companies-dole-out-mega-paydays-and-luxury-trips-to-compete-for-ai-talent-3b3a7792?mod=rss_Technology",
-   "published": "2026-11-12T01:00:00+00:00",
+   "link": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?mod=rss_Technology",
+   "published": "2026-11-13T01:00:00+00:00",
    "title": {
-    "en": "Companies Dole Out Mega Paydays and Luxury Trips to Compete for AI Talent",
-    "fa": "شرکت های Dole Out Mega Payday و سفرهای لوکس برای رقابت برای استعداد AI"
+    "en": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+    "fa": "AI Bots از کارت های اعتباری استفاده می کند. بانک ها برای بالا نگه داشتن هستند."
    },
    "summary": {
-    "en": "While tech workers have borne the brunt of recent layoffs, certain corners of the sector are recruiting aggressively.",
-    "fa": "در حالی که کارگران فن آوری از اخراج های اخیر عبور کرده اند، برخی از گوشه های بخش به طور تهاجمی استخدام می شوند."
+    "en": "Stripe is positioning itself as a key cog for agentic commerce, while JPMorgan Chase is a skeptic.",
+    "fa": "Stripe خود را به عنوان یک ترکیب کلیدی برای تجارت نمایندگی قرار می دهد، در حالی که JPMorgan Chase یک شک و تردید است."
    }
   },
   {
    "id": "te15",
    "section": "tech",
    "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-   "published": "2026-11-12T00:55:40+00:00",
+   "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+   "published": "2026-11-13T00:51:25+00:00",
    "title": {
-    "en": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "fa": "گزارش شده است که Nvidia آماده آتش سوزی Jensen Huang است"
+    "en": "Donald Trump really wants Tim Cook to run Nvidia",
+    "fa": "دونالد ترامپ واقعا می خواهد تیم کوک بتواند Nvidia را اداره کند"
    },
    "summary": {
-    "en": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal…",
-    "fa": "هیئت مدیره Nvidia در حال آماده کردن برای اخراج مدیر عامل Jensen Huang پس از گزارش نیویورک تایمز در مورد یک رابطه زناشویی اضافی، فقط چند روز پس از او به یک رابطه جداگانه با یک زن ادعا می شود که یک جاسوس چینی، وال استریت ژورنال است."
+    "en": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he…",
+    "fa": "جنسن هوانگ امروز صبح به عنوان مدیر عامل Nvidia پس از گزارش های مربوط به امور، از جمله یکی با یک جاسوسی چینی ادعا شده استعفا داد. در حال حاضر، این شرکت به صورت موقت توسط CFO رهبری می شود. اما دونالد ترامپ در حال حاضر حدود یک نفر را پرتاب می کند..."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
-   "published": "2026-11-11T23:32:14+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-13T00:13:35+00:00",
    "title": {
-    "en": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
-    "fa": "هیئت Nvidia برای بحث در مورد آینده Jensen Huang جلسه ای دارد"
+    "en": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+    "fa": "ظهور \"ماهی فروشی\" - چه زمانی استفاده از AI از افزایش به گمراه کننده می رود؟"
    },
    "summary": {
-    "en": "Mr. Huang has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as a relationship with an executive at his A.I. chip company.",
-    "fa": "آقای هوانگ به دنبال یک رابطه با یک زن بوده است که گفته می شود یک جاسوس چینی و همچنین یک رابطه با یک مدیر اجرایی در شرکت تراشه A.I است."
+    "en": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+    "fa": "کارشناسان هشدار می دهند که استفاده از AI برای افزایش تصاویر املاک می تواند بسیار دور و گمراه کننده خریداران آینده نگر باشد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-   "published": "2026-11-11T23:14:34+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html",
+   "published": "2026-11-12T23:07:17+00:00",
    "title": {
-    "en": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-    "fa": "دست ها با دستیار خانگی جدید “Multi-tool خانگی هوشمند”"
+    "en": "Jensen Huang Is Out at Nvidia",
+    "fa": "Jensen Huang در Nvidia خارج شده است"
    },
    "summary": {
-    "en": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's…",
-    "fa": "Nabu Casa – بخش تجاری بنیاد خانه باز که Home Assistant را اجرا می کند – فقط Home Assistant Connect Aux-2 را راه اندازی کرد، یک جعبه چند منظوره طراحی شده برای کمک به شما در آوردن دستگاه های غیر هوشمند بیشتر به خانه هوشمند خود. این بخشی از Home Assistant است ..."
+    "en": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals.",
+    "fa": "در یک چرخش تکان دهنده از حوادث، بنیانگذار Nvidia در میان رسوایی های متعدد استعفا می دهد."
    }
   },
   {
    "id": "te18",
    "section": "tech",
    "source": "Ars Technica",
-   "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-   "published": "2026-11-11T23:10:17+00:00",
+   "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+   "published": "2026-11-12T22:59:51+00:00",
    "title": {
-    "en": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-    "fa": "کار جینسن هوانگ به طور ناگهانی در خط در Nvidia"
+    "en": "In reversal, American Cancer Society urges routine prostate cancer screening",
+    "fa": "در مقابل، جامعه سرطان آمریکا از غربالگری سرطان پروستات روزانه می خواهد"
    },
    "summary": {
-    "en": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-    "fa": "FBI در حال تحقیق در مورد هیئت مدیره Nvidia است مذاکرات فوری در مورد آینده هوانگ."
+    "en": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+    "fa": "مردان 50 تا 69 ساله و به طور متوسط خطر باید هر دو سال یکبار غربالگری PSA را انجام دهند."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-   "published": "2026-11-11T17:00:00+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/opinion/jensen-huang-is-a-white-house-scandal-9c2136a1?mod=rss_Technology",
+   "published": "2026-11-12T22:43:00+00:00",
    "title": {
-    "en": "What to know about this year’s UN climate talks",
-    "fa": "آنچه در مورد مذاکرات آب و هوایی سازمان ملل متحد امسال می دانیم"
+    "en": "Opinion | Jensen Huang Is a White House Scandal",
+    "fa": "Jensen Huang یک خانه سفید است"
    },
    "summary": {
-    "en": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one…",
-    "fa": "این زمان یک سال دیگر است: هزاران نماینده، لابیگران و روزنامه نگاران برای مذاکرات سالانه سازمان ملل متحد جمع آوری می شوند و این بار در آنتالیا، ترکیه برگزار می شوند. COP31 به طور رسمی در تاریخ 8 نوامبر آغاز به کار کرد و آغاز مذاکرات در مورد یک ..."
+    "en": "What did Trump know and when about the Nvidia CEO’s relationship with an accused Chinese spy?",
+    "fa": "ترامپ چه می داند و چه زمانی در رابطه مدیرعامل Nvidia با جاسوسی چینی متهم شده است؟"
    }
   },
   {
    "id": "te20",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-11T11:33:24+00:00",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "published": "2026-11-12T20:16:24+00:00",
    "title": {
-    "en": "New Indian mega library rocked by scandal over 'AI-generated books'",
-    "fa": "کتابخانه بزرگ هندی جدید با رسوایی در مورد کتاب های تولید شده توسط هوش مصنوعی"
+    "en": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "fa": "Nvidia به طور خصوصی تایید کرد که می تواند تراشه ها را برای مبارزه با قاچاق ردیابی کند، حتی در حالی که صنعت به طور علنی از امکان پذیری سوال کرد."
    },
    "summary": {
-    "en": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
-    "fa": "دولت Tamil Nadu دستور ممیزی داخلی مجموعه های کتابخانه در سراسر کشور را داده است."
+    "en": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while…",
+    "fa": "نمایندگان Nvidia به بیل فاستر نماینده ایلینوی گفته اند که از نظر فنی می توان اقدامات ضد زشت را که در قانون امنیت تراشه نامیده می شود، اجرا کرد، فاستر به MIT Technology Review در یک مصاحبه در روز پنجشنبه گفت، حتی در حالی که ..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/11/mississippi-senate-race-democrats-beef-prices-scott-colom-cindy-hyde-smith/",
-   "published": "2026-11-12T00:39:46+00:00",
+   "link": "https://fortune.com/2026/11/12/nvidia-changed-earnings-report-format-singapore-revenue-megaspeed-probe-colette-kress/",
+   "published": "2026-11-13T00:44:26+00:00",
    "title": {
-    "en": "Mississippi elects first Democratic senator in 44 years as Dems finally find a winning strategy: Spend nothing and let the other candidate talk beef",
-    "fa": "می سی سی سی سی پی اولین سناتور دموکرات را در ۴۴ سال انتخاب کرد و در نهایت یک استراتژی برنده را پیدا کرد: هیچ چیز را خرج نکنید و اجازه دهید نامزد دیگر با گوشت گاو صحبت کند."
+    "en": "Nvidia abruptly changed how it reported revenue in Singapore last year, adding to questions about its relationship with Megaspeed",
+    "fa": "Nvidia به طور ناگهانی چگونگی گزارش درآمد در سنگاپور در سال گذشته را تغییر داد و به سوالاتی در مورد رابطه آن با Mega Speed اضافه کرد."
    },
    "summary": {
-    "en": "Scott Colom beat a cattle rancher senator who suggested other proteins as beef prices rose. If Alaska follows, Democrats get to 56 Senate seats.",
-    "fa": "اسکات کولوم یک سناتور دامدار را شکست که سایر پروتئین ها را به عنوان قیمت گوشت گاو پیشنهاد کرد. اگر آلاسکا به دنبال آن باشد، دموکرات ها به ۵۶ کرسی سنا می رسند."
+    "en": "“The timing is curious,\" one financial audit expert told Fortune. “Even if it is not curious, people are going to raise questions.”",
+    "fa": "\"زمان کنجکاو است\"، یک کارشناس حسابرسی مالی به فوربز گفت. حتی اگر کنجکاو نباشد، مردم سؤالاتی را مطرح می کنند.»"
    }
   },
   {
    "id": "ma22",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91640747/jensen-huang-may-be-out-at-nvidia-the-rise-and-fall-of-one-of-the-key-figures-in-the-ai-boom",
-   "published": "2026-11-12T00:27:18+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/12/a-dark-day-jensen-huangs-sex-drive-threatens-to-pop-the-ai-bubble-and-the-industry-isnt-sure-whats-next/",
+   "published": "2026-11-12T23:50:51+00:00",
    "title": {
-    "en": "Jensen Huang may be out at Nvidia: The rise and fall of a key figure in the AI boom",
-    "fa": "Jensen Huang ممکن است در Nvidia باشد: ظهور و سقوط یک شخصیت کلیدی در رونق AI"
+    "en": "‘A dark day’: Jensen Huang’s sex drive threatens to pop the AI bubble, and the industry isn’t sure what’s next",
+    "fa": "“یک روز تاریک”: محرک جنسی جنس جنس جنس جنس جنس جنس Jensen Huang تهدید می کند که حباب AI را به صدا در می آورد و صنعت مطمئن نیست که چه چیزی بعدی است."
    },
    "summary": {
-    "en": "Jensen Huang has, for more than three decades, been the driving force behind Nvidia, transforming a video game graphic chipmaker into one of the most impactful companies of the AI era. Now, in a remarkable turn of events, the 63-year-old CEO may be on his way…",
-    "fa": "Jensen Huang بیش از سه دهه است که نیروی محرکه ای در پشت Nvidia بوده و یک چیپساز گرافیک بازی ویدیویی را به یکی از تأثیرگذارترین شرکت های عصر AI تبدیل کرده است. در حال حاضر، در یک نوبت قابل توجه از وقایع، مدیر عامل ۶۳ ساله ممکن است در راه او باشد."
+    "en": "Jensen Huang was more than Nvidia's rock star CEO. He personified the entire AI boom. Can it go on without him?",
+    "fa": "Jensen Huang بیش از مدیر عامل ستاره راک Nvidia بود. او کل رونق AI را شخصی کرد. آیا می توان بدون او رفت؟"
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
-   "published": "2026-11-11T23:12:18+00:00",
+   "link": "https://fortune.com/2026/11/12/nvidia-next-ceo-the-outside-contenders-to-succeed-jensen-huang/",
+   "published": "2026-11-12T23:13:08+00:00",
    "title": {
-    "en": "Report: Nvidia preparing to oust CEO Jensen Huang after affair with woman U.S. officials deemed a Chinese spy",
-    "fa": "گزارش: Nvidia در حال آماده شدن برای برکناری مدیر عامل Jensen Huang پس از رابطه با مقامات آمریکایی یک جاسوس چینی محسوب می شود"
+    "en": "Nvidia’s next CEO: The outside contenders to succeed Jensen Huang",
+    "fa": "مدیر عامل بعدی Nvidia: رقبای خارجی برای موفقیت Jensen Huang"
    },
    "summary": {
-    "en": "CEO Jensen Huang has been under intense pressure following his confession to infidelity, and it appears he is poised to lose his grip on the company he co-founded in 1993.",
-    "fa": "جینسن هوانگ، مدیر عامل، پس از اعتراف به خیانت تحت فشار شدید قرار گرفته است و به نظر می رسد که او آماده است تا کنترل خود را بر شرکتی که در سال 1993 تاسیس کرده است، از دست بدهد."
+    "en": "Rene Haas, Lisa Su and Tim Cook are among the names floated as Nvidia faces a defining choice between technical leadership and seasoned management.",
+    "fa": "Rene Haas، Lisa Su و Tim Cook در میان نام های شناور هستند، زیرا Nvidia با یک انتخاب مشخص بین رهبری فنی و مدیریت فصل مواجه است."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91640482/ai-data-center-boom-can-anyone-stop-it-what-happens-next",
-   "published": "2026-11-11T22:30:00+00:00",
+   "link": "https://www.fastcompany.com/91641287/kalshi-will-pay-you-120000-to-play-grand-theft-auto-vi",
+   "published": "2026-11-12T23:00:00+00:00",
    "title": {
-    "en": "Can anyone really stop the AI data center boom? What could happen next now that voters have spoken",
-    "fa": "آیا کسی واقعا می تواند رونق مرکز داده AI را متوقف کند؟ چه اتفاقی می افتد در حال حاضر رای دهندگان صحبت کرده اند"
+    "en": "Kalshi will pay you $120,000 to play ‘Grand Theft Auto VI’",
+    "fa": "کالشی به شما مبلغ 120 هزار دلار برای بازی \"Grand Theft Auto VI\" پرداخت خواهد کرد."
    },
    "summary": {
-    "en": "On Election Day, Americans made their opinions about the AI data center boom clear. Now it’s up to those newly elected legislators to rein in the country’s high-speed data center development. And there’s a lot they can actually do—particularly on the local…",
-    "fa": "در روز انتخابات، آمریکایی ها نظرات خود را در مورد مرکز داده های هوش مصنوعی روشن کردند. حالا نوبت به کسانی است که به تازگی انتخاب شده اند تا در توسعه مرکز داده های با سرعت بالا کشور شرکت کنند. و کارهای زیادی وجود دارد که می توانند انجام دهند، به ویژه در محلی..."
+    "en": "People are already calling out sick to play the feverishly anticipated Grand Theft Auto VI . Companies like Logitech are even giving staff paid time off to partake. Now, thanks to prediction market Kalshi, folks won’t have to play hooky from their jobs to…",
+    "fa": "مردم در حال حاضر خواستار بیمار شدن برای بازی به طور ناگهانی پیش بینی Grand Theft Auto VI هستند. شرکت هایی مانند Logitech حتی به کارکنان پول می دهند تا شرکت کنند. حالا، به لطف بازار پیش بینی کالاشی، مردم مجبور نخواهند شد از شغل خود به بازی های قلابی بپردازند."
    }
   },
   {
    "id": "ma25",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/11/databricks/",
-   "published": "2026-11-11T22:07:04+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91641654/ceos-still-think-they-can-get-away-with-affairs-after-metoo",
+   "published": "2026-11-12T22:30:00+00:00",
    "title": {
-    "en": "A day after Anthropic’s office push, Databricks jumps in with AI agents that never sleep",
-    "fa": "یک روز پس از فشار دفتر Anthropic، Databricks با عوامل هوش مصنوعی که هرگز نمی خوابد، پرش می کند."
+    "en": "CEOs still think they can get away with affairs after #MeToo",
+    "fa": "مدیران اجرایی هنوز هم فکر می کنند که می توانند بعد از #MeToo با مسائل کنار بیایند."
    },
    "summary": {
-    "en": "The $190 billion AI startup's new tool, which operates in the background and shadows the user's daily workday, comes on the heels of Anthropic's renewed push for corporate users.",
-    "fa": "ابزار جدید راه اندازی AI 90 میلیارد دلاری که در پس زمینه و سایه روز کاری روزانه کاربر کار می کند، بر روی پاشنه های فشار تجدید شده Anthropic برای کاربران شرکت ها می آید."
+    "en": "Nearly a decade after the #MeToo movement burst into public consciousness , the upheaval at Nvidia may be a lesson in how little CEOs seem to have learned. Nvidia’s embattled CEO, Jensen Huang, has resigned , following a New York Times report on Wednesday…",
+    "fa": "نزدیک به یک دهه پس از آنکه جنبش #MeToo به آگاهی عمومی رسید، تحولات در Nvidia ممکن است درسی باشد که به نظر می رسد مدیران اجرایی کمی آموخته اند. مدیر عامل شرکت Nvidia، Jensen Huang، پس از گزارش نیویورک تایمز در روز چهارشنبه استعفا داده است."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91640548/united-airlines-just-made-a-big-change-to-flight-bookings-heres-why-delta-and-american-arent-following",
-   "published": "2026-11-11T22:05:47+00:00",
+   "link": "https://www.fastcompany.com/91641279/a-major-change-to-the-u-s-mortgage-market-could-be-coming-heres-why-homeowners-should-care",
+   "published": "2026-11-12T21:45:27+00:00",
    "title": {
-    "en": "United Airlines just made a big change to flight bookings. Here’s why Delta and American aren’t following suit",
-    "fa": "خطوط هوایی یونایتد تغییرات بزرگی برای رزرو پرواز ایجاد کردند. در اینجا به همین دلیل است که دلتا و آمریکا از آن پیروی نمی کنند."
+    "en": "A major change to the U.S. mortgage market could be coming. Here’s why homeowners should care",
+    "fa": "یک تغییر عمده در بازار وام مسکن آمریکا می تواند رخ دهد. به همین دلیل است که صاحبان خانه باید مراقب باشند"
    },
    "summary": {
-    "en": "United Airlines is banning personal AI assistants from booking and modifying tickets on its system, a change that could see other airlines follow suit. The Chicago-based carrier updated its contract of carriage on Wednesday, prohibiting the use of AI agents…",
-    "fa": "خطوط هوایی یونایتد، دستیارهای شخصی AI را از رزرو و اصلاح بلیط ها در سیستم خود منع می کند، تغییری که می تواند سایر شرکت های هواپیمایی را ببیند. شرکت حمل و نقل مستقر در شیکاگو روز چهارشنبه قرارداد حمل خود را به روز کرد و استفاده از عوامل AI را ممنوع کرد."
+    "en": "As President Donald Trump enters the lame-duck era of his presidency, questions remain about which of his various agenda items will actually get accomplished. One of his long-standing goals has been to end the government conservatorship that mortgage giants…",
+    "fa": "همانطور که رئیس جمهور دونالد ترامپ وارد دوران ریاست جمهوری خود می شود، سوالات همچنان در مورد اینکه کدام یک از برنامه های مختلف او در واقع انجام خواهد شد، باقی می ماند. یکی از اهداف بلند مدت او پایان دادن به محافظه کاری دولت است که غول های وام مسکن..."
    }
   },
   {
    "id": "ma27",
+   "section": "management",
+   "source": "MIT Sloan Management Review",
+   "link": "https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/",
+   "published": "2026-11-12T12:00:12+00:00",
+   "title": {
+    "en": "Lessons From Tech’s Diversity Disclosures",
+    "fa": "درس های متنوع تکنولوژی"
+   },
+   "summary": {
+    "en": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster than they build the capacity to deliver on what they’ve disclosed, transparency produces resistance and often backlash…",
+    "fa": "Aron Vellekoop León / Ikon Images Transparency می تواند یک اهرم قدرتمند باشد، اما همچنین قابل احتراق است. هنگامی که کسب و کار افزایش دید سریعتر از آنها ایجاد ظرفیت برای تحویل آنچه آنها فاش کرده اند، شفافیت مقاومت و اغلب واکنش را ایجاد می کند."
+   }
+  },
+  {
+   "id": "ma28",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
@@ -625,7 +640,7 @@
    }
   },
   {
-   "id": "ma28",
+   "id": "ma29",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
@@ -640,123 +655,108 @@
    }
   },
   {
-   "id": "ma29",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
-   "published": "",
-   "title": {
-    "en": "Reinventing business planning with agentic AI",
-    "fa": "بازسازی برنامه ریزی کسب و کار با AI Agentic"
-   },
-   "summary": {
-    "en": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce the manual work required to turn forecasts into action.",
-    "fa": "ترکیب پیش بینی بهتر با عوامل AI برنامه ریزی را به یک سیستم تصمیم گیری مداوم، هوشمند و پاسخگو تبدیل می کند و کار دستی مورد نیاز برای تبدیل پیش بینی به عمل را کاهش می دهد."
-   }
-  },
-  {
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
+   "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
    "published": "",
    "title": {
-    "en": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
-    "fa": "حرکات درخشان: قهوه با مدیر عامل شرکت کوکاکولا Henrique Brown"
+    "en": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
+    "fa": "مراقبت های بهداشتی روستایی و 32 میلیارد دلار درآمد نیروی کار آمریکا"
    },
    "summary": {
-    "en": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps moving forward, and why staying constructively discontented may be the secret to staying relevant.",
-    "fa": "Henrique Brown شرکت کوکاکولا و Vik Malhotra مک کینزی درباره اینکه چگونه یک موسسه پایدار به جلو حرکت می کند، بحث می کنند و چرا ناراضی بودن سازنده ممکن است راز مرتبط ماندن باشد."
+    "en": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the national workforce shortage—could move into nursing and allied health roles and gain economic mobility.",
+    "fa": "امکانات روستایی بسته می شوند زیرا کمبود کارکنان بدتر می شود. با این حال، ۳۸ میلیون کارگر «کاربران» – نزدیک به ۱۰۰ برابر کمبود نیروی کار ملی – می توانند به پرستاری و نقش های بهداشتی متحد و به دست آوردن تحرک اقتصادی حرکت کنند."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-   "published": "2026-11-12T03:02:03+00:00",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "published": "2026-11-13T02:43:26+00:00",
    "title": {
-    "en": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-    "fa": "آنچه ما تا به امروز در مورد ردپای آسیا شریک Nvidia شریک زندگی Mega Speed می دانیم"
+    "en": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "fa": "Cerebras پس از ضرب و شتم درآمد سه ماهه و اعلام معامله مایکروسافت افزایش 17٪"
    },
    "summary": {
-    "en": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-    "fa": "Mega Speed در مرکز تحقیقات ایالات متحده در مورد نقش خود در ارسال میلیاردها تراشه محدود Nvidia به چین و رابطه ادعای اجرایی آن با Jensen Huang است."
+    "en": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "fa": "Cerebras یک معامله جدید با مایکروسافت پس از همکاری با ارائه دهندگان ابر بزرگ آمازون و اوراکل اعلام کرد."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1",
-   "published": "2026-11-12T02:55:28+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+   "published": "2026-11-13T02:25:02+00:00",
    "title": {
-    "en": "China warns ‘severe punishment’ for offshore trust tax evaders",
-    "fa": "چین هشدار می دهد که مجازات برای فرار از مالیات بر اعتماد دریایی"
+    "en": "The world's super-rich are piling into alternative investments. Here's why",
+    "fa": "ثروتمندان جهان در حال سرمایه گذاری های جایگزین هستند. به همین دلیل"
    },
    "summary": {
-    "en": "Revenue from personal income tax jumps 90 per cent as scrutiny tightens over the country’s wealthiest",
-    "fa": "درآمد حاصل از مالیات بر درآمد شخصی 90 درصد افزایش می یابد، زیرا بررسی ها در مورد ثروتمندترین های کشور سخت می شود."
+    "en": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
+    "fa": "سرمایه گذاری های جایگزین در حال حاضر 60٪ از نمونه کارها اداری تک خانواده را تشکیل می دهند که از دارایی های سنتی برای اولین بار، با توجه به ثروت BNY فراتر می رود."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html",
-   "published": "2026-11-12T02:43:09+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
+   "published": "2026-11-13T02:08:58+00:00",
    "title": {
-    "en": "CFTC investigates if Kalshi improperly self-certified event contracts",
-    "fa": "CFTC بررسی می کند که آیا Kalshi به درستی قراردادهای رویداد خود را تایید می کند"
+    "en": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
+    "fa": "آمریکا نمی تواند بدون اروپا به توافقی برای پایان دادن به جنگ اوکراین دست یابد، کوشنر می گوید"
    },
    "summary": {
-    "en": "News of the probe comes after the CFTC ordered Kalshi to take down a sports-related \"mention markets\" back in August.",
-    "fa": "اخبار این کاوشگر پس از CFTC به کالشی دستور داد تا یک \"بازارهای ورزشی\" مرتبط با ورزش را در ماه اوت به عقب بکشاند."
+    "en": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security",
+    "fa": "نظرات نماینده آمریکایی به عنوان رهبران اروپایی رد فشار روسیه برای اصلاح امنیت قاره"
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
-   "published": "2026-11-12T01:13:24+00:00",
+   "link": "https://www.ft.com/content/74e95e42-3f1d-4128-98ef-9ce4c160b077?syn-25a6b1a6=1",
+   "published": "2026-11-13T01:42:30+00:00",
    "title": {
-    "en": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
-    "fa": "Nvidia برای تصمیم گیری در مورد سرنوشت Jensen Huang پس از افشای رابطه با زیردستان"
+    "en": "The Silicon Valley veterans now steering Nvidia",
+    "fa": "کهنه سربازان سیلیکون در حال حاضر Nvidia را هدایت می کنند"
    },
    "summary": {
-    "en": "Head of US chip giant comes under mounting pressure days after claims he had affair with alleged Chinese spy",
-    "fa": "رئیس غول تراشه ایالات متحده روز ها پس از ادعای ارتباط با جاسوسی چینی تحت فشار است"
+    "en": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
+    "fa": "رئیس جدید هاروی جونز و مدیر عامل کلت Kress نیاز به ثابت کردن گروه تراشه پس از خروج تکان دهنده Jensen Huang"
    }
   },
   {
    "id": "tr35",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/air-cargos-hopes-for-end-of-year-volume-surge-dwindle/874430/",
-   "published": "2026-11-11T18:55:52+00:00",
+   "link": "https://www.supplychaindive.com/news/trump-threatens-to-double-mexico-tariffs-over-migrant-caravans/874534/",
+   "published": "2026-11-12T18:03:58+00:00",
    "title": {
-    "en": "Air cargo’s hopes for end-of-year volume surge dwindle",
-    "fa": "امید حمل و نقل هوایی برای افزایش حجم پایان سال"
+    "en": "Trump threatens to double Mexico tariffs over migrant caravans",
+    "fa": "ترامپ تهدید به دو برابر کردن تعرفه های مکزیک بر کاروان های مهاجر می کند"
    },
    "summary": {
-    "en": "Market growth remains steady, but pressured capacity and other traditional signals of a late burst in demand were lacking in October, Xeneta reported.",
-    "fa": "رشد بازار ثابت باقی مانده است، اما ظرفیت فشار و دیگر سیگنال های سنتی از یک انفجار دیرهنگام در تقاضا در ماه اکتبر، Xeneta گزارش شده است."
+    "en": "The levies would be effective immediately if the country does not halt the movement of caravans into the U.S., the president said.",
+    "fa": "حاشیه ها بلافاصله موثر خواهند بود اگر کشور حرکت کاروان ها را به ایالات متحده متوقف نکند، رئیس جمهور گفت."
    }
   },
   {
    "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/bmw-announces-new-battery-supply-deals-for-the-us-europe/874409/",
-   "published": "2026-11-11T17:15:00+00:00",
+   "link": "https://www.supplychaindive.com/news/manufacturing-advocates-make-case-for-tariffs-following-midterm-results/874456/",
+   "published": "2026-11-12T16:08:17+00:00",
    "title": {
-    "en": "BMW announces new battery supply deals for the US, Europe",
-    "fa": "BMW اعلام می کند که عرضه باتری جدید برای ایالات متحده، اروپا"
+    "en": "Manufacturing advocates make case for tariffs following midterm results",
+    "fa": "حامیان تولید پس از نتایج اواسط دوره ای برای تعرفه ها اقدام می کنند"
    },
    "summary": {
-    "en": "The automaker contracted with battery cell manufacturers Samsung SDI and LG Energy Solution as it aims for a more localized supply chain for future electric vehicles.",
-    "fa": "این خودروساز با تولید کنندگان باتری، Samsung SDI و LG Energy Solution قرارداد بست، زیرا هدف آن یک زنجیره تامین محلی برای خودروهای الکتریکی آینده است."
+    "en": "Although polls show the public is tired of import taxes, rolling back trade enforcement would be a “serious mistake,” per an Alliance for American Manufacturing report.",
+    "fa": "اگرچه نظرسنجی ها نشان می دهد که عموم مردم از مالیات واردات خسته شده اند، اما عقب راندن اجرای تجاری یک \"اشتباه جدی\" در هر اتحاد برای گزارش تولید آمریکا خواهد بود."
    }
   },
   {
@@ -778,26 +778,26 @@
    "id": "tr38",
    "section": "trade",
    "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/tech_09nov26_543_e.htm",
-   "published": "2026-11-09T00:00:00+00:00",
+   "link": "https://www.wto.org/english/news_e/news26_e/acc_10nov26_550_e.htm",
+   "published": "2026-11-10T00:00:00+00:00",
    "title": {
-    "en": "Germany contributes EUR 500,000 to strengthen developing economies' trade capacity",
-    "fa": "آلمان ۵۰۰ هزار یورو برای تقویت ظرفیت تجاری اقتصادهای در حال توسعه کمک می کند"
+    "en": "Ethiopia's accession maintains momentum as WTO members review progress",
+    "fa": "دسترسی اتیوپی به عنوان اعضای سازمان تجارت جهانی حرکت می کند"
    },
    "summary": {
-    "en": "Germany is contributing EUR 500,000 (approximately CHF 460,000) to the WTO's Global Trust Fund (GTF) to help developing economies and least developed countries (LDCs) enhance their participation in the multilateral trading system. Carmen Heidecke, Ambassador…",
-    "fa": "آلمان در حال کمک به ۵۰۰،۰۰۰ یورو (تقریبا ۴۶۰۰۰۰ فرانک) به صندوق جهانی اعتماد سازمان تجارت جهانی (GTF) برای کمک به توسعه اقتصاد و حداقل کشورهای توسعه یافته (LDCs) افزایش مشارکت خود در سیستم معاملاتی چندجانبه است. کارمن Heidecke، سفیر ..."
+    "en": "At its eighth meeting on 9 and 10 November, the Working Party on Ethiopia's Accession to the WTO took stock of the latest progress in bilateral market access negotiations and reforms of Ethiopia's foreign trade regime. Leading a high-level delegation…",
+    "fa": "در هشتمین جلسه خود در تاریخ 9 و 10 نوامبر، حزب کارگر در دسترسی اتیوپی به سازمان تجارت جهانی، آخرین پیشرفت در مذاکرات دسترسی به بازار دوجانبه و اصلاحات رژیم تجارت خارجی اتیوپی را به خود گرفت. رهبری یک هیئت سطح بالا ..."
    }
   },
   {
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-defense-tech-unicorn-cultivates-taiwan-and-japan-supply-chain-ties",
+   "link": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm",
    "published": "",
    "title": {
-    "en": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
-    "fa": "تکنولوژی دفاعی اوکراین، تایوان و ژاپن را کشت"
+    "en": "TSMC seeks to back next chip titan with new investment arm",
+    "fa": "TSMC به دنبال بازگشت سرمایه گذاری بعدی با بازوی سرمایه گذاری جدید است"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/energy/indonesia-thailand-philippines-to-set-up-shared-oil-reserves",
+   "link": "https://asia.nikkei.com/photos/through-the-lens-china-s-singles-day-shopping-festival",
    "published": "",
    "title": {
-    "en": "Indonesia, Thailand, Philippines to set up shared oil reserves",
-    "fa": "اندونزی، تایلند، فیلیپین برای ایجاد ذخایر نفتی مشترک"
+    "en": "Through the Lens: China’s Singles Day shopping festival",
+    "fa": "از طریق لنز: جشنواره خرید تک روز چین"
    },
    "summary": {
     "en": "",
