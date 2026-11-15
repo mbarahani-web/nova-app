@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T03:22:13+00:00",
- "date": "2026-11-14",
+ "generated_at": "2026-11-15T09:50:09+00:00",
+ "date": "2026-11-15",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -213,7 +213,7 @@
    "section": "trade",
    "source": "World Trade Organization",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "dropped": 0,
    "error": ""
   }
@@ -222,125 +222,140 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/autos/tesla-opens-sales-of-autonomous-cybercab-for-select-customers-8d2feae3?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-14T03:15:00+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/society/2026/nov/15/digital-finance-products-abuse-against-young-women-and-girls-report",
+   "published": "2026-11-15T09:22:39+00:00",
    "title": {
-    "en": "Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers",
-    "fa": "تسلا فروش خودکار Cybercab را برای مشتریان “Select” باز می کند"
+    "en": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
+    "fa": "محصولات مالی دیجیتال مورد استفاده برای سوء استفاده تقریبا 20٪ از زنان و دختران جوان، گزارش انگلستان"
    },
    "summary": {
-    "en": "",
-    "fa": ""
+    "en": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the UK have experienced digital financial products being used as a tool of abuse by…",
+    "fa": "پاسخ دهندگان نظرسنجی توصیف شرکای فعلی یا سابق کنترل حساب های بانکی و گرفتن اعتبار آنلاین بدون رضایت کامل تقریبا یکی از پنج زن و دختر جوان در انگلستان محصولات مالی دیجیتال را به عنوان یک ابزار سوء استفاده استفاده از..."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "The Guardian",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "published": "2026-11-14T03:11:35+00:00",
+   "link": "https://www.theguardian.com/politics/2026/nov/15/drivers-delays-brexit-food-checks",
+   "published": "2026-11-15T09:04:18+00:00",
    "title": {
-    "en": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
-    "fa": "قطع پرواز ایالات متحده: FAA توقف زمینی در سراسر کشور را افزایش می دهد؛ مقامات Trump پیشنهاد می کنند که تکنولوژی جدید تجهیزات قدیمی را از بین ببرد - همانطور که اتفاق افتاد."
+    "en": "Pasta, pies and paperwork errors: the reality of Brexit food checks",
+    "fa": "پاستا، پا و اشتباهات اداری: واقعیت چک های مواد غذایی Brexit"
    },
    "summary": {
-    "en": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other…",
-    "fa": "این وبلاگ زنده اکنون بسته شده است. آخرین پوشش خود را در اینجا دنبال کنید. آژانس حمل و نقل هوایی ایالات متحده توقف زمین در سراسر کشور را بر تمام هرج و مرج سفر هوایی در فرودگاه های ایالات متحده به عنوان برنامه سفر توقف پرواز برای توقف ثبت نام برای شکستن اخبار ایمیل ایالات متحده در دیگر ..."
+    "en": "Delayed deliveries and inspection hold-ups among issues facing hauliers navigating post-Brexit border processes Three small boxes of spinach and ricotta cannelloni destined for a supermarket in Gibraltar languish on an EU inspector’s bench at the Eurotunnel…",
+    "fa": "تاخیر در تحویل و بازرسی نگهداری در میان مسائل مربوط به حمل کنندگان در حال حرکت در فرآیندهای مرزی پس از Brexit سه جعبه کوچک از اسفناج و ricotta Cannelloni برای یک سوپر مارکت در جبل الطارق در نیمکت بازرس اتحادیه اروپا در Eurotunnel."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/us-news/faa-temporarily-halts-flights-across-u-s-b9b06e59?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-14T02:51:00+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html",
+   "published": "2026-11-15T08:35:03+00:00",
    "title": {
-    "en": "FAA Lifts Nationwide Groundstop that Upended Flights",
-    "fa": "FAA Lifts Nationstop که پرواز های پایان یافته"
+    "en": "Why Some Flights Were Exempt From the Ground Stop",
+    "fa": "چرا برخی از پروازها از ایستگاه زمینی خالی شده اند"
    },
    "summary": {
-    "en": "The disruption is still expected to create travel problems that persist through the weekend.",
-    "fa": "انتظار می رود که این اختلال مشکلات مسافرتی ایجاد کند که در آخر هفته ادامه دارد."
+    "en": "Dozens of international flights departed from the United States during Friday’s nationwide ground stop. Some planes also left for Hawaii from the West Coast.",
+    "fa": "ده ها پرواز بین المللی در طول توقف زمینی روز جمعه از ایالات متحده خارج شد. برخی هواپیماها نیز از ساحل غربی به هاوایی رفتند."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
-   "published": "2026-11-14T02:22:25+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+   "published": "2026-11-15T08:00:00+00:00",
    "title": {
-    "en": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
-    "fa": "دولت ترامپ به تأخیر انداختن اجرای الزامات کار پزشکی"
+    "en": "State Street, Pictet Call Time on Europe’s Stock Market Rally",
+    "fa": "خیابان ایالتی، Pictet Call Time در بازار سهام اروپا"
    },
    "summary": {
-    "en": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
-    "fa": "دولت فدرال برنامه ریزی کرده بود تا بزرگسالان فقیر را ملزم کند تا ثابت کنند که در حال کار یا از دست دادن بیمه هستند. ۱- حالا به دولت ها اجازه می دهد تا ژوئیه صبر کنند."
+    "en": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of outperformance is about to end.",
+    "fa": "برای هفته ها، سهام اروپا بازارهای دیگر را از بین می برد و به همان اندازه که تبلیغات هوش مصنوعی در جای دیگر به معیارهای بالا رفته اند، بالاتر می رود. در حال حاضر، برخی از سرمایه گذاران و استراتژیست ها می گویند که کشش نادر از عملکرد در حال پایان است."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/china-railways-set-record-with-4-13-billion-trips-in-10-months",
-   "published": "2026-11-14T02:04:53+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/ecb-can-t-substitute-sound-fiscal-policy-knot-tells-corriere",
+   "published": "2026-11-15T07:58:02+00:00",
    "title": {
-    "en": "China Railways Set Record With 4.13 Billion Trips in 10 Months",
-    "fa": "راه آهن چین با 4.13 میلیارد سفر در 10 ماه"
+    "en": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere",
+    "fa": "ECB نمی تواند سیاست مالی صحیح را جایگزین کند، Knot Tells Corriere"
    },
    "summary": {
-    "en": "China’s railways carried 4.13 billion passengers in the first 10 months of 2026, up 4.7% from a year earlier, according to the Ministry of Transport.",
-    "fa": "راه آهن چین ۴۱۳ میلیارد مسافر را در ۱۰ ماه اول ۲۰۲۶ حمل کرد که از یک سال قبل به گفته وزارت حمل و نقل، ۴٫۷ درصد بود."
+    "en": "The European Central Bank’s tools to stabilize sovereign debt markets can’t replace responsible management of public finances, according to Klaas Knot, who’s in the running to become the institution’s next president.",
+    "fa": "ابزار بانک مرکزی اروپا برای تثبیت بازارهای بدهی مستقل نمی تواند جایگزین مدیریت مسئول امور مالی عمومی شود، طبق گفته Klaas Knot، که در حال اجرا برای تبدیل شدن به رئیس جمهور بعدی موسسه است."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-   "published": "2026-11-14T00:53:52+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/14/world/asia/eurovision-asia-politics.html",
+   "published": "2026-11-15T03:49:51+00:00",
    "title": {
-    "en": "SpaceX Starship megarocket blasts off before expected return for reuse",
-    "fa": "انفجار Starship megarocket قبل از بازگشت انتظار برای استفاده مجدد"
+    "en": "Geopolitics Looms Over Eurovision, but Not Its Asian Edition",
+    "fa": "Geopolitics Looms over Eurovision، اما نه نسخه آسیایی آن"
    },
    "summary": {
-    "en": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a double catch of its…",
-    "fa": "انتظار می رود پرواز 15 حدود 14 بار در طول 22 ساعت به مدار زمین برسد، قبل از اینکه شرکت آن را در Starbase، Starship Megarocket تگزاس اسپیس ایکس در روز جمعه از تگزاس منفجر شد، زیرا شرکت هوافضای تلاش کرد تا تاریخ را با دو برابر شدن آن به دست آورد."
+    "en": "So far, the contest’s organizers have kept politics offstage. The European edition shows how difficult that can be.",
+    "fa": "تا کنون، سازمان دهندگان این مسابقه سیاست را از صحنه خارج کرده اند. نسخه اروپایی نشان می دهد که چقدر دشوار است."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
-   "published": "2026-11-14T00:40:29+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/business/airlines/hear-how-the-faas-ground-stop-unfolded-2ed47ac3?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-15T02:53:00+00:00",
    "title": {
-    "en": "Despite Nvidia’s Drop, Stocks Push Ahead",
-    "fa": "با وجود Drop Nvidia، Stocks Push Ahead"
+    "en": "Hear How the FAA’s Ground Stop Unfolded",
+    "fa": "دانلود آهنگ زیبای The FAA Stop Unfolded"
    },
    "summary": {
-    "en": "A drop in Nvidia shares after the ouster of the company’s chief executive has not spread to the rest of the market, as stocks have held their ground broadly.",
-    "fa": "افت سهام Nvidia پس از برکناری مدیر ارشد شرکت به بقیه بازار گسترش نیافته است، زیرا سهام زمین خود را به طور گسترده ای نگه داشته است."
+    "en": "Air traffic across the country came to an abrupt halt Friday. Radio broadcasts and messages between airline control rooms and pilots indicate how the industry navigated the crisis.",
+    "fa": "ترافیک هوایی در سراسر کشور روز جمعه متوقف شد. پخش رادیو و پیام بین اتاق های کنترل هواپیمایی و خلبانان نشان می دهد که صنعت چگونه به این بحران هدایت می کند."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-13T21:14:22+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-15T00:01:07+00:00",
    "title": {
-    "en": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-    "fa": "مایکروسافت \"به شدت متاسف\" برای قطع برق جهانی است زیرا گزارش می دهد که بهبودی گسترده ای دارد"
+    "en": "Beauty advent calendars can cost hundreds - but are they value for money?",
+    "fa": "تقویم های زیبایی می توانند صدها هزینه داشته باشند اما برای پول ارزش دارند؟"
    },
    "summary": {
-    "en": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    "fa": "کارشناسان می گویند این رویداد یک \"یادگیری ستاره\" است که جهان به شدت به یک گروه کوچک از ارائه دهندگان بزرگ فناوری متکی است."
+    "en": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+    "fa": "تقویم های زیبایی تبدیل به یک اصل کریسمس شده اند و به ویژه با خریداران زن محبوب شده اند."
    }
   },
   {
    "id": "ec9",
+   "section": "economy",
+   "source": "The Economist",
+   "link": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
+   "published": "2026-11-14T11:55:51+00:00",
+   "title": {
+    "en": "The Bottom Line newsletter: Nvidia will never be the same",
+    "fa": "خبرنامه خط پایین: Nvidia هرگز یکسان نخواهد بود"
+   },
+   "summary": {
+    "en": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
+    "fa": "Shailesh Chitnis، متخصص صنایع تراشه ما، نشان دهنده سقوط Jensen Huang"
+   }
+  },
+  {
+   "id": "ec10",
    "section": "economy",
    "source": "Deutsche Welle",
    "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-bus-2091-rdf",
@@ -355,153 +370,138 @@
    }
   },
   {
-   "id": "ec10",
-   "section": "economy",
-   "source": "The Economist",
-   "link": "https://www.economist.com/business/2026/11/12/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech",
-   "published": "2026-11-12T14:28:59+00:00",
-   "title": {
-    "en": "Jensen Huang is out. His successor has the toughest job in tech",
-    "fa": "Jensen Huang خارج است. جانشین او سخت ترین کار را در تکنولوژی دارد"
-   },
-   "summary": {
-    "en": "A company built around one man must now learn to run without him",
-    "fa": "یک شرکت ساخته شده در اطراف یک مرد باید یاد بگیرد که بدون او بدود"
-   }
-  },
-  {
    "id": "te11",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-   "published": "2026-11-14T02:33:35+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
+   "published": "2026-11-15T08:49:18+00:00",
    "title": {
-    "en": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-    "fa": "FAA توقف زمینی در سراسر کشور را که مسدود شده برای ساعت ها"
+    "en": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+    "fa": "امتیاز برتر کره در آزمون حسابداری مالیاتی به تقلب AI اعتراف می کند"
    },
    "summary": {
-    "en": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just…",
-    "fa": "خروج از فرودگاه ها در سراسر ایالات متحده به طور عمده در روز جمعه متوقف شد پس از اینکه FAA یک توقف زمینی ملی را در 3:44PM ET \"به دلیل شرایط فوق العاده و به دلایل ایمنی\" صادر کرد، در حالی که هواپیماهای موجود در هوا مجاز به فرود خواهند آمد. FAA توئیت کرد ..."
+    "en": "South Korea’s top scorer in national tax accountant qualification exams admitted that he used generative artificial intelligence and electronic devices to cheat in the tests, and has turned himself in to police.",
+    "fa": "امتیاز برتر کره جنوبی در امتحانات صلاحیت حسابدار ملی اذعان کرد که او از هوش مصنوعی و دستگاه های الکترونیکی عمومی برای تقلب در آزمایشات استفاده می کند و خود را به پلیس تبدیل کرده است."
    }
   },
   {
    "id": "te12",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/science/space-astronomy/spacex-launches-starship-on-ambitious-bid-to-catch-spacecraft-5c806c9b?mod=rss_Technology",
-   "published": "2026-11-14T01:19:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/carney-pledges-c-560-million-for-brazil-led-forest-project",
+   "published": "2026-11-15T05:30:12+00:00",
    "title": {
-    "en": "SpaceX’s Latest Starship Mission Hits Early Setback",
-    "fa": "آخرین ماموریت Starship Awards Early Setback"
+    "en": "Carney, Lula Forge Closer Ties With Forests Funding, Visits",
+    "fa": "Carney، Lula Forge نزدیک تر با صندوق جنگل، بازدید"
    },
    "summary": {
-    "en": "Elon Musk’s rocket company scrapped an attempt at retrieving the booster after an issue emerged early in the flight.",
-    "fa": "شرکت راکت ایلان ماسک تلاش برای تقویت کننده پس از یک مسئله در اوایل پرواز را متوقف کرد."
+    "en": "Canada’s Prime Minister Mark Carney and Brazil’s President Luiz Inacio Lula da Silva signaled closer ties on Sunday with funding to protect the world’s tropical forests and visits to each others’ countries.",
+    "fa": "نخست وزیر کانادا، مارک کارنی و رئیس جمهور برزیل Luiz Inacio Lula da سیلوا، روز یکشنبه با بودجه برای محافظت از جنگل های گرمسیری جهان و بازدید از کشورهای دیگر، روابط نزدیک تری برقرار کردند."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-14T01:00:00+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_Technology",
+   "published": "2026-11-15T02:00:00+00:00",
    "title": {
-    "en": "Tech Now",
-    "fa": "تکنولوژی Now"
+    "en": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+    "fa": "چگونه Jensen Huang ساخت جاده Backdoor که پکن را در مسابقه AI نگه می دارد"
    },
    "summary": {
-    "en": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-    "fa": "Yasmin Morgan-Griffiths به دنبال یک تیم تست سیستم های هشدار اولیه AI برای لغزش زمین است."
+    "en": "Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.",
+    "fa": "مراکز داده های گسترده در جنوب شرقی آسیا قدرت محاسباتی حیاتی برای شرکت های چینی و پوششی برای قاچاق تراشه های ادعا شده فراهم کردند."
    }
   },
   {
    "id": "te14",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-   "published": "2026-11-14T00:49:13+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_Technology",
+   "published": "2026-11-15T02:00:00+00:00",
    "title": {
-    "en": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-    "fa": "پرواز ستاره ای 15 قدرت به مدار - گرفتن یک ضربه احتمالی در روز شنبه"
+    "en": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+    "fa": "چگونه Jensen Huang ساخت جاده Backdoor که پکن را در مسابقه AI نگه می دارد"
    },
    "summary": {
-    "en": "One way or another, the company will get some more data on Saturday.",
-    "fa": "یک راه یا دیگری، این شرکت در روز شنبه اطلاعات بیشتری دریافت خواهد کرد."
+    "en": "Massive data centers in Southeast Asia provided crucial computing power for Chinese companies and a cover for alleged chip smuggling.",
+    "fa": "مراکز داده های گسترده در جنوب شرقی آسیا قدرت محاسباتی حیاتی برای شرکت های چینی و پوششی برای قاچاق تراشه های ادعا شده فراهم کردند."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-14T00:37:01+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+   "published": "2026-11-15T00:40:59+00:00",
    "title": {
-    "en": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-    "fa": "حتی سازندگان اصلی Theft Auto نیز قادر به بازی GTA 6 نیستند."
+    "en": "With Starship catch, SpaceX still shows it can dazzle the world",
+    "fa": "با Starship گرفتن، اسپیس ایکس هنوز نشان می دهد که می تواند جهان را خراب کند"
    },
    "summary": {
-    "en": "The next title in the series is expected to be the biggest video game release ever.",
-    "fa": "عنوان بعدی در این سری انتظار می رود بزرگترین انتشار بازی های ویدئویی باشد."
+    "en": "It felt like stepping into the future.",
+    "fa": "احساس می کرد در آینده قدم می زند."
    }
   },
   {
    "id": "te16",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
-   "published": "2026-11-14T00:34:34+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+   "published": "2026-11-14T23:25:09+00:00",
    "title": {
-    "en": "White House Urges Easing Liability to Encourage AI Disclosure",
-    "fa": "کاخ سفید مسئولیت تشویق AI Disclosure را تشویق می کند"
+    "en": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+    "fa": "جنسن هوانگ بیش از یک سال راز داشت. او به سقوط او می پردازد."
    },
    "summary": {
-    "en": "At a White House meeting on Thursday, officials from President Donald Trump’s artificial intelligence task force recommended that agencies ease their cyber liability policies in an effort to incentivize AI companies to report critical incidents.",
-    "fa": "در جلسه کاخ سفید روز پنجشنبه، مقامات از نیروی کار هوش مصنوعی دونالد ترامپ توصیه کردند که سازمان ها سیاست های مسئولیت سایبری خود را در تلاش برای تشویق شرکت های AI برای گزارش حوادث بحرانی کاهش دهند."
+    "en": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+    "fa": "رهبر Nvidia گفت که رابطه او با یک مشتری زن در مورد کسب و کار است. اما آنچه در نهایت پنهان می کرد منجر به استعفای او از شرکتی شد که او ایجاد کرد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/telecom/the-chaos-and-unexpected-joys-of-a-19-hour-global-email-outage-37b7170c?mod=rss_Technology",
-   "published": "2026-11-14T00:04:00+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+   "published": "2026-11-14T21:44:44+00:00",
    "title": {
-    "en": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-    "fa": "هرج و مرج و شادی های غیر منتظره از یک ایمیل جهانی 19-Hour"
+    "en": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "fa": "Watch SpaceX با موفقیت اولین \"chopstick\" را اجرا می کند"
    },
    "summary": {
-    "en": "It was the workplace equivalent of a snow day, pushing some to frustration, some to the telephone. One man built bookshelves.",
-    "fa": "این معادل محل کار یک روز برف بود و برخی را به ناامیدی، برخی به تلفن فشار داد. یک مرد کتابخانه ها را ساخت."
+    "en": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first…",
+    "fa": "پس از اتمام یک جلسه برنامه ریزی شده از تقویت کننده پرواز ستاره ای، اسپیس ایکس موفق شد Starship را با پرتاب \"Mechazilla\" و گرفتن برج برای اولین بار به دست آورد. این شرکت پیش از این \"chopstick\" را انجام داده است، اما این اولین ..."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-   "published": "2026-11-13T23:49:11+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-14T18:28:06+00:00",
    "title": {
-    "en": "Amazon has a plan to index the world’s online shopping data",
-    "fa": "آمازون برنامه ای برای فهرست داده های خرید آنلاین جهان دارد"
+    "en": "Italy fines Meta €805m over accessing users' photos",
+    "fa": "ایتالیا متا € 805m را برای دسترسی به عکس های کاربران جریمه می کند"
    },
    "summary": {
-    "en": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant…",
-    "fa": "آمازون قصد دارد یک گنجینه از داده ها را در هر محصول فروخته شده در هر نقطه از اینترنت، حتی محصولاتی که آمازون به فروش نمی رساند، ایجاد کند و اطلاعات موجود را از طریق سایت خود، با توجه به رویترز. این پروژه به نام “شاخص محصول جهانی” نامگذاری شده است."
+    "en": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+    "fa": "غول رسانه های اجتماعی متهم به اطلاع رسانی به ۲۰ میلیون کاربر است که به عکس های آنها دسترسی دارد."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-   "published": "2026-11-13T23:20:11+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+   "published": "2026-11-14T12:15:48+00:00",
    "title": {
-    "en": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
-    "fa": "چرا Dario Amodei Anthropic از OpenAI و دیگر A.I. Peers عصبانی شده است"
+    "en": "James Webb telescope finds ice older than the star it orbits",
+    "fa": "تلسکوپ جیمز وب، یخ را قدیمی تر از ستاره ای که در مدار قرار دارد، پیدا می کند"
    },
    "summary": {
-    "en": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
-    "fa": "Dario Amodei، مدیر ارشد شرکت، به طور علنی در مورد خطرات هوش مصنوعی نگران است و دشمنان همتایان خود را در طول راه ساخته است."
+    "en": "Radiation and collisions reshape the planetary building materials.",
+    "fa": "تابش و برخورد مواد ساختمانی سیاره ای را تغییر می دهد."
    }
   },
   {
@@ -522,91 +522,91 @@
   {
    "id": "ma21",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/13/nvidia-super-micro-jensen-huang-friend-never-megaspeed/",
-   "published": "2026-11-13T23:48:45+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91642012/the-chip-war-never-ended",
+   "published": "2026-11-15T09:00:00+00:00",
    "title": {
-    "en": "Super Micro, run by Jensen Huang’s friend, says Megaspeed was ‘never’ its customer",
-    "fa": "Super Micro، که توسط دوست Jensen Huang اداره می شود، می گوید که Mega Speed مشتری آن است."
+    "en": "The chip war never ended",
+    "fa": "جنگ تراشه هرگز به پایان نرسید"
    },
    "summary": {
-    "en": "The hardware maker also pushed back on authorities in Singapore, who claimed the company had offered “limited” cooperation.",
-    "fa": "سازنده سخت افزار همچنین به مقامات سنگاپور که ادعا می کردند این شرکت همکاری محدود ارائه داده است، فشار آورد."
+    "en": "It’s no secret that the world runs on computer chips. This became clear during the pandemic, when a race for even basic chips needed to operate cars and other devices set back manufacturing timelines across the world. Beltway policymakers are reminded of just…",
+    "fa": "این راز نیست که جهان بر روی تراشه های کامپیوتری اجرا می شود. این در طول همه گیر روشن شد، زمانی که مسابقه ای برای حتی تراشه های پایه ای مورد نیاز برای کار اتومبیل ها و سایر دستگاه ها زمان بندی تولید را در سراسر جهان تنظیم کرد. به سیاست گذاران کمربند فقط یادآوری می شود ..."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/13/faa-ground-us-airports-european-airlines-bomb-threats/",
-   "published": "2026-11-13T23:34:30+00:00",
+   "link": "https://fortune.com/2026/11/15/otter-ai-millionaire-ceo-sam-liang-millionaire-ai-notetaker-arnold-schwarzenegger-smoothie-china-american-dream-frugal-routine/",
+   "published": "2026-11-15T09:00:00+00:00",
    "title": {
-    "en": "Travel chaos worsens as communications problem causes ground stop at all U.S. airports while European airlines reel from wave of bomb threats",
-    "fa": "هرج و مرج سفر به عنوان مشکل ارتباطات باعث توقف زمین در تمام فرودگاه های ایالات متحده در حالی که خطوط هوایی اروپا از موج تهدیدات بمب"
+    "en": "Otter.ai’s CEO grew up with rationed food in China—now his AI startup makes $100 million a year, and he runs on Arnold Schwarzenegger’s smoothie daily",
+    "fa": "مدیر عامل Otter.ai با مواد غذایی نسبت یافته در چین رشد کرد - در حال حاضر استارت آپ AI او 100 میلیون دلار در سال تولید می کند و او در لباس روزانه آرنولد Schwarzenegger اجرا می شود."
    },
    "summary": {
-    "en": "Transportation Secretary Sean Duffy blamed a communication issue impacting all Air Route Traffic Control Centers.",
-    "fa": "شان دافی، وزیر حمل و نقل، یک مسئله ارتباطی را که بر همه مراکز کنترل ترافیک هوایی تاثیر می گذارد، مقصر دانست."
+    "en": "Otter.ai’s Sam Liang left China for the American Dream but struggled with English. Taping lectures on a Walkman sparked the idea that made him a millionaire.",
+    "fa": "سام لیانگ (Otter.ai) چین را برای رویای آمریکایی ترک کرد اما با انگلیسی مبارزه کرد. ضربه زدن به سخنرانی ها در یک واکر ایده ای را ایجاد کرد که او را میلیونر کرد."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642317/apple-tv-has-a-new-asl-feature-offering-a-richer-language-experience-beyond-captions",
-   "published": "2026-11-13T22:45:00+00:00",
+   "link": "https://www.fastcompany.com/91642226/new-york-city-run-groceries-debate",
+   "published": "2026-11-15T09:00:00+00:00",
    "title": {
-    "en": "Apple TV has a new ASL feature, offering a richer language experience beyond captions",
-    "fa": "Apple TV دارای ویژگی ASL جدید است که تجربه زبان غنی تر را فراتر از زیرنویس ارائه می دهد."
+    "en": "Why New York City’s grocery store plan is not just about food",
+    "fa": "چرا طرح فروشگاه مواد غذایی شهر نیویورک فقط در مورد غذا نیست"
    },
    "summary": {
-    "en": "Apple introduced a new sign language interpretation feature on Friday, alongside the premiere of the Apple TV movie Being Heumann . The feature, designed with native signers, offers a visual of a person on the screen. Rather than replacing captions as an…",
-    "fa": "اپل یک ویژگی جدید ترجمه زبان را در روز جمعه معرفی کرد، در کنار اولین فیلم تلویزیونی اپل Heumann. ویژگی، طراحی شده با نشانه های بومی، ارائه می دهد بصری از یک فرد بر روی صفحه نمایش. به جای جایگزین کردن زیرنویس ها به عنوان یک ..."
+    "en": "New York City is moving closer to launching its effort to counter food inflation by opening five city-run grocery stores. Mayor Zohran Mamdani announced in May 2026 that the first store would open in the Hunts Point neighborhood of the South Bronx in 2027…",
+    "fa": "شهر نیویورک به تلاش خود برای مقابله با تورم غذایی با باز کردن پنج فروشگاه مواد غذایی شهری نزدیک تر می شود. شهردار Zohran Mamdani در ماه می 2026 اعلام کرد که اولین فروشگاه در محله نقطه Hunts در جنوب Bronx در سال 2027 افتتاح خواهد شد."
    }
   },
   {
    "id": "ma24",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642564/faa-grounds-all-flights-in-us-until-further-notice-reports-cite-air-traffic-control-atc-outage",
-   "published": "2026-11-13T22:16:52+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/15/son-alamo-rent-car-hip-hop-label-lithium-leader-white-house/",
+   "published": "2026-11-15T08:05:00+00:00",
    "title": {
-    "en": "FAA grounds all flights in the U.S. until further notice: Reports cite air traffic control outage",
-    "fa": "FAA تمام پروازهای ایالات متحده را تا زمانی که بیشتر متوجه شوید: گزارش ها حاکی از قطع ترافیک هوایی هستند"
+    "en": "Son of ex-Alamo Rent a Car owner went from hip hop label founder to lithium leader. He’s even eyeing the White House",
+    "fa": "پسر سابق آلامو اجاره یک صاحب خودرو از بنیانگذار برچسب هیپ هاپ به رهبر لیتیوم رفت. او حتی به کاخ سفید نگاه می کند"
    },
    "summary": {
-    "en": "In a rare move, the Federal Aviation Administration said Friday that it was grounding all flights in the United States from departing “due to extraordinary circumstances and for reasons of safety . . . until further notice,” according to NBC News. The FAA…",
-    "fa": "در یک حرکت نادر، اداره هوانوردی فدرال روز جمعه اعلام کرد که تمام پروازهای ایالات متحده را از رفتن به \"به دلیل شرایط فوق العاده و به دلایل ایمنی، تا زمان اطلاع بیشتر\" بر اساس اخبار NBC، رد می کند. FAA ..."
+    "en": "The brash EnergyX aims to expand into the world's largest lithium producer with major hubs in the U.S. and South America.",
+    "fa": "انرژی X با هدف گسترش به بزرگترین تولید کننده لیتیوم جهان با قطب های اصلی در ایالات متحده و آمریکای جنوبی است."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/13/chinese-companies-are-born-to-make-money-kai-fu-lee-former-google-china-president-3-myths-about-china-ai-race/",
-   "published": "2026-11-13T21:53:59+00:00",
+   "link": "https://fortune.com/2026/11/14/federal-reserve-inflation-forever-war-iran-oil-prices-diesel-fed-rate-hikes/",
+   "published": "2026-11-14T23:31:14+00:00",
    "title": {
-    "en": "‘Chinese companies are born to make money’: AI pioneer Kai-Fu Lee on the 3 biggest myths about China’s AI race efforts",
-    "fa": "شرکت های چینی برای کسب درآمد به دنیا می آیند: پیشگام هوش مصنوعی Kai-Fu Lee در سه بزرگترین اسطوره در مورد تلاش های نژاد AI چین"
+    "en": "The Fed’s battle against inflation risks turning into a forever war—and may last as long as Operation Iraqi Freedom while Iran ‘status quo’ drags on",
+    "fa": "نبرد فدرال در برابر خطرات تورم که برای همیشه به جنگ تبدیل می شود و ممکن است تا زمانی که عملیات آزادی عراق در حالی که ایران \"وضعیت فعلی\" ادامه دارد، ادامه یابد."
    },
    "summary": {
-    "en": "Former Google China president Kai-Fu Lee says the U.S. misunderstands what drives China's AI companies, from profits to open-source models.",
-    "fa": "رئیس جمهور سابق گوگل چین کای-Fu Lee می گوید که ایالات متحده به اشتباه درک می کند که چه چیزی شرکت های AI چین را از سود برای مدل های منبع باز هدایت می کند."
+    "en": "“We’ve been above 2% for almost six years, and while it sometimes we were making progress, lately we’re not making any progress, and if anything, it’s going the wrong way.”",
+    "fa": "ما تقریباً شش سال است که بیش از دو درصد بوده ایم و در حالی که گاهی پیشرفت می کنیم، به تازگی پیشرفتی را انجام نمی دهیم و اگر چیزی باشد، این کار به شیوه ای اشتباه پیش می رود.»"
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635146/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her",
-   "published": "2026-11-13T21:15:27+00:00",
+   "link": "https://www.fastcompany.com/91635595/the-most-important-shopper-of-the-future-isnt-human-ai-agents-shopping",
+   "published": "2026-11-14T16:24:11+00:00",
    "title": {
-    "en": "A remote employee refused 160 webcam photos a day. Her employer fired her",
-    "fa": "یک کارمند از راه دور روزانه ۱۶۰ عکس وب را رد کرد. کارفرمایش او را اخراج کرد"
+    "en": "The most important shopper of the future isn’t human",
+    "fa": "مهم ترین خریدار آینده انسان نیست"
    },
    "summary": {
-    "en": "Across the workforce, employer surveillance is growing increasingly common, even though it is widely disliked by employees. According to the American Psychological Association , employee monitoring increases workers’ stress and decreases their reported mental…",
-    "fa": "در سراسر نیروی کار، نظارت کارفرما به طور فزاینده ای رایج است، حتی اگر به طور گسترده ای توسط کارکنان دوست نداشته باشد. با توجه به انجمن روانشناسی آمریکا، نظارت کارکنان استرس کارکنان را افزایش می دهد و گزارش های ذهنی آنها را کاهش می دهد."
+    "en": "A shopper asks an AI assistant for sneakers for a 23-year-old. Another Googles a boutique hotel in Rome. Before either sees a picture of a shoe or a room, artificial intelligence has helped decide which brands deserve consideration. Mental availability is no…",
+    "fa": "یک خریدار از دستیار AI برای کفش های کتانی برای یک دختر 23 ساله سوال می کند. یک هتل بوتیک دیگر در رم قبل از اینکه یک عکس از یک کفش یا یک اتاق را ببینید، هوش مصنوعی به تصمیم گیری در مورد اینکه کدام برندها سزاوار توجه هستند، کمک کرده است. در دسترس بودن ذهنی نه ..."
    }
   },
   {
@@ -672,65 +672,80 @@
   {
    "id": "tr31",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-   "published": "2026-11-14T02:37:04+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
+   "published": "2026-11-15T08:34:46+00:00",
    "title": {
-    "en": "US aviation regulator lifts order that grounded thousands of flights",
-    "fa": "مقررات حمل و نقل هوایی آمریکا دستور داد که هزاران پرواز را پایه گذاری کند"
+    "en": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+    "fa": "مگا سرعت می گوید آلیس هوانگ در سال 2025 ترک کرد، زیرا تحقیقات داخلی را در مورد کسب و کار خود راه اندازی می کند."
    },
    "summary": {
-    "en": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
-    "fa": "فرودگاه ها به دلیل قطع موقت \"ارتباط\" متوقف شده بودند."
+    "en": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
+    "fa": "شرکت محاسبات ابری مستقر در سنگاپور از زمان گزارش های مرتبط با جنسن هوانگ Nvidia به مدیر اجرایی سابق مگا سرعت آلیس هوانگ، با بررسی دقیق مواجه شده است."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-   "published": "2026-11-14T02:33:48+00:00",
+   "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+   "published": "2026-11-15T06:00:01+00:00",
    "title": {
-    "en": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-    "fa": "FAA پس از چهار ساعت زمین را متوقف می کند، اما لغو پرواز به آخر هفته ادامه می یابد"
+    "en": "Could Budapest be the next digital nomad hotspot?",
+    "fa": "آیا بوداپست می تواند نقطه عطف دیجیتال بعدی باشد؟"
    },
    "summary": {
-    "en": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-    "fa": "اداره هوانوردی فدرال روز جمعه یک توقف زمینی در سراسر کشور صادر کرد و هزاران پرواز را مختل کرد."
+    "en": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+    "fa": "با ترکیبی از مناظر، کافه ها و فرهنگ، پایتخت مجارستان بوداپست با کسانی که در حال پذیرش روند \"کار از هر نقطه\" هستند، محبوب شده است."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "published": "2026-11-14T01:34:11+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+   "published": "2026-11-15T05:00:14+00:00",
    "title": {
-    "en": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    "fa": "ترامپ قصد ندارد تا Nvidia را افزایش دهد، مسئله جاسوسی در طول سفر چین: مقامات ایالات متحده"
+    "en": "What will Nvidia’s post-Huang era look like?",
+    "fa": "دوره پس از هونگ Nvidia چه خواهد بود؟"
    },
    "summary": {
-    "en": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-    "fa": "مدیر عامل Nvidia Jensen هوانگ این هفته پس از گزارش های مربوط به امور متعدد، از جمله یکی با جاسوسی چینی مشکوک، آلیس هوانگ، استعفا داد."
+    "en": "The chip company has only itself to blame for a long list of adversaries",
+    "fa": "شرکت چیپ فقط خودش را به خاطر یک لیست طولانی از دشمنان سرزنش می کند"
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
-   "published": "2026-11-14T01:28:36+00:00",
+   "link": "https://www.ft.com/content/f8a58159-463f-4b28-b83d-14b79cbd413b?syn-25a6b1a6=1",
+   "published": "2026-11-15T05:00:13+00:00",
    "title": {
-    "en": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
-    "fa": "ترامپ موضوع جاسوسی Nvidia را با شی در اجلاس بالا نخواهد برد، مقامات می گویند"
+    "en": "How Infantino flew his way out of a Fifa rebellion",
+    "fa": "چگونه کودکو راه خود را از یک شورش فیفا خارج کرد"
    },
    "summary": {
-    "en": "US president will hold trilateral meeting with Chinese leader and Russia’s Vladimir Putin next week",
-    "fa": "رئیس جمهور آمریکا نشست سه جانبه با رهبر چین و ولادیمیر پوتین روسیه در هفته آینده برگزار خواهد کرد"
+    "en": "Footballing president tours the world to shore up support for re-election after backlash to stake sale plan",
+    "fa": "رئیس جمهور فوتبال جهان را برای حمایت از انتخابات مجدد پس از واکنش به برنامه فروش سهام"
    }
   },
   {
    "id": "tr35",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "published": "2026-11-15T02:53:59+00:00",
+   "title": {
+    "en": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+    "fa": "توقف زمینی سراسری پس از ارتقاء پیمانکار به سیستم مخابراتی L3Harris: Duffy"
+   },
+   "summary": {
+    "en": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+    "fa": "توقف زمینی FAA پس از به روز رسانی به یک سیستم ارتباطی قدیمی که توسط L3Harris Technologies مدیریت شده بود، وزیر حمل و نقل شان دافی روز شنبه گفت."
+   }
+  },
+  {
+   "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/port-of-los-angeles-grapples-with-elevated-rail-dwell-times/874553/",
@@ -745,7 +760,7 @@
    }
   },
   {
-   "id": "tr36",
+   "id": "tr37",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/jd-sports-leverages-tech-for-faster-replenishment/874427/",
@@ -760,7 +775,7 @@
    }
   },
   {
-   "id": "tr37",
+   "id": "tr38",
    "section": "trade",
    "source": "World Trade Organization",
    "link": "https://www.wto.org/english/news_e/pres26_e/pr998_551_e.htm",
@@ -775,29 +790,14 @@
    }
   },
   {
-   "id": "tr38",
-   "section": "trade",
-   "source": "World Trade Organization",
-   "link": "https://www.wto.org/english/news_e/news26_e/safe_zaf_11nov26_546_e.htm",
-   "published": "2026-11-11T00:00:00+00:00",
-   "title": {
-    "en": "South Africa notifies launch of safeguard investigation into certain non-wired float glass products",
-    "fa": "آفریقای جنوبی راه اندازی تحقیقات حفاظتی در مورد محصولات شیشه ای بدون سیم را تایید نمی کند"
-   },
-   "summary": {
-    "en": "On 11 November 2026, South Africa notified the WTO’s Committee on Safeguards regarding the initiation on 3 November 2026 of a safeguard investigation into imports of certain non-wired float glass products.",
-    "fa": "در تاریخ 11 نوامبر 2026، آفریقای جنوبی به کمیته حفاظت از محیط زیست در مورد آغاز در تاریخ 3 نوامبر 2026 از تحقیقات حفاظتی در مورد واردات برخی از محصولات شیشه ای شناور غیر سیمی اطلاع داد."
-   }
-  },
-  {
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/travel-leisure/osaka-landmark-to-be-centerpiece-of-area-s-redevelopment",
+   "link": "https://asia.nikkei.com/business/business-trends/gaming-emerges-as-a-new-corporate-networking-tool-in-japan",
    "published": "",
    "title": {
-    "en": "Osaka landmark to be centerpiece of area's redevelopment",
-    "fa": "اوزاکا اشاره به مرکز توسعه مجدد منطقه"
+    "en": "Gaming emerges as a new corporate networking tool in Japan",
+    "fa": "بازی به عنوان یک ابزار جدید شبکه های شرکتی در ژاپن ظاهر می شود"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit",
+   "link": "https://asia.nikkei.com/economy/sri-lanka-reality-contrasts-with-new-world-bank-upper-middle-income-status",
    "published": "",
    "title": {
-    "en": "China sees Nvidia chief Huang's swift downfall as political hit",
-    "fa": "چین شاهد سقوط سریع ژنرال Nvidia به عنوان ضربه سیاسی است"
+    "en": "Sri Lanka reality contrasts with new World Bank upper-middle-income status",
+    "fa": "واقعیت سری لانکا با وضعیت درآمد متوسط بانک جهانی جدید"
    },
    "summary": {
     "en": "",
