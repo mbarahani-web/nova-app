@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T11:03:48+00:00",
- "date": "2026-11-17",
+ "generated_at": "2026-11-18T10:39:28+00:00",
+ "date": "2026-11-18",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -53,7 +53,7 @@
    "section": "economy",
    "source": "The Economist",
    "ok": true,
-   "count": 1,
+   "count": 3,
    "dropped": 0,
    "error": ""
   },
@@ -85,7 +85,7 @@
    "section": "economy",
    "source": "Deutsche Welle",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "dropped": 0,
    "error": ""
   },
@@ -223,394 +223,409 @@
    "id": "ec1",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/dodgers-owner-mark-walters-insurer-misses-target-to-reduce-affiliated-assets-249e32c5?mod=rss_markets_main",
-   "published": "2026-11-17T10:57:00+00:00",
+   "link": "https://www.wsj.com/world/europe/u-s-energy-chief-urges-western-europe-to-pivot-to-power-expansion-e75d8bfe?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-18T10:34:00+00:00",
    "title": {
-    "en": "Dodgers Owner Mark Walter’s Insurer Misses Target to Reduce Affiliated Assets",
-    "fa": "دوج مالک مارک والتر قصد کاهش دارایی های وابسته را دارند"
+    "en": "U.S. Energy Chief Urges Western Europe to Pivot to Power Expansion",
+    "fa": "رئیس انرژی آمریکا اروپا را به سمت پیشرفت قدرت سوق می دهد"
    },
    "summary": {
-    "en": "Delaware Life Insurance said the share of its holdings tied to Walter fell to 35% in the third quarter.",
-    "fa": "بیمه عمر دلاور گفت که سهم دارایی های آن به والتر در سه ماهه سوم به 35 درصد کاهش یافته است."
+    "en": "Western Europe has done too little to grow its energy resources—and needs an energy-addition mindset—according to U.S. Energy Secretary Chris Wright.",
+    "fa": "اروپای غربی برای رشد منابع انرژی خود خیلی کم تلاش کرده است و به ذهنیت اضافه انرژی نیاز دارد – طبق گفته کریس رایت وزیر انرژی آمریکا."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/articles/alice-huangs-husband-and-the-data-center-network-backed-by-china-20716aa4?mod=pls_whats_news_us_business_f",
-   "published": "2026-11-17T10:57:00+00:00",
+   "link": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+   "published": "2026-11-18T10:30:00+00:00",
    "title": {
-    "en": "Alice Huang’s Husband and the Data-Center Network Backed by China",
-    "fa": "همسر آلیس هوانگ و شبکه Data-Center توسط چین"
+    "en": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+    "fa": "اصول قوی Nvidia به یک مدیر عامل جدید ارائه می دهد"
    },
    "summary": {
-    "en": "Plus, Trump’s advisers are at war over China ahead of the Xi summit, and Fifth Avenue reclaims its crown as the world’s premier home to luxury retailers.",
-    "fa": "علاوه بر این، مشاوران ترامپ در حال جنگ بر سر چین پیش از نشست شی هستند و خیابان پنجم تاج خود را به عنوان خانه برتر جهان برای خرده فروشان لوکس بازسازی می کند."
+    "en": "The company inherits problems from Jensen Huang, and advantages.",
+    "fa": "این شرکت مشکلات را از جنسن هوانگ و مزایا به ارث می برد."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-17T10:49:58+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/live/2026/11/18/business/dealbook-summit-news/heres-the-latest-on-the-2026-dealbook-summit",
+   "published": "2026-11-18T10:25:35+00:00",
    "title": {
-    "en": "Immigration arrests after organised crime blitz",
-    "fa": "بازداشت مهاجرت پس از جرایم سازمان یافته"
+    "en": "Here’s the latest on the 2026 DealBook Summit.",
+    "fa": "در اینجا آخرین نشست 2026 DealBook است."
    },
    "summary": {
-    "en": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
-    "fa": "هجده نفر به خاطر طیف وسیعی از جرایم مشکوک از جمله برده داری مدرن دستگیر شدند."
+    "en": "",
+    "fa": ""
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
-   "published": "2026-11-17T10:49:56+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/18/business/dealbook/dealbook-summit-2026-speaker-lineup.html",
+   "published": "2026-11-18T10:25:35+00:00",
    "title": {
-    "en": "China vows to take ‘necessary measures’ against US AI chip restrictions, as investors brace for Nvidia’s results – business live",
-    "fa": "چین قول می دهد که \"اقدامات ضروری\" علیه محدودیت های تراشه هوش مصنوعی آمریکا انجام دهد، زیرا سرمایه گذاران برای نتایج Nvidia تلاش می کنند - کسب و کار زندگی می کند"
+    "en": "JD Vance, Elon Musk and Sam Altman Are in the DealBook Summit 2026 Lineup",
+    "fa": "JD Vance، Elon Musk و Sam Altman در اجلاس DealBook 2026 قرار دارند."
    },
    "summary": {
-    "en": "Rolling coverage of the latest economic and financial news Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen China has threatened to retaliate against the US after Washington tightened restrictions on remote access…",
-    "fa": "پوشش رولینگ از آخرین نشست های اقتصادی و مالی Apec و Asean زندگی می کند: اعتراضات منتظر ترامپ در مانیل است، زیرا Xi با رهبران شینزن چین تهدید به تلافی علیه ایالات متحده پس از واشنگتن محدودیت های دسترسی از راه دور."
+    "en": "Andrew Ross Sorkin will interview some of the most powerful people from Washington, Silicon Valley and Wall Street.",
+    "fa": "اندرو راس سورکین با برخی از قدرتمندترین افراد از واشنگتن، دره سیلیکون و وال استریت مصاحبه خواهد کرد."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/unicredit-sees-up-to-2-billion-value-from-generali-cooperation",
-   "published": "2026-11-17T10:38:08+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/business/live/2026/nov/18/uk-inflation-rises-higher-petrol-prices-nvidia-live-updates",
+   "published": "2026-11-18T10:24:53+00:00",
    "title": {
-    "en": "UniCredit Sees Up to €2 Billion Value from Generali Cooperation",
-    "fa": "Unicredit Sees تا 2 میلیارد یورو ارزش از همکاری عمومی"
+    "en": "UK inflation rises to highest level in a year on back of higher petrol and diesel prices – business live",
+    "fa": "تورم انگلستان در یک سال در پشت قیمت های بالاتر بنزین و دیزل به بالاترین سطح افزایش می یابد - کسب و کار زندگی می کند"
    },
    "summary": {
-    "en": "UniCredit SpA sees the potential to unlock €1.5 billion ($1.65 billion) to €2 billion of value through closer cooperation with Italian insurer Assicurazioni Generali SpA, Chief Executive Officer Andrea Orcel said.",
-    "fa": "Unicredit SpA پتانسیل باز کردن 1.5 میلیارد یورو ($1.65 میلیارد دلار) به 2 میلیارد یورو ارزش از طریق همکاری نزدیک تر با بیمه گران ایتالیایی Assicurazioni Generali SpA، مدیر اجرایی ارشد آندریاس Orcel گفت."
+    "en": "Inflation edged up to 3.6% as diesel costs hit record high, but food price inflation lowest in nearly five years as chocolate and butter prices fall Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding…",
+    "fa": "تورم تا 3.6% افزایش یافته است، زیرا هزینه های دیزل بالا است، اما تورم قیمت مواد غذایی در نزدیک به پنج سال کاهش می یابد زیرا شکلات و قیمت های کره کاهش می یابد و قوانین فروش خودروهای برقی بریتانیا احتمالا باعث می شود دولت از نظر قانونی الزام آور باشد."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-   "published": "2026-11-17T10:33:01+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/apollo-is-focused-on-investment-grade-de-giorgi-says-video",
+   "published": "2026-11-18T10:13:53+00:00",
    "title": {
-    "en": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-    "fa": "زنجیره سابق WH اسمیت TG Jones پس از بسته شدن 130 فروشگاه، فروش را آغاز کرد"
+    "en": "Apollo Is Focused on Investment Grade, De Giorgi Says",
+    "fa": "آپولو روی سطح سرمایه گذاری تمرکز می کند، De Giorgi می گوید"
    },
    "summary": {
-    "en": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain…",
-    "fa": "Projectla Capital در حراج خرده فروشی خیابانی بالا، که حدود 3500 نفر را استخدام می کند، سال آینده کسب و کار زندگی می کند - آخرین به روز رسانی مالک TG Jones در حال بررسی فروش بالقوه کمتر از 18 ماه پس از اتمام معامله برای خرید زنجیره خیابان بالا است."
+    "en": "Diego De Giorgi, partner and head of EMEA at Apollo Global Management, says the firm is focused on the global industrial renaissance and is particularly focused on investment-grade and the short end of curve. Speaking to Anna Edwards at Bloomberg's Global…",
+    "fa": "دیگو De Giorgi، شریک و رئیس EMEA در مدیریت جهانی آپولو، می گوید که این شرکت بر رنسانس صنعتی جهانی متمرکز است و به ویژه بر نرخ سرمایه گذاری و پایان کوتاه منحنی تمرکز دارد. صحبت با آنا ادواردز در جهان بلومبرگ"
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html",
-   "published": "2026-11-17T10:03:49+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T10:10:12+00:00",
    "title": {
-    "en": "As Trump and Xi Mingle, Their Governments Are Arming Up",
-    "fa": "به عنوان ترامپ و شی مینگل، دولت های آنها در حال افزایش هستند"
+    "en": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+    "fa": "پیش بینی می شود که قبض های انرژی سالانه ۴۴۳ پوند افزایش یابد، زیرا تورم انگلستان دوباره افزایش می یابد"
    },
    "summary": {
-    "en": "Public displays of friendship contrast with mounting trade and investment restrictions, highlighting the widening rift between the two economies.",
-    "fa": "نمایش عمومی روابط دوستانه با محدودیت های تجاری و سرمایه گذاری در حال افزایش، برجسته کردن شکاف گسترده بین دو اقتصاد."
+    "en": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
+    "fa": "تورم به احتمال زیاد در پیش بینی های تازه افزایش می یابد که قبض های انرژی خانگی در ماه ژانویه 26 درصد افزایش می یابد."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-17T09:15:38+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
+   "published": "2026-11-18T08:24:26+00:00",
    "title": {
-    "en": "Where has the most jobs for 16-24 year-olds? Use our look-up to find out",
-    "fa": "بیشترین شغل را برای ۱۶ تا ۲۴ سالگی در اختیار دارید؟ استفاده از نگاه ما برای پیدا کردن"
+    "en": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
+    "fa": "قبض های انرژی در بریتانیا پیش بینی می کنند که از ژانویه تا 26 درصد افزایش یابد."
    },
    "summary": {
-    "en": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-    "fa": "چند شغل وجود دارد که در آن زندگی می کنید و در کدام بخش ها احتمالاً باز می شوید؟"
+    "en": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill UK inflation rises to 3.6% after petrol and diesel prices hit record high Business live – latest updates Energy bills across Great Britain are predicted…",
+    "fa": "دولت تحت فشار برای کمک به خانواده ها به عنوان افزایش می تواند ۴۴۳ پوند به میانگین سالانه دو سوخت سالانه تورم بریتانیا به ۳٫۶٪ افزایش یابد پس از اینکه قیمت بنزین و دیزل به رکورد کسب و کار بالا رسید - آخرین به روز رسانی صورتحساب انرژی در سراسر بریتانیا پیش بینی می شود."
    }
   },
   {
    "id": "ec9",
    "section": "economy",
    "source": "The Economist",
-   "link": "https://www.economist.com/business/2026/11/16/trump-inc-is-in-free-fall",
-   "published": "2026-11-16T21:37:36+00:00",
+   "link": "https://www.economist.com/business/2026/11/18/nvidias-last-results-of-the-huang-era-cant-mask-its-problems",
+   "published": "2026-11-18T00:20:05+00:00",
    "title": {
-    "en": "Trump Inc is in free fall",
-    "fa": "شرکت ترامپ در سقوط آزاد"
+    "en": "Nvidia’s last results of the Huang era can’t mask its problems",
+    "fa": "آخرین نتایج Nvidia در عصر هوانگ نمی تواند مشکلات آن را پنهان کند"
    },
    "summary": {
-    "en": "Investors are souring on anything with ties to the president and his family",
-    "fa": "سرمایه گذاران هر چیزی را با روابط با رئیس جمهور و خانواده اش تقویت می کنند."
+    "en": "The extent of the damage will only become clear with time",
+    "fa": "میزان آسیب تنها با زمان مشخص خواهد شد"
    }
   },
   {
    "id": "ec10",
    "section": "economy",
    "source": "Deutsche Welle",
-   "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-bus-2091-rdf",
-   "published": "2026-11-13T12:27:00+00:00",
+   "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-11-17T14:53:00+00:00",
    "title": {
-    "en": "Is the AI bubble bursting just as Anthropic goes public?",
-    "fa": "آیا حباب هوش مصنوعی درست همانطور که Anthropic عمومی می شود، منفجر می شود؟"
+    "en": "Nvidia forms national security committee after Huang affair",
+    "fa": "Nvidia کمیته امنیت ملی را پس از رابطه هوانگ تشکیل می دهد"
    },
    "summary": {
-    "en": "The sharp sell-off in tech stocks after the US midterms has cast doubt on Anthropic's looming IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
-    "fa": "فروش شدید در سهام تکنولوژی پس از اواسط ایالات متحده شک در IPO قریب الوقوع Anthropic. با این حال، با صدها میلیارد دلار سرمایه گذاری، برخی فکر می کنند که حزب AI هنوز در نوسان کامل است."
+    "en": "Nvidia has created a board-level committee for national security and export control. This follows the resignation of CEO Jensen Huang over extramarital affairs, allegedly including one with a Chinese intelligence asset.",
+    "fa": "Nvidia یک کمیته سطح هیئت مدیره برای امنیت ملی و کنترل صادرات ایجاد کرده است. این به دنبال استعفای مدیر عامل Jensen Huang در امور اضافی زناشویی، ادعا می شود از جمله یکی با یک دارایی اطلاعاتی چینی است."
    }
   },
   {
    "id": "te11",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
-   "published": "2026-11-17T11:00:05+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/cybersecurity/outages-bug-patches-microsoft-faa-apple-nsa-5a0b1ea5?mod=rss_Technology",
+   "published": "2026-11-18T10:30:00+00:00",
    "title": {
-    "en": "AI Startup For Bankers Raises Funds at $1.5 Billion Value",
-    "fa": "راه اندازی AI برای بانکداران صندوق ها را با ارزش 1.5 میلیارد دلار افزایش می دهد"
+    "en": "What’s Behind the String of Tech Outages Disrupting Business and Travel",
+    "fa": "چه چیزی در پشت رشته Tech Outage Disrupting Business و Travel"
    },
    "summary": {
-    "en": "Model ML, a startup that builds artificial intelligence agents to handle rote tasks for bankers, consultants and investors, has raised fresh funding at a valuation of $1.5 billion, the company said in a statement on Tuesday.",
-    "fa": "مدل ML، یک استارت آپ که عوامل هوش مصنوعی را برای رسیدگی به وظایف فاسد برای بانکداران، مشاوران و سرمایه گذاران ایجاد می کند، بودجه تازه ای را در ارزیابی 1.5 میلیارد دلار افزایش داده است، این شرکت روز سه شنبه در بیانیه ای اعلام کرد."
+    "en": "As sophisticated AI tools find vulnerabilities in critical software, the patches to fix them are coming in fast…and messy.",
+    "fa": "به عنوان ابزار پیشرفته AI پیدا کردن آسیب پذیری در نرم افزار انتقادی، پچ ها برای تعمیر آنها سریع در حال آمدن هستند ... و آشفته."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-17/apple-watch-s-always-listening-ai-features-provide-little-value",
-   "published": "2026-11-17T10:45:38+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-18/pony-ai-s-sales-beat-estimates-as-robotaxi-business-expands",
+   "published": "2026-11-18T09:39:29+00:00",
    "title": {
-    "en": "Apple Watch’s Always-Listening AI Features Provide Little Value",
-    "fa": "ویژگی های همیشه گوش دادن اپل واچ ارائه ارزش کمی"
+    "en": "Pony AI’s Sales Beat Estimates as Robotaxi Business Expands",
+    "fa": "برآورد فروش PAI به عنوان Robotaxi Business گسترش می یابد"
    },
    "summary": {
-    "en": "Your Apple Watch is listening. But it’s not always nailing exactly what you said. Natalie Lung gave her watch access to her every day conversations for a week and has thoughts about the usefulness of the function (Source: Bloomberg)",
-    "fa": "Apple Watch شما گوش می دهد. اما این همیشه دقیقا همان چیزی نیست که شما گفته اید. ناتالی هر روز به مدت یک هفته به او دسترسی پیدا کرد و در مورد سودمند بودن عملکرد (منبع: بلومبرگ) فکر می کند."
+    "en": "Pony AI Inc.’s third-quarter revenue topped estimates as the firm’s rapid expansion of high-margin robotaxi services continued, though growth for that business has slowed from previous quarters.",
+    "fa": "درآمد سه ماهه سوم شرکت هوش مصنوعی به عنوان توسعه سریع شرکت خدمات رباتی با قدمت بالا ادامه یافت، اگرچه رشد آن کسب و کار از محله های قبلی کند شده است."
    }
   },
   {
    "id": "te13",
    "section": "tech",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-17T10:22:09+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T09:28:35+00:00",
    "title": {
-    "en": "How new US chip restrictions on South East Asia will hit China",
-    "fa": "چگونه محدودیت های جدید تراشه آمریکا در جنوب شرق آسیا به چین ضربه خواهد زد"
+    "en": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "fa": "هکر بریتانیایی که 11 میلیون دلار را از طریق طرح پیام متنی به سرقت برد، به مدت شش سال در آمریکا زندانی شد"
    },
    "summary": {
-    "en": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-    "fa": "قوانین جدید صادرات تراشه را محدود می کنند و همچنین به قدرت محاسباتی خود دسترسی دارند که چین به شدت به آن متکی است."
+    "en": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+    "fa": "تایلر بوکان، از داند، عضو گروه عنکبوتی بدنام Scattered بود و شروع به هک شدن زمانی که او یک نوجوان بود."
    }
   },
   {
    "id": "te14",
    "section": "tech",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-17T09:41:07+00:00",
+   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-18T08:47:06+00:00",
    "title": {
-    "en": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-    "fa": "ما یک جامعه سرمایه داری هستیم: Greenr از 120 دلار در ماه دفاع می کند"
+    "en": "Security flaw found in Java, world's third-largest programming language",
+    "fa": "نقص امنیتی در جاوا، سومین زبان برنامه نویسی بزرگ جهان"
    },
    "summary": {
-    "en": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-    "fa": "این می گوید که خدمات فوق العاده پیش بینی شده برای یک جامعه کوچک از کاربران در نظر گرفته شده است و می تواند در آینده گران تر شود."
+    "en": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+    "fa": "همان استارت آپ تکنولوژی که یک نقص PHP را کشف کرد، از AI برای کشف یک مشکل نرم افزار حیاتی در یکی از محبوب ترین برنامه های زبان کامپیوتر جهان استفاده کرد."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/business/how-nvidias-board-made-billions-while-overseeing-the-company-0473818c?mod=rss_Technology",
-   "published": "2026-11-17T03:14:00+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-18/apax-sees-growing-split-in-credit-markets-from-ai-video",
+   "published": "2026-11-18T08:39:48+00:00",
    "title": {
-    "en": "How Nvidia’s Board Made Billions While Overseeing the Company",
-    "fa": "چگونه هیئت مدیره Nvidia میلیاردها دلار درآمد در حالی که شرکت را بیش از حد می بیند"
+    "en": "Apax Sees Growing Split in Credit Markets From AI",
+    "fa": "Apax Sees در حال رشد در بازارهای اعتباری از AI"
    },
    "summary": {
-    "en": "Unusually long tenures and a stock surge have fueled windfalls for its directors.",
-    "fa": "معمولاً دوره های طولانی و افزایش سهام برای مدیران خود باد را تقویت کرده اند."
+    "en": "\"What is becoming more obvious is that there is a real bifurcation between the credits that are impacted by potential AI disruption, and the ones who's cashflows are going to be resilient irrespective of what's happening in that AI cycle,\" says Apax Partners…",
+    "fa": "\"آنچه واضح تر می شود این است که بین اعتباراتی که تحت تاثیر اختلال هوش مصنوعی بالقوه قرار می گیرند، یک دوگانگی واقعی وجود دارد و آنهایی که جریان پول نقد هستند بدون توجه به آنچه در چرخه AI اتفاق می افتد، انعطاف پذیر خواهند بود.\""
    }
   },
   {
    "id": "te16",
    "section": "tech",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/world/china/alice-huangs-husband-built-a-data-center-empire-backed-by-the-chinese-state-78389c9a?mod=rss_Technology",
-   "published": "2026-11-17T02:22:00+00:00",
+   "link": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303?mod=rss_Technology",
+   "published": "2026-11-18T02:54:00+00:00",
    "title": {
-    "en": "Alice Huang’s Husband Built a Data-Center Empire Backed by the Chinese State",
-    "fa": "شوهر آلیس هوانگ یک امپراتوری Data-Center را توسط دولت چین بازسازی کرد"
+    "en": "Nvidia Reports Faster Growth, Says Jensen Huang Won’t Return as CEO",
+    "fa": "Nvidia گزارش های سریع تر رشد، می گوید که Jensen Huang به عنوان مدیر عامل بازگشت نخواهد کرد"
    },
    "summary": {
-    "en": "Kang Wei developed the business while his wife was involved with Nvidia’s then-CEO.",
-    "fa": "کانگ وی کسب و کار را توسعه داد در حالی که همسرش با شرکت Nvidia در آن زمان-CEO درگیر بود."
+    "en": "In her first earnings call as interim CEO, Colette Kress faced questions over the chipmaker’s future without its longtime leader.",
+    "fa": "در اولین درآمد خود را به عنوان مدیر عامل موقت، کلمبت Kress با سوالات در مورد آینده تراشه ساز بدون رهبر بلند مدت آن مواجه شد."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-   "published": "2026-11-17T02:15:57+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "published": "2026-11-18T01:48:18+00:00",
    "title": {
-    "en": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-    "fa": "مدیسون هوانگ، دختر جنسن هوانگ، در Nvidia یک نیروی قدرتمند شد"
+    "en": "Satya Nadella says he’s AGI-pilled now",
+    "fa": "Satya Nadella می گوید که او اکنون AGI-pilled است"
    },
    "summary": {
-    "en": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
-    "fa": "نصب شده به عنوان رئیس غیر واقعی پدرش از کارکنان، دختر جنسن هوانگ مدیران ارشد بیگانه شده است. در حال حاضر نقش او یک آزمون برای C.E.O. Colette Kress است."
+    "en": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the…",
+    "fa": "مدیر عامل مایکروسافت، ساتیا نادلا می گوید که او AGI-pilled است، حداقل زمانی که به چگونگی تغییرات هوش مصنوعی در ساختار اقتصاد و چگونگی تغییر سیاست به دلیل آن می پردازد. به این معنا که در سطح اقتصاد، چه چیزی است ..."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-   "published": "2026-11-17T01:02:40+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "published": "2026-11-18T00:27:29+00:00",
    "title": {
-    "en": "United Airlines system outage disrupts departures just days after the big ground stop",
-    "fa": "قطع برق سیستم خطوط هوایی ایالات متحده تنها چند روز پس از توقف زمین بزرگ"
+    "en": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "fa": "Copilot \"سیستم عامل جدید برای کار\" است و اکنون Office در داخل آن اجرا می شود."
    },
    "summary": {
-    "en": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said the problem has been fixed: Earlier…",
-    "fa": "کمتر از یک هفته پس از یک موضوع با ارتباطات کنترل ترافیک هوایی و رادار باعث شد FAA متوقف شود تا در سراسر کشور متوقف شود، خطوط هوایی ایالات متحده پرواز را ترک می کنند توسط قطع برق مختل می شوند. در ساعت 6:13 بعد از ظهر, ایالات متحده گفت که مشکل ثابت شده است: پیش از این..."
+    "en": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+    "fa": "Word، اکسل و پاورپوینت در حال حاضر در داخل Copilot زندگی می کنند؛ عوامل همیشه بعدی هستند."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-   "published": "2026-11-16T22:58:27+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
+   "published": "2026-11-17T23:48:31+00:00",
    "title": {
-    "en": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-    "fa": "استارت آپ Robo-soldier که توسط Eric Trump پشتیبانی می شود، ممکن است سقوط کند"
+    "en": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+    "fa": "جنسن هوانگ می گوید که اگر از مدیر عامل Nvidia سوال شود، به عنوان مدیر عامل بازگشت می کند."
    },
    "summary": {
-    "en": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-    "fa": "استارت آپ روباتیک یک سال پس از استفاده از بودجه برای خانه لوکس، حقوق و دستمزد را از دست می دهد."
+    "en": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.",
+    "fa": "آقای هوانگ هفته گذشته به عنوان مدیر ارشد شرکت استعفا داد و فاش کرد که او با یک کارمند و یک زن مرتبط با هوش چینی رابطه دارد."
    }
   },
   {
    "id": "te20",
    "section": "tech",
    "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-   "published": "2026-11-16T18:38:47+00:00",
+   "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+   "published": "2026-11-17T18:46:47+00:00",
    "title": {
-    "en": "The open-source movement wants Jensen Huang back",
-    "fa": "جنبش منبع باز می خواهد Jensen Huang برگردد"
+    "en": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "fa": "Roundtables: در داخل تلاش برای جاودانگی شناختی"
    },
    "summary": {
-    "en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it…",
-    "fa": "این داستان در ابتدا در الگوریتم، خبرنامه هفتگی ما در AI ظاهر شد. برای دریافت داستان هایی مانند این در جعبه اول خود، اینجا را ثبت کنید. در روز جمعه، یک درخواست برای بازگرداندن جنسن هوانگ به عنوان مدیر عامل Nvidia شروع به گردش در رسانه های اجتماعی و دوشنبه آن کرد."
+    "en": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine…",
+    "fa": "گوش دادن به جلسه یا ساعت زیر در تلاش برای دستیابی به تداوم گریزناپذیری از خود، برخی از تکنسین های به دور فکر در حال کار بر روی راه هایی برای ادامه حرکت مغز شما هستند – حتی فراتر از مرگ. سردبیر علوم ماری بث Griggs و سردبیر ارشد بیوشیمی ..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91641387/the-young-rebel-alliance-trying-to-get-people-to-love-technology-again",
-   "published": "2026-11-17T10:00:00+00:00",
+   "link": "https://www.fastcompany.com/91642361/jeff-bezoss-41-billion-ai-startup-prometheus-is-shrouded-in-secrecy-we-found-out-whos-building-it",
+   "published": "2026-11-18T10:00:00+00:00",
    "title": {
-    "en": "The young rebel alliance trying to get people to love technology again",
-    "fa": "اتحاد جوان شورشی که سعی دارد مردم را دوباره عاشق تکنولوژی کند"
+    "en": "Jeff Bezos’s $41 billion AI startup Prometheus is shrouded in secrecy. We found out who’s building it",
+    "fa": "راه اندازی ۴۱ میلیارد دلاری Jeff Bezos در زمینه ی هوش مصنوعی، به صورت محرمانه ای پوشیده شده است. ما متوجه شدیم که چه کسی آن را می سازد"
    },
    "summary": {
-    "en": "In a spare and cavernous former eyewear emporium near the luxury stores of San Francisco’s Union Square, a motley group of tech devices is spread out across display counters and pedestals. One is a desktop computer shaped like a cartoon frog. Another is an…",
-    "fa": "در یک استخر سابق و غارنشین در نزدیکی فروشگاه های لوکس میدان اتحادیه سان فرانسیسکو، یک گروه غول پیکر از دستگاه های فن آوری در سراسر شمارنده های نمایش و پدال گسترش یافته است. یک کامپیوتر رومیزی مانند یک قورباغه کارتونی است. دیگری یک ..."
+    "en": "For many in the tech industry, physical AI is the next world to conquer. While developers of large language models like OpenAI and Anthropic seek to push reasoning models distilled on billions of streams of text to their limits, an emerging crop of companies…",
+    "fa": "برای بسیاری در صنعت فناوری، هوش مصنوعی فیزیکی جهان بعدی برای فتح است. در حالی که توسعه دهندگان مدل های زبان بزرگ مانند OpenAI و Anthropic به دنبال فشار مدل های استدلال در میلیاردها جریان متن به محدودیت های خود، یک محصول نوظهور از شرکت ها."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642247/fema-has-a-cord-cutting-problem",
-   "published": "2026-11-17T10:00:00+00:00",
+   "link": "https://www.fastcompany.com/91640411/the-smartest-ai-might-be-the-one-that-leaves-us-alone",
+   "published": "2026-11-18T09:30:00+00:00",
    "title": {
-    "en": "FEMA has a cord-cutting problem",
-    "fa": "FEMA یک مشکل خنثی کردن دارد"
+    "en": "The smartest AI might be the one that leaves us alone",
+    "fa": "باهوش ترین AI ممکن است کسی باشد که ما را تنها می گذارد"
    },
    "summary": {
-    "en": "On Tuesday, countless TV viewers will find their favorite shows interrupted for a one-minute test of the Federal Emergency Management Agency’s Emergency Alert System (EAS). The test will cut into live broadcasts and cable reruns alike, and also be heard on…",
-    "fa": "روز سه شنبه، تعداد بی شماری از بینندگان تلویزیون نشان های مورد علاقه خود را برای یک دقیقه آزمایش سیستم هشدار اضطراری آژانس مدیریت اورژانس فدرال (EAS) قطع کردند. این آزمایش به پخش زنده و ایستگاه های کابلی به طور یکسان کاهش می یابد و همچنین در مورد ..."
+    "en": "One of the ideas I’m always trying to tell my students is that their brains are something, an asset, if you like, they need to protect. The human brain is an amazing optimizer: Provide it with an effortless way to achieve something, and it will quickly start…",
+    "fa": "یکی از ایده هایی که من همیشه سعی می کنم به دانش آموزانم بگویم این است که مغز آنها چیزی است، یک دارایی، اگر دوست دارید، آنها باید از آن محافظت کنند. مغز انسان یک بهینه سازی شگفت انگیز است: آن را با یک راه بی تلاش برای دستیابی به چیزی ارائه دهید و به سرعت شروع می شود."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642480/the-probable-future-is-bleak-its-time-for-improbable-futures",
-   "published": "2026-11-17T10:00:00+00:00",
+   "link": "https://www.fastcompany.com/91635167/apple-iphone-wallet-car-key-cadillac-chevrolet-gmc",
+   "published": "2026-11-18T09:00:00+00:00",
    "title": {
-    "en": "The probable future is bleak. It’s time for improbable futures",
-    "fa": "آینده ی احتمالی غم انگیز است. زمان برای آینده های غیر قابل پیش بینی"
+    "en": "Apple is turning your iPhone into a car key for 3 popular brands. Unlocking is only the beginning",
+    "fa": "اپل آیفون شما را به یک کلید ماشین برای 3 مارک محبوب تبدیل می کند. قفل کردن تنها آغاز است"
    },
    "summary": {
-    "en": "Massed protesters, enraged by hunger and joblessness, loot shops along the Boulevard Saint-Germain. A crowd marches on the Interior Ministry and is driven back with bayonets. Students tear their school apart and barricade the doors; after hours of fighting…",
-    "fa": "معترضان انبوه، خشمگین از گرسنگی و بی کاری، مغازه های بی نظیر در امتداد بلوار سنت گوروس. یک راهپیمایی جمعیت در وزارت کشور و با حاشیه رانده شده است. دانش آموزان مدرسه خود را از هم جدا می کنند و درب ها را مسدود می کنند؛ پس از ساعت ها مبارزه ..."
+    "en": "Cadillac, Chevrolet, and GMC drivers will now be able to unlock their vehicles with their phones. As first reported by MacRumors , General Motors announced that it has begun rolling out the Apple Wallet feature to select models. More vehicles are expected to…",
+    "fa": "Cadillac، Chevrolet و رانندگان GMC در حال حاضر قادر به باز کردن وسایل نقلیه خود با تلفن های خود خواهند بود. همانطور که برای اولین بار توسط MacRumors گزارش شده است، جنرال موتورز اعلام کرد که این ویژگی کیف پول اپل را برای انتخاب مدل ها آغاز کرده است. انتظار می رود وسایل نقلیه بیشتر ..."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/17/sg-us-ai-chip-controls-southeast-asia/",
-   "published": "2026-11-17T09:44:46+00:00",
+   "link": "https://fortune.com/2026/11/18/doordash-instacart-investigation-silicon-valley-antitrust/",
+   "published": "2026-11-18T08:02:00+00:00",
    "title": {
-    "en": "Singapore defends status as a ‘trusted business hub’ after the U.S. proposes extending AI chip controls to Southeast Asia",
-    "fa": "سنگاپور از وضعیت به عنوان یک مرکز کسب و کار قابل اعتماد دفاع می کند، پس از ایالات متحده پیشنهاد می کند تا کنترل های تراشه AI را به آسیای جنوب شرقی گسترش دهد."
+    "en": "The $17 billion DoorDash-Instacart deal puts a spotlight on a16z and Silicon Valley’s rival-board problem",
+    "fa": "معامله 17 میلیارد دلاری DoorDash-Instacart بر روی یک مشکل رقیب دره سیلیکون متمرکز شده است."
    },
    "summary": {
-    "en": "The country added that it is engaging U.S. authorities to review details of the new measure.",
-    "fa": "این کشور اضافه کرد که مقامات آمریکایی را به بررسی جزئیات اندازه گیری جدید ترغیب می کند."
+    "en": "Sequoia Capital partners sit on the boards of both delivery app companies, an arrangement an antitrust scholar says is likely illegal.",
+    "fa": "شرکای سرمایه Sequoia در هیئت مدیره هر دو شرکت برنامه تحویل نشسته اند، یک ترتیب یک محقق ضداعتماد می گوید که احتمالا غیر قانونی است."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/17/idea-lab-bill-gross-ai-jobs-business-national-debt-inequality/",
-   "published": "2026-11-17T08:06:00+00:00",
+   "link": "https://fortune.com/2026/11/18/san-francisco-silicon-valley-ai-boom-humanoid-robots-brain-computer-interfaces/",
+   "published": "2026-11-18T08:00:00+00:00",
    "title": {
-    "en": "U.S. labor force may come to resemble China’s army of one-man companies due to AI, says Bill Gross—leveling wealth inequality and national debt",
-    "fa": "نیروی کار ایالات متحده ممکن است به ارتش چین از شرکت های تک نفره به دلیل AI شباهت داشته باشد، بیل گروس می گوید که نابرابری ثروت و بدهی ملی را افزایش می دهد."
+    "en": "Robot cage fights and snorting nanoparticles: Notes from the ‘reality distortion field’ of Silicon Valley’s AI frontier",
+    "fa": "قفس ربات مبارزه می کند و نانوذرات را خروپف می کند: یادداشت ها از \"میدان واقعی\" مرز AI سیلیکون دره"
    },
    "summary": {
-    "en": "\"Rather than start three more small companies, this is the place where I can have the most leverage, and I'll probably be doing this for the rest of my life.\"",
-    "fa": "این جایی است که می توانم بیشترین اهرم را داشته باشم و احتمالا این کار را برای بقیه زندگی ام انجام خواهم داد.»"
+    "en": "In San Francisco, questions about intelligence, consciousness, and the limits of human understanding are woven through every aspect of life.",
+    "fa": "در سان فرانسیسکو، سوالات مربوط به هوش، آگاهی و محدودیت های درک انسانی از طریق هر جنبه ای از زندگی بافته شده است."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/17/democrats-ai-data-center-backlash-electricity-costs-regulation-economic-growth/",
-   "published": "2026-11-17T08:00:00+00:00",
+   "link": "https://fortune.com/2026/11/18/hone-health-jay-z-gwyneth-paltrow-saad-alam-marcy-pen-ventures-raise/",
+   "published": "2026-11-18T08:00:00+00:00",
    "title": {
-    "en": "Voters want relief from rising power bills. Democrats must find a way to deliver without stalling the AI investment helping drive the economy",
-    "fa": "رای دهندگان می خواهند از افزایش صورتحساب قدرت خلاص شوند. دموکرات ها باید راهی برای تحویل بدون توقف سرمایه گذاری AI پیدا کنند که به هدایت اقتصاد کمک می کند."
+    "en": "Hone Health lands $228 million with backing from Jay-Z’s firm and Gwyneth Paltrow. She’s an investor—and a patient",
+    "fa": "Hone Health 228 میلیون دلار با حمایت از شرکت جی-Z و Gwyneth Paltrow دارد. او یک سرمایه گذار است و یک بیمار"
    },
    "summary": {
-    "en": "Voters want relief from rising power bills. Democrats must find a way to deliver without stalling the AI investment helping drive the economy.",
-    "fa": "رای دهندگان می خواهند از افزایش صورتحساب قدرت خلاص شوند. دموکرات ها باید راهی برای تحویل بدون توقف سرمایه گذاری AI پیدا کنند که به هدایت اقتصاد کمک می کند."
+    "en": "Hone Health CEO Saad Alam says MarcyPen stays silent on every deal. Now it’s leading a $228 million round alongside Gwyneth Paltrow’s firm.",
+    "fa": "مدیر عامل Hone Health Saad Alam می گوید که MarcyPen در هر معامله سکوت می کند. در حال حاضر این شرکت 228 میلیون دلار را در کنار شرکت Gwyneth Paltrow رهبری می کند."
    }
   },
   {
    "id": "ma27",
+   "section": "management",
+   "source": "MIT Sloan Management Review",
+   "link": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
+   "published": "2026-11-17T12:00:16+00:00",
+   "title": {
+    "en": "Designing Customization Journeys to Build More Valuable Customer Relationships",
+    "fa": "طراحی سفر سفارشی سازی برای ایجاد روابط مشتری با ارزش تر"
+   },
+   "summary": {
+    "en": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted its customizable salads (like the Super Green Goddess) and bowls (like the Chicken Pesto Parm). “Our single most popular item is the…",
+    "fa": "تصاویر Gillian Blease / Ikon هنگامی که رستوران فست سبز زنجیره ای فست فود 2021 اولین پیشنهاد عمومی خود را داشت، سالادهای قابل تنظیم آن (مانند الهه سوپر سبز) و کاسه (مانند Pesto Parm) را برجسته کرد. «تنها محبوب ترین مورد ما این است که ..."
+   }
+  },
+  {
+   "id": "ma28",
    "section": "management",
    "source": "MIT Sloan Management Review",
    "link": "https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/",
@@ -625,127 +640,142 @@
    }
   },
   {
-   "id": "ma28",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
-   "published": "",
-   "title": {
-    "en": "Steel: Forging the foundation for the future of India",
-    "fa": "فولاد: ایجاد پایه برای آینده هند"
-   },
-   "summary": {
-    "en": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen cost competitiveness, secure raw materials, and lower emissions.",
-    "fa": "از آنجا که صنعت فولاد هند ظرفیت پاسخگویی به تقاضای رو به افزایش را افزایش می دهد، فرصتی برای تقویت رقابت هزینه، مواد خام امن و انتشار گازهای گلخانه ای پایین تر دارد."
-   }
-  },
-  {
    "id": "ma29",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
+   "link": "https://www.mckinsey.com/what-is-cloud-computing--test",
    "published": "",
    "title": {
-    "en": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
-    "fa": "پیاده روی ناسازگاری زیرساخت هوش مصنوعی: Adaire Fox-Martin"
+    "en": "What is cloud computing? -test",
+    "fa": "محاسبات ابری چیست؟ - آزمون"
    },
    "summary": {
-    "en": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck are impacting AI infrastructure development.",
-    "fa": "یک رهبر بخش داده در مورد چگونگی تغییر اقتصاد، محدودیت های انرژی و یک تنگنای اتصال قریب الوقوع بر توسعه زیرساخت های هوش مصنوعی تأثیر می گذارد."
+    "en": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+    "fa": "محاسبات ابری به شرکت ها اجازه می دهد تا زیرساخت های خود را از راه دور از طریق اینترنت ذخیره کنند و در نهایت هزینه ها و ایجاد ارزش را کاهش دهند."
    }
   },
   {
    "id": "ma30",
    "section": "management",
    "source": "McKinsey",
-   "link": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
+   "link": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
    "published": "",
    "title": {
-    "en": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
-    "fa": "حل تنگناهای انرژی بریتانیا: فرصت £ 78 میلیارد در سال برای تمیز کردن، مقرون به صرفه تر"
+    "en": "What is cloud computing? -test",
+    "fa": "محاسبات ابری چیست؟ - آزمون"
    },
    "summary": {
-    "en": "Companies that address the toughest bottlenecks in Britain’s power system could capture part of a £78 billion-a-year opportunity while helping deliver cleaner, more affordable, and more reliable power.",
-    "fa": "شرکت هایی که به سخت ترین تنگناها در سیستم قدرت بریتانیا می پردازند، می توانند بخشی از فرصت ۷۸ میلیارد پوند در سال را در حالی که به ارائه انرژی پاک تر، مقرون به صرفه تر و قابل اعتماد تر کمک می کنند، ثبت کنند."
+    "en": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+    "fa": "محاسبات ابری به شرکت ها اجازه می دهد تا زیرساخت های خود را از راه دور از طریق اینترنت ذخیره کنند و در نهایت هزینه ها و ایجاد ارزش را کاهش دهند."
    }
   },
   {
    "id": "tr31",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/south-korea-suspend-aircraft-exam-markets.html",
-   "published": "2026-11-17T10:49:36+00:00",
+   "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+   "published": "2026-11-18T10:31:58+00:00",
    "title": {
-    "en": "South Korea will suspend all aircraft operation for 35 minutes and markets will open late. Here’s why",
-    "fa": "کره جنوبی تمام عملیات هواپیما را به مدت 35 دقیقه متوقف خواهد کرد و بازارها دیرباز باز خواهند شد. به همین دلیل"
+    "en": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+    "fa": "متحدان اوکراین انتقاد ایالات متحده از حملات عمیق در داخل روسیه را پیش از نشست ترامپ-پوتین-Xi رد می کنند"
    },
    "summary": {
-    "en": "South Korea will suspend aircraft takeoffs and landings nationwide for 35 minutes on Thursday to minimize noise during a college entrance exam.",
-    "fa": "کره جنوبی روز پنجشنبه به مدت 35 دقیقه در سراسر کشور پرواز خواهد کرد تا در طول امتحان ورودی کالج سر و صدا را به حداقل برساند."
+    "en": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+    "fa": "این اختلاف پیش از یک جلسه برنامه ریزی شده بین دونالد ترامپ، ولادیمیر پوتین و شی جین پینگ است."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/10fd3d24-04b1-40a2-93d3-8b64023cc869?syn-25a6b1a6=1",
-   "published": "2026-11-17T10:48:11+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+   "published": "2026-11-18T10:20:44+00:00",
    "title": {
-    "en": "Berlin picks ECB board nominee, paving way for Spanish presidency",
-    "fa": "برلین نامزد هیئت مدیره ECB را انتخاب می کند، راه را برای ریاست جمهوری اسپانیا هموار می کند"
+    "en": "Trump lands in China for historic meeting with Xi, Putin",
+    "fa": "ترامپ برای دیدار تاریخی با شی، پوتین"
    },
    "summary": {
-    "en": "Choice of Markus Brunnermeier will consolidate deal with France in which Spain’s Pablo Hernández de Cos would lead central bank",
-    "fa": "انتخاب Markus Brunnermeier معامله با فرانسه که در آن پابلو هرناندز در اسپانیا منجر به بانک مرکزی خواهد شد"
+    "en": "President Donald Trump has landed in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+    "fa": "دونالد ترامپ برای مذاکرات سه جانبه تاریخی با رهبر چین شی جین پینگ و ولادیمیر پوتین روسیه در شنژن فرود آمده است."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-   "published": "2026-11-17T10:47:29+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/ae7d1b27-b892-48d6-ad47-41128a4b53a1?syn-25a6b1a6=1",
+   "published": "2026-11-18T10:05:52+00:00",
    "title": {
-    "en": "Home Depot names Richard McPhail as new CEO",
-    "fa": "Home Depot به نام Richard McPhail به عنوان مدیر عامل جدید"
+    "en": "Trump arrives in China ahead of summit with Putin and Xi",
+    "fa": "ترامپ پیش از نشست با پوتین و شی وارد چین می شود"
    },
    "summary": {
-    "en": "Home Depot named Richard McPhail as its new CEO effective next week.",
-    "fa": "Home Depot به نام Richard McPhail به عنوان مدیر عامل جدید آن در هفته آینده موثر است."
+    "en": "Historic trilateral meeting caps week of high-profile diplomacy in Asia",
+    "fa": "جلسه تاریخی سه جانبه هفته دیپلماسی با مشخصات بالا در آسیا"
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
-   "published": "2026-11-17T10:40:56+00:00",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+   "published": "2026-11-18T10:00:17+00:00",
    "title": {
-    "en": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
-    "fa": "JD Vance می گوید که او تصمیم خواهد گرفت \"سال آینده\" حدود 2028 ریاست جمهوری"
+    "en": "Nvidia stock up nearly 4% as earnings beat expectations. Neoclouds surge",
+    "fa": "Nvidia تقریبا 4٪ را به عنوان انتظارات شکست درآمد ذخیره می کند. افزایش نئو ابرها"
    },
    "summary": {
-    "en": "\"When I make a decision, I will be all in on whatever that decision is,\" he told Fox News.",
-    "fa": "وقتی تصمیم می گیرم، همه چیز در هر تصمیمی که باشد خواهم بود.»"
+    "en": "The chip giant's earnings come at a tumultuous time for the company.",
+    "fa": "درآمد غول تراشه در یک زمان پر سر و صدا برای شرکت است."
    }
   },
   {
    "id": "tr35",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
-   "published": "2026-11-17T10:26:44+00:00",
+   "link": "https://www.ft.com/content/71e39ecd-03ef-4078-a34e-34ea6b45f674?syn-25a6b1a6=1",
+   "published": "2026-11-18T09:45:07+00:00",
    "title": {
-    "en": "Nvidia creates committee to oversee compliance with US chip export controls",
-    "fa": "Nvidia کمیته ای را برای نظارت بر کنترل صادرات تراشه آمریکا ایجاد می کند"
+    "en": "Democrats probe whether Howard Lutnick helped Cantor avoid Nvidia losses",
+    "fa": "دموکرات ها بررسی می کنند که آیا هاوارد لونیک به کانتور کمک کرد تا از ضرر های Nvidia جلوگیری کند"
    },
    "summary": {
-    "en": "Move comes as US chipmaker faces criticism in Washington over its ambition to increase revenues in China",
-    "fa": "حرکت به عنوان تراشه ساز ایالات متحده با انتقاد در واشنگتن در مورد جاه طلبی خود برای افزایش درآمد در چین"
+    "en": "Lawmakers seek information on whether US commerce secretary’s decisions were influenced by family’s investment firm",
+    "fa": "قانونگذاران به دنبال اطلاعاتی هستند که آیا تصمیمات وزیر بازرگانی آمریکا تحت تأثیر شرکت سرمایه گذاری خانواده قرار گرفته است"
    }
   },
   {
    "id": "tr36",
+   "section": "trade",
+   "source": "Supply Chain Dive",
+   "link": "https://www.supplychaindive.com/news/us-foods-to-test-inventory-scanning-robots-at-6-more-warehouses/874829/",
+   "published": "2026-11-17T19:18:00+00:00",
+   "title": {
+    "en": "US Foods to test inventory-scanning robots at 6 more warehouses",
+    "fa": "غذاهای آمریکایی برای آزمایش ربات های ذخیره سازی موجودی در 6 انبار بیشتر"
+   },
+   "summary": {
+    "en": "The food service distributor plans to begin piloting the technology in each of the facilities by year-end, CEO David Flitman told investors.",
+    "fa": "توزیع کننده خدمات غذایی قصد دارد تا شروع به آزمایش تکنولوژی در هر یک از امکانات تا پایان سال، مدیر عامل دیوید فینمن به سرمایه گذاران گفت."
+   }
+  },
+  {
+   "id": "tr37",
+   "section": "trade",
+   "source": "Supply Chain Dive",
+   "link": "https://www.supplychaindive.com/news/how-to-prepare-for-the-most-severe-el-nino-on-record/874732/",
+   "published": "2026-11-17T15:57:00+00:00",
+   "title": {
+    "en": "How to prepare for the most severe El Niño on record",
+    "fa": "چگونه برای شدیدترین ال نینو آماده کنیم"
+   },
+   "summary": {
+    "en": "As this year's severe weather approaches, manufacturers should audit their systems for failure risks and take other protective measures, experts say.",
+    "fa": "به عنوان رویکرد شدید آب و هوا در سال جاری، تولید کنندگان باید سیستم های خود را برای خطرات شکست و اقدامات حفاظتی دیگر، کارشناسان می گویند."
+   }
+  },
+  {
+   "id": "tr38",
    "section": "trade",
    "source": "World Trade Organization",
    "link": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
@@ -760,44 +790,14 @@
    }
   },
   {
-   "id": "tr37",
-   "section": "trade",
-   "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/ai-backed-tools-power-reformations-inventory-management/874645/",
-   "published": "2026-11-16T15:40:00+00:00",
-   "title": {
-    "en": "AI-backed tools power Reformation’s inventory management",
-    "fa": "ابزارهای پشتیبانی شده AI Power Reformation"
-   },
-   "summary": {
-    "en": "The apparel company is leveraging the technology to monitor demand and make informed production decisions.",
-    "fa": "شرکت پوشاک استفاده از تکنولوژی برای نظارت بر تقاضا و تصمیم گیری های تولید آگاهانه است."
-   }
-  },
-  {
-   "id": "tr38",
-   "section": "trade",
-   "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/uniuni-to-tap-carriers-like-gofo-for-some-peak-season-deliveries/874556/",
-   "published": "2026-11-16T15:17:36+00:00",
-   "title": {
-    "en": "UniUni to tap carriers like Gofo for some peak season deliveries",
-    "fa": "UniUni برای ضربه زدن به اپراتورهای مانند Gofo برای برخی از تحویل های فصل اوج"
-   },
-   "summary": {
-    "en": "The delivery provider said handing off select packages will benefit last-mile efficiency as it looks to improve its financial outlook.",
-    "fa": "ارائه دهنده تحویل گفت که تحویل بسته های انتخاب شده بهره وری آخرین مایل را به عنوان آن را به نظر می رسد برای بهبود چشم انداز مالی خود را."
-   }
-  },
-  {
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/politics/international-relations/macron-pitches-closer-malaysia-ties-to-reduce-reliance-on-us-china",
+   "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-trump-arrives-for-high-stakes-meetings",
    "published": "",
    "title": {
-    "en": "Macron pitches closer Malaysia ties to reduce reliance on US, China",
-    "fa": "ماکرون روابط مالزی را به کاهش وابستگی به آمریکا، چین نزدیک می کند"
+    "en": "APEC live: Trump arrives for high-stakes meetings",
+    "fa": "APEC زندگی می کند: ترامپ برای برگزاری جلسات عالی می آید"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-flags-possible-putin-meeting-with-north-korea-s-kim",
+   "link": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
    "published": "",
    "title": {
-    "en": "APEC live: Russia flags possible Putin meeting with North Korea's Kim",
-    "fa": "APEC زندگی می کند: پرچم روسیه ممکن است پوتین با کیم کره شمالی ملاقات کند"
+    "en": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
+    "fa": "شی خواستار تجارت آزاد تر به عنوان مانور رهبران APEC پیش از مذاکرات ترامپ است"
    },
    "summary": {
     "en": "",
