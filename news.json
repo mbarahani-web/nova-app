@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T10:24:52+00:00",
- "date": "2026-11-20",
+ "generated_at": "2026-11-21T10:08:56+00:00",
+ "date": "2026-11-21",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "dropped": 0,
    "error": ""
   },
@@ -222,136 +222,136 @@
   {
    "id": "ec1",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-20-2026?mod=rss_markets_main",
-   "published": "2026-11-20T10:08:25+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+   "published": "2026-11-21T10:00:25+00:00",
    "title": {
-    "en": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies",
-    "fa": "بازار سهام امروز: افت سهام Anthropic به عنوان Tech Rout Intens"
+    "en": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+    "fa": "چرا نوستالژی برای Tamagotchis، Virtual Pets، نمی میرد"
    },
    "summary": {
-    "en": "S&P 500 heads for longest losing streak since 2020",
-    "fa": "S&P 500 سر برای از دست دادن طولانی ترین خط از سال 2020"
+    "en": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+    "fa": "نسل هزاره به تماس با اندازه جیبی پاسخ می دهند که باعث احساس 30 سال پیش شد. اما نسل Zers نیز وجود دارد."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-   "published": "2026-11-20T10:02:23+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
+   "published": "2026-11-21T09:00:13+00:00",
    "title": {
-    "en": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-    "fa": "سهام اغلب پس از خروج Abrupt C.E. آیا Nvidia متفاوت است؟"
+    "en": "How AI Is Forcing China to Reshape Industrial Policy",
+    "fa": "چگونه AI چین را به سیاست صنعتی Reshape وادار می کند"
    },
    "summary": {
-    "en": "The stock value of a top executive is often less important than it initially seems. But Nvidia’s entanglement in U.S.-Chinese relations poses special problems.",
-    "fa": "ارزش سهام یک مدیر ارشد اغلب کمتر از آنچه در ابتدا به نظر می رسد مهم است. اما درهم تنیده شدن Nvidia در روابط ایالات متحده و چین مشکلات خاصی را ایجاد می کند."
+    "en": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
+    "fa": "کایل چان در برنامه پکن برای تبدیل شدن به تکنولوژی خود وابسته است."
    }
   },
   {
    "id": "ec3",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-   "published": "2026-11-20T10:02:12+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
+   "published": "2026-11-21T09:00:00+00:00",
    "title": {
-    "en": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
-    "fa": "آیا یک \"A.I. Agent\" است که برای استارت آپ Sourdough می آید؟"
+    "en": "Europe’s Power Market Is Flashing a Warning to Its Economy",
+    "fa": "بازار قدرت اروپا هشداری به اقتصاد آن می دهد"
    },
    "summary": {
-    "en": "A lab-grown shortcut named Leaven is wooing many high-end bakers and pizza makers who’ve prided themselves on their painstaking use of live cultures.",
-    "fa": "یک برش کوتاه کننده آزمایشگاهی به نام Leaven است و بسیاری از آبجوهای با پایان بالا و سازندگان پیتزا را که خود را در استفاده از درد و رنج خود از فرهنگ های زنده افتخار می کنند، پرورش می دهد."
+    "en": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
+    "fa": "در کارخانه ای در آلمان، ساعاتی به طور فزاینده ای وجود دارد که برای تولید فولاد بسیار گران است."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T09:55:20+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+   "published": "2026-11-21T08:00:53+00:00",
    "title": {
-    "en": "Airbnb's divisive new house rules come into force",
-    "fa": "قوانین خانه جدید Airbnb به زور اجرا می شوند"
+    "en": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+    "fa": "خروج تلگراف نگرانی در مورد مسیر تحت مالکیت Axel Springer"
    },
    "summary": {
-    "en": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-    "fa": "قوانین جدید در مورد آنچه که میزبان Airbnb می تواند به طور منطقی از مهمانان درخواست کند، می تواند به معنای کارهای کمتر اما هزینه های بالاتر برای مشتریان باشد."
+    "en": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to…",
+    "fa": "خودی ها می گویند که آنها فقط برش ها را می بینند، بدون هیچ استراتژی طولانی مدت قابل تشخیص، از آنجایی که خرید عنوان توسط شرکت رسانه های آلمانی، شکافی از خروج های برجسته و سال های مبارزه عمومی بر مالکیت آن تضمین کرده است که اتاق خبر تلگراف غریبه نیست."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
    "source": "The Guardian",
-   "link": "https://www.theguardian.com/business/live/2026/nov/20/asia-stocks-worst-anthropic-ipo-ai-stock-market-latest-updates-news",
-   "published": "2026-11-20T09:53:44+00:00",
+   "link": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
+   "published": "2026-11-21T07:00:52+00:00",
    "title": {
-    "en": "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
-    "fa": "سهام آسیایی به دنبال بدترین هفته از سال 2020 به عنوان Anthropic IPO قادر به پایان دادن به هوش مصنوعی نیست - کسب و کار زندگی می کند"
+    "en": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
+    "fa": "مانند یک مالیات مخفی نامرئی: راه هایی برای محافظت از پول نقد خود از تورم انگلستان"
    },
    "summary": {
-    "en": "Rolling coverage of the latest economic and financial news California has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang . Rob Bonta , the US state’s attorney…",
-    "fa": "پوشش رولینگ از آخرین اخبار اقتصادی و مالی کالیفرنیا پس از رسوایی ای که منجر به خروج از بنیانگذار و مدیر اجرایی دیرین هوانگ شد، یک زیرمجموعه تحقیقاتی در Nvidia ارائه داده است. راب بونتا، وکیل دولت آمریکا..."
+    "en": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices For many of us, it is when we go to the supermarket that we really notice the impact of inflation. The trolley-load of groceries that…",
+    "fa": "با افزایش هزینه های زندگی در سال 2027، در اینجا چگونگی کمک به پس انداز و بازنشستگی خود را با قیمت های سنگین نگه دارید برای بسیاری از ما، زمانی است که به سوپر مارکت می رویم که واقعا متوجه تاثیر تورم می شویم. زباله های مواد غذایی که ..."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/euro-area-pay-growth-accelerated-only-slightly-in-third-quarter",
-   "published": "2026-11-20T09:50:05+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "published": "2026-11-21T05:13:03+00:00",
    "title": {
-    "en": "Euro-Area Pay Growth Accelerated Only Slightly in Third Quarter",
-    "fa": "رشد یورو-Isa Pay فقط در سه ماهه سوم تسریع شد"
+    "en": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+    "fa": "آلیس هوانگ، متهم به جاسوسی در مدیرعامل Nvidia، به شرکت هایی با روابط با ارتش چین متصل است"
    },
    "summary": {
-    "en": "A key measure of euro-area pay growth only quickened a touch in the third quarter, offering reassurance to the European Central Bank that inflation triggered by rising energy prices isn’t spreading.",
-    "fa": "یک معیار کلیدی برای رشد پولی یورو-منطقه ای تنها در سه ماهه سوم به سرعت در تماس بود و اطمینان را به بانک مرکزی اروپا ارائه داد که تورم ناشی از افزایش قیمت انرژی در حال گسترش نیست."
+    "en": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+    "fa": "شرکت های مرتبط با آلیس هوانگ، زن در قلب رسوایی Nvidia، بخشی از شبکه ای از شرکت های فناوری چینی و پیمانکاران دفاعی هستند که به قدرت محاسباتی پیشرفته نیاز دارند."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T09:44:56+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
+   "published": "2026-11-21T02:16:00+00:00",
    "title": {
-    "en": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-    "fa": "غذا و شیر طولانی مدت پس از راه اندازی کمپین “Be Ready” فروش خرده فروشی را افزایش می دهد"
+    "en": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+    "fa": "بازی سرزنش شده است بیش از Anthropic معاملات Debutbulent"
    },
    "summary": {
-    "en": "People stocking up on long-life food drove retail sales higher October, according to official data.",
-    "fa": "افرادی که در غذاهای طولانی مدت ذخیره می شوند، فروش خرده فروشی را در ماه اکتبر بالاتر می برد، با توجه به داده های رسمی."
+    "en": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price.",
+    "fa": "سهام غول هوش مصنوعی در روز دوم تجارت خود، در یک نقطه به 5 سنت بالاتر از قیمت IPO آن کاهش می یابد."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "Deutsche Welle",
-   "link": "https://www.dw.com/en/lufthansa-to-cut-1-000-jobs-citing-ongoing-losses-reports/a-80000062?maca=en-rss-en-bus-2091-rdf",
-   "published": "2026-11-20T09:43:00+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-20T22:53:24+00:00",
    "title": {
-    "en": "Lufthansa to cut 1,000 jobs, citing ongoing losses — reports",
-    "fa": "لونزا برای کاهش 1000 شغل، با استناد به تلفات مداوم - گزارش"
+    "en": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+    "fa": "GTA 6 رکورد فروش خود را به قیمت 2.3 میلیارد دلار تخفیف می دهد"
    },
    "summary": {
-    "en": "According to a letter obtained by the media, Lufthansa's executive board said the German company is losing €20 million every month. In addition to job cuts, operational cuts are also planned.",
-    "fa": "طبق نامه ای که رسانه ها به دست آورده اند، هیئت اجرایی لوفتس گفته است که این شرکت آلمانی هر ماه ۲۰ میلیون یورو از دست می دهد. علاوه بر کاهش های شغلی، کاهش های عملیاتی نیز برنامه ریزی شده اند."
+    "en": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+    "fa": "بازی های راک استار یک صبر ۱۳ ساله را به پایان رساند که انتظار می رود بزرگترین راه اندازی سرگرمی باشد."
    }
   },
   {
    "id": "ec9",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/stocks/nasdaq-set-for-fresh-decline-as-ai-selloff-intensifies-e974bbb5?mod=rss_markets_main",
-   "published": "2026-11-20T09:41:00+00:00",
+   "source": "Deutsche Welle",
+   "link": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-bus-2091-rdf",
+   "published": "2026-11-20T15:36:00+00:00",
    "title": {
-    "en": "Nasdaq Set for Fresh Decline as AI Selloff Intensifies",
-    "fa": "Nasdaq Set for Fresh Decline به عنوان AI Salesoff Intens"
+    "en": "Can German auto manufacturing recover after Mercedes and VW cuts?",
+    "fa": "آیا تولید خودرو آلمانی می تواند پس از کاهش مرسدس و فولکس واگن بهبود یابد؟"
    },
    "summary": {
-    "en": "Global stocks sold off and Treasurys strengthened as investor confidence in the AI trade showed signs of cracking.",
-    "fa": "سهام جهانی فروخته شده و خزانه داری تقویت شده به عنوان اعتماد سرمایه گذار در تجارت AI نشان داد نشانه های ترک."
+    "en": "German automakers are pulling back on investments at home, sparking fresh anxiety about the auto sector's future. Some industry watchers think there is still a narrow window to stem the decline. But how?",
+    "fa": "خودروسازان آلمانی به سرمایه گذاری در خانه برمی گردند و اضطراب تازه ای در مورد آینده بخش خودرو ایجاد می کنند. برخی از ناظران صنعت فکر می کنند که هنوز یک پنجره باریک برای ریشه کن کردن این کاهش وجود دارد. اما چگونه؟"
    }
   },
   {
@@ -373,240 +373,240 @@
    "id": "te11",
    "section": "tech",
    "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-   "published": "2026-11-20T10:03:50+00:00",
+   "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+   "published": "2026-11-21T10:02:09+00:00",
    "title": {
-    "en": "How Jensen Huang Made Humiliation Routine at Nvidia",
-    "fa": "چگونه Jensen Huang Humiliation Routine در Nvidia"
+    "en": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+    "fa": "عصر جدید هرج و مرج A.I.-Driven Chaos این ممکن است فقط پیشرفت باشد."
    },
    "summary": {
-    "en": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-    "fa": "رفتار هماهنگ کننده مشترک Nvidia نسبت به کارمندان دهه ها پیش می رود. این یک بار منجر به یک توافق نامه محرمانه با یک مدیر اجرایی شد که گفت آقای هوانگ \"تأفت\" کارکنان."
+    "en": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+    "fa": "اگر هوش مصنوعی منجر به قطع برق، حملات سایبری و بیشتر شود، با تاریخ سازگار است، به این معنی که نشان می دهد که چگونه نوآوری های جدید اغلب قبل از اینکه زندگی را بهتر کنند، شکست فاجعه بار ایجاد می کنند."
    }
   },
   {
    "id": "te12",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
-   "published": "2026-11-20T10:00:37+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
+   "published": "2026-11-21T09:12:17+00:00",
    "title": {
-    "en": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
-    "fa": "اینترنت طعم ما را هضم می کند. A.I. ناوشکن برای خیر؟"
+    "en": "How AI Is Reshaping China's Industrial Policy",
+    "fa": "چگونه AI تغییر سیاست صنعتی چین"
    },
    "summary": {
-    "en": "In a world of slop capitalism, vibe-crafted culture and taste paranoia, why we like what we like feels harder than ever to know.",
-    "fa": "در دنیایی از سرمایه داری سست، فرهنگ و طعم و مزه پارانویا، چرا ما دوست داریم آنچه را که دوست داریم سخت تر از همیشه بدانیم."
+    "en": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High…",
+    "fa": "آیا شرکت های فناوری چینی می توانند به کشور در دستیابی به اعتماد به نفس فن آوری در حالی که در مسابقه سلاح های AI نگه دارید، کمک کنند؟ در این قسمت، ما با کایل چان صحبت می کنیم، همکار در موسسه بروکینگز جان L. Thornton چین مرکز و نویسنده از بالا ..."
    }
   },
   {
    "id": "te13",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-slumps-in-premarket-trading-video",
-   "published": "2026-11-20T09:59:11+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+   "published": "2026-11-21T07:53:21+00:00",
    "title": {
-    "en": "Anthropic Slumps in Premarket Trading",
-    "fa": "Anthropic Slumps در PreMarket"
+    "en": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+    "fa": "تایوانی های کوتاه فروش پس از به اشتراک گذاشتن Plunge در مورد AI"
    },
    "summary": {
-    "en": "Anthropic shares fell on their second day of trading. The Claude chatbot maker tumbled in premarket trading as a broad market selloff and doubts about the AI trade overshadowed the optimism that had fueled a rally on its IPO day. Bloomberg Intelligence…",
-    "fa": "سهام Anthropic در روز دوم معاملات خود سقوط کرد. سازنده کلود چت بات در تجارت پیش از بازار به عنوان یک فروش گسترده بازار سقوط کرد و شک و تردید در مورد تجارت AI بر خوش بینی که یک تجمع در روز IPO خود را. اطلاعات بلومبرگ"
+    "en": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
+    "fa": "تایوان محدودیت های گسترده ای در فروش سهام محلی دارد و می گوید که سهام خرید کرده است و تلاش برای احیای اعتماد پس از شاخص معیار جزیره بدترین سقوط هفتگی آن در 35 سال گذشته است."
    }
   },
   {
    "id": "te14",
    "section": "tech",
    "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T09:37:59+00:00",
+   "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T01:00:00+00:00",
    "title": {
-    "en": "White House removes cyber-security chief after series of tech outages",
-    "fa": "کاخ سفید رئیس امنیت سایبری را پس از مجموعه ای از قطع های تکنولوژی حذف می کند"
+    "en": "Tech Now",
+    "fa": "تکنولوژی Now"
    },
    "summary": {
-    "en": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
-    "fa": "CBS گزارش می دهد که پس از از از دست دادن اعتماد به نفس رئیس کاخ سفید استفان میلر اخراج شده است."
+    "en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
+    "fa": "Alasdair Keane در ناپل است که بررسی می کند که چگونه تکنولوژی در حال تبدیل شدن به مسابقه جام آمریکا است."
    }
   },
   {
    "id": "te15",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-20/schroders-sees-healthy-correction-in-markets-video",
-   "published": "2026-11-20T09:31:43+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-21T00:06:11+00:00",
    "title": {
-    "en": "Schroders Sees 'Healthy Correction' in Markets",
-    "fa": "Schroders \"تجدید درمانی\" را در بازارها می بیند"
+    "en": "Can AI really help spot Black Friday deals? We put it to the test",
+    "fa": "آیا AI واقعا می تواند به شناسایی معاملات جمعه سیاه کمک کند؟ ما آن را در آزمون قرار دادیم."
    },
    "summary": {
-    "en": "Remi Olu-Pitan, multi-asset growth and income head at Schroders, says the selloff in equities is a “healthy correction” as a gauge of stocks heads for its longest losing streak in more than three years. The market is reassessing how far a lot of the…",
-    "fa": "Remi Olu-Pitan، رشد چند منظوره و درآمد سر در Schroders، می گوید که فروش سهام یک \" تصحیح سالم\" به عنوان یک سنجش از سهام برای طولانی ترین خط از دست دادن آن در بیش از سه سال است. بازار ارزیابی می کند که چه مقدار از ..."
+    "en": "We put four AI models to the test to see if they could save us money on a new TV.",
+    "fa": "ما چهار مدل هوش مصنوعی را برای آزمایش قرار دادیم تا ببینیم آیا می توانند ما را در یک تلویزیون جدید صرفه جویی کنند."
    }
   },
   {
    "id": "te16",
    "section": "tech",
    "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology",
-   "published": "2026-11-20T07:10:00+00:00",
+   "link": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=rss_Technology",
+   "published": "2026-11-21T00:00:00+00:00",
    "title": {
-    "en": "Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-    "fa": "تیم های نستله با مایکروسافت، بوستون دینامیک در AI در کارخانه ها و محصولات"
+    "en": "How to Survive the Coming Age of Everything Breaking",
+    "fa": "چگونه برای زنده ماندن عصر آینده همه چیز شکستن"
    },
    "summary": {
-    "en": "A new facility in Switzerland—the Deep Tech Center—will allow the company to use AI, smart sensors and robotics to improve efficiency in its operations.",
-    "fa": "یک مرکز جدید در سوئیس - مرکز تکنولوژی عمیق - اجازه می دهد تا شرکت از AI، سنسورهای هوشمند و رباتیک برای بهبود کارایی در عملیات خود استفاده کند."
+    "en": "We wanted a hyperconnected world and now we have to live in it.",
+    "fa": "ما می خواستیم یک جهان متصل و اکنون باید در آن زندگی کنیم."
    }
   },
   {
    "id": "te17",
    "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T02:54:40+00:00",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+   "published": "2026-11-20T22:51:40+00:00",
    "title": {
-    "en": "GTA 6 breaks records as estimated sales top $2.3bn",
-    "fa": "GTA 6 رکورد فروش خود را به قیمت 2.3 میلیارد دلار تخفیف می دهد"
+    "en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+    "fa": "یوتیوب در حال آماده شدن برای حل ادعاهای اعتیاد به رسانه های اجتماعی برای 3 میلیارد دلار است"
    },
    "summary": {
-    "en": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    "fa": "بازی های راک استار یک صبر ۱۳ ساله را به پایان رساند که انتظار می رود بزرگترین راه اندازی سرگرمی باشد."
+    "en": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would…",
+    "fa": "YouTube در حال آماده شدن برای پرداخت 3 میلیارد دلار به هزاران منطقه مدرسه است تا ادعا کند که \"طراحی پیشرفته\" آن به کودکان آسیب می رساند. منابع می گویند که یوتیوب به توافق «در اصل» رسیده است و این توافق می تواند..."
    }
   },
   {
    "id": "te18",
    "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-   "published": "2026-11-19T23:13:01+00:00",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+   "published": "2026-11-20T22:28:24+00:00",
    "title": {
-    "en": "Apple is hiring engineers to build its own AI agent",
-    "fa": "اپل در حال استخدام مهندسان برای ساخت عامل AI خود است"
+    "en": "Trump FCC declares California isn't allowed to enforce phone service rules",
+    "fa": "Trump FCC اعلام کرد که کالیفرنیا مجاز به اجرای قوانین خدمات تلفن نیست"
    },
    "summary": {
-    "en": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an…",
-    "fa": "اپل بر روی عامل AI خود کار می کند که می تواند طیف وسیعی از وظایف را برای شما انجام دهد، از جمله مرور وب، کار در سراسر برنامه ها، نوشتن کد و خدمات تماس. با توجه به یک لیست شغلی که توسط بلومبرگ کشف شده است، که می گوید اپل به دنبال یک ..."
+    "en": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+    "fa": "FCC قوانین دولتی را که نیاز به AT&T دارند تا خدمات تلفن خانگی را ارائه دهند، تخلیه می کند."
    }
   },
   {
    "id": "te19",
    "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-   "published": "2026-11-19T22:16:37+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+   "published": "2026-11-20T19:39:27+00:00",
    "title": {
-    "en": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-    "fa": "آمازون مبارزه با قانون حفاظت از تحویل با بنر صفحه اصلی، در برنامه پاپ آپ"
+    "en": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+    "fa": "نیسان سیستم داون مورد استفاده برای تعمیرات را پس از تلاش هک تعطیل می کند"
    },
    "summary": {
-    "en": "Amazon now uses its shopping platform for political purposes.",
-    "fa": "آمازون در حال حاضر از پلت فرم خرید خود برای اهداف سیاسی استفاده می کند."
+    "en": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
+    "fa": "قطع برق که یک هفته پیش آغاز شد، می تواند تعمیرات مربوط به وسایل نقلیه الکترونیکی و کلید را به تاخیر بیندازد."
    }
   },
   {
    "id": "te20",
    "section": "tech",
    "source": "MIT Technology Review",
-   "link": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-   "published": "2026-11-19T13:10:00+00:00",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "published": "2026-11-20T18:15:15+00:00",
    "title": {
-    "en": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-    "fa": "برچسب ها: یک کبد زنده، یک معامله باتری میلیارد دلاری و هیپنوتیزم AI"
+    "en": "The most misunderstood graph in AI just got a major update",
+    "fa": "اشتباه ترین گراف در AI فقط یک به روز رسانی بزرگ به دست آورد"
    },
    "summary": {
-    "en": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a…",
-    "fa": "این نسخه امروز از The Download است، خبرنامه هفته ای ما که یک دوز روزانه از آنچه در دنیای تکنولوژی اتفاق می افتد را فراهم می کند. کبد انسان در خارج از بدن به مدت هفت هفته محققان در استرالیا زنده نگه داشته شده است و ادعا می کنند که آنها یک ..."
+    "en": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The…",
+    "fa": "یک گزارش جدید از ارزیابی غیر انتفاعی AI METR نشان می دهد که برخی از قابلیت های AI همچنان در طول یک مسیر نمایی بهبود می یابد، اما همچنین نشان می دهد که مدل ها در کارهایی که نیاز به قضاوت دارند به اندازه برنامه نویسی خوب نیستند. ..."
    }
   },
   {
    "id": "ma21",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91635169/spacex-coreweave-problem",
-   "published": "2026-11-20T09:00:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/21/donorperfect-gofundme-pro-cyberattack-nonprofits-giving-tuesday/",
+   "published": "2026-11-21T09:33:00+00:00",
    "title": {
-    "en": "SpaceX has a CoreWeave problem that no one is talking about",
-    "fa": "اسپیس ایکس یک مشکل هسته ای دارد که هیچ کس درباره آن صحبت نمی کند."
+    "en": "Nonprofit fundraising platforms like GoFundMe Pro, DonorPerfect are under attack ahead of Giving Tuesday: It’s ‘like we were in the Situation Room’",
+    "fa": "سیستم عامل های غیر انتفاعی مانند GoFundMe Pro، DonorPerfect پیش از ارائه سه شنبه مورد حمله قرار می گیرند: \"این شبیه ما در اتاق موقعیت\""
    },
    "summary": {
-    "en": "After a no-good, very bad week for AI stocks, SpaceX gave the AI faithful—and all the Elon Musk acolytes—something to celebrate when it reported earnings on October 20. Its results beat analyst expectations across the board in almost every way, with revenue…",
-    "fa": "پس از یک هفته خوب و بسیار بد برای سهام AI، اسپیس ایکس به هوش مصنوعی وفادار بود و تمام ایلان ماسک به طور کاملتیس - چیزی برای جشن زمانی که درآمد در 20 اکتبر گزارش شده بود. نتایج آن انتظارات تحلیلگران را در سراسر هیئت مدیره تقریبا به هر طریق، با درآمد ..."
+    "en": "DonorPerfect took its software offline for 11,000 customers after an attack its president says used AI bots. GoFundMe says donor data was accessed on GoFundMe Pro.",
+    "fa": "DonorPerfect نرم افزار خود را به صورت آفلاین برای 11،000 مشتری پس از حمله رئیس جمهور خود می گوید استفاده از ربات های AI. GoFundMe می گوید داده های اهدا کننده در GoFundMe Pro قابل دسترسی است."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642211/social-security-administration-ssa-fund-benefits-payments-shorter-thanks-to-k-shaped-economy-wealth-inequality",
-   "published": "2026-11-20T09:00:00+00:00",
+   "link": "https://www.fastcompany.com/91645239/4-phases-of-becoming-a-great-leader",
+   "published": "2026-11-21T09:00:00+00:00",
    "title": {
-    "en": "Social Security’s lifespan is 25 years shorter thanks to the K-shaped economy: Report",
-    "fa": "طول عمر امنیت اجتماعی 25 سال کوتاه تر از اقتصاد شکل K است: گزارش"
+    "en": "4 phases of becoming a great leader",
+    "fa": "۴ مرحله تبدیل شدن به یک رهبر بزرگ"
    },
    "summary": {
-    "en": "The K-shaped economy strikes again—and this time it’s impacting the country’s ailing Social Security system. As you may have heard, Social Security’s trustees have estimated that unless the federal government acts soon, the retirement trust fund will become…",
-    "fa": "اقتصاد شکل K دوباره حمله می کند و این بار بر سیستم امنیت اجتماعی کشور تاثیر می گذارد. همانطور که ممکن است شنیده باشید، مطمئنان امنیت اجتماعی تخمین زده اند که اگر دولت فدرال به زودی عمل کند، صندوق اعتماد بازنشستگی تبدیل خواهد شد."
+    "en": "Below, Tony Martignetti shares four key insights from his new book, Illuminating Hidden Brilliance: The Power of Multidimensional Leadership in a One-Dimensional World . Martignetti is a leadership and workplace culture adviser, global keynote speaker…",
+    "fa": "در زیر، تونی مارتگیتی چهار بینش کلیدی از کتاب جدید خود را به اشتراک می گذارد: قدرت رهبری چند بعدی در یک جهان تک نفره. مارتگیتی یک مشاور فرهنگ رهبری و محل کار، سخنران کلیدی جهانی است."
    }
   },
   {
    "id": "ma23",
    "section": "management",
-   "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91644224/strict-liability-legal-standard-ai",
-   "published": "2026-11-20T09:00:00+00:00",
+   "source": "Fortune",
+   "link": "https://fortune.com/2026/11/21/jensen-huang-nvidia-replacement-founder-ceo/",
+   "published": "2026-11-21T08:00:00+00:00",
    "title": {
-    "en": "The legal standard that could help rein in AI",
-    "fa": "استاندارد قانونی که می تواند در AI کمک کند"
+    "en": "The Jensen Huang problem: Why CEOs who replace founders are more likely to flame out",
+    "fa": "مشکل جنسن هوانگ: چرا مدیران اجرایی که جایگزین بنیانگذاران می شوند بیشتر احتمال دارد که شعله ور شوند"
    },
    "summary": {
-    "en": "Some people have begun using the legal system to rein in AI companies and the harms they are creating. Cases are mounting. In October 2026, the parents of Bowen Wan sued OpenAI, charging that its ChatGPT agent may have instructed their daughter to stop taking…",
-    "fa": "برخی افراد شروع به استفاده از سیستم حقوقی برای شرکت های AI و آسیب هایی که ایجاد می کنند کرده اند. پرونده ها در حال نصب هستند. در اکتبر 2026، پدر و مادر بون وان از OpenAI شکایت کردند و ادعا می کردند که عامل ChatGPT ممکن است به دختر خود دستور دهد تا متوقف شود."
+    "en": "Successors to founder-CEOs are more likely than their peers to exit early, and few founders loom as large as the man who built the world’s AI chip giant.",
+    "fa": "جانشینان موسس-CEOs احتمال بیشتری نسبت به همتایان خود برای خروج از زود دارند و تعداد کمی از بنیانگذاران به اندازه مردی که غول تراشه هوش مصنوعی جهان را ساخت، بزرگ هستند."
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/20/bananas-tested-by-strong-el-nino-in-75-years/",
-   "published": "2026-11-20T08:06:00+00:00",
+   "link": "https://fortune.com/2026/11/21/tjmaxx-parent-company-tariff-refunds-employee-bonus-american-importers/",
+   "published": "2026-11-21T08:00:00+00:00",
    "title": {
-    "en": "Grocers sell bananas at 66 cents a pound to lure you in. What could be the strongest El Niño on record is testing that",
-    "fa": "Grocers فروش موز در 66 سنت یک پوند برای جذب شما. آنچه که می تواند قوی ترین ال نینو در رکورد باشد، آزمایش است."
+    "en": "TJMaxx’s parent company is spending one-third of its $463 million in tariff refunds on corporate bonuses—and it’s not the only one",
+    "fa": "شرکت پدر و مادر TJMaxx یک سوم از 463 میلیون دلار خود را صرف بازپرداخت تعرفه در پاداش های شرکت می کند و این تنها یک نیست."
    },
    "summary": {
-    "en": "Costa Rica wants growers paid nearly 10% more per box next year, and Ecuador has logged 851 floods since late August.",
-    "fa": "کاستاریکا می خواهد رشد کنندگان نزدیک به 10٪ بیشتر در هر جعبه در سال آینده پرداخت، و اکوادور از اواخر ماه اوت 851 سیل را وارد کرده است."
+    "en": "In total, $167 million of TJX’s total refunds will be spent on compensation and bonuses, according to its financial disclosures.",
+    "fa": "در مجموع، 167 میلیون دلار از کل بازپرداخت TJX بر جبران و پاداش، با توجه به افشای مالی آن صرف خواهد شد."
    }
   },
   {
    "id": "ma25",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/20/disney-espn-live-sports-3-billion-cost-cuts/",
-   "published": "2026-11-20T08:06:00+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
+   "published": "2026-11-21T06:00:00+00:00",
    "title": {
-    "en": "Disney’s sports profit jumped 53% as it bets on live games. It also wants $3 billion in cost cuts",
-    "fa": "سود ورزشی دیزنی 53 درصد افزایش یافت، زیرا در بازی های زنده شرط می گیرد. همچنین می خواهد 3 میلیارد دلار کاهش هزینه"
+    "en": "Your best people are training your AI. Pay them for it",
+    "fa": "بهترین افراد شما AI شما را آموزش می دهند. آن را برای آن پرداخت کنید."
    },
    "summary": {
-    "en": "ESPN’s first Super Bowl and a 24-team playoff anchor Disney’s sports push. A $3 billion savings plan, including more layoffs, will help pay for what comes next.",
-    "fa": "اولین Super Bowl ESPN و یک بازی ۲۴ نفره، لنگر دیزنی را فشار می دهد. یک برنامه پس انداز 3 میلیارد دلاری، از جمله اخراج بیشتر، به پرداخت هزینه های بعدی کمک خواهد کرد."
+    "en": "Early this year, we let every employee at ClickUp build their own AI agents and skills. Within months, we were running five agents for every employee, which felt like a transformation until we looked at the actual output and efficiency. In my own finance org…",
+    "fa": "در اوایل سال جاری، ما اجازه می دهیم هر کارمند در ClickUp، عوامل و مهارت های AI خود را بسازد. در عرض چند ماه، ما پنج عامل را برای هر کارمند اداره می کردیم که مانند یک تحول بود تا زمانی که به خروجی و کارایی واقعی نگاه کنیم. در امور مالی خودم ..."
    }
   },
   {
    "id": "ma26",
    "section": "management",
-   "source": "Fortune",
-   "link": "https://fortune.com/2026/11/20/attention-spans-move-iran-world-forever-changed-conflict-escalating/",
-   "published": "2026-11-20T08:05:00+00:00",
+   "source": "Fast Company",
+   "link": "https://www.fastcompany.com/91637814/bigwords-smartphone-sign-app",
+   "published": "2026-11-21T05:30:00+00:00",
    "title": {
-    "en": "As attention spans move on from Iran and oil, the world is forever changed and the conflict is escalating again",
-    "fa": "با توجه به حرکت ایران و نفت، جهان برای همیشه تغییر می کند و درگیری دوباره در حال افزایش است."
+    "en": "This free site turns your smartphone into an on-demand billboard",
+    "fa": "این سایت آزاد گوشی هوشمند شما را به یک بیلبورد در تقاضا تبدیل می کند"
    },
    "summary": {
-    "en": "Global oil demand is projected to peak by 2030 even as worldwide energy demand continues to skyrocket.",
-    "fa": "پیش بینی می شود تقاضای جهانی نفت تا سال ۲۰۳۰ به اوج خود برسد، حتی در حالی که تقاضای انرژی در سراسر جهان همچنان رو به افزایش است."
+    "en": "It may not come up often (or maybe it does!), but sometimes you can’t help but wish you made a poster. Maybe you want to express your nuanced opinions at a sporting event. Maybe you want to pick someone up at the airport, complete with the traditional name on…",
+    "fa": "این ممکن است اغلب (یا شاید این کار را انجام دهد!)، اما گاهی اوقات شما نمی توانید کمک کنید، اما آرزو کنید که یک پوستر درست کنید. شاید بخواهید نظرات ظریف خود را در یک رویداد ورزشی بیان کنید. شاید بخواهید کسی را در فرودگاه انتخاب کنید، با نام سنتی در ..."
    }
   },
   {
@@ -627,20 +627,35 @@
   {
    "id": "ma28",
    "section": "management",
-   "source": "MIT Sloan Management Review",
-   "link": "https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/",
-   "published": "2026-11-16T12:46:23+00:00",
+   "source": "McKinsey",
+   "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
+   "published": "",
    "title": {
-    "en": "The Silent Eldercare Crisis: How Leaders Can Help",
-    "fa": "بحران مراقبت از سالمندان: چگونه رهبران می توانند کمک کنند"
+    "en": "The new consolidation: M&A shifts in European consumer tech and media",
+    "fa": "تثبیت جدید: M&A در تکنولوژی مصرف کننده اروپا و رسانه ها تغییر می کند"
    },
    "summary": {
-    "en": "Andrew Baker/Ikon Images As of 2024, over 38 million Americans were providing unpaid care to an older adult. Almost two-thirds of them, 62%, were doing so while working. That means that 16% of all active U.S. workers were helping out an aging parent or loved…",
-    "fa": "تصاویر Andrew Baker / Ikon در سال ۲۰۲۴، بیش از ۳۸ میلیون آمریکایی به یک بزرگسال مسن تر مراقبت های بدون حقوق ارائه دادند. تقریبا دو سوم آنها، 62 درصد، در حین کار این کار را انجام می دادند. این بدان معنی است که 16 درصد از کارگران فعال ایالات متحده به والدین سالخورده یا عزیزان خود کمک می کردند."
+    "en": "As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and where the next transactions are most likely to emerge.",
+    "fa": "همانطور که چشم انداز رسانه های اروپا در حال تکامل است، تجزیه و تحلیل ما نشان می دهد که نمونه های معامله تثبیت و در آن معاملات بعدی به احتمال زیاد ظهور می کنند."
    }
   },
   {
    "id": "ma29",
+   "section": "management",
+   "source": "McKinsey",
+   "link": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
+   "published": "",
+   "title": {
+    "en": "Physical AI is breaking out of the box",
+    "fa": "هوش مصنوعی فیزیکی از جعبه خارج می شود"
+   },
+   "summary": {
+    "en": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded technologies.",
+    "fa": "به عنوان مقیاس های فیزیکی AI، بزرگترین فرصت ها ممکن است به خوبی فراتر از برنامه های قابل مشاهده امروز و فن آوری های با بهترین بودجه گسترش یابد."
+   }
+  },
+  {
+   "id": "ma30",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
@@ -655,108 +670,93 @@
    }
   },
   {
-   "id": "ma30",
-   "section": "management",
-   "source": "McKinsey",
-   "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future",
-   "published": "",
-   "title": {
-    "en": "Building pharma’s laboratory of the future",
-    "fa": "ساخت آزمایشگاه دارویی آینده"
-   },
-   "summary": {
-    "en": "Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&D productivity trap.",
-    "fa": "رهبری سازمان های بیوتکنولوژی، ادغام هوش مصنوعی و اتوماسیون فیزیکی به آزمایشگاه های خود برای فرار از تله بهره وری R&D است."
-   }
-  },
-  {
    "id": "tr31",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-   "published": "2026-11-20T10:08:47+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+   "published": "2026-11-21T06:32:26+00:00",
    "title": {
-    "en": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
-    "fa": "سهام Anthropic 6٪ در preMarket در میان فروش AI سقوط به عنوان Nvidia، سهام AMD کاهش می یابد"
+    "en": "The dead hand of history weighs on Deutsche Bank",
+    "fa": "دست مرده تاریخ در بانک دویچه"
    },
    "summary": {
-    "en": "Anthropic soared 17% in its first day of trading on Thursday.",
-    "fa": "Anthropic در روز اول تجارت خود در روز پنجشنبه 17 درصد افزایش یافت."
+    "en": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
+    "fa": "بانکداران ممکن است از زمان به زمان به یاد داشته باشند که تصمیم می گیرند که به اطراف خود برسند."
    }
   },
   {
    "id": "tr32",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-   "published": "2026-11-20T09:56:03+00:00",
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "published": "2026-11-21T06:00:02+00:00",
    "title": {
-    "en": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-    "fa": "کوشنر می گوید که روسیه با ایده تضمین های امنیتی مانند ناتو برای اوکراین «مبار» است."
+    "en": "How China is using summits to expand its global influence",
+    "fa": "چین چگونه از نشست ها برای گسترش نفوذ جهانی خود استفاده می کند"
    },
    "summary": {
-    "en": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
-    "fa": "کوشنر گفت که دونالد ترامپ به چنین تضمینی باز است، اما شکل آن و اینکه آیا روسیه و اوکراین آن را می پذیرند، مشخص نیست."
+    "en": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+    "fa": "شی جین پینگ، رئیس جمهور چین به هماهنگی با یک عکس دیگر از اهمیت جهانی کمک کرده است."
    }
   },
   {
    "id": "tr33",
    "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/6333f2e6-98da-4491-bd2e-30237d7bfbf5?syn-25a6b1a6=1",
-   "published": "2026-11-20T08:33:59+00:00",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+   "published": "2026-11-21T06:00:02+00:00",
    "title": {
-    "en": "White House replaces top cyber security official",
-    "fa": "کاخ سفید جایگزین مقامات امنیتی سایبری شد"
+    "en": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "fa": "تجزیه و تحلیل اولیه در vortex قطبی در حال حاضر سهام گاز را از دست داده است"
    },
    "summary": {
-    "en": "Kirsten Davies joins from the Pentagon to succeed Sean Cairncross after string of online outages",
-    "fa": "Kirsten Davies از پنتاگون برای موفقیت شان Cairncross پس از قطع نامه های آنلاین"
+    "en": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+    "fa": "آب و هوای سرد و سرعت باد پایین می تواند بازار گاز اروپا را تحت فشار قرار دهد، جایی که ذخیره سازی زمستان در پایین ترین سطح آن در بیش از یک دهه آغاز شد."
    }
   },
   {
    "id": "tr34",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3",
-   "published": "2026-11-20T07:49:41+00:00",
+   "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
+   "published": "2026-11-21T05:00:36+00:00",
    "title": {
-    "en": "Burnham to agree Brexit ‘reset’ deal in push for closer EU ties",
-    "fa": "برنهام برای توافق بر سر توافق Brexit \"تنظیم\" برای روابط نزدیک تر اتحادیه اروپا"
+    "en": "The manufacturing of novelty",
+    "fa": "تولید تازگی"
    },
    "summary": {
-    "en": "Agreement would lead to closer ties but Brussels insists implementation rests on UK agreeing to cut tuition fees for EU students",
-    "fa": "موافقت نامه منجر به روابط نزدیک تر می شود، اما بروکسل اصرار دارد که پیاده سازی در انگلستان موافقت کند تا هزینه های تحصیل برای دانشجویان اتحادیه اروپا را کاهش دهد."
+    "en": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
+    "fa": "Polyamory، Altruism موثر، اجتناب از تقاضا - یک جامعه رکود نام جدید به چیزهای قدیمی می دهد"
    }
   },
   {
    "id": "tr35",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/meta-strikes-deals-to-boost-low-carbon-materials-production/875095/",
-   "published": "2026-11-19T17:30:00+00:00",
+   "link": "https://www.supplychaindive.com/news/walmarts-sub-30-minute-delivery-volume-surges-in-q3/875339/",
+   "published": "2026-11-20T19:38:00+00:00",
    "title": {
-    "en": "Meta strikes deals to boost low-carbon materials production",
-    "fa": "حملات متا برای افزایش تولید مواد کم کربن"
+    "en": "Walmart’s sub-30-minute delivery volume surges in Q3",
+    "fa": "حجم تحویل زیر 30 دقیقه ای Walmart در Q3"
    },
    "summary": {
-    "en": "The multiyear agreements would cover concrete, plastics and steel and help offset emissions in Meta’s data center supply chain, the Facebook parent company said.",
-    "fa": "توافق های چند ساله شامل بتن، پلاستیک و فولاد و کمک به جبران انتشار گازهای گلخانه ای در زنجیره تامین اطلاعات متا، شرکت مادر فیس بوک گفت."
+    "en": "The retailer could speed up deliveries even further with faster pick times at stores, U.S. President and CEO David Guggina said.",
+    "fa": "خرده فروش می تواند تحویل را حتی با زمان انتخاب سریع تر در فروشگاه ها، رئیس جمهور ایالات متحده و مدیر عامل دیوید گوتگینا، سرعت بخشد."
    }
   },
   {
    "id": "tr36",
    "section": "trade",
    "source": "Supply Chain Dive",
-   "link": "https://www.supplychaindive.com/news/honda-invests-462m-in-alabama-plant-to-boost-production/875189/",
-   "published": "2026-11-19T16:33:34+00:00",
+   "link": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
+   "published": "2026-11-20T15:19:00+00:00",
    "title": {
-    "en": "Honda invests $462M in Alabama plant to boost production",
-    "fa": "هوندا 462 میلیون دلار در کارخانه آلاباما سرمایه گذاری می کند تا تولید را افزایش دهد"
+    "en": "Nvidia gets more supplier capacity to meet AI demand",
+    "fa": "Nvidia ظرفیت تامین کننده بیشتری برای پاسخگویی به تقاضای AI دریافت می کند"
    },
    "summary": {
-    "en": "The automaker will use the funds to increase production capacity of high-demand models.",
-    "fa": "این خودروساز از وجوه برای افزایش ظرفیت تولید مدل های با تقاضای بالا استفاده خواهد کرد."
+    "en": "The chipmaker unveiled the latest production agreements a month after securing other deals from partners.",
+    "fa": "این تراشه ساز آخرین توافق های تولید را در ماه پس از تضمین معاملات دیگر از طرف شرکا اعلام کرد."
    }
   },
   {
@@ -793,11 +793,11 @@
    "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/editor-s-picks/interview/us-china-stability-can-t-rely-on-bilateral-summits-warns-amcham-head",
+   "link": "https://asia.nikkei.com/business/companies/japan-stamp-maker-stomps-into-ai-realm-by-authenticating-videos-on-x",
    "published": "",
    "title": {
-    "en": "US-China stability can't rely on bilateral summits, warns AmCham head",
-    "fa": "ثبات آمریکا و چین نمی تواند به نشست های دو جانبه تکیه کند و به سرم هشدار دهد"
+    "en": "Japan stamp maker stomps into AI realm by authenticating videos on X",
+    "fa": "سازنده ژاپنی تمبر به قلمرو AI با معتبر کردن فیلم ها در X"
    },
    "summary": {
     "en": "",
@@ -808,11 +808,11 @@
    "id": "tr40",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/technology/vietnam-shifts-fdi-focus-from-jobs-and-factories-to-technology2",
+   "link": "https://asia.nikkei.com/spotlight/comment/indonesian-leader-chases-sukarno-s-phantom-with-defiant-posture",
    "published": "",
    "title": {
-    "en": "Vietnam shifts FDI focus from jobs and factories to technology",
-    "fa": "ویتنام تمرکز FDI را از مشاغل و کارخانه ها به تکنولوژی تغییر می دهد"
+    "en": "Indonesian leader chases Sukarno's phantom with defiant posture",
+    "fa": "رهبر اندونزیایی شبح Sukarno را با حالت مخالف دنبال می کند"
    },
    "summary": {
     "en": "",
