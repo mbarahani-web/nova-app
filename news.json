@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T10:08:56+00:00",
- "date": "2026-11-21",
+ "generated_at": "2026-11-22T10:11:35+00:00",
+ "date": "2026-11-22",
  "translated": true,
  "translator": "argos",
  "translator_error": "",
@@ -149,7 +149,7 @@
    "section": "management",
    "source": "MIT Sloan Management Review",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "dropped": 0,
    "error": ""
   },
@@ -223,120 +223,120 @@
    "id": "ec1",
    "section": "economy",
    "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-   "published": "2026-11-21T10:00:25+00:00",
+   "link": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+   "published": "2026-11-22T10:02:21+00:00",
    "title": {
-    "en": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
-    "fa": "چرا نوستالژی برای Tamagotchis، Virtual Pets، نمی میرد"
+    "en": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+    "fa": "Procter & Gamble برای افزایش تغییرات کارخانه بدون انسان برای کاهش هزینه ها"
    },
    "summary": {
-    "en": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
-    "fa": "نسل هزاره به تماس با اندازه جیبی پاسخ می دهند که باعث احساس 30 سال پیش شد. اما نسل Zers نیز وجود دارد."
+    "en": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+    "fa": "سازنده Pampers و حوله کاغذی Bounty 15 سایت قادر به اجرای تغییرات ناخواسته است، با برنامه هایی برای اضافه کردن بیشتر در 2027."
    }
   },
   {
    "id": "ec2",
    "section": "economy",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/how-ai-is-forcing-china-to-reshape-industrial-policy",
-   "published": "2026-11-21T09:00:13+00:00",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+   "published": "2026-11-22T10:02:11+00:00",
    "title": {
-    "en": "How AI Is Forcing China to Reshape Industrial Policy",
-    "fa": "چگونه AI چین را به سیاست صنعتی Reshape وادار می کند"
+    "en": "The Case of the Idle Assistants",
+    "fa": "نام فیلم: The Case of the Idle Assistants"
    },
    "summary": {
-    "en": "Kyle Chan on Beijing's plan to become technologically self-reliant.",
-    "fa": "کایل چان در برنامه پکن برای تبدیل شدن به تکنولوژی خود وابسته است."
+    "en": "Plus: Can I lie about having kids, and do I have to use my personal phone?",
+    "fa": "آیا می توانم درباره بچه دار شدن دروغ بگویم و آیا باید از تلفن شخصی ام استفاده کنم؟"
    }
   },
   {
    "id": "ec3",
    "section": "economy",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/europe-s-power-market-is-flashing-a-warning-to-its-economy",
-   "published": "2026-11-21T09:00:00+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate",
+   "published": "2026-11-22T10:00:00+00:00",
    "title": {
-    "en": "Europe’s Power Market Is Flashing a Warning to Its Economy",
-    "fa": "بازار قدرت اروپا هشداری به اقتصاد آن می دهد"
+    "en": "UBS Capital Fight Enters Final Round as Lawmakers Resume Debate",
+    "fa": "UBS Capital Battle وارد مرحله نهایی به عنوان قانون گذاران بحث می شود"
    },
    "summary": {
-    "en": "At a factory in Germany, there are increasingly hours when it is simply too expensive to produce steel.",
-    "fa": "در کارخانه ای در آلمان، ساعاتی به طور فزاینده ای وجود دارد که برای تولید فولاد بسیار گران است."
+    "en": "The argument over UBS Group AG’s future capital requirements is headed for a showdown, with the odds tilted toward defeat for the global wealth manager.",
+    "fa": "بحث در مورد الزامات سرمایه آینده UBS گروه AG به دنبال یک نمایش است، با اختلاف نظر به شکست برای مدیر ثروت جهانی."
    }
   },
   {
    "id": "ec4",
    "section": "economy",
    "source": "The Guardian",
-   "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-   "published": "2026-11-21T08:00:53+00:00",
+   "link": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+   "published": "2026-11-22T08:00:21+00:00",
    "title": {
-    "en": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-    "fa": "خروج تلگراف نگرانی در مورد مسیر تحت مالکیت Axel Springer"
+    "en": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+    "fa": "نشان داده شده است: پروفایل های کارشناسان انگلستان در مورد آسیب قمار به سرقت رفته برای فشار کازینو های آنلاین غیرقانونی"
    },
    "summary": {
-    "en": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to…",
-    "fa": "خودی ها می گویند که آنها فقط برش ها را می بینند، بدون هیچ استراتژی طولانی مدت قابل تشخیص، از آنجایی که خرید عنوان توسط شرکت رسانه های آلمانی، شکافی از خروج های برجسته و سال های مبارزه عمومی بر مالکیت آن تضمین کرده است که اتاق خبر تلگراف غریبه نیست."
+    "en": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authorities Prof Heather Wardle has dedicated 20 years to researching the harm caused by gambling. So the University of Glasgow social…",
+    "fa": "یافته های برجسته تاکتیک های بی نظیر مورد استفاده اپراتورهای در بازار غیرقانونی چند میلیارد پوند و چالش های مواجه با مقامات پروفسور هدر واردل 20 سال برای تحقیق در مورد آسیب ناشی از قمار اختصاص داده است. دانشگاه گلاسکو اجتماعی ..."
    }
   },
   {
    "id": "ec5",
    "section": "economy",
-   "source": "The Guardian",
-   "link": "https://www.theguardian.com/money/2026/nov/21/ways-to-shield-savings-pensions-from-uk-inflation-cost-of-living",
-   "published": "2026-11-21T07:00:52+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says",
+   "published": "2026-11-22T08:00:00+00:00",
    "title": {
-    "en": "‘Like an invisible stealth tax’: ways to shield your cash from UK inflation",
-    "fa": "مانند یک مالیات مخفی نامرئی: راه هایی برای محافظت از پول نقد خود از تورم انگلستان"
+    "en": "Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says",
+    "fa": "تورم سوئیس در حال افزایش است، معاون رئیس جمهور SNB مارتین می گوید"
    },
    "summary": {
-    "en": "With living costs set to rise higher in 2027, here’s how you can help your savings and pension keep up with soaring prices For many of us, it is when we go to the supermarket that we really notice the impact of inflation. The trolley-load of groceries that…",
-    "fa": "با افزایش هزینه های زندگی در سال 2027، در اینجا چگونگی کمک به پس انداز و بازنشستگی خود را با قیمت های سنگین نگه دارید برای بسیاری از ما، زمانی است که به سوپر مارکت می رویم که واقعا متوجه تاثیر تورم می شویم. زباله های مواد غذایی که ..."
+    "en": "Swiss National Bank Vice President Antoine Martin warned that consumer-price growth has accelerated since the central bank’s September interest rate decision.",
+    "fa": "آنتونی مارتین، معاون بانک ملی سوئیس هشدار داد که رشد قیمت مصرف کننده از زمان تصمیم نرخ بهره بانک مرکزی در ماه سپتامبر تسریع شده است."
    }
   },
   {
    "id": "ec6",
    "section": "economy",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-   "published": "2026-11-21T05:13:03+00:00",
+   "source": "BBC News",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "published": "2026-11-22T07:22:05+00:00",
    "title": {
-    "en": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-    "fa": "آلیس هوانگ، متهم به جاسوسی در مدیرعامل Nvidia، به شرکت هایی با روابط با ارتش چین متصل است"
+    "en": "MP criticises Guernsey and Jersey company ownership register plans",
+    "fa": "نمایندگان مجلس از ثبت نام شرکت Guernsey و Jersey انتقاد می کنند"
    },
    "summary": {
-    "en": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-    "fa": "شرکت های مرتبط با آلیس هوانگ، زن در قلب رسوایی Nvidia، بخشی از شبکه ای از شرکت های فناوری چینی و پیمانکاران دفاعی هستند که به قدرت محاسباتی پیشرفته نیاز دارند."
+    "en": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+    "fa": "سر اندرو میچل می گوید دسترسی باید برای افرادی که با جرایم مالی مقابله می کنند آسان تر باشد."
    }
   },
   {
    "id": "ec7",
    "section": "economy",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
-   "published": "2026-11-21T02:16:00+00:00",
+   "source": "The Guardian",
+   "link": "https://www.theguardian.com/money/2026/nov/22/black-friday-scam-deals--ai-fake-storefront",
+   "published": "2026-11-22T07:00:20+00:00",
    "title": {
-    "en": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
-    "fa": "بازی سرزنش شده است بیش از Anthropic معاملات Debutbulent"
+    "en": "Unreal deals: the scam websites targeting Black Friday bargain hunters",
+    "fa": "معاملات غیرواقعی: وب سایت های کلاهبرداری که شکارچیان سیاه را هدف قرار می دهند"
    },
    "summary": {
-    "en": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price.",
-    "fa": "سهام غول هوش مصنوعی در روز دوم تجارت خود، در یک نقطه به 5 سنت بالاتر از قیمت IPO آن کاهش می یابد."
+    "en": "AI is being used to clone retailers’ sites and ‘poison’ chatbots into recommending them, experts say Black Friday is coming so you search online for the coat you have been after in the hope you can get it at a good price. Within a few minutes, you find just…",
+    "fa": "AI برای کلون کردن سایت های خرده فروشان و chatbots “poison” برای توصیه آنها استفاده می شود، کارشناسان می گویند جمعه سیاه در حال آمدن است، بنابراین شما به صورت آنلاین برای کت شما پس از آن بوده اند، به این امید که شما می توانید آن را با قیمت خوبی دریافت کنید. در عرض چند دقیقه، فقط ..."
    }
   },
   {
    "id": "ec8",
    "section": "economy",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-20T22:53:24+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=pls_whats_news_us_business_f",
+   "published": "2026-11-22T03:00:00+00:00",
    "title": {
-    "en": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-    "fa": "GTA 6 رکورد فروش خود را به قیمت 2.3 میلیارد دلار تخفیف می دهد"
+    "en": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
+    "fa": "باندهای دارویی مکزیک یک گاو جدید کش در Microfinancing پیدا کرده اند"
    },
    "summary": {
-    "en": "The mammoth figure surpasses every video game launch and single-day film box office record.",
-    "fa": "بازی های راک استار یک صبر ۱۳ ساله را به پایان رساند که انتظار می رود بزرگترین راه اندازی سرگرمی باشد."
+    "en": "Narcotraffickers are forcibly taking over small lenders and jacking up interest rates to diversify their income.",
+    "fa": "ناکوتچیان به زور وام دهندگان کوچک را می گیرند و نرخ های بهره را برای تنوع درآمد خود بالا می برند."
    }
   },
   {
@@ -372,50 +372,125 @@
   {
    "id": "te11",
    "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
-   "published": "2026-11-21T10:02:09+00:00",
+   "source": "Bloomberg",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/china-objects-to-us-curbs-on-telecoms-access-to-phone-numbers",
+   "published": "2026-11-22T02:44:26+00:00",
    "title": {
-    "en": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
-    "fa": "عصر جدید هرج و مرج A.I.-Driven Chaos این ممکن است فقط پیشرفت باشد."
+    "en": "China Objects to US Curbs on Telecoms’ Access to Phone Numbers",
+    "fa": "چین به نقاط ضعف ایالات متحده در دسترسی مخابرات به شماره تلفن"
    },
    "summary": {
-    "en": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
-    "fa": "اگر هوش مصنوعی منجر به قطع برق، حملات سایبری و بیشتر شود، با تاریخ سازگار است، به این معنی که نشان می دهد که چگونه نوآوری های جدید اغلب قبل از اینکه زندگی را بهتر کنند، شکست فاجعه بار ایجاد می کنند."
+    "en": "China urged the US to withdraw a measure barring its three largest telecoms from directly obtaining US phone numbers, saying the action violates principles of nondiscrimination and fair competition.",
+    "fa": "چین از ایالات متحده خواست تا سه بزرگترین مخابرات خود را از به دست آوردن مستقیم شماره تلفن های آمریکا عقب نشینی کند و گفت این اقدام ناقض اصول عدم تبعیض و رقابت منصفانه است."
    }
   },
   {
    "id": "te12",
    "section": "tech",
    "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
-   "published": "2026-11-21T09:12:17+00:00",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+   "published": "2026-11-22T02:37:31+00:00",
    "title": {
-    "en": "How AI Is Reshaping China's Industrial Policy",
-    "fa": "چگونه AI تغییر سیاست صنعتی چین"
+    "en": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+    "fa": "جاسوسی استرالیا از مرکز داده، خطرات AI، گزارش های سن"
    },
    "summary": {
-    "en": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High…",
-    "fa": "آیا شرکت های فناوری چینی می توانند به کشور در دستیابی به اعتماد به نفس فن آوری در حالی که در مسابقه سلاح های AI نگه دارید، کمک کنند؟ در این قسمت، ما با کایل چان صحبت می کنیم، همکار در موسسه بروکینگز جان L. Thornton چین مرکز و نویسنده از بالا ..."
+    "en": "Australia’s spy chief said that data centers and artificial intelligence risk exposing the nation to foreign interference and malicious state actors, according to an interview in The Age Sunday.",
+    "fa": "رئیس جاسوسی استرالیا گفت که مراکز داده و خطر هوش مصنوعی، ملت را در معرض دخالت خارجی و بازیگران دولتی مخرب قرار می دهند، طبق مصاحبه ای در عصر یکشنبه."
    }
   },
   {
    "id": "te13",
    "section": "tech",
-   "source": "Bloomberg",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
-   "published": "2026-11-21T07:53:21+00:00",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
+   "published": "2026-11-22T02:00:00+00:00",
    "title": {
-    "en": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
-    "fa": "تایوانی های کوتاه فروش پس از به اشتراک گذاشتن Plunge در مورد AI"
+    "en": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+    "fa": "انجمن آلیس هوانگ متهم به Funneling Nvidia Chips به چین"
    },
    "summary": {
-    "en": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
-    "fa": "تایوان محدودیت های گسترده ای در فروش سهام محلی دارد و می گوید که سهام خرید کرده است و تلاش برای احیای اعتماد پس از شاخص معیار جزیره بدترین سقوط هفتگی آن در 35 سال گذشته است."
+    "en": "The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.",
+    "fa": "متهم در مورد قاچاق تراشه با شریک عاشقانه جنسن هوانگ کار می کرد."
    }
   },
   {
    "id": "te14",
+   "section": "tech",
+   "source": "The Wall Street Journal",
+   "link": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_Technology",
+   "published": "2026-11-22T02:00:00+00:00",
+   "title": {
+    "en": "The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+    "fa": "انجمن آلیس هوانگ متهم به Funneling Nvidia Chips به چین"
+   },
+   "summary": {
+    "en": "The defendant in a case involving chip smuggling worked with Jensen Huang’s romantic partner.",
+    "fa": "متهم در مورد قاچاق تراشه با شریک عاشقانه جنسن هوانگ کار می کرد."
+   }
+  },
+  {
+   "id": "te15",
+   "section": "tech",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+   "published": "2026-11-22T01:05:28+00:00",
+   "title": {
+    "en": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+    "fa": "چرا نوستالژی برای Tamagotchis، Virtual Pets، نمی میرد"
+   },
+   "summary": {
+    "en": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+    "fa": "نسل هزاره به تماس با اندازه جیبی پاسخ می دهند که باعث احساس 30 سال پیش شد. اما نسل Zers نیز وجود دارد."
+   }
+  },
+  {
+   "id": "te16",
+   "section": "tech",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "published": "2026-11-21T22:12:41+00:00",
+   "title": {
+    "en": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+    "fa": "Godzilla Minus Zero به فهرست دنباله های واقعا ستاره ای پیوست"
+   },
+   "summary": {
+    "en": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+    "fa": "کارگردان Takashi Yamazaki با سوراخ کردن گودزیلا در برابر یکی از بزرگترین دشمنان هیولا"
+   }
+  },
+  {
+   "id": "te17",
+   "section": "tech",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "published": "2026-11-21T21:59:31+00:00",
+   "title": {
+    "en": "Amazon is complaining about NYC Council on shipping labels, too",
+    "fa": "آمازون از شورای نیویورک در برچسب های حمل و نقل شکایت می کند."
+   },
+   "summary": {
+    "en": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act…",
+    "fa": "آمازون جایی را که در مبارزه با شورای شهر نیویورک و قانون حفاظت از تحویل ناشناخته است، ترک نمی کند. این شرکت در حال حاضر بر روی محموله هایی که ادعا می کنند شورای می تواند تا 5 دلار به هر سفارش آمازون اضافه کند، برچسب می زند. قانون حفاظت از تحویل ..."
+   }
+  },
+  {
+   "id": "te18",
+   "section": "tech",
+   "source": "The New York Times",
+   "link": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+   "published": "2026-11-21T19:12:00+00:00",
+   "title": {
+    "en": "G.T.A. VI Is a Monumental Human Achievement",
+    "fa": "G.T.A. VI یک موفقیت انسانی است"
+   },
+   "summary": {
+    "en": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
+    "fa": "Anthropic عمومی است، Jensen Huang می خواهد در Nvidia بازگشت، و به نظر می رسد پچ های نرم افزاری همه چیز را شکستن. اما اول، بیایید در مورد G.T.A صحبت کنیم."
+   }
+  },
+  {
+   "id": "te19",
    "section": "tech",
    "source": "BBC News",
    "link": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
@@ -427,81 +502,6 @@
    "summary": {
     "en": "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.",
     "fa": "Alasdair Keane در ناپل است که بررسی می کند که چگونه تکنولوژی در حال تبدیل شدن به مسابقه جام آمریکا است."
-   }
-  },
-  {
-   "id": "te15",
-   "section": "tech",
-   "source": "BBC News",
-   "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-   "published": "2026-11-21T00:06:11+00:00",
-   "title": {
-    "en": "Can AI really help spot Black Friday deals? We put it to the test",
-    "fa": "آیا AI واقعا می تواند به شناسایی معاملات جمعه سیاه کمک کند؟ ما آن را در آزمون قرار دادیم."
-   },
-   "summary": {
-    "en": "We put four AI models to the test to see if they could save us money on a new TV.",
-    "fa": "ما چهار مدل هوش مصنوعی را برای آزمایش قرار دادیم تا ببینیم آیا می توانند ما را در یک تلویزیون جدید صرفه جویی کنند."
-   }
-  },
-  {
-   "id": "te16",
-   "section": "tech",
-   "source": "The Wall Street Journal",
-   "link": "https://www.wsj.com/tech/tech-breakdowns-flights-cyber-security-f6ab51fd?mod=rss_Technology",
-   "published": "2026-11-21T00:00:00+00:00",
-   "title": {
-    "en": "How to Survive the Coming Age of Everything Breaking",
-    "fa": "چگونه برای زنده ماندن عصر آینده همه چیز شکستن"
-   },
-   "summary": {
-    "en": "We wanted a hyperconnected world and now we have to live in it.",
-    "fa": "ما می خواستیم یک جهان متصل و اکنون باید در آن زندگی کنیم."
-   }
-  },
-  {
-   "id": "te17",
-   "section": "tech",
-   "source": "The Verge",
-   "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-   "published": "2026-11-20T22:51:40+00:00",
-   "title": {
-    "en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-    "fa": "یوتیوب در حال آماده شدن برای حل ادعاهای اعتیاد به رسانه های اجتماعی برای 3 میلیارد دلار است"
-   },
-   "summary": {
-    "en": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would…",
-    "fa": "YouTube در حال آماده شدن برای پرداخت 3 میلیارد دلار به هزاران منطقه مدرسه است تا ادعا کند که \"طراحی پیشرفته\" آن به کودکان آسیب می رساند. منابع می گویند که یوتیوب به توافق «در اصل» رسیده است و این توافق می تواند..."
-   }
-  },
-  {
-   "id": "te18",
-   "section": "tech",
-   "source": "Ars Technica",
-   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-   "published": "2026-11-20T22:28:24+00:00",
-   "title": {
-    "en": "Trump FCC declares California isn't allowed to enforce phone service rules",
-    "fa": "Trump FCC اعلام کرد که کالیفرنیا مجاز به اجرای قوانین خدمات تلفن نیست"
-   },
-   "summary": {
-    "en": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-    "fa": "FCC قوانین دولتی را که نیاز به AT&T دارند تا خدمات تلفن خانگی را ارائه دهند، تخلیه می کند."
-   }
-  },
-  {
-   "id": "te19",
-   "section": "tech",
-   "source": "The New York Times",
-   "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
-   "published": "2026-11-20T19:39:27+00:00",
-   "title": {
-    "en": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
-    "fa": "نیسان سیستم داون مورد استفاده برای تعمیرات را پس از تلاش هک تعطیل می کند"
-   },
-   "summary": {
-    "en": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
-    "fa": "قطع برق که یک هفته پیش آغاز شد، می تواند تعمیرات مربوط به وسایل نقلیه الکترونیکی و کلید را به تاخیر بیندازد."
    }
   },
   {
@@ -523,109 +523,94 @@
    "id": "ma21",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/21/donorperfect-gofundme-pro-cyberattack-nonprofits-giving-tuesday/",
-   "published": "2026-11-21T09:33:00+00:00",
+   "link": "https://fortune.com/2026/11/22/sephora-ceo-declined-role-dress-code-monochrome/",
+   "published": "2026-11-22T09:00:00+00:00",
    "title": {
-    "en": "Nonprofit fundraising platforms like GoFundMe Pro, DonorPerfect are under attack ahead of Giving Tuesday: It’s ‘like we were in the Situation Room’",
-    "fa": "سیستم عامل های غیر انتفاعی مانند GoFundMe Pro، DonorPerfect پیش از ارائه سه شنبه مورد حمله قرار می گیرند: \"این شبیه ما در اتاق موقعیت\""
+    "en": "Sephora’s CEO initially turned down an entry-level job at the company because she could only wear black, white, or gray to the office",
+    "fa": "مدیر عامل شرکت Sephora در ابتدا یک شغل سطح ورودی را در شرکت کاهش داد، زیرا او فقط می تواند سیاه، سفید یا خاکستری را به دفتر کند."
    },
    "summary": {
-    "en": "DonorPerfect took its software offline for 11,000 customers after an attack its president says used AI bots. GoFundMe says donor data was accessed on GoFundMe Pro.",
-    "fa": "DonorPerfect نرم افزار خود را به صورت آفلاین برای 11،000 مشتری پس از حمله رئیس جمهور خود می گوید استفاده از ربات های AI. GoFundMe می گوید داده های اهدا کننده در GoFundMe Pro قابل دسترسی است."
+    "en": "Caught between planning cigarette sales and wearing monochrome to the office, Sephora CEO Artemis Patrick chose the former.",
+    "fa": "بین برنامه ریزی فروش سیگار و پوشیدن مونوکروم به دفتر، مدیر عامل Sephora آرتمیس پاتریک سابق را انتخاب کرد."
    }
   },
   {
    "id": "ma22",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91645239/4-phases-of-becoming-a-great-leader",
-   "published": "2026-11-21T09:00:00+00:00",
+   "link": "https://www.fastcompany.com/91642881/4-ways-i-gave-my-employees-more-time-off-without-sacrificing-results",
+   "published": "2026-11-22T06:00:00+00:00",
    "title": {
-    "en": "4 phases of becoming a great leader",
-    "fa": "۴ مرحله تبدیل شدن به یک رهبر بزرگ"
+    "en": "4 ways I gave my employees more time off without sacrificing results",
+    "fa": "۴ راه که به کارمندانم وقت بیشتری دادم بدون اینکه نتایج را قربانی کنم"
    },
    "summary": {
-    "en": "Below, Tony Martignetti shares four key insights from his new book, Illuminating Hidden Brilliance: The Power of Multidimensional Leadership in a One-Dimensional World . Martignetti is a leadership and workplace culture adviser, global keynote speaker…",
-    "fa": "در زیر، تونی مارتگیتی چهار بینش کلیدی از کتاب جدید خود را به اشتراک می گذارد: قدرت رهبری چند بعدی در یک جهان تک نفره. مارتگیتی یک مشاور فرهنگ رهبری و محل کار، سخنران کلیدی جهانی است."
+    "en": "A decade ago, I couldn’t have told you the last time I took significant time off from work . I wore “busy” like a badge of honor. As the business owner, I set the tone for the people on my team. Pushing ourselves to do more and work harder was woven into the…",
+    "fa": "یک دهه پیش، نمی توانستم به شما بگویم آخرین باری که زمان زیادی را از کار گرفتم. من «بوسی» مانند یک نشان افتخار می پوشم. به عنوان صاحب کسب و کار، من لحن را برای مردم در تیم خود تنظیم کردم. فشار دادن به خودمان برای انجام بیشتر و سخت تر کار کردن در ..."
    }
   },
   {
    "id": "ma23",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/21/jensen-huang-nvidia-replacement-founder-ceo/",
-   "published": "2026-11-21T08:00:00+00:00",
+   "link": "https://fortune.com/2026/11/21/stock-market-correction-sp500-2027-forecasts-ai-boom-fed-rate-hikes/",
+   "published": "2026-11-22T00:02:17+00:00",
    "title": {
-    "en": "The Jensen Huang problem: Why CEOs who replace founders are more likely to flame out",
-    "fa": "مشکل جنسن هوانگ: چرا مدیران اجرایی که جایگزین بنیانگذاران می شوند بیشتر احتمال دارد که شعله ور شوند"
+    "en": "Stock market correction? Whatever — Wall Street is bullish on 2027, and one chief investment officer sees the S&P 500 soaring 45% to 10,000",
+    "fa": "اصلاحات بازار سهام؟ وال استریت در 2027 صعودی دارد و یک مدیر ارشد سرمایه گذاری S&P 500 را 45 تا 10,000 می بیند."
    },
    "summary": {
-    "en": "Successors to founder-CEOs are more likely than their peers to exit early, and few founders loom as large as the man who built the world’s AI chip giant.",
-    "fa": "جانشینان موسس-CEOs احتمال بیشتری نسبت به همتایان خود برای خروج از زود دارند و تعداد کمی از بنیانگذاران به اندازه مردی که غول تراشه هوش مصنوعی جهان را ساخت، بزرگ هستند."
+    "en": "\"We expect the equity bull market to continue.\"",
+    "fa": "ما انتظار داریم که بازار سهام همچنان ادامه یابد.»"
    }
   },
   {
    "id": "ma24",
    "section": "management",
    "source": "Fortune",
-   "link": "https://fortune.com/2026/11/21/tjmaxx-parent-company-tariff-refunds-employee-bonus-american-importers/",
-   "published": "2026-11-21T08:00:00+00:00",
+   "link": "https://fortune.com/2026/11/21/ai-bust-china-economy-xi-jinping-property-crash-stock-market/",
+   "published": "2026-11-21T21:45:12+00:00",
    "title": {
-    "en": "TJMaxx’s parent company is spending one-third of its $463 million in tariff refunds on corporate bonuses—and it’s not the only one",
-    "fa": "شرکت پدر و مادر TJMaxx یک سوم از 463 میلیون دلار خود را صرف بازپرداخت تعرفه در پاداش های شرکت می کند و این تنها یک نیست."
+    "en": "The AI bust is a growing threat to China’s economy and a ‘moment of real danger’ for President Xi Jinping, analyst warns",
+    "fa": "شکاف هوش مصنوعی یک تهدید رو به رشد برای اقتصاد چین و \"تحریم واقعی\" برای رئیس جمهور شی جینپینگ است، تحلیلگر هشدار می دهد"
    },
    "summary": {
-    "en": "In total, $167 million of TJX’s total refunds will be spent on compensation and bonuses, according to its financial disclosures.",
-    "fa": "در مجموع، 167 میلیون دلار از کل بازپرداخت TJX بر جبران و پاداش، با توجه به افشای مالی آن صرف خواهد شد."
+    "en": "\"To keep AI funding flowing, Xi needs a buoyant stock market.\"",
+    "fa": "برای ادامه سرمایه گذاری AI، شی نیاز به یک بازار سهام پر جنب و جوش دارد."
    }
   },
   {
    "id": "ma25",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
-   "published": "2026-11-21T06:00:00+00:00",
+   "link": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
+   "published": "2026-11-21T13:36:00+00:00",
    "title": {
-    "en": "Your best people are training your AI. Pay them for it",
-    "fa": "بهترین افراد شما AI شما را آموزش می دهند. آن را برای آن پرداخت کنید."
+    "en": "To win the AI search wars, stop chasing the answers and start shaping the questions",
+    "fa": "برای برنده شدن در جنگ های جستجوی هوش مصنوعی، از پیگیری پاسخ ها خودداری کنید و شروع به شکل دادن به سوالات کنید."
    },
    "summary": {
-    "en": "Early this year, we let every employee at ClickUp build their own AI agents and skills. Within months, we were running five agents for every employee, which felt like a transformation until we looked at the actual output and efficiency. In my own finance org…",
-    "fa": "در اوایل سال جاری، ما اجازه می دهیم هر کارمند در ClickUp، عوامل و مهارت های AI خود را بسازد. در عرض چند ماه، ما پنج عامل را برای هر کارمند اداره می کردیم که مانند یک تحول بود تا زمانی که به خروجی و کارایی واقعی نگاه کنیم. در امور مالی خودم ..."
+    "en": "AI is changing how people choose between brands. And it’s moving from answering people’s questions to taking action on their behalf. Personal agents like Meta’s Muse take their cues from things like your email inbox and run with what they find. Now if that…",
+    "fa": "AI در حال تغییر نحوه انتخاب افراد بین برندها است. و از پاسخ دادن به سوالات مردم برای اقدام به نمایندگی از طرف آنها حرکت می کند. عوامل شخصی مانند متا Muse نشانه های خود را از چیزهایی مانند صندوق ایمیل شما می گیرند و با آنچه که پیدا می کنند اجرا می کنند. اگر این ..."
    }
   },
   {
    "id": "ma26",
    "section": "management",
    "source": "Fast Company",
-   "link": "https://www.fastcompany.com/91637814/bigwords-smartphone-sign-app",
-   "published": "2026-11-21T05:30:00+00:00",
+   "link": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
+   "published": "2026-11-21T12:39:00+00:00",
    "title": {
-    "en": "This free site turns your smartphone into an on-demand billboard",
-    "fa": "این سایت آزاد گوشی هوشمند شما را به یک بیلبورد در تقاضا تبدیل می کند"
+    "en": "11 career decisions high performers regret making too late",
+    "fa": "۱۱ تصمیم گیری حرفه ای بالا از دیر شدن"
    },
    "summary": {
-    "en": "It may not come up often (or maybe it does!), but sometimes you can’t help but wish you made a poster. Maybe you want to express your nuanced opinions at a sporting event. Maybe you want to pick someone up at the airport, complete with the traditional name on…",
-    "fa": "این ممکن است اغلب (یا شاید این کار را انجام دهد!)، اما گاهی اوقات شما نمی توانید کمک کنید، اما آرزو کنید که یک پوستر درست کنید. شاید بخواهید نظرات ظریف خود را در یک رویداد ورزشی بیان کنید. شاید بخواهید کسی را در فرودگاه انتخاب کنید، با نام سنتی در ..."
+    "en": "Some career decisions become costly only after too much time has passed. The following insights, from experts in the field, reveal which moves high performers often wish they had made sooner, from protecting their health to asking for help and building…",
+    "fa": "برخی از تصمیمات شغلی تنها پس از گذشت زمان بیش از حد پر هزینه می شوند. بینش زیر، از کارشناسان در این زمینه، نشان می دهد که اجرا کنندگان بالا اغلب آرزو می کنند که زودتر ساخته شده اند، از حفاظت از سلامت خود برای درخواست کمک و ساخت ..."
    }
   },
   {
    "id": "ma27",
-   "section": "management",
-   "source": "MIT Sloan Management Review",
-   "link": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
-   "published": "2026-11-17T12:00:16+00:00",
-   "title": {
-    "en": "Designing Customization Journeys to Build More Valuable Customer Relationships",
-    "fa": "طراحی سفر سفارشی سازی برای ایجاد روابط مشتری با ارزش تر"
-   },
-   "summary": {
-    "en": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted its customizable salads (like the Super Green Goddess) and bowls (like the Chicken Pesto Parm). “Our single most popular item is the…",
-    "fa": "تصاویر Gillian Blease / Ikon هنگامی که رستوران فست سبز زنجیره ای فست فود 2021 اولین پیشنهاد عمومی خود را داشت، سالادهای قابل تنظیم آن (مانند الهه سوپر سبز) و کاسه (مانند Pesto Parm) را برجسته کرد. «تنها محبوب ترین مورد ما این است که ..."
-   }
-  },
-  {
-   "id": "ma28",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
@@ -640,7 +625,7 @@
    }
   },
   {
-   "id": "ma29",
+   "id": "ma28",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
@@ -655,7 +640,7 @@
    }
   },
   {
-   "id": "ma30",
+   "id": "ma29",
    "section": "management",
    "source": "McKinsey",
    "link": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
@@ -670,67 +655,67 @@
    }
   },
   {
+   "id": "tr30",
+   "section": "trade",
+   "source": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+   "published": "2026-11-22T06:00:01+00:00",
+   "title": {
+    "en": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+    "fa": "اولین پرداخت واقعی محاسبات کوانتومی ممکن است در انرژی باشد، نه کشف مواد مخدر"
+   },
+   "summary": {
+    "en": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+    "fa": "شرکت های محاسباتی کوانتومی در حال آزمایش بهینه سازی شبکه های انرژی، مواد خورشیدی و کاتالیزور هیدروژن هستند زیرا آنها به دنبال استفاده های عملی هستند."
+   }
+  },
+  {
    "id": "tr31",
    "section": "trade",
    "source": "Financial Times",
-   "link": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-   "published": "2026-11-21T06:32:26+00:00",
+   "link": "https://www.ft.com/content/4d467ab8-00a7-4937-8775-30a42a00131f?syn-25a6b1a6=1",
+   "published": "2026-11-22T05:00:14+00:00",
    "title": {
-    "en": "The dead hand of history weighs on Deutsche Bank",
-    "fa": "دست مرده تاریخ در بانک دویچه"
+    "en": "A rocky road to Irish unity",
+    "fa": "جاده سنگی به وحدت ایرلند"
    },
    "summary": {
-    "en": "Bankers might do well to remember from time to time that they are making decisions that will stick around",
-    "fa": "بانکداران ممکن است از زمان به زمان به یاد داشته باشند که تصمیم می گیرند که به اطراف خود برسند."
+    "en": "Dublin’s initiative shines a light on obstacles to, as well as arguments for, a united Ireland",
+    "fa": "ابتکار دوبلین روشن است که موانع و همچنین استدلال برای ایرلند متحد"
    }
   },
   {
    "id": "tr32",
    "section": "trade",
-   "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-   "published": "2026-11-21T06:00:02+00:00",
+   "source": "Financial Times",
+   "link": "https://www.ft.com/content/f3ecede4-74a3-431a-89c5-a06fcd30812a?syn-25a6b1a6=1",
+   "published": "2026-11-22T05:00:14+00:00",
    "title": {
-    "en": "How China is using summits to expand its global influence",
-    "fa": "چین چگونه از نشست ها برای گسترش نفوذ جهانی خود استفاده می کند"
+    "en": "Argentina’s borrowing costs jump as Milei’s falling popularity rattles investors",
+    "fa": "هزینه های قرض گرفتن آرژانتین به عنوان افزایش محبوبیت سرمایه گذاران Milei افزایش می یابد"
    },
    "summary": {
-    "en": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-    "fa": "شی جین پینگ، رئیس جمهور چین به هماهنگی با یک عکس دیگر از اهمیت جهانی کمک کرده است."
+    "en": "Libertarian’s financing plans and declining approval ratings damp spirits ahead of re-election bid",
+    "fa": "برنامه های تامین مالی لیبرمن و کاهش رتبه بندی های تایید قبل از پیشنهاد دوباره انتخابات"
    }
   },
   {
    "id": "tr33",
    "section": "trade",
    "source": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-   "published": "2026-11-21T06:00:02+00:00",
+   "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+   "published": "2026-11-21T16:57:34+00:00",
    "title": {
-    "en": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-    "fa": "تجزیه و تحلیل اولیه در vortex قطبی در حال حاضر سهام گاز را از دست داده است"
+    "en": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+    "fa": "ترامپ می گوید که می تواند یک چرخش مثبت از آخرین هک پایگاه داده FBI باشد."
    },
    "summary": {
-    "en": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-    "fa": "آب و هوای سرد و سرعت باد پایین می تواند بازار گاز اروپا را تحت فشار قرار دهد، جایی که ذخیره سازی زمستان در پایین ترین سطح آن در بیش از یک دهه آغاز شد."
+    "en": "This would make the second recent intrusion into the FBI system.",
+    "fa": "این دومین دخالت اخیر در سیستم FBI را ایجاد می کند."
    }
   },
   {
    "id": "tr34",
-   "section": "trade",
-   "source": "Financial Times",
-   "link": "https://www.ft.com/content/99711b1a-3e54-4349-9c81-769cf7c96b97?syn-25a6b1a6=1",
-   "published": "2026-11-21T05:00:36+00:00",
-   "title": {
-    "en": "The manufacturing of novelty",
-    "fa": "تولید تازگی"
-   },
-   "summary": {
-    "en": "Polyamory, effective altruism, demand avoidance — a stagnant society is giving new names to old things",
-    "fa": "Polyamory، Altruism موثر، اجتناب از تقاضا - یک جامعه رکود نام جدید به چیزهای قدیمی می دهد"
-   }
-  },
-  {
-   "id": "tr35",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/walmarts-sub-30-minute-delivery-volume-surges-in-q3/875339/",
@@ -745,7 +730,7 @@
    }
   },
   {
-   "id": "tr36",
+   "id": "tr35",
    "section": "trade",
    "source": "Supply Chain Dive",
    "link": "https://www.supplychaindive.com/news/nvidia-gets-more-supplier-capacity-to-meet-ai-demand/875238/",
@@ -760,7 +745,7 @@
    }
   },
   {
-   "id": "tr37",
+   "id": "tr36",
    "section": "trade",
    "source": "World Trade Organization",
    "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
@@ -775,7 +760,7 @@
    }
   },
   {
-   "id": "tr38",
+   "id": "tr37",
    "section": "trade",
    "source": "World Trade Organization",
    "link": "https://www.wto.org/english/news_e/news26_e/trip_19nov26_557_e.htm",
@@ -790,14 +775,14 @@
    }
   },
   {
-   "id": "tr39",
+   "id": "tr38",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/business/companies/japan-stamp-maker-stomps-into-ai-realm-by-authenticating-videos-on-x",
+   "link": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
    "published": "",
    "title": {
-    "en": "Japan stamp maker stomps into AI realm by authenticating videos on X",
-    "fa": "سازنده ژاپنی تمبر به قلمرو AI با معتبر کردن فیلم ها در X"
+    "en": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+    "fa": "مسابقه های شرکت ژاپن برای احیای زنجیره تامین زمین نادر در میان چین"
    },
    "summary": {
     "en": "",
@@ -805,14 +790,14 @@
    }
   },
   {
-   "id": "tr40",
+   "id": "tr39",
    "section": "trade",
    "source": "Nikkei Asia",
-   "link": "https://asia.nikkei.com/spotlight/comment/indonesian-leader-chases-sukarno-s-phantom-with-defiant-posture",
+   "link": "https://asia.nikkei.com/spotlight/your-week-in-asia/laos-least-developed-status-shift-tata-meeting-taiwan-local-elections",
    "published": "",
    "title": {
-    "en": "Indonesian leader chases Sukarno's phantom with defiant posture",
-    "fa": "رهبر اندونزیایی شبح Sukarno را با حالت مخالف دنبال می کند"
+    "en": "Laos 'least-developed' status shift, Tata meeting, Taiwan local elections",
+    "fa": "تغییر وضعیت توسعه یافته Laos، جلسه Tata، انتخابات محلی تایوان"
    },
    "summary": {
     "en": "",
